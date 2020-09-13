@@ -1,0 +1,7 @@
+owner = VAN
+controller = VAN
+add_core = VAN
+add_core = MOR
+trade_goods = fish
+terrain = urban
+life_rating = 35

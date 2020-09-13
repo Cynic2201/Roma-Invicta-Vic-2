@@ -1,0 +1,224 @@
+#Netherlands-Tidore Sultanate
+vassal = {
+	first = NET
+	second = MAL
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+#Netherlands-Yogyakarta/Surakarta Sultanate
+vassal = {
+	first = NET
+	second = JAV
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+#Netherlands-Siak Sultanate
+vassal = {
+	first = NET
+	second = SAK
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+#Netherlands-Siak Sultanate
+vassal = {
+	first = NET
+	second = DJA
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+# Sweden-Norway
+vassal = {
+	first = DEN
+	second = NOR
+	start_date = 1836.1.1
+	end_date = 1905.1.1
+}
+
+# Dai Nam-Cambodia
+vassal = {
+	first = DAI
+	second = CAM
+	start_date = 1836.1.1
+	end_date = 1863.1.1
+}
+
+#China - Qinghai
+substate = {
+	first = QNG
+	second = XBI
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+#China - Kashgaria
+vassal = {
+	first = QNG
+	second = KML
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+#China - Tannu Tuva
+vassal = {
+	first = QNG
+	second = TNT
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+#China - Yunnan
+substate = {
+	first = QNG
+	second = YNN
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+#China - Manchuria
+substate = {
+	first = QNG
+	second = MCK
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+#China/Mongolia
+vassal = {
+	first = QNG
+	second = MGL
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+# China/Tibet
+vassal = {
+	first = QNG
+	second = TIB
+	start_date = 1836.1.1
+	end_date = 1912.1.1
+}
+
+#China/Korea
+vassal = {
+	first = QNG
+	second = KOR
+	start_date = 1836.1.1
+	end_date = 1876.1.1
+}
+
+#Vandalia/Mauretania
+substate = {
+	first = VAN
+	second = MOR
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+#Vandalia/Gaetulia
+substate = {
+	first = VAN
+	second = MGH
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+#Rome/Gallaeica
+substate = {
+	first = SPQ
+	second = GLC
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+
+#Rome/Helveti
+vassal = {
+	first = SPQ
+	second = SWI
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+
+#Rome/Burguny
+vassal = {
+	first = SPQ
+	second = BRG
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+#Rome/Armenia
+vassal = {
+	first = SPQ
+	second = ARM
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+
+#Rome/Gallica
+vassal = {
+	first = SPQ
+	second = GAL
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+
+
+#Rome/Aquitanica
+substate = {
+	first = SPQ
+	second = AQU
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+
+
+
+#Rome/Vasconia
+substate = {
+	first = SPQ
+	second = BSQ
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+
+#Hannover/Bremen
+vassal = {
+	first = HAN
+	second = BRE
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+#Hannover/Hamburg
+vassal = {
+	first = HAN
+	second = HAM
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+#Hannover/Lubeck
+vassal = {
+	first = HAN
+	second = LUB
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+#Hannover/Friesland
+vassal = {
+	first = HAN
+	second = FRI
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}

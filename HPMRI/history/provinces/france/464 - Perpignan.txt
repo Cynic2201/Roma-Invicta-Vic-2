@@ -1,0 +1,5 @@
+owner = SPQ
+controller = SPQ
+add_core = SPQ
+trade_goods = grain
+life_rating = 31

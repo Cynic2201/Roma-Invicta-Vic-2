@@ -1,0 +1,6 @@
+owner = UTR
+controller = UTR
+add_core = UTR
+trade_goods = grain
+life_rating = 35
+1861.1.1 = { railroad = 3 }

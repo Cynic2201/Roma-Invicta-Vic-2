@@ -1,0 +1,6 @@
+owner = GLR
+controller = GLR
+add_core = GLR
+trade_goods = cattle
+life_rating = 35
+1861.1.1 = { railroad = 3 }

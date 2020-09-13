@@ -1,0 +1,5 @@
+owner = SPQ
+controller = SPQ
+add_core = SPQ
+trade_goods = fish
+life_rating = 35

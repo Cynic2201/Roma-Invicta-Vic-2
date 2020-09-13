@@ -1,0 +1,6 @@
+owner = HAN
+controller = HAN
+add_core = HAN
+add_core = UTR
+trade_goods = wool
+life_rating = 35

@@ -1,0 +1,5 @@
+owner = SUD
+controller = SUD
+add_core = SUD
+trade_goods = fish
+life_rating = 31

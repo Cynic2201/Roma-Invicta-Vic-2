@@ -1,0 +1,6 @@
+owner = GAL
+controller = GAL
+add_core = GAL
+trade_goods = grain
+life_rating = 32
+1861.1.1 = { railroad = 3 }

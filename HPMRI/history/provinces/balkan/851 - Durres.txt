@@ -1,0 +1,5 @@
+owner = SPQ
+controller = SPQ
+add_core = SPQ
+trade_goods = cattle
+life_rating = 35

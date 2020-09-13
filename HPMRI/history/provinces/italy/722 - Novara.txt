@@ -1,0 +1,11 @@
+owner = SPQ
+controller = SPQ
+add_core = SPQ
+trade_goods = silk
+life_rating = 35
+1861.1.1 = {
+	controller = ITA
+	owner = ITA
+	add_core = ITA
+}
+1861.1.1 = { railroad = 3 }

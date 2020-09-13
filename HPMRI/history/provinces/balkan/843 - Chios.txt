@@ -1,0 +1,7 @@
+owner = SPQ
+controller = SPQ
+add_core = SPQ
+add_core = GRE
+trade_goods = fish
+life_rating = 32
+terrain = small_island
