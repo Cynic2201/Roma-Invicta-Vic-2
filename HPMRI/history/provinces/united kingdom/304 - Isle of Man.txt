@@ -1,6 +1,6 @@
-owner = ENG
-controller = ENG
-add_core = ENG
+owner = MNX
+controller = MNX
+add_core = MNX
 trade_goods = fish
 life_rating = 35
 terrain = small_island

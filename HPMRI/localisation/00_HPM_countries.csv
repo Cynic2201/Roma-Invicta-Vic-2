@@ -2607,15 +2607,6 @@ WES_conservative_3;Christsoz. Arbeiterpartei;Christsoz. Arbeiterpartei;Christsoz
 WES_anarcho_liberal;Radical Arbeiterpartei;Arbeiterpartei radical;Radikale Arbeiterpartei;;;;;;;;;;;;x;;;;;;;;;;;;;;
 WES_communist;Communist Arbeiterpartei;Arbeiterpartei communiste;Kommunistische Arbeiterpartei;;;;;;;;;;;;x;;;;;;;;;;;;;;
 WES_fascist;NSDP;NSDP;NSDP;;;;;;;;;;;;x;;;;;;;;;;;;;;
-WHA;Wales;;;;;;;;;;;;;x
-WHA_ADJ;Welsh;;;;;;;;;;;;;x
-WHA_liberal;Democratiaid Rhyddfrydol;;;;;;;;;;;;;x
-WHA_conservative;Plaid Geidwadol;;;;;;;;;;;;;x
-WHA_socialist;Plaid Cymru;;;;;;;;;;;;;x
-WHA_anarcho_liberal;Anarchwyr;;;;;;;;;;;;;x
-WHA_fascist;Meibion Glyndwr;;;;;;;;;;;;;x
-WHA_communist;Plaid Gomiwnyddol;;;;;;;;;;;;;x
-WHA_reactionary;Plaid Genedlaethol;;;;;;;;;;;;;x
 XBI_ADJ;Qinghai;;;;;;;;;;;;;x
 XBI_presidential_dictatorship;Ma Clique;;;;;;;;;;;;;;;;x
 XBI_presidential_dictatorship_ADJ;Hui;;;;;;;;;;;;;x
@@ -3263,3 +3254,32 @@ AQU_fascist;Fascist Faction;;;;;;;;;;;;
 AQU_liberal;Liberal Faction;;;;;;;;;;;;
 AQU_conservative;Conservative Faction;;;;;;;;;;;;
 AQU_reactionary;Reactionary Faction;;;;;;;;;;;;
+LON;London;;;;;;;;;;;;x;;;;;;;;;;;;;;
+LON_proletarian_dictatorship;The London Commune;;;;;;;;;;;;x
+LON_fascist_dictatorship;Britannia;;;;;;;;;;;;;;
+LON_democracy;The Republic of London;;;;;;;;;;;;x
+LON_ADJ;Roman;;;;;;;;;;;;
+LON_socialist;Plebeius Faction;;;;;;;;;;;;
+LON_anarcho_liberal;Libertatem Faction;;;;;;;;;;;;
+LON_communist;Seditiosa Faction;;;;;;;;;;;;
+LON_fascist;Liberatores Faction;;;;;;;;;;;;
+LON_liberal;Populares Faction;;;;;;;;;;;;
+LON_conservative;Optimates Faction;;;;;;;;;;;;
+LON_reactionary;Caesarian Faction;;;;;;;;;;;;
+WSX;Westseaxna;;;;;;;;;;;;x;;;;;;;;;;;;;;
+WSX_proletarian_dictatorship;The Saxon Commune;;;;;;;;;;;;x
+WSX_fascist_dictatorship;The Saxon Empire;;;;;;;;;;;;;;
+WSX_democracy;Saxony;;;;;;;;;;;;x
+WSX_ADJ;Saxon;;;;;;;;;;;;
+ANL;Anglaland;;;;;;;;;;;;x;;;;;;;;;;;;;;
+ANL_democracy;Anglia;;;;;;;;;;;;x
+ANL_ADJ;Anglish;;;;;;;;;;;;
+WHA;Brythonia;;;;;;;;;;;;;x
+WHA_ADJ;Brythonic;;;;;;;;;;;;;x
+WHA_liberal;Democratiaid Rhyddfrydol;;;;;;;;;;;;;x
+WHA_conservative;Plaid Geidwadol;;;;;;;;;;;;;x
+WHA_socialist;Plaid Cymru;;;;;;;;;;;;;x
+WHA_anarcho_liberal;Anarchwyr;;;;;;;;;;;;;x
+WHA_fascist;Meibion Glyndwr;;;;;;;;;;;;;x
+WHA_communist;Plaid Gomiwnyddol;;;;;;;;;;;;;x
+WHA_reactionary;Plaid Genedlaethol;;;;;;;;;;;;;x

@@ -22,6 +22,11 @@ GLR 		="countries/Gelre.txt"
 TER 		="countries/Trier.txt"
 FRI 		="countries/Friesland.txt"
 
+#RI England
+WSX		="countries/Westseaxna.txt"
+MNX		="countries/Manx.txt"
+LON		="countries/Londinium.txt"
+ANL		="countries/Englaland.txt"
 
 ##HPM
 PNK		="countries/Pontianak.txt"
