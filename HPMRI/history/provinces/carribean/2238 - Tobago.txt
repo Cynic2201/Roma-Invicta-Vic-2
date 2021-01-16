@@ -1,5 +1,5 @@
-owner = ENG
-controller = ENG
+owner = POL
+controller = POL
 add_core = TTB
 trade_goods = cotton
 life_rating = 35

@@ -1,7 +1,6 @@
 sprite = 2
 color = { 119 98 34 }
 strata = middle
-state_capital_only = yes
 
 leadership = 2
 research_optimum = 0.002	#used for leadership as well.
@@ -143,39 +142,6 @@ country_migration_target = {
 					primary_culture = anglo_canadian
 				}
 			}
-		}
-	}
-	
-	modifier = {
-		factor = 4.0
-		number_of_states = 2
-		has_country_flag = new_world_nation
-		OR = {
-			capital_scope = { is_colonial = no continent = north_america }
-			capital_scope = { is_colonial = no continent = south_america }
-			capital_scope = { is_colonial = no continent = australia_new_zealand }
-		}
-		OR = {
-			government = democracy
-			government = presidential_dictatorship
-			government = hms_government
-		}
-	}
-	
-	modifier = {
-		factor = 3.7
-		NOT = { total_pops = 500000 }
-		NOT = { number_of_states = 2 }
-		has_country_flag = new_world_nation
-		OR = {
-			capital_scope = { is_colonial = no continent = north_america }
-			capital_scope = { is_colonial = no continent = south_america }
-			capital_scope = { is_colonial = no continent = australia_new_zealand }
-		}
-		OR = {
-			government = democracy
-			government = presidential_dictatorship
-			government = hms_government
 		}
 	}
 }

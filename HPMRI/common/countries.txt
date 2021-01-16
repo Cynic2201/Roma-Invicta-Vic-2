@@ -11,6 +11,12 @@ GLC		="countries/Galicia.txt"
 AQU		="countries/Aquitanica.txt"
 BRG		="countries/Burgundy.txt"
 GAL		="countries/Gallica.txt"
+SOR		="countries/Sorbia.txt"
+PLB		="countries/Polabia.txt"
+STE		="countries/Stettin.txt"
+POM		="countries/Pomerania.txt"
+KBG		="countries/Konigsberg.txt"
+RIG		="countries/Riga.txt"
 
 #RI Germany
 ULM		="countries/Ulm.txt"

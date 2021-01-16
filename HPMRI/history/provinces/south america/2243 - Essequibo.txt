@@ -1,7 +1,7 @@
-owner = ENG
-controller = ENG
-add_core = GUY
+owner = ALS
+controller = ALS
 add_core = VNZ
+add_core = GUY
 trade_goods = fruit
 terrain = jungle
 life_rating = 35

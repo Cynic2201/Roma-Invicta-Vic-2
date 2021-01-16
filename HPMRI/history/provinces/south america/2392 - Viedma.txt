@@ -1,3 +1,5 @@
+owner = WHA
+controller = WHA
 add_core = PTG
 trade_goods = wool
 terrain = steppe

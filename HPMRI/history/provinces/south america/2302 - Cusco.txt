@@ -9,3 +9,4 @@ life_rating = 37
 	controller = PEU
 	remove_core = SPU
 }
+

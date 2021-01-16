@@ -1,8 +1,5 @@
-owner = UBD
-controller = UBD
-add_core = UBD
-add_core = RUS
-add_core = LAT
+owner = HAN
+controller = HAN
 trade_goods = fish
 life_rating = 40
 naval_base = 2

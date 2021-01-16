@@ -30,14 +30,6 @@ vassal = {
 	end_date = 1936.1.1
 }
 
-# Sweden-Norway
-vassal = {
-	first = DEN
-	second = NOR
-	start_date = 1836.1.1
-	end_date = 1905.1.1
-}
-
 # Dai Nam-Cambodia
 vassal = {
 	first = DAI

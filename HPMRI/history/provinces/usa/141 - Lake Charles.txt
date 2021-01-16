@@ -1,6 +1,6 @@
-owner = USA
-controller = USA
-add_core = USA
+owner = TEX
+controller = TEX
+add_core = TEX
 trade_goods = sulphur
 life_rating = 35
 

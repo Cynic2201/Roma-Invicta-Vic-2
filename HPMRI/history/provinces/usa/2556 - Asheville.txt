@@ -1,6 +1,7 @@
-owner = USA
-controller = USA
-add_core = USA
+owner = CSA
+controller = CSA
+add_core = CSA
+add_core = CHE
 trade_goods = tobacco
 life_rating = 35
 

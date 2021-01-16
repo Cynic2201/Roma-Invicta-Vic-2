@@ -1,6 +1,5 @@
-owner = RUS
-controller = RUS
-add_core = RUS
+owner = CHY
+controller = CHY
 add_core = CHY
 trade_goods = silk
 life_rating = 35

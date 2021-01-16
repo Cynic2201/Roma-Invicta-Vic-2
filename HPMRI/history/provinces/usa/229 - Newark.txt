@@ -1,7 +1,6 @@
-owner = USA
-controller = USA
-
-add_core = USA
+owner = CAN
+controller = CAN
+add_core = CAN
 trade_goods = iron
 life_rating = 35
 railroad = 1

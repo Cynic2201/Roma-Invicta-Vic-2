@@ -1,6 +1,6 @@
-owner = UCA
-controller = UCA
-add_core = UCA
+owner = HAN
+controller = HAN
+add_core = YUC
 add_core = GUA
 add_core = LOS
 trade_goods = iron

@@ -1,5 +1,3 @@
-owner = SIE
-controller = SIE
 add_core = SIE
 add_core = ROM
 trade_goods = grain

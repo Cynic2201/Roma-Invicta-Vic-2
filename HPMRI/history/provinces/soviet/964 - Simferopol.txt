@@ -1,7 +1,7 @@
-owner = RUS
-controller = RUS
-add_core = RUS
-add_core = UKR
+owner = HUN
+controller = HUN
+add_core = HUN
+add_core = BUL
 add_core = CRI
 trade_goods = fish
 life_rating = 35

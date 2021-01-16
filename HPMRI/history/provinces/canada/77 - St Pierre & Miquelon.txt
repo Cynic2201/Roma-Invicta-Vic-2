@@ -1,6 +1,7 @@
-owner = FRA
-controller = FRA
+owner = BSQ
+controller = BSQ
+add_core = NEW
 trade_goods = fish
 life_rating = 31
-colonial = 2
 terrain = new_world_small_island
+colonial = 2

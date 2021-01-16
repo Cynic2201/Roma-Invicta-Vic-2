@@ -1,8 +1,4 @@
-owner = HAN
-controller = HAN
-add_core = HAN
 add_core = MEC
-add_core = GER
 trade_goods = grain
 life_rating = 40
 naval_base = 1

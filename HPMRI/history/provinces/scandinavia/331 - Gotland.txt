@@ -1,5 +1,5 @@
-owner = SWE
-controller = SWE
+owner = PML
+controller = PML
 add_core = SWE
 trade_goods = grain
 life_rating = 35

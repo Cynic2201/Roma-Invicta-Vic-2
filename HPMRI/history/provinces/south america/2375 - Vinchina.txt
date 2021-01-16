@@ -1,7 +1,10 @@
-owner = ARCcontroller = ARC
+owner = CHL
+controller = CHL
+add_core = CHL
 add_core = ARC
 trade_goods = iron
-life_rating = 351860.1.1 = {
+life_rating = 35
+1860.1.1 = {
 	owner = ARG
 	controller = ARG
 	add_core = ARG

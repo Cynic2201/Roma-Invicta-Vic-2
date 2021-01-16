@@ -1,5 +1,7 @@
-owner = CLM
-controller = CLM
+owner = SCO
+controller = SCO
+add_core = PNM
+add_core = VNZ
 add_core = CLM
 trade_goods = fish
 life_rating = 34
