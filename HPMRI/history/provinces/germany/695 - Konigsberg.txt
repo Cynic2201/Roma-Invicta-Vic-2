@@ -1,6 +1,6 @@
-owner = HAN
-controller = HAN
-add_core = HAN
+owner = KBG
+controller = KBG
+add_core = KBG
 trade_goods = cattle
 life_rating = 40
 fort = 1

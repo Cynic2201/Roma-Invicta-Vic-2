@@ -1,4 +1,6 @@
-add_core = MEC
+owner = PLB
+controller = PLB
+add_core = PLB
 trade_goods = grain
 life_rating = 40
 naval_base = 1

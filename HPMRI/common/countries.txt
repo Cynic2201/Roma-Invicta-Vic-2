@@ -17,6 +17,13 @@ STE		="countries/Stettin.txt"
 POM		="countries/Pomerania.txt"
 KBG		="countries/Konigsberg.txt"
 RIG		="countries/Riga.txt"
+AVA		="countries/Avars.txt"
+DAC		="countries/Dacia.txt"
+LIV		="countries/Livonia.txt"
+EAN		="countries/EastAnglia.txt"
+CUR		="countries/Curonia.txt"
+NOV		="countries/Novgorod.txt"
+MUS		="countries/Muscovy.txt"
 
 #RI Germany
 ULM		="countries/Ulm.txt"

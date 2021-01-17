@@ -1,6 +1,6 @@
-owner = SPQ
-controller = SPQ
-add_core = SPQ
+owner = BRG
+controller = BRG
+add_core = BRG
 trade_goods = coal
 life_rating = 32
 railroad = 1

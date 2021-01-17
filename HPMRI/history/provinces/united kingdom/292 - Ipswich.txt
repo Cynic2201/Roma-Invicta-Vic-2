@@ -1,5 +1,6 @@
-owner = ANL
-controller = ANL
+owner = EAN
+controller = EAN
+add_core = EAN
 add_core = ANL
 trade_goods = grain
 life_rating = 35

@@ -1,3 +1,6 @@
+owner = SOR
+controller = SOR
+add_core = SOR
 trade_goods = cattle
 life_rating = 40
 1861.1.1 = { railroad = 3 }

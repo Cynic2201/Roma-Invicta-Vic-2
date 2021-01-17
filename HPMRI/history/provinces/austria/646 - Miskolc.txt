@@ -1,2 +1,5 @@
+owner = AVA
+controller = AVA
+add_core = AVA
 trade_goods = fruit
 life_rating = 35

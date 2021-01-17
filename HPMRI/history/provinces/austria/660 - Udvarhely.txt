@@ -1,6 +1,6 @@
-owner = SIE
-controller = SIE
-add_core = SIE
+owner = DAC
+controller = DAC
+add_core = DAC
 add_core = ROM
 trade_goods = wool
 life_rating = 35

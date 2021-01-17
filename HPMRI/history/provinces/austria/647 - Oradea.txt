@@ -1,2 +1,6 @@
+owner = AVA
+controller = AVA
+add_core = AVA
+add_core = DAC
 trade_goods = wool
 life_rating = 35

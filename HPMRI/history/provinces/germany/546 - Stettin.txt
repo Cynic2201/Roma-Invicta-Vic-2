@@ -1,6 +1,6 @@
-owner = HAN
-controller = HAN
-add_core = HAN
+owner = STE
+controller = STE
+add_core = STE
 trade_goods = fish
 life_rating = 40
 naval_base = 1

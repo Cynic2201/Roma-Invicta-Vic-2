@@ -1,4 +1,6 @@
-add_core = RUT
+owner = AVA
+controller = AVA
+add_core = AVA
 add_core = SLV
 trade_goods = coal
 life_rating = 35

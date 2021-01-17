@@ -1,3 +1,6 @@
+owner = SOR
+controller = SOR
+add_core = SOR
 trade_goods = fruit
 life_rating = 45
 railroad = 1

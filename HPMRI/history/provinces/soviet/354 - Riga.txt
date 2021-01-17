@@ -1,5 +1,7 @@
-owner = HAN
-controller = HAN
+owner = RIG
+controller = RIG
+add_core = RIG
+add_core = LAT
 trade_goods = fish
 life_rating = 40
 naval_base = 2
