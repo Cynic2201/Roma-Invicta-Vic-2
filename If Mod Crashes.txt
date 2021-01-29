@@ -1,6 +1,0 @@
-Hello. If your having issues with the mod crashing. Read This
-
-If it crashes when loading flags try either loading it again or delete it and HPM and redownload it
-
-If the game crashes during loading maplogic simply run HPM first then HPMRI
-
