@@ -1,6 +1,7 @@
 owner = FRA
 controller = FRA
 add_core = FRA
+add_core = GER
 trade_goods = fish
 life_rating = 31
 naval_base = 1
