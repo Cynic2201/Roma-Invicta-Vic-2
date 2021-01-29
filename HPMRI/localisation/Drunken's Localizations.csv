@@ -1,0 +1,51 @@
+BAV;Bayern;;;;;;;;;;;;x
+SOR;Sorbia;;;;;;;;;;;;x
+STE;Stettin;;;;;;;;;;;;x
+POM;Pomeralia;;;;;;;;;;;;x
+KOL;Köln;;;;;;;;;;;;x
+AAC;Aachen;;;;;;;;;;;;x
+AAC_democracy;Free City of Aachen;;;;;;;;;;;;x
+FRI;Ostfriesland;;;;;;;;;;;;x
+GLR;Glere;;;;;;;;;;;;x
+UTR;Utretch;;;;;;;;;;;;x
+TER;Trier;;;;;;;;;;;;x
+ULM;Ulm;;;;;;;;;;;;x
+ULM_democracy;Free City of Ulm;;;;;;;;;;;;x
+PRU;Prutheria;;;;;;;;;;;;x
+CUR;Curonia;;;;;;;;;;;;x
+LIV;Livonia;;;;;;;;;;;;x
+KBG;Königsberg;;;;;;;;;;;;x
+RIG;Riga;;;;;;;;;;;;x
+RIG_democracy:Free City of Riga;;;;;;;;;;;;x
+EAN;East Anglia;;;;;;;;;;;;x
+BAV_ADJ;Bayernor;;;;;;;;;;;;x
+SOR_ADJ;Sorbian;;;;;;;;;;;;x
+STE_ADJ;Stettiner;;;;;;;;;;;;x
+POM_ADJ;Pomeralian;;;;;;;;;;;;x
+KOL_ADJ;Cologneian;;;;;;;;;;;;x
+AAC_ADJ;Aachenian;;;;;;;;;;;;x
+FRI_ADJ;Frisian;;;;;;;;;;;;x
+GLR_ADJ;Glerean;;;;;;;;;;;;x
+UTR_ADJ;Utretcher;;;;;;;;;;;;x
+TER_ADJ;Trierian;;;;;;;;;;;;x
+ULM_ADJ;Ulmer;;;;;;;;;;;;x
+PRU_ADJ;Prutherian;;;;;;;;;;;;x
+CUR_ADJ;Curonian;;;;;;;;;;;;x
+LIV_ADJ;Livonian;;;;;;;;;;;;x
+KBG_ADJ;Königsberger;;;;;;;;;;;;x
+RIG_ADJ;Rigan;;;;;;;;;;;;x
+EAN_ADJ;East Anglian;;;;;;;;;;;;x
+DAC;Dacia;;;;;;;;;;;;x
+PLB;Polabia;;;;;;;;;;;;x
+DAC_ADJ;Dacan;;;;;;;;;;;;x
+PLB;Polabian;;;;;;;;;;;;x
+GAL;Gaul;;;;;;;;;;;;x
+GAL_ADJ;Gaul;;;;;;;;;;;;x
+BRG;Burgundiones;;;;;;;;;;;;x
+BRG_ADJ;Burgundi;;;;;;;;;;;;x
+AVA;Avars;;;;;;;;;;;;x
+AVA;Avar;;;;;;;;;;;;x
+SWI;Helvetia;;;;;;;;;;;;x
+SWI_ADJ;Helveti;;;;;;;;;;;;x
+FRA;Gallia Belgica;;;;;;;;;;;;x
+FRA_ADJ;Belgican;;;;;;;;;;;;x
