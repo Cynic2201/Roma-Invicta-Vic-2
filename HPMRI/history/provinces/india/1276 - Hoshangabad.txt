@@ -1,5 +1,6 @@
-owner = ENG
-controller = ENG
+owner = MAH
+controller = MAH
+add_core = MAH
 add_core = BHO
 add_core = HND
 trade_goods = dye

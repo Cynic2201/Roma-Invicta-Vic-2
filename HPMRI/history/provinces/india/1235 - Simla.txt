@@ -1,5 +1,6 @@
-owner = ENG
-controller = ENG
+owner = NEP
+controller = NEP
+add_core = NEP
 add_core = SHI
 add_core = MUG
 add_core = PNJ

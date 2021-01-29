@@ -1,5 +1,6 @@
-owner = KWT
-controller = KWT
+owner = PER
+controller = PER
+add_core = PER
 add_core = KWT
 add_core = IRQ
 trade_goods = fruit

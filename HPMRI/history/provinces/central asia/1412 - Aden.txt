@@ -1,5 +1,3 @@
-owner = LHJ
-controller = LHJ
 add_core = KTH
 add_core = MHR
 add_core = FDL

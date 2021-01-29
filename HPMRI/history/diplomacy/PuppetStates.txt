@@ -214,3 +214,44 @@ vassal = {
 	start_date = 1836.1.1
 	end_date = 1936.1.1
 }
+
+#Hannover/Stettin
+vassal = {
+	first = HAN
+	second = STE
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+#Hannover/Danzig
+vassal = {
+	first = HAN
+	second = DZG
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+#Hannover/Konigsberg
+vassal = {
+	first = HAN
+	second = KBG
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+#Hannover/Riga
+vassal = {
+	first = HAN
+	second = RIG
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+#Persia/Assyria
+vassal = {
+	first = PER
+	second = ASY
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+

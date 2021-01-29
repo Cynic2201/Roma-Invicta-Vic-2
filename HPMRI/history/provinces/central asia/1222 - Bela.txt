@@ -1,5 +1,6 @@
-owner = MAK
-controller = MAK
+owner = PER
+controller = PER
+add_core = PER
 add_core = MAK
 add_core = BLC
 add_core = HND

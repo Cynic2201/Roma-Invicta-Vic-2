@@ -1,8 +1,8 @@
-owner = MKN
-controller = MKN
+owner = ARM
+controller = ARM
+add_core = ARM
 add_core = PER
 add_core = AZB
 add_core = KDS
-add_core = MKN
 trade_goods = wool
 life_rating = 35

@@ -1,5 +1,6 @@
-owner = BDK
-controller = BDK
+owner = XIN
+controller = XIN
+add_core = XIN
 add_core = BDK
 add_core = BUK
 add_core = KOK

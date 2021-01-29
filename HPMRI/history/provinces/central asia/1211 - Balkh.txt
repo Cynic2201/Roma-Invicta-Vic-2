@@ -1,5 +1,3 @@
-owner = BUK
-controller = BUK
 add_core = BDK
 add_core = AFG
 terrain = dryhills

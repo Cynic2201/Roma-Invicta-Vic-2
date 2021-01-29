@@ -1,5 +1,6 @@
-owner = AFG
-controller = AFG
+owner = PER
+controller = PER
+add_core = PER
 add_core = KAL
 add_core = AFG
 add_core = HND

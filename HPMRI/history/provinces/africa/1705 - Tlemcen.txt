@@ -1,6 +1,6 @@
-owner = VAN
-controller = VAN
-add_core = VAN
+owner = SPQ
+controller = SPQ
+add_core = SPQ
 add_core = ALD
 add_core = MOR
 trade_goods = fruit
