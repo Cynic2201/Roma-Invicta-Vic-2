@@ -1,0 +1,26 @@
+political_decisions = {
+
+	call_senate = {
+		picture = the_senate
+		potential = {
+			tag = SPQ
+			has_country_flag = greek_demonstrations
+			}
+		allow = {
+		}
+		effect = {
+			prestige = -5
+			country_event = {
+			id = 50000
+			days = 1
+			}
+			any_pop = {
+			consciousness = 0.1
+			militancy = -0.1
+			}
+		}
+		ai_will_do = {	
+			factor = 1
+		}
+	}
+}
