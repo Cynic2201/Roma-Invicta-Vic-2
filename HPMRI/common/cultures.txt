@@ -31,8 +31,8 @@ latin = {
 		Numerius Publius Quintus Servius Sextus Spurius Titus Tiberius }
 		
 		}
+	union = SPQ
 	}
-}
 		
 
 scandinavian = {
@@ -327,6 +327,7 @@ baltic = {
 
 levantine = {
 	leader = european
+	unit = EuropeanGC
 	greek = {
 		color = { 122  180  210 }
 		first_names = { Adamantios Alexandros Anastasios Andreas Antonios Aristidis Athanasios Augustinos Benizelos Charalambos
@@ -393,6 +394,18 @@ levantine = {
 		Tavakyalian Tchartichian Tcholakhian Ter-Sarkayan Terzian Tigraniants Tigranov Toshian Varapetian Vartanian
 		}
 		radicalism = 5
+	} 
+
+	kurdish = {
+		color = {133 75 131}
+		first_names = {
+			Abdal Abdulkarim Bedr Hafid Ihsan Mahmud Mohammed Qazi Reshid Said Ubaydallah
+			}
+		
+		last_names = {
+			Badirkhan Barzani Khan Shilak
+			}
+			radicalism = 10
 	}
 }
 

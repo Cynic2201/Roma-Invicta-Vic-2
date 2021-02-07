@@ -3,19 +3,19 @@
 #Erivan (128000/32000 POPS)
 1098 = {
 	bureaucrats = {
-		culture = russian
+		culture = armenian
 		religion = orthodox
 		size = 50
 	}
 
 	clergymen = {
-		culture = russian
+		culture = armenian
 		religion = orthodox
 		size = 10
 	}
 
 	soldiers = {
-		culture = russian
+		culture = armenian
 		religion = orthodox
 		size = 75
 	}
@@ -63,31 +63,31 @@
 	}
 
 	aristocrats = {
-		culture = azerbaijani
+		culture = armenian
 		religion = sunni
 		size = 200
 	}
 
 	clergymen = {
-		culture = azerbaijani
+		culture = armenian
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = azerbaijani
+		culture = armenian
 		religion = sunni
 		size = 550
 	}
 
 	soldiers = {
-		culture = azerbaijani
+		culture = armenian
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = azerbaijani
+		culture = armenian
 		religion = sunni
 		size = 10050
 	}
@@ -218,25 +218,25 @@
 	}
 
 	aristocrats = {
-		culture = azerbaijani
+		culture = armenian
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-		culture = azerbaijani
+		culture = armenian
 		religion = sunni
 		size = 25
 	}
 
 	soldiers = {
-		culture = azerbaijani
+		culture = armenian
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = azerbaijani
+		culture = armenian
 		religion = sunni
 		size = 2775
 	}
@@ -274,25 +274,25 @@
 	}
 
 	aristocrats = {
-		culture = azerbaijani
+		culture = armenian
 		religion = shiite
 		size = 100
 	}
 
 	clergymen = {
-		culture = azerbaijani
+		culture = armenian
 		religion = shiite
 		size = 75
 	}
 
 	soldiers = {
-		culture = azerbaijani
+		culture = armenian
 		religion = shiite
 		size = 50
 	}
 
 	farmers = {
-		culture = azerbaijani
+		culture = armenian
 		religion = shiite
 		size = 4500
 	}

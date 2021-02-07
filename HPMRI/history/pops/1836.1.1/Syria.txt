@@ -217,61 +217,61 @@
 	}
 
 	aristocrats = {
-		culture = mashriqi
+		culture = assyrian
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = assyrian
 		religion = sunni
 		size = 175
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = assyrian
 		religion = sunni
 		size = 200
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = assyrian
 		religion = sunni
 		size = 213
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = assyrian
 		religion = sunni
 		size = 6488
 	}
 
 	aristocrats = {
-		culture = bedouin
+		culture = assyrian
 		religion = sunni
 		size = 150
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = assyrian
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = assyrian
 		religion = sunni
 		size = 800
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = assyrian
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = assyrian
 		religion = sunni
 		size = 13725
 	}
@@ -779,43 +779,43 @@
 1813 = {
 
 	farmers = {
-		culture = turkish
+		culture = assyrian
 		religion = sunni
 		size = 500
 	}
 	
 	aristocrats = {
-		culture = mashriqi
+		culture = assyrian
 		religion = sunni
 		size = 225
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = assyrian
 		religion = sunni
 		size = 175
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = assyrian
 		religion = sunni
 		size = 870
 	}
 	
 	bureaucrats = {
-		culture = mashriqi
+		culture = assyrian
 		religion = sunni
 		size = 30
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = assyrian
 		religion = sunni
 		size = 213
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = assyrian
 		religion = sunni
 		size = 16488
 	}
