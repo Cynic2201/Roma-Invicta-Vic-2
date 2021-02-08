@@ -2170,55 +2170,55 @@
 #Palermo (744000/186000 POPS)
 762 = {
 	aristocrats = {
-		culture = latin
+		culture = wandalico_romanus
 		religion = catholic
 		size = 5200
 	}
 
 	bureaucrats = {
-		culture = latin
+		culture = wandalico_romanus
 		religion = catholic
 		size = 825
 	}
 
 	officers = {
-		culture = latin
+		culture = wandalico_romanus
 		religion = catholic
 		size = 500
 	}
 
 	clergymen = {
-		culture = latin
+		culture = wandalico_romanus
 		religion = catholic
 		size = 1900
 	}
 
 	artisans = {
-		culture = latin
+		culture = wandalico_romanus
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = latin
+		culture = wandalico_romanus
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = latin
+		culture = wandalico_romanus
 		religion = catholic
 		size = 8000
 	}
 
 	soldiers = {
-		culture = latin
+		culture = wandalico_romanus
 		religion = catholic
 		size = 2000
 	}
 
 	farmers = {
-		culture = latin
+		culture = wandalico_romanus
 		religion = catholic
 		size = 143125
 	}
@@ -2232,31 +2232,31 @@
 #Messina (352000/88000 POPS)
 763 = {
 	aristocrats = {
-		culture = latin
+		culture = wandalico_romanus
 		religion = catholic
 		size = 2450
 	}
 
 	clergymen = {
-		culture = latin
+		culture = wandalico_romanus
 		religion = catholic
 		size = 900
 	}
 
 	artisans = {
-		culture = latin
+		culture = wandalico_romanus
 		religion = catholic
 		size = 8500
 	}
 
 	soldiers = {
-		culture = latin
+		culture = wandalico_romanus
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = latin
+		culture = wandalico_romanus
 		religion = catholic
 		size = 73150
 	}
@@ -2271,43 +2271,43 @@
 #Catania (720000/180000 POPS)
 764 = {
 	aristocrats = {
-		culture = latin
+		culture = wandalico_romanus
 		religion = catholic
 		size = 5000
 	}
 
 	clergymen = {
-		culture = latin
+		culture = wandalico_romanus
 		religion = catholic
 		size = 700
 	}
 
 	artisans = {
-		culture = latin
+		culture = wandalico_romanus
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = latin
+		culture = wandalico_romanus
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = latin
+		culture = wandalico_romanus
 		religion = catholic
 		size = 1100
 	}
 
 	soldiers = {
-		culture = latin
+		culture = wandalico_romanus
 		religion = catholic
 		size = 2000
 	}
 
 	farmers = {
-		culture = latin
+		culture = wandalico_romanus
 		religion = catholic
 		size = 141000
 	}
@@ -2323,43 +2323,43 @@
 #Cagliari (336000/84000 POPS)
 765 = {
 	aristocrats = {
-		culture = latin
+		culture = wandalico_romanus
 		religion = catholic
 		size = 1750
 	}
 
 	bureaucrats = {
-		culture = latin
+		culture = wandalico_romanus
 		religion = catholic
 		size = 175
 	}
 
 	officers = {
-		culture = latin
+		culture = wandalico_romanus
 		religion = catholic
 		size = 150
 	}
 
 	clergymen = {
-		culture = latin
+		culture = wandalico_romanus
 		religion = catholic
 		size = 850
 	}
 
 	artisans = {
-		culture = latin
+		culture = wandalico_romanus
 		religion = catholic
 		size = 8000
 	}
 
 	soldiers = {
-		culture = latin
+		culture = wandalico_romanus
 		religion = catholic
 		size = 2000
 	}
 
 	farmers = {
-		culture = latin
+		culture = wandalico_romanus
 		religion = catholic
 		size = 70895
 	}
@@ -2367,37 +2367,37 @@
 #Sassari (188000/47000 POPS)
 766 = {
 	aristocrats = {
-		culture = latin
+		culture = wandalico_romanus
 		religion = catholic
 		size = 1100
 	}
 
 	clergymen = {
-		culture = latin
+		culture = wandalico_romanus
 		religion = catholic
 		size = 475
 	}
 
 	artisans = {
-		culture = latin
+		culture = wandalico_romanus
 		religion = catholic
 		size = 6500
 	}
 
 	soldiers = {
-		culture = latin
+		culture = wandalico_romanus
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = latin
+		culture = wandalico_romanus
 		religion = catholic
 		size = 43211
 	}
 	
 	farmers = {
-		culture = catalan
+		culture = latin
 		religion = catholic
 		size = 4814
 	}

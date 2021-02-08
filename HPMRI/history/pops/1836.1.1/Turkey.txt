@@ -63,25 +63,25 @@
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = armenian
 		religion = catholic
 		size = 120
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = armenian
 		religion = catholic
 		size = 500
 	}
 	
 	soldiers = {
-		culture = bulgarian
+		culture = armenian
 		religion = catholic
 		size = 500
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = armenian
 		religion = catholic
 		size = 9950
 	}
@@ -191,25 +191,25 @@
 	}
 	
 	soldiers = {
-		culture = bulgarian
+		culture = armenian
 		religion = catholic
 		size = 200
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = armenian
 		religion = catholic
 		size = 120
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = armenian
 		religion = catholic
 		size = 120
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = armenian
 		religion = catholic
 		size = 10825
 	}
@@ -297,37 +297,37 @@
 	}
 	
 	aristocrats = {
-		culture = bulgarian
+		culture = armenian
 		religion = catholic
 		size = 120
 	}
 	
 	officers = {
-		culture = bulgarian
+		culture = armenian
 		religion = catholic
 		size = 120
 	}
 	
 	soldiers = {
-		culture = bulgarian
+		culture = armenian
 		religion = catholic
 		size = 300
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = armenian
 		religion = catholic
 		size = 200
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = armenian
 		religion = catholic
 		size = 2000
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = armenian
 		religion = catholic
 		size = 5475
 	}
@@ -363,25 +363,25 @@
 #Istanbul (764000/191000 POPS)
 860 = {
 	aristocrats = {
-		culture = greek
+		culture = latin
 		religion = catholic
 		size = 750
 	}
 
 	bureaucrats = {
-		culture = greek
+		culture = latin
 		religion = catholic
 		size = 700
 	}
 
 	officers = {
-		culture = greek
+		culture = latin
 		religion = catholic
 		size = 150
 	}
 
 	clergymen = {
-		culture = greek
+		culture = latin
 		religion = catholic
 		size = 1125
 	}
@@ -393,7 +393,7 @@
 	}
 
 	soldiers = {
-		culture = greek
+		culture = latin
 		religion = catholic
 		size = 6000
 	}
@@ -405,19 +405,19 @@
 	}
 	
 	farmers = {
-		culture = circassian
+		culture = latin
 		religion = catholic
 		size = 100
 	}
 	
 	aristocrats = {
-		culture = greek
+		culture = latin
 		religion = catholic
 		size = 120
 	}
 	
 	officers = {
-		culture = greek
+		culture = latin
 		religion = catholic
 		size = 120
 	}
@@ -441,53 +441,53 @@
 	}
 
 	farmers = {
-		culture = greek
+		culture = latin
 		religion = catholic
 		size = 20900
 	}
 	aristocrats = {
-		culture = bulgarian
+		culture = latin
 		religion = catholic
 		size = 120
 	}
 	
 	officers = {
-		culture = bulgarian
+		culture = latin
 		religion = catholic
 		size = 120
 	}
 	
 	soldiers = {
-		culture = bulgarian
+		culture = armenian
 		religion = catholic
 		size = 120
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = armenian
 		religion = catholic
 		size = 120
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = latin
 		religion = catholic
 		size = 5000
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = armenian
 		religion = catholic
 		size = 475
 	}
 	aristocrats = {
-		culture = greek
+		culture = latin
 		religion = catholic
 		size = 120
 	}
 	
 	officers = {
-		culture = greek
+		culture = latin
 		religion = catholic
 		size = 120
 	}
@@ -535,31 +535,31 @@
 	}
 	
 	farmers = {
-		culture = sephardic
+		culture = latin
 		religion = jewish
 		size = 8300
 	}
 
 	clergymen = {
-		culture = north_italian
+		culture = latin
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = north_italian
+		culture = latin
 		religion = catholic
 		size = 775
 	}
 	
 	soldiers = {
-		culture = north_italian
+		culture = latin
 		religion = catholic
 		size = 200
 	}
 	
 	farmers = {
-		culture = north_italian
+		culture = latin
 		religion = catholic
 		size = 1000
 	}

@@ -4,49 +4,49 @@
 800 = {
 
 	soldiers = {
-		culture = serb
+		culture = illyrian
 		religion = sunni
 		size = 300
 	}
 
 	clergymen = {
-		culture = serb
+		culture = illyrian
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = serb
+		culture = illyrian
 		religion = orthodox
 		size = 400
 	}
 
 	farmers = {
-		culture = serb
+		culture = illyrian
 		religion = orthodox
 		size = 7350
 	}
 
 	clergymen = {
-		culture = albanian
+		culture = illyrian
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = albanian
+		culture = illyrian
 		religion = sunni
 		size = 100
 	}
 
 	soldiers = {
-		culture = albanian
+		culture = illyrian
 		religion = sunni
 		size = 100
 	}
 
 	serfs = {
-		culture = albanian
+		culture = illyrian
 		religion = sunni
 		size = 725
 	}
@@ -55,79 +55,79 @@
 2569 = {
 	
 	aristocrats = {
-		culture = serb
+		culture = illyrian
 		religion = orthodox
 		size = 100
 	}
 	
 	officers = {
-		culture = serb
+		culture = illyrian
 		religion = orthodox
 		size = 100
 	}
 	
 	soldiers = {
-		culture = serb
+		culture = illyrian
 		religion = orthodox
 		size = 100
 	}
 	
 	clergymen = {
-		culture = serb
+		culture = illyrian
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = serb
+		culture = illyrian
 		religion = orthodox
 		size = 500
 	}
 	
 	farmers = {
-		culture = serb
+		culture = illyrian
 		religion = orthodox
 		size = 4000
 	}
 
 	serfs = {
-		culture = serb
+		culture = illyrian
 		religion = orthodox
 		size = 7100
 	}
 
 	aristocrats = {
-		culture = bosniak
+		culture = latin
 		religion = sunni
 		size = 250
 	}
 	
 	officers = {
-		culture = bosniak
+		culture = latin
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = bosniak
+		culture = latin
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = bosniak
+		culture = latin
 		religion = sunni
 		size = 100
 	}
 
 	soldiers = {
-		culture = bosniak
+		culture = latin
 		religion = sunni
 		size = 125
 	}
 
 	farmers = {
-		culture = bosniak
+		culture = latin
 		religion = sunni
 		size = 5725
 	}
@@ -136,43 +136,43 @@
 #Cetinje (104000/26000 POPS) 
 2583 = {
 	aristocrats = {
-		culture = serb
+		culture = illyrian
 		religion = orthodox
 		size = 100
 	}
 	
 	bureaucrats = {
-		culture = serb
+		culture = illyrian
 		religion = orthodox
 		size = 100
 	}
 
 	officers = {
-		culture = serb
+		culture = illyrian
 		religion = orthodox
 		size = 25
 	}
 
 	clergymen = {
-		culture = serb
+		culture = illyrian
 		religion = orthodox
 		size = 275
 	}
 
 	artisans = {
-		culture = serb
+		culture = illyrian
 		religion = orthodox
 		size = 1300
 	}
 
 	soldiers = {
-		culture = serb
+		culture = illyrian
 		religion = orthodox
 		size = 3000
 	}
 
 	farmers = {
-		culture = serb
+		culture = illyrian
 		religion = orthodox
 		size = 21375
 	}
@@ -183,67 +183,67 @@
 		size = 1000
 	}
 }
-#Kosovo-Sanjak Region (52000)  #see Serbia.txt for balance of region 
+#Kosovo-Sanjak Region (52000)  #see illyriania.txt for balance of region 
 #under the rule of Ottoman Empire in 1836  
 #Pljevlja (52000/13000 POPS) #now part of Montenegro
 2577 = {
 
 	soldiers = {
-		culture = serb
+		culture = illyrian
 		religion = orthodox
 		size = 520
 	}
 
 	clergymen = {
-		culture = serb
+		culture = illyrian
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = serb
+		culture = illyrian
 		religion = orthodox
 		size = 250
 	}
 	
 	farmers = {
-		culture = serb
+		culture = illyrian
 		religion = orthodox
 		size = 3170
 	}
 
 	serfs = {
-		culture = serb
+		culture = illyrian
 		religion = orthodox
 		size = 5175
 	}
 
 	aristocrats = {
-		culture = bosniak
+		culture = latin
 		religion = sunni
 		size = 250
 	}
 
 	clergymen = {
-		culture = bosniak
+		culture = latin
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = bosniak
+		culture = latin
 		religion = sunni
 		size = 300
 	}
 
 	soldiers = {
-		culture = bosniak
+		culture = latin
 		religion = sunni
 		size = 150
 	}
 
 	farmers = {
-		culture = bosniak
+		culture = latin
 		religion = sunni
 		size = 3000
 	}
@@ -295,49 +295,49 @@
 	}
 	
 	farmers = {
-		culture = albanian
+		culture = illyrian
 		religion = catholic
 		size = 350
 	}
 	
 	aristocrats = {
-		culture = serb
+		culture = illyrian
 		religion = orthodox
 		size = 200
 	}
 	
 	officers = {
-		culture = serb
+		culture = illyrian
 		religion = orthodox
 		size = 10
 	}
 
 	clergymen = {
-		culture = serb
+		culture = illyrian
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = serb
+		culture = illyrian
 		religion = orthodox
 		size = 550
 	}
 
 	soldiers = {
-		culture = serb
+		culture = illyrian
 		religion = orthodox
 		size = 125
 	}
 
 	farmers = {
-		culture = serb
+		culture = illyrian
 		religion = orthodox
 		size = 10225
 	}
 	
 	farmers = {
-		culture = serb
+		culture = illyrian
 		religion = catholic
 		size = 350
 	}

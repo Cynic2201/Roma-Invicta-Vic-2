@@ -14,6 +14,7 @@ latin = {
 		last_names = { Benedictus Antony Aurelius Appius Aulus Caeso Decimus Gaius Gnaeus Lucius Mamercus Manius Marcus
 		Numerius Publius Quintus Servius Sextus Spurius Titus Tiberius }
 	}
+
 	latin_hispaniam = {
 		color = { 133 1 43 }
 		first_names = { Himilco Mago Magon Hamilcar Hasdrubal Anibal Cartalão Himilcão Himilco Absalon Adonibal
@@ -22,6 +23,18 @@ latin = {
 		last_names = { "de  Hispaniam" "de Roma" "de Christus" Dandolo Ceaser Mareno }
 
 		}
+	
+
+	sephardic = {
+		color = {50 60 10}
+		first_names = { Abraham Amos Baruch Binyamin Daniel David Efraim Ehud Eli Eliezer Elijah Gavriel Hebel Immanuel Itzhak Levi Mattiyahu Mensahe Mikhael Moshe 
+		Natan Noach Reuben Roi Shalom Shimon Tovia Uriel Uzziel Yaakov Yachin Yafe Yehoshua Yehudah Yochanan Yonatan Yosef Zohar
+		}
+
+		last_names = { Banai Barak "Ben Ami" Benveniste Canetti Cantor Cardoso Cohen Disraeli Gaon Golan Halevi Levy Maimon Mizrachi Montefiore Peretz Rafaeli Saban 
+		Sassoon Sebag
+		}
+	}
 
 	wandalico_romanus = {
 		color = { 252 163 119 }
@@ -33,7 +46,115 @@ latin = {
 		}
 	union = SPQ
 	}
+
+hellenic = {
+	leader = european
+	unit = SwedishGC
+	greek = {
+		color = { 122  180  210 }
+		first_names = { Adamantios Alexandros Anastasios Andreas Antonios Aristidis Athanasios Augustinos Benizelos Charalambos
+		Charilaos Dimitrios Diomidis Eleftherios Emmanouil Epameinontas Evripidis Gennaios Georgios Ilias
+		Ionnis Kitsos Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
+		Nikolaos Odysseas Othon Panagiotis Pavlos Petros Sofoklis Sotiris Spyridion Spyros
+		Staikos Stefanos Stylianos Themistoklis Theodoros Tharyvoulos Tzannis Vasos Viktor Zinovios
+		}
+
+		last_names = { Charalambis Christakis-Zografos Danglis Dousmanis Foumis Gonatas Hatzianestis Kallergis Kanaris Katsimiros
+		Kolokotronis Kondylis Kountouriotis Kriezis Makriyannis Manos Mavrocordatos Mavrovouniotis Metaxas Mouskos
+		Nider Othonaios Palaskas Pangalos Papadiamantopoulos Papadopoulos Papagos Papoulas Parakevopouolos Plapoutas
+		Plastiras Sapountzakis Sarafis Smolenskis Sofoulis Soutsos Spyromilios Staikopoulos Stanotas "tes Elladas"
+		Trikoupis Tsakalotos Tsolakoglou Typaldos-Alfonsatos Tzavelas Vassos Venizelos Voulgaris Zaimis Zymvrakakis
+		}
+	}
+	illyrian = {
+		color = { 69 102 119 }
+		first_names = { Appius Aulus Caeso Decimus Gaius Gnaeus Lucius Mamercus Manius Marcus Numerius
+		Publius Quintus Servius Sextus Spurius Titus and Tiberius Ancus Attius Decius Herius Marius Mettius
+		Petur Pravoslav Racho Radko Radoy Sava Simeon Sotir Stanislav StankoStefan Stiliyan Stoyu Teodosi Todor 
+		Trifon Valko Vasil Velizar Vulko		
+		}
+
+		last_names = { Agura Balabanov Balkanski Battemberg Blaskov Boyadzhiev Bradistilov Charakchiev Daskalov Dikov
+		Dimitriev Draganov Fichev Georgiev Hesapchiev Ilyev Ivanov Kirkov Kovachev Krayonski
+		Kutinchev Lazarov Lukov Marinkov Marinov Mutkorov Naydenov Nazlamov Nikiforov Nikolaev
+		Pakov Petrov Radev Saksokoburggotski Savov Sirakov Solarov Stoyanov Tenev Todorov
+		Tsaklev Valkov Valnarov Vasilev Vazov Velchev Zafirov Zhekov Zlatarev Zlatev
+		}
+	}
+
+	}	
+
+west_gaulic = {
+	leader = european
+	
+	burgund = { 
+		color = { 190 90 20}
+		first_names = { Albert Alexandre Alexis Alphonse André Antoine Auguste Barthélémy Baudouin Blaise Camille Clément Charles Constant 
+		Damien David Désiré Didier Edmond Édouard Emmanuel Émile Etienne Eugène Félix Fernand Feullien Florent François Frédéric Georges 
+		Gérard Gilles Guillaume Gustave Henri Hercule Hubert Ignace Isidore Jacques Jean Jean-Baptiste Jean-François Jean-Louis 
+		Jean-Jacques Joseph Jules Lambert Laurent Léon Léonard Léopold Louis Lucien Mathieu Maxime Maximilien Nicolas Olivier 
+		Pascal Patrice Paul Philippe Philippe-Joseph Pierre Pierre-Guillaume Sébastien Sylvain Théophile Victor Vincent Werner }
 		
+		last_names = { Allard Barbanson Barthélémy Baugniet Beaucarne Berger Berthels Beyts Biver Blargnies Brialmont Bredart Cauvin Collet 
+		Cols Claus Clerix Coquilhat d'Arenberg d'Huart d'Omalius d'Oreye d'Oultremont David Davignon "de Baillet" "de Beaufort" 
+		"de Behr" "de Bocarmé" "de Bousies" "de Brouckère" "de Broqueville" "de Burlet" "de Celles" "de Chasteler" "de Coppin de Falaen"
+		"de Croÿ" "de Decker" "de Dixmude" "de Gerlache" "de Grez" "de Hemptinne" "de Labbeville" "de Lannoy" "de Ligne" "de Leuze" "de Melin" 
+		"de Mérode" "de Pelichy" "de Quarre" "de Riquet" "de Robaulx" "de Rouille" "de Sauvage" "de Sécus" "de Selys Longchamps" 
+		"de Stassart" "de Stockem" "de Theux de Meylandt" "de Trazegnies" "de Trooz" "de Viron" "de Waha" Defacqz Deguise Delacroix 
+		"Desmanet de Biesme" Destriveaux Dethier Devaux Deville Dewandre Dhanis Dreze "du Bois" "du Bus" "du Pont" "du Val de Beaulieu" Dumont
+		Fallon Fendius Figeys Fleury-Dubay Fleussu Forgeur Frison Fuchs Gendebien Goffint Henry "Huysman d'Annecroix" Jacques Joos Jottrand 
+		Lahure Lardinois "le Cocq" "le Hon" Lebeau Leclercq Lefebvre Leman Malou Marcq Marlet Masbourg Nagelmackers Nalinne Nothomb 
+		Orban Pétillon Picquet Pirmez Pirson Raikem Roeser Rogier Rouen Rouppe Seron Thonus Thorn "van Snick" Wahis Wangermée Wyvekens Zoude }
+	}	
+
+	gaul = {
+		color = { 0 161 80}
+		first_names = { Adbitus Rittuvvecc Areobindus Versicnos Carominius Cambo Atrectus Sagillus Remicus Dubnotalus Ambimogidus Cambo Eppo Ulcagni Reticus 
+		Carino Andreine Audoenus Nantonos Comnertus Dubnovellaun Metilius Samus Virotutus Corbagni Camulixus Agedillus Reginus Ollocnus Tanco Vocarantus Conbertius 
+		Ebredus Catamanus Tascus Carathounus Dalagni Adebugius Virici Samius		
+		}
+
+		last_names = { Gnata Trocina Carosa Matidia Samuda Caturigia Troucissa Litania Boudinna Caratila Matucia Valeia Victisarana Caruca Comatia Tritia Camoulatia 
+		Aleasiumara Ritulla Camulata Derceia Matugena Aleasiumara Origena Samia Venna Bitudaga Andarta Olugnia Deuognata Sumenu Vlattu Mottu Sumaria Verbronara Contessia 
+		Viccus Indercilea Cincissa Tritia }
+	}
+
+	frankish = {
+		color = { 255 208 0 }
+		first_names = { Egide Dado Baldrick Norbert Willibald Britius Orderic Imnachar Erchinoald Emmon Bernhard Eberulf Sigismund Dreux Hartgard Abbo Erard Engilbert Laudus
+		Sicleardus Helinand Liudger Cyricus Arnold Godomar Bernhard Gerold Magnachar Leutfrid Gaujoinus Electus Wandrille Werinbert Gaudulfus Ouen Arnoul Theodemir Ebregisel 
+		Magneric Eberhard Waleran Childeric Guntramn Nevelung Eracle Hildeboldus Chararic Chlodowig Ragnfred Audoen Humbert Chararic Monulph Sigeric Cyricus Gozbert Childebrand
+		Euric Ragenaus Grimbald Clothair Trutgaudus Wichmann Fulk Andica Wandrille Gifemund Audramnus Hilduin Aega		
+		}
+
+		last_names = { Karling Thrudberga Thedela Blitekin Lieuuara Alpaida Thidela Euerloga Adallinda Heilswinda Reingaud Clotrada Erkenburoc Leuekin Radburg Thiutuuara Chunsina Rosamund 
+		Erpsuid Rinilda Meinsent Aregund Gundradis Alfgarda Lidiardis Ermina Reginsuint Erchembrog Engelgard Swanahilde Fredeburgis Folsuuendis Hildeswindis Reingardis Ava Hildeburg Wlfildis 
+		Blesinde Alflent Baldechildis UUlgarda Regenlind Audovera Bertrada Benedicta Berehta Galswinth Geila Alpaide Helinda Berchildis
+		}
+		radicalism = 10
+	}
+	swiss = { 
+		color = { 180 40 40}
+		first_names = { Adolf Alexander Eduard Ernst Franz Hans Johann Josef Konstantin Martin
+		Melchior Robert Rudolf Ulrich Wilhelm Augusto Enrico Flavio Giuseppe Vincenzo
+		Antoine Charles Emmanuel Guillaume Gustave Henri Hugo Louis Marc Paul }
+		
+		last_names = { Brenner Deucher Funk Haab Herzog Knüsel Munzinger Näff Schneider Siegwart-Müller
+		"von Donatz" "von Salis-Soglio" "von Steiger" "von Tavel" Wille Celio Cotti Fogliardi Motta Zeni
+		Ador Calonder Chaudet Comtesse "de Prangins" Dufour Fornerod Guisan Ruchet Ruchonnet }
+		radicalism = 10
+	}
+	
+	breton = { 
+		color = { 100 110 100 }
+		first_names = { Yann Yannic Pierre Jakez Elouan Frañsez Jaoua Paol Segal Alain Henri Hoël Michel Théodore }
+		
+		last_names = { "de Cornouaille" Karter Gallo Kergoulay Bellec "le Goff" Treguier Riou Morvan Peron Jezeguel Salaun "le Bihan" }
+		radicalism = 10
+	}
+	union = GAL
+}
+
 
 scandinavian = {
 	leader = european
@@ -328,23 +449,6 @@ baltic = {
 levantine = {
 	leader = european
 	unit = EuropeanGC
-	greek = {
-		color = { 122  180  210 }
-		first_names = { Adamantios Alexandros Anastasios Andreas Antonios Aristidis Athanasios Augustinos Benizelos Charalambos
-		Charilaos Dimitrios Diomidis Eleftherios Emmanouil Epameinontas Evripidis Gennaios Georgios Ilias
-		Ionnis Kitsos Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
-		Nikolaos Odysseas Othon Panagiotis Pavlos Petros Sofoklis Sotiris Spyridion Spyros
-		Staikos Stefanos Stylianos Themistoklis Theodoros Tharyvoulos Tzannis Vasos Viktor Zinovios
-		}
-
-		last_names = { Charalambis Christakis-Zografos Danglis Dousmanis Foumis Gonatas Hatzianestis Kallergis Kanaris Katsimiros
-		Kolokotronis Kondylis Kountouriotis Kriezis Makriyannis Manos Mavrocordatos Mavrovouniotis Metaxas Mouskos
-		Nider Othonaios Palaskas Pangalos Papadiamantopoulos Papadopoulos Papagos Papoulas Parakevopouolos Plapoutas
-		Plastiras Sapountzakis Sarafis Smolenskis Sofoulis Soutsos Spyromilios Staikopoulos Stanotas "tes Elladas"
-		Trikoupis Tsakalotos Tsolakoglou Typaldos-Alfonsatos Tzavelas Vassos Venizelos Voulgaris Zaimis Zymvrakakis
-		}
-		radicalism = 10
-	}
 	georgian = {
 		color = {128 207 128}
 		first_names = { Akaki Alexander Andria Bagrat Besarion David Dimitri Eduard Ekvtime Evgeni
