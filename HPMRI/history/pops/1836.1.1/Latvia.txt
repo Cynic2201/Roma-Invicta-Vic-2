@@ -3,61 +3,67 @@
 #Riga (220000/55000 POPS)  
 354 = {
 	clergymen = {
-		culture = latvian
+		culture = saxon
 		religion = protestant
 		size = 325
 	}
 
 	artisans = {
-		culture = latvian
+		culture = saxon
 		religion = protestant
 		size = 1500
 	}
 
 	soldiers = {
-		culture = latvian
+		culture = saxon
 		religion = protestant
 		size = 2400
 	}
 
 	farmers = {
-		culture = latvian
+		culture = lithuanian
 		religion = protestant
-		size = 36775
+		size = 26775
+	}
+
+	farmers = {
+		culture = saxon
+		religion = protestant
+		size = 10000
 	}
 
 	aristocrats = {
-		culture = north_german
+		culture = saxon
 		religion = protestant
 		size = 650
 	}
 
 	bureaucrats = {
-		culture = north_german
+		culture = saxon
 		religion = protestant
 		size = 200
 	}
 
 	officers = {
-		culture = north_german
+		culture = saxon
 		religion = protestant
 		size = 250
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = saxon
 		religion = protestant
 		size = 100
 	}
 
 	artisans = {
-		culture = north_german
+		culture = saxon
 		religion = protestant
 		size = 6725
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = saxon
 		religion = protestant
 		size = 100
 	}
@@ -131,49 +137,49 @@
 #Valmeira (516000/129000 POPS)  
 355 = {
 	clergymen = {
-		culture = latvian
+		culture = lithuanian
 		religion = protestant
 		size = 1100
 	}
 
 	artisans = {
-		culture = latvian
+		culture = lithuanian
 		religion = protestant
 		size = 3350
 	}
 
 	soldiers = {
-		culture = latvian
+		culture = lithuanian
 		religion = protestant
 		size = 2150
 	}
 
 	farmers = {
-		culture = latvian
+		culture = lithuanian
 		religion = protestant
 		size = 112375
 	}
 
 	aristocrats = {
-		culture = north_german
+		culture = saxon
 		religion = protestant
 		size = 1250
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = saxon
 		religion = protestant
 		size = 100
 	}
 
 	artisans = {
-		culture = north_german
+		culture = saxon
 		religion = protestant
 		size = 600
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = saxon
 		religion = protestant
 		size = 100
 	}
@@ -266,49 +272,49 @@
 #Daugavpils (136000/34000 POPS)  
 356 = {
 	clergymen = {
-		culture = latvian
+		culture = lithuanian
 		religion = protestant
 		size = 175
 	}
 
 	artisans = {
-		culture = latvian
+		culture = lithuanian
 		religion = protestant
 		size = 650
 	}
 
 	soldiers = {
-		culture = latvian
+		culture = lithuanian
 		religion = protestant
 		size = 250
 	}
 
 	farmers = {
-		culture = latvian
+		culture = lithuanian
 		religion = protestant
 		size = 19800
 	}
 
 	aristocrats = {
-		culture = north_german
+		culture = saxon
 		religion = protestant
 		size = 700
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = saxon
 		religion = protestant
 		size = 100
 	}
 
 	artisans = {
-		culture = north_german
+		culture = saxon
 		religion = protestant
 		size = 2200
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = saxon
 		religion = protestant
 		size = 100
 	}
@@ -382,49 +388,49 @@
 #Jelgava (128000/32000 POPS)  
 357 = {
 	clergymen = {
-		culture = latvian
+		culture = lithuanian
 		religion = protestant
 		size = 225
 	}
 
 	artisans = {
-		culture = latvian
+		culture = lithuanian
 		religion = protestant
 		size = 250
 	}
 
 	soldiers = {
-		culture = latvian
+		culture = lithuanian
 		religion = protestant
 		size = 250
 	}
 
 	farmers = {
-		culture = latvian
+		culture = lithuanian
 		religion = protestant
 		size = 28275
 	}
 
 	aristocrats = {
-		culture = north_german
+		culture = saxon
 		religion = protestant
 		size = 1150
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = saxon
 		religion = protestant
 		size = 100
 	}
 
 	artisans = {
-		culture = north_german
+		culture = saxon
 		religion = protestant
 		size = 750
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = saxon
 		religion = protestant
 		size = 100
 	}
@@ -456,49 +462,55 @@
 #Ventspils (140000/35000 POPS) #uralic = Livonian 
 358 = {
 	clergymen = {
-		culture = ugrian
+		culture = saxon
 		religion = protestant
 		size = 225
 	}
 
 	artisans = {
-		culture = latvian
+		culture = saxon
 		religion = protestant
 		size = 300
 	}
 
 	soldiers = {
-		culture = latvian
+		culture = saxon
 		religion = protestant
 		size = 275
 	}
 
 	farmers = {
-		culture = latvian
+		culture = lithuanian
 		religion = protestant
-		size = 29450
+		size = 19450
+	}
+
+	farmers = {
+		culture = saxon
+		religion = protestant
+		size = 10000
 	}
 
 	aristocrats = {
-		culture = north_german
+		culture = saxon
 		religion = protestant
 		size = 1200
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = saxon
 		religion = protestant
 		size = 100
 	}
 
 	artisans = {
-		culture = north_german
+		culture = saxon
 		religion = protestant
 		size = 700
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = saxon
 		religion = protestant
 		size = 100
 	}
@@ -536,49 +548,49 @@
 #Liepaja (96000/24000 POPS)  
 359 = {
 	clergymen = {
-		culture = latvian
+		culture = lithuanian
 		religion = protestant
 		size = 175
 	}
 
 	artisans = {
-		culture = latvian
+		culture = lithuanian
 		religion = protestant
 		size = 150
 	}
 
 	soldiers = {
-		culture = latvian
+		culture = lithuanian
 		religion = protestant
 		size = 200
 	}
 
 	farmers = {
-		culture = latvian
+		culture = lithuanian
 		religion = protestant
 		size = 21475
 	}
 
 	aristocrats = {
-		culture = north_german
+		culture = saxon
 		religion = protestant
 		size = 550
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = saxon
 		religion = protestant
 		size = 100
 	}
 
 	artisans = {
-		culture = north_german
+		culture = saxon
 		religion = protestant
 		size = 400
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = saxon
 		religion = protestant
 		size = 100
 	}

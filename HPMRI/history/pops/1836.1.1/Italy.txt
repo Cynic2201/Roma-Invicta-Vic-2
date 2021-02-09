@@ -127,31 +127,31 @@
 	}
 
 	aristocrats = {
-		culture = french
+		culture = latin
 		religion = catholic
 		size = 275
 	}
 
 	clergymen = {
-		culture = french
+		culture = latin
 		religion = catholic
 		size = 225
 	}
 
 	artisans = {
-		culture = french
+		culture = latin
 		religion = catholic
 		size = 1175
 	}
 
 	soldiers = {
-		culture = french
+		culture = latin
 		religion = catholic
 		size = 225
 	}
 
 	farmers = {
-		culture = french
+		culture = latin
 		religion = catholic
 		size = 21600
 	}
@@ -731,55 +731,55 @@
 #Trent (276000/69000 POPS) #now part of Italy
 734 = {
 	aristocrats = {
-		culture = south_german
+		culture = latin
 		religion = catholic
 		size = 60 
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = noric
 		religion = catholic
 		size = 80 
 	}
 
 	bureaucrats = {
-		culture = south_german
+		culture = noric
 		religion = catholic
 		size = 800 
 	}
 	
 	artisans = {
-		culture = south_german
+		culture = noric
 		religion = catholic
 		size = 200
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = noric
 		religion = catholic
 		size = 50 
 	}
 
 	farmers = {
-		culture = south_german
+		culture = noric
 		religion = catholic
 		size = 4610 
 	}
 
 	clergymen = {
-		culture = latin
+		culture = noric
 		religion = catholic
 		size = 575
 	}
 
 	artisans = {
-		culture = latin
+		culture = noric
 		religion = catholic
 		size = 2800
 	}
 
 	soldiers = {
-		culture = latin
+		culture = noric
 		religion = catholic
 		size = 550 
 	}
@@ -787,55 +787,60 @@
 	farmers = {
 		culture = latin
 		religion = catholic
-		size = 60075
+		size = 30075
+	}
+	farmers = {
+		culture = noric
+		religion = catholic
+		size = 30075
 	}
 }
 #Bozen (92000/23000 POPS) #now part of Italy
 735 = {
 	aristocrats = {
-		culture = south_german
+		culture = latin
 		religion = catholic
 		size = 250 
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = latin
 		religion = catholic
 		size =  150
 	}
 
 	artisans = {
-		culture = south_german
+		culture = latin
 		religion = catholic
 		size = 1500
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = noric
 		religion = catholic
 		size = 150 
 	}
 
 	farmers = {
-		culture = south_german
+		culture = noric
 		religion = catholic
 		size = 14950
 	}
 
 	clergymen = {
-		culture = latin
+		culture = noric
 		religion = catholic
 		size =  50
 	}
 
 	artisans = {
-		culture = latin
+		culture = noric
 		religion = catholic
 		size = 500
 	}
 
 	soldiers = {
-		culture = latin
+		culture = noric
 		religion = catholic
 		size = 50 
 	}
@@ -863,7 +868,7 @@
 	}
 
 	bureaucrats = {
-		culture = south_german
+		culture = bayern
 		religion = catholic
 		size = 450
 	}
@@ -899,25 +904,25 @@
 	}
 
 	clergymen = {
-		culture = slovene
+		culture = illyrian
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = slovene
+		culture = illyrian
 		religion = catholic
 		size = 4500
 	}
 
 	soldiers = {
-		culture = slovene
+		culture = illyrian
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = slovene
+		culture = illyrian
 		religion = catholic
 		size = 6300
 	}
@@ -955,25 +960,25 @@
 	}
 
 	clergymen = {
-		culture = slovene
+		culture = illyrian
 		religion = catholic
 		size = 300
 	}
 
 	artisans = {
-		culture = slovene
+		culture = illyrian
 		religion = catholic
 		size = 1100
 	}
 
 	soldiers = {
-		culture = slovene
+		culture = illyrian
 		religion = catholic
 		size = 325
 	}
 
 	farmers = {
-		culture = slovene
+		culture = illyrian
 		religion = catholic
 		size = 30000
 	}
@@ -2464,7 +2469,7 @@
 	}
 
 	farmers = {
-		culture = south_german
+		culture = bayern
 		religion = catholic
 		size = 1000
 	}

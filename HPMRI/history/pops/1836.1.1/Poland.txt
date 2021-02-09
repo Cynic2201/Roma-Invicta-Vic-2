@@ -3,45 +3,51 @@
 #Stettin (484000/121000 POPS) #Part of Poland since 1945
 546 = {
 	aristocrats = {
-		culture = north_german
+		culture = saxon
 		religion = protestant
 		size = 1250 
 	}
 
 	bureaucrats = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 1300
 	}
 
 	officers = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 350 
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 1125
 	}
 
 	artisans = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 8250
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 3300 
 	}
 
 	farmers = {
-		culture = north_german
+		culture = saxon
 		religion = protestant
 		size = 117125
+	}
+	
+	farmers = {
+		culture = sorbian
+		religion = protestant
+		size = 90000
 	}
 
 	clergymen = {
@@ -109,55 +115,55 @@
 #Kolberg (160000/40000 POPS) #Part of Poland since 1945
 679 = {
 	aristocrats = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 350 
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 375
 	}
 
 	artisans = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 1900
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 1000
 	}
 
 	farmers = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 34375
 	}
 
 	clergymen = {
-		culture = western_slavic
+		culture = sorbian
 		religion = protestant
 		size = 100
 	}
 
 	artisans = {
-		culture = western_slavic
+		culture = sorbian
 		religion = protestant
 		size = 100
 	}
 
 	soldiers = {
-		culture = western_slavic
+		culture = sorbian
 		religion = protestant
 		size = 100
 	}
 
 	farmers = {
-		culture = western_slavic
+		culture = sorbian
 		religion = protestant
 		size = 1825    
 	}
@@ -165,79 +171,79 @@
 #Koslin (160000/40000 POPS) #Part of Poland since 1945
 680 = {
 	aristocrats = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 250 
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 250 
 	}
 
 	artisans = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 1350
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 1000
 	}
 
 	farmers = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 24150
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 100    
 	}
 
 	artisans = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 550
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 100     
 	}
 
 	farmers = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 10250     
 	}
 
 	clergymen = {
-		culture = western_slavic
+		culture = sorbian
 		religion = protestant
 		size = 100
 	}
 
 	artisans = {
-		culture = western_slavic
+		culture = sorbian
 		religion = protestant
 		size = 100
 	}
 
 	soldiers = {
-		culture = western_slavic
+		culture = sorbian
 		religion = protestant
 		size = 100
 	}
 
 	farmers = {
-		culture = western_slavic
+		culture = sorbian
 		religion = protestant
 		size = 1825   
 	}
@@ -247,31 +253,31 @@
 #Kustrin (208000/52000 POPS) #Part of Poland since 1945
 681 = {
 	aristocrats = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 525 
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 450 
 	}
 
 	artisans = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 2400
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 2000
 	}
 
 	farmers = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 46425
 	}
@@ -307,61 +313,61 @@
 #Breslau (936000/234000 POPS) 
 682 = {
 	aristocrats = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 3750
 	}
 
 	bureaucrats = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 3200
 	}
 
 	officers = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 750 
 	}
 
 	capitalists = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 20
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 1750 
 	}
 
 	clerks = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 125
 	}
 
 	craftsmen = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 8500
 	}
 
 	artisans = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 11785
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 7500 
 	}
 
 	farmers = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 147280
 	}
@@ -459,37 +465,37 @@
 #Liegnitz (484000/121000 POPS) 
 683 = {
 	aristocrats = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 2000
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 925
 	}
 
 	artisans = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 5550
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 1125
 	}
 
 	farmers = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 99900
 	}
 
 	craftsmen = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 1400
 	}	
@@ -569,31 +575,31 @@
 #Oppeln (492000/123000 POPS) 
 684 = {
 	aristocrats = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 2000
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 325 
 	}
 
 	artisans = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 1900
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 1000
 	}
 
 	farmers = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 32775  
 	}
@@ -697,31 +703,31 @@
 #Kattowitz (452000/113000 POPS) 
 685 = {
 	aristocrats = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 1750
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 100 
 	}
 
 	artisans = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 500
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 100 
 	}
 
 	farmers = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 7575  
 	}
@@ -884,49 +890,49 @@
 #Danzig (76000/19000 POPS) 
 690 = {
 	aristocrats = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 100
 	}
 
 	bureaucrats = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 375
 	}
 
 	officers = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 200 
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 100
 	}
 
 	artisans = {
-		culture = north_german
+		culture = saxon
 		religion = protestant
 		size = 9500
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 125  
 	}
 
 	farmers = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 1100
 	}
 	
 	farmers = {
-		culture = western_slavic
+		culture = sorbian
 		religion = protestant
 		size = 275
 	}
@@ -944,7 +950,7 @@
 	}
 
 	artisans = {
-		culture = polish
+		culture = sorbian
 		religion = catholic
 		size = 5000
 	}
@@ -996,61 +1002,61 @@
 #Tuchel (180000/45000 POPS) 
 691 = {
 	aristocrats = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 800
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 250  
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 375
 	}
 
 	farmers = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 23825
 	}
 
 	clergymen = {
-		culture = western_slavic
+		culture = sorbian
 		religion = protestant
 		size = 100
 	}
 
 	farmers = {
-		culture = western_slavic
+		culture = sorbian
 		religion = protestant
 		size = 3200
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = sorbian
 		religion = catholic
 		size = 100  
 	}
 
 	artisans = {
-		culture = north_german
+		culture = sorbian
 		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = sorbian
 		religion = catholic
 		size = 100   
 	}
 
 	farmers = {
-		culture = north_german
+		culture = sorbian
 		religion = catholic
 		size = 925  
 	}
@@ -1082,31 +1088,31 @@
 #Deutsche Krone (128000/32000 POPS) 
 692 = {
 	aristocrats = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 625
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 175  
 	}
 
 	artisans = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 1250
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 1000
 	}
 
 	farmers = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 25950
 	}
@@ -1138,31 +1144,31 @@
 #Elbing (148000/37000 POPS) 
 693 = {
 	aristocrats = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 700
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 125  
 	}
 
 	artisans = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 1400
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 1000
 	}
 
 	farmers = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 24425 
 	}
@@ -1194,55 +1200,55 @@
 #Torun (156000/44000 POPS) 
 694 = {
 	aristocrats = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 850
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 125  
 	}
 
 	artisans = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 800
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 175  
 	}
 
 	farmers = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 13900 
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = sorbian
 		religion = catholic
 		size = 100  
 	}
 
 	artisans = {
-		culture = north_german
+		culture = sorbian
 		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = sorbian
 		religion = catholic
 		size = 100   
 	}
 
 	farmers = {
-		culture = north_german
+		culture = sorbian
 		religion = catholic
 		size = 1850  
 	}
@@ -1302,31 +1308,31 @@
 #Allenstein (396000/99000 POPS) 
 696 = {
 	aristocrats = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 2000 
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 550   
 	}
 
 	artisans = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 2900
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 2000
 	}
 
 	farmers = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 50550
 	}
@@ -1384,67 +1390,67 @@
 #Posen (540000/135000 POPS) 
 699 = {
 	aristocrats = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 2000 
 	}
  
 	bureaucrats = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 700 
 	}
 
 	officers = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 350   
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 325  
 	}
 
 	artisans = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 2650
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 1000
 	}
 
 	farmers = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 26825
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = sorbian
 		religion = catholic
 		size = 175   
 	}
 
 	artisans = {
-		culture = north_german
+		culture = sorbian
 		religion = catholic
 		size = 1750
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = sorbian
 		religion = catholic
 		size = 175    
 	}
 
 	farmers = {
-		culture = north_german
+		culture = sorbian
 		religion = catholic
 		size = 15190  
 	}
@@ -1514,55 +1520,55 @@
 #Bromberg (212000/53000 POPS) 
 700 = {
 	aristocrats = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 800 
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 200   
 	}
 
 	artisans = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 1050
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 1150   
 	}
 
 	farmers = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 20150
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = sorbian
 		religion = catholic
 		size = 100  
 	}
 
 	artisans = {
-		culture = north_german
+		culture = sorbian
 		religion = catholic
 		size = 350
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = sorbian
 		religion = catholic
 		size = 100    
 	}
 
 	farmers = {
-		culture = north_german
+		culture = sorbian
 		religion = catholic
 		size = 6525  
 	}
@@ -1627,55 +1633,55 @@
 #Gniezno (456000/116000 POPS) 
 701 = {
 	aristocrats = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 1750 
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 125   
 	}
 
 	artisans = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 750
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 1000
 	}
 
 	farmers = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 12125
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = sorbian
 		religion = catholic
 		size = 100 
 	}
 
 	artisans = {
-		culture = north_german
+		culture = sorbian
 		religion = catholic
 		size = 500
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = sorbian
 		religion = catholic
 		size = 100    
 	}
 
 	farmers = {
-		culture = north_german
+		culture = sorbian
 		religion = catholic
 		size = 9300   
 	}
@@ -1807,25 +1813,25 @@
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 100
 	}
 	
 	soldiers = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 100
 	}
 
 	artisans = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 225
 	}
 
 	farmers = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 3700
 	}
@@ -1923,25 +1929,25 @@
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 100
 	}
 	
 	soldiers = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 100
 	}
 
 	artisans = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 200
 	}
 
 	farmers = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 3750  
 	}
@@ -2848,37 +2854,37 @@
 	}
 	
 	aristocrats = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 100
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 100
 	}
 	
 	officers = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 100
 	}
 
 	artisans = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 2500
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 100
 	}
 
 	farmers = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 3400
 	}
@@ -3032,25 +3038,25 @@
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 100
 	}
 	
 	soldiers = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 100
 	}
 
 	artisans = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 275
 	}
 
 	farmers = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 2690
 	}
@@ -3180,25 +3186,25 @@
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 100
 	}
 	
 	soldiers = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 100
 	}
 
 	artisans = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 250
 	}
 
 	farmers = {
-		culture = north_german
+		culture = sorbian
 		religion = protestant
 		size = 1725
 	}

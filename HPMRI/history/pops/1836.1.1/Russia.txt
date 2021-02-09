@@ -1962,37 +1962,37 @@
 	}
 
 	aristocrats = {
-		culture = north_german
+		culture = saxon
 		religion = protestant
 		size = 150
 	}
 
 	bureaucrats = {
-		culture = north_german
+		culture = saxon
 		religion = protestant
 		size = 700
 	}
 
 	officers = {
-		culture = north_german
+		culture = saxon
 		religion = protestant
 		size = 100
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = saxon
 		religion = protestant
 		size = 100
 	}
 
 	artisans = {
-		culture = north_german
+		culture = saxon
 		religion = protestant
 		size = 6850
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = saxon
 		religion = protestant
 		size = 100
 	}
@@ -4299,49 +4299,49 @@
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = saxon
 		religion = protestant
 		size = 150
 	}
 
 	artisans = {
-		culture = north_german
+		culture = saxon
 		religion = protestant
 		size = 3000
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = saxon
 		religion = protestant
 		size = 200
 	}
 
 	farmers = {
-		culture = north_german
+		culture = saxon
 		religion = protestant
 		size = 14650
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = saxon
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = north_german
+		culture = saxon
 		religion = catholic
 		size = 2000
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = saxon
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = north_german
+		culture = saxon
 		religion = catholic
 		size = 6750
 	}
