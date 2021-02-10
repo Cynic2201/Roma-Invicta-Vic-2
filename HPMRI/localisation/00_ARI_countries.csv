@@ -137,31 +137,18 @@ RIG_ADJ;Rigan;;;;;;;;;;;;x
 EAN_ADJ;East Anglian;;;;;;;;;;;;x
 DAC;Dacia;;;;;;;;;;;;x
 PLB;Polabia;;;;;;;;;;;;x
-DAC_ADJ;Dacian;;;;;;;;;;;;x
-PLB_ADJ;Polabian;;;;;;;;;;;;x
+DAC_ADJ;Dacan;;;;;;;;;;;;x
+PLB;Polabian;;;;;;;;;;;;x
 GAL;Gallia;;;;;;;;;;;;x
 GAL_ADJ;Gallic;;;;;;;;;;;;x
 BRG;Burgundiones;;;;;;;;;;;;x
 BRG_ADJ;Burgundi;;;;;;;;;;;;x
 AVA;Avars;;;;;;;;;;;;x
-AVA_ADJ;Avar;;;;;;;;;;;;x
+AVA;Avar;;;;;;;;;;;;x
 SWI;Helvetia;;;;;;;;;;;;x
 SWI_ADJ;Helvetic;;;;;;;;;;;;x
 FRA;Francia;;;;;;;;;;;;x
 FRA_ADJ;Frankish;;;;;;;;;;;;x
-<<<<<<< Updated upstream
 SWE_absolute_monarchy;The Swedish Empire;;;;;;;;;;;;x,,
 SWE_prussian_constitutionalism;The Swedish Empire;;;;;;;;;;;;x,,
 SWE_hms_government;The Swedish Empire;;;;;;;;;;;;x,,
-=======
-SWE_absolute_monarchy;The Swedish Empire;;;;;;;;;;;;x
-SWE_prussian_constitutionalism;The Swedish Empire;;;;;;;;;;;;x
-SWE_hms_government;The Swedish Empire;;;;;;;;;;;;x
-LMB;Lombardy;;;;;;;;;;;;x
-LMB_ADJ;Lombard;;;;;;;;;;;;x
-PNN;Pannonia;;;;;;;;;;;;x
-PNN_ADJ;Pannonian;;;;;;;;;;;;x
-HLL;Holland;;;;;;;;;;;;x
-HLL_ADJ;Dutch;;;;;;;;;;;;x
-PROV3323;West Frisia;;;;;;;;;;;;x
->>>>>>> Stashed changes
