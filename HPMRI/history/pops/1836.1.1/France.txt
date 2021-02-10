@@ -3209,7 +3209,7 @@
 	farmers = {
 		culture = visigoth
 		religion = catholic
-		size = 54700
+		size = 64700
 	}
 
 	farmers = {
@@ -3219,33 +3219,33 @@
 	}
 
 	aristocrats = {
-		culture = vasconian 
+		culture = basque
 		religion = catholic
 		size = 400
 	}
 
 	clergymen = {
-		culture = vasconian 
+		culture = basque
 		religion = catholic
 		size = 350
 	}
 
 	artisans = {
-		culture = vasconian 
+		culture = basque
 		religion = catholic
 		size = 2500
 	}
 
 	soldiers = {
-		culture = vasconian 
+		culture = basque
 		religion = catholic
 		size = 450
 	}
 
 	farmers = {
-		culture = vasconian 
+		culture = basque
 		religion = catholic
-		size = 41300
+		size = 31300
 	}
 
 }
