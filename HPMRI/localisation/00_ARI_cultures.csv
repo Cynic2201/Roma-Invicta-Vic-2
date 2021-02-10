@@ -1,4 +1,3 @@
-latin_hispaniam;Latin-Hispanic;;;;;;;;;;;;x
 wandalico_romanus;Cartago-Latin;;;;;;;;;;;;x
 gaul;Gaul;;;;;;;;;;;;x
 illyrian;Ilyrian;;;;;;;;;;;;x
@@ -13,3 +12,8 @@ saxon;Saxon;;;;;;;;;;;;
 bayern;Bayern;;;;;;;;;;;;
 sorbian;Sorbian;;;;;;;;;;;;
 visigoth;Visigoth;;;;;;;;;;;;
+latin_hispaniam;Latin-Hispanic;;;;;;;;;;;;x
+lusitanian;Lusitanian;;;;;;;;;;;;
+celtiberian;Celtiberian;;;;;;;;;;;;
+slovak;Slavic;;;;;;;;;;;;
+vasconian;Vasconian;;;;;;;;;;;;
