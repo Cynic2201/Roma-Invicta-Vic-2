@@ -24,6 +24,9 @@ EAN		="countries/EastAnglia.txt"
 CUR		="countries/Curonia.txt"
 NOV		="countries/Novgorod.txt"
 MUS		="countries/Muscovy.txt"
+LMB		="countries/Lombardy.txt"
+PNN		="countries/Pannonia.txt"
+HLL		="countries/Holland.txt"
 
 #RI Germany
 ULM		="countries/Ulm.txt"
