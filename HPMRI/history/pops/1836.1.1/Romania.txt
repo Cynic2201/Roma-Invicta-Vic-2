@@ -2669,26 +2669,26 @@
 675 = {
 
 	soldiers = {
-		culture = romanian
-		religion = orthodox
+		culture = greek
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = romanian
-		religion = orthodox
+		culture = greek
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = romanian
-		religion = orthodox
+		culture = greek
+		religion = catholic
 		size = 250
 	}
 
 	farmers = {
 		culture = romanian
-		religion = orthodox
+		religion = catholic
 		size = 3600 
 	}
 	
@@ -2699,20 +2699,20 @@
 	}
 
 	aristocrats = {
-		culture = turkish
-		religion = sunni
+		culture = greek
+		religion = catholic
 		size = 150 
 	}
 
 	clergymen = {
-		culture = turkish
-		religion = sunni
+		culture = latin
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = turkish
-		religion = sunni
+		culture = latin
+		religion = catholic
 		size = 200 
 	}
 

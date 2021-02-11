@@ -5,7 +5,7 @@ latin_group = {
 	leader = european
 	unit = ItalianGC
 	latin = {
-		color = { 194 2 8 }
+		color = {194 2 8}
 		first_names = { Appius Aulus Caeso Decimus Gaius Gnaeus Lucius Mamercus Manius Marcus Numerius
 		Publius Quintus Servius Sextus Spurius Titus and Tiberius Ancus Attius Decius Herius Marius Mettius
 		Minatus Minius Nerius Novius Numa Numerius Ovius Paccius Pompi Salvius Seppius Statius Taurus Trebius Vibius
@@ -16,7 +16,7 @@ latin_group = {
 	}
 
 	latin_hispaniam = {
-		color = { 219 81 46 }
+		color = {219 81 46}
 		first_names = { Himilco Mago Magon Hamilcar Hasdrubal Anibal Cartalão Himilcão Himilco Absalon Adonibal
 		Aldonazo Ansurius Castelleano Diago Domeno Donnadi Flain Gilo Coligula Graveil Gudesto Gullien Ineso Polo }
 
@@ -25,7 +25,7 @@ latin_group = {
 		}
 
 	gallo_roman = {
-		color = { 128 153 69 }
+		color = {128 153 69}
 		first_names = { Appius Aulus Caeso Decimus Gaius Gnaeus Lucius Mamercus Manius Marcus Numerius Publius Quintus Servius Sextus Spurius Titus and Tiberius 
 		Ancus Attius Decius Herius Marius Mettius Adbitus Rittuvvecc Areobindus Versicnos Carominius Cambo Atrectus Sagillus Remicus Dubnotalus Ambimogidus Cambo 
 		Eppo Ulcagni Reticus Carino Andreine Audoenus Nantonos Comnertus Dubnovellaun Metilius Samus Virotutus Corbagni Camulixus Agedillus Reginus Ollocnus Tanco 
@@ -40,7 +40,7 @@ latin_group = {
 
 
 	wandalico_romanus = {
-		color = { 252 163 119 }
+		color = {252 163 119}
 		first_names = { Wisimar Valentinian Huenric Alexandros Basil Constantine Christpohus Diocletian }
 		
 		last_names = {  Benedictus Antony Aurelius Appius Aulus Caeso Decimus Gaius Gnaeus Lucius Mamercus Manius Marcus
@@ -65,7 +65,7 @@ jewish = {
 	}
 
 	ashkenazi = { 
-		color = { 130 100 100}
+		color = {130 100 100}
 		first_names = { Abraham Albert Benjamin Daniel David Franz Gustav Heinrich Hermann Isaak Ignatz Jakob Jeremias Josef Leonhard Michael Mose Salomon Saul Shmuel
 		Sigmund Simon Theodor }
 
@@ -79,7 +79,7 @@ hellenic = {
 	leader = european
 	unit = SwedishGC
 	greek = {
-		color = { 122  180  210 }
+		color = {122  180  210}
 		first_names = { Adamantios Alexandros Anastasios Andreas Antonios Aristidis Athanasios Augustinos Benizelos Charalambos
 		Charilaos Dimitrios Diomidis Eleftherios Emmanouil Epameinontas Evripidis Gennaios Georgios Ilias
 		Ionnis Kitsos Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
@@ -95,7 +95,7 @@ hellenic = {
 		}
 	}
 	illyrian = {
-		color = { 69 102 119 }
+		color = {69 102 119}
 		first_names = { Appius Aulus Caeso Decimus Gaius Gnaeus Lucius Mamercus Manius Marcus Numerius
 		Publius Quintus Servius Sextus Spurius Titus and Tiberius Ancus Attius Decius Herius Marius Mettius
 		Petur Pravoslav Racho Radko Radoy Sava Simeon Sotir Stanislav StankoStefan Stiliyan Stoyu Teodosi Todor 
@@ -116,7 +116,7 @@ germanic = {
 	leader = european
 	
 	saxon = {
-		color = { 0 96 36 }
+		color = {0 96 36}
 		first_names = { Adelbert Adolf Albrecht Alexander Alfred August Bernhard Burkhard Dieter
 		Eduard Edwin Erwin Erich Ernst Florian Franz Friedrich Fritz Georg Günther
 		Gustav Hasso Heinrich Helmuth Hermann Hugo Joachim Johann Jürgen Karl
@@ -134,7 +134,7 @@ germanic = {
 	}	
 
 	frisian = { 
-		color = { 168 127 50}
+		color = {168 127 50}
 		first_names = { 
 			Adolf Adriaan Alexander Andreas Antoon Andries Antonius Abraham
 			Barthout
@@ -191,7 +191,7 @@ germanic = {
 	}
     
 	bayern = {
-  	      color = { 3 173 252 } 
+  	      color = {3 173 252} 
 	first_names = { Adolf Albrecht Alexander Alfons Alois Anton Arthur Bernhard Christian
   	      Edmund Eduard Engelbert Ernst Erwin Ferdinand Franz Friedrich Gebhard Gerhard Gottfried
    	      Günther Gustav Heinrich Hermann Horst Jakob Joachim Johann Joseph
@@ -206,7 +206,7 @@ germanic = {
     }
 
 	noric = { 
-		color = { 179 112 112 }
+		color = {179 112 112}
 		first_names = { Adolf Alexander Eduard Ernst Franz Hans Johann Josef Konstantin Martin
 		Melchior Robert Rudolf Ulrich Wilhelm Augusto Enrico Flavio Giuseppe Vincenzo
 		Antoine Charles Emmanuel Guillaume Gustave Henri Hugo Louis Marc Paul }
@@ -223,7 +223,7 @@ west_gaulic = {
 	leader = european
 	
 	burgund = { 
-		color = { 190 90 20}
+		color = {190 90 20}
 		first_names = { Albert Alexandre Alexis Alphonse André Antoine Auguste Barthélémy Baudouin Blaise Camille Clément Charles Constant 
 		Damien David Désiré Didier Edmond Édouard Emmanuel Émile Etienne Eugène Félix Fernand Feullien Florent François Frédéric Georges 
 		Gérard Gilles Guillaume Gustave Henri Hercule Hubert Ignace Isidore Jacques Jean Jean-Baptiste Jean-François Jean-Louis 
@@ -243,7 +243,7 @@ west_gaulic = {
 	}	
 
 	gaul = {
-		color = { 0 161 80}
+		color = {0 161 80}
 		first_names = { Adbitus Rittuvvecc Areobindus Versicnos Carominius Cambo Atrectus Sagillus Remicus Dubnotalus Ambimogidus Cambo Eppo Ulcagni Reticus 
 		Carino Andreine Audoenus Nantonos Comnertus Dubnovellaun Metilius Samus Virotutus Corbagni Camulixus Agedillus Reginus Ollocnus Tanco Vocarantus Conbertius 
 		Ebredus Catamanus Tascus Carathounus Dalagni Adebugius Virici Samius		
@@ -255,7 +255,7 @@ west_gaulic = {
 	}
 
 	frankish = {
-		color = { 255 208 0 }
+		color = {255 208 0}
 		first_names = { Egide Dado Baldrick Norbert Willibald Britius Orderic Imnachar Erchinoald Emmon Bernhard Eberulf Sigismund Dreux Hartgard Abbo Erard Engilbert Laudus
 		Sicleardus Helinand Liudger Cyricus Arnold Godomar Bernhard Gerold Magnachar Leutfrid Gaujoinus Electus Wandrille Werinbert Gaudulfus Ouen Arnoul Theodemir Ebregisel 
 		Magneric Eberhard Waleran Childeric Guntramn Nevelung Eracle Hildeboldus Chararic Chlodowig Ragnfred Audoen Humbert Chararic Monulph Sigeric Cyricus Gozbert Childebrand
@@ -269,7 +269,7 @@ west_gaulic = {
 		radicalism = 10
 	}
 	swiss = { 
-		color = { 180 40 40}
+		color = {180 40 40}
 		first_names = { Adolf Alexander Eduard Ernst Franz Hans Johann Josef Konstantin Martin
 		Melchior Robert Rudolf Ulrich Wilhelm Augusto Enrico Flavio Giuseppe Vincenzo
 		Antoine Charles Emmanuel Guillaume Gustave Henri Hugo Louis Marc Paul }
@@ -281,7 +281,7 @@ west_gaulic = {
 	}
 	
 	breton = { 
-		color = { 100 110 100 }
+		color = {100 110 100}
 		first_names = { Yann Yannic Pierre Jakez Elouan Frañsez Jaoua Paol Segal Alain Henri Hoël Michel Théodore }
 		
 		last_names = { "de Cornouaille" Karter Gallo Kergoulay Bellec "le Goff" Treguier Riou Morvan Peron Jezeguel Salaun "le Bihan" }
@@ -294,7 +294,7 @@ celtic = {
 	leader = european
 	
 	celtiberian = { 
-		color = { 80 150 107 }
+		color = {80 150 107}
 
 		first_names = { Alan Daveth Howel Jory Kenver Margh Peder Tomas Ruan Petrok
 		Seimon Mervyn Iwan Gareth Bryn Rhys Hywel Owain Morys }
@@ -304,7 +304,7 @@ celtic = {
 	}
 
 	lusitanian = {
-		color = { 94 191 120 }
+		color = {94 191 120}
 		first_names = { Alexander Rhys Gareth Seimon Lloyd Llewelyn Mervyn Huw Hywel Iwan Morys Owain Bryn }
 
 		last_names = { Ifans Glyn Lloyd Alwyn "ap Meryk" Lewis Glyndwr Maelor Iwrch Mawr Dda Elwyn }
@@ -316,7 +316,7 @@ visigothic = {
 	leader = european
 	
 	visigoth = { 
-		color = { 68 3 138 }
+		color = {68 3 138}
 		first_names = { Achila Agila Ardo Alaric Athanagild Braulio Bulgar Chindasuinth Chintila Egica Ervig Euric Gundemar Hermenegild
 		Ildefonsus Isidore Iudila Julian Leander Leovigild Liuva Reccared Reccesuinth Roderic Sisbert Sisebut Sisenand Suinthila Suniefred 
 		Theoderic Theudisclus Thorismund Tulga Wamba Witteric Wittiza }
@@ -326,7 +326,7 @@ visigothic = {
 	}
 
 	ostrogoth = { 
-		color = { 115 3 252 }
+		color = {115 3 252}
 		first_names = { Achila Agila Ardo Alaric Athanagild Braulio Bulgar Chindasuinth Chintila Egica Ervig Euric Gundemar Hermenegild
 		Ildefonsus Isidore Iudila Julian Leander Leovigild Liuva Reccared Reccesuinth Roderic Sisbert Sisebut Sisenand Suinthila Suniefred 
 		Theoderic Theudisclus Thorismund Tulga Wamba Witteric Wittiza }
@@ -336,7 +336,7 @@ visigothic = {
 	}
 	
 	vasconian = {
-		color = { 191 162 94 }
+		color = {191 162 94}
 		first_names = { Achila Agila Ardo Alaric Athanagild Braulio Bulgar Chindasuinth Chintila Egica Ervig Euric Gundemar Hermenegild
 		Ildefonsus Isidore Iudila Julian Leander Leovigild Liuva Reccared Reccesuinth Roderic Sisbert Sisebut Sisenand Suinthila Suniefred 
 		Theoderic Theudisclus Thorismund Tulga Wamba Witteric Wittiza }
@@ -345,13 +345,36 @@ visigothic = {
 		Leuekin Radburg Thiutuuara Chunsina Rosamund Erpsuid Rinilda Meinsent Aregund Gundradis }
 	}
 }
+
+pan_romanian = {
+	leader = european
+	unit = AustriaHungaryGC
+	romanian = {
+		color = {240 240 140}
+		first_names = { Adrian Alexandru Andrei Anton Artur Bogdan Carol Cezar Constantin Constin
+		Cosmin Daniel Dumitru Emanuel Eremia Eugen Ferdinand Flaviu Florea Gheorghe
+		Grigore Henric Horatiu Iacob Ilie Ioan Ion "Ion Emanuel" Iosif Iulian
+		Iuliu Laurentiu Leontin Luca Lucian Mihai Mircea Nicolae Ovidiu Petru
+		Radu Sergiu Silviu Simion Stefan Valeriu Vasile Victor Vintila Vlad
+		}
+
+		last_names = { Angelescu Antonescu Argetoianu Averescu Baldescu Barozzi Berindei Cernat Christecu Cihoski
+		Ciuperca Coanda Crainiceanu Critescu Culcer Cuza "de Hohenzollern" Dona Dragalina Dumitrescu
+		Falcoianu Florescu Gardescu Grigorescu Froza Harjeu Holban Iancovescu Iliasevici Iliescu
+		Ionascu Ionescu Ionitiu Koslinski Lahovary Lupescu Mardarescu Murgescu Poenaru Prezan
+		Salajan Samsonovici Schitiu Scodrea Slaniceanu Steflea Tatarascu Tenescu Vaitoianu Zottu
+		}
+		radicalism = 10
+	}
+	union = ROM 
+}
 		
 
 scandinavian = {
 	leader = european
 	unit = SwedishGC
 	swedish = { 
-		color = { 20 40 160}
+		color = {20 40 160}
 		first_names = { Albrecht Alexander Arnold August Axel Baltzar Carl Christofer Didrik Edvard
 		Elias Emil Erik Esaias Fabian Frans Fredrik Gunnar Gustav Henrik
 		Jakob Jesper Johan Julius Knut Lars Ludvig Magnus Michael Nikolaus
@@ -363,7 +386,7 @@ scandinavian = {
 		Thörnell Thulstrup Tingsten Ulner Virgin "von Essen" "von Hohenhausen" "von Otter" "von Platen" Weidenhielm }
 	}
 	danish = { 
-		color = { 220 40 40}
+		color = {220 40 40}
 		first_names = { Aage Adam Alber Anders ASmund Axel Carl Christian Edvard Edvin
 		Erik Folke Frederik Georg Hannibal Hans Henrik Herman Hugo Ivar
 		Jacob Johan Julius Knud Ludvig Magnus Michael Niels Olav Otto
@@ -375,7 +398,7 @@ scandinavian = {
 		Stemman Suenson Thygeson Trampe Urne "von Holstein" "von Oldenburg" Wadenstierna Wedel-Heinen Zytphen-Adeler }
 	}
 	norwegian = { 
-		color = { 140 20 140}
+		color = {140 20 140}
 		first_names = { Alfred Adrian Arne Bernt Bjorn Carl Caspar Christian Christopher Cort
 		Einar Elias Fredrik Georg Gerhard Gustav Haakon Hans Harald Herman
 		Johan Jorgen Ludvig Nils Ogmund Olav Osvald Otto Peter Sigurd }
@@ -385,7 +408,7 @@ scandinavian = {
 		Rye Sissener Skjalgsson Tambarskjelve "von Holstein-Glücksburg" "von Klenow" Wedel-Jarlsberg Wiborg With Zeiner-Gundersen }
 	}
 	icelandic = { 
-		color = { 80 20 150}
+		color = {80 20 150}
 		first_names = { Agnar Ásgeir Björn Eidur Einar Emil Geir Gudmund Gunnar Hannes
 		Hermann Jón Kristján Magnús Ólafur Pétur Sigurdur Stefán Sveinn Tryggvi }
 		
@@ -393,7 +416,7 @@ scandinavian = {
 		Hermannsson Johánesson Jónsson Magnússon Stefánsson Steinthosson Thórdarson Thórhallson Thorláksson Thurs }
 	}
 	finnish = { 
-		color = { 220 220 220}
+		color = {220 220 220}
 		first_names = { Aatto Akseli Aleksanteri Anders Aukusti Edvard Eemil Erkki Erno Fabian
 		Fredrik Fridolf Georg Gösta Harald Hjalmar Hugo Johannes Juho Kaarlo
 		Kurt Lars Martti Mikko Paavo Petteri Rudolf Väinö Viktor Vilho }
@@ -404,7 +427,7 @@ scandinavian = {
 		radicalism = 5
 	}
 	sami = {
-		color = { 60 180 110}
+		color = {60 180 110}
 		first_names = {
 			Asllak Biejas Dure Erke Hanno Iskko Joha Laras Markkos Mikko Niillas Osku Uhkku
 		}
@@ -476,7 +499,7 @@ polish_culture_group = {
 	unit = AustriaHungaryGC
 	
 	czech = {
-		color = { 120 120 200 }
+		color = {120 120 200}
 
 		first_names = { Abraham Alexander Alfred Alois Antonín August Bedrich Benedikt Borivoj
 		Cenek Dávid Drahoslav Edvard Emanuel Emil Evzen Frantisek "Frantisek Josef" "Frantisek Xaver"
@@ -1616,7 +1639,7 @@ neo_european_cultures = {
 		radicalism = 10
 	}
 	alaskan = {
-		color = { 14 139 80 }
+		color = {14 139 80}
 			first_names = {Adam Alexander William Henry Michael Samuel Joshua George John Matthew Mark Luke Lucas Jeffrey Ulysses 
 			Joseph Charles Russell eksandr Alexei Andrei Anton Boris Dmitry Fyodor Gennady Giorgi Grigoriy Igor Ivan Kirill Konstantin Lavr Leonid Lev Maxim 
 			Mikhail Nikita Nikolai Oleg Pavel Pyotr Roman Semyon Sergei Valery Vasily Viktor Vladimir Vladislav Yegor Yevgeny Yuri

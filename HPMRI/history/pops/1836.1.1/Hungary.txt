@@ -5,7 +5,7 @@
 	aristocrats = {
 		culture = bayern
 		religion = catholic
-		size = 125 
+		size = 126 
 	}
 
 	bureaucrats = {
