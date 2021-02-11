@@ -3,7 +3,7 @@
 #Oradea (844000/211000 POPS) #part of Romania today
 647 = {
 	clergymen = {
-		culture = romanian
+		culture = avar
 		religion = orthodox
 		size = 1250  
 	}
@@ -15,25 +15,25 @@
 	}
 
 	artisans = {
-		culture = romanian
+		culture = avar
 		religion = orthodox
 		size = 6500  
 	}
 
 	soldiers = {
-		culture = romanian
+		culture = avar
 		religion = orthodox
 		size = 1350
 	}
 
 	farmers = {
-		culture = romanian
+		culture = avar
 		religion = orthodox
 		size = 76900   
 	}
 	
 	serfs = {
-		culture = romanian
+		culture = avar
 		religion = orthodox
 		size = 40000   
 	}
@@ -45,79 +45,79 @@
 	}
 
 	aristocrats = {
-		culture = hungarian
+		culture = dacian
 		religion = catholic
 		size = 2500 
 	}
 
 	bureaucrats = {
-		culture = hungarian
+		culture = dacian
 		religion = catholic
 		size = 1050 
 	}
 
 	officers = {
-		culture = hungarian
+		culture = dacian
 		religion = catholic
 		size = 300 
 	}
 
 	clergymen = {
-		culture = hungarian
+		culture = dacian
 		religion = catholic
 		size = 300 
 	}
 
 	artisans = {
-		culture = hungarian
+		culture = dacian
 		religion = catholic
 		size = 1400
 	}
 
 	soldiers = {
-		culture = hungarian
+		culture = dacian
 		religion = catholic
 		size = 300
 	}
 
 	farmers = {
-		culture = hungarian
+		culture = dacian
 		religion = catholic
 		size = 22250 
 	}
 
 	aristocrats = {
-		culture = hungarian
+		culture = dacian
 		religion = protestant
 		size = 2000 
 	}
 
 	officers = {
-		culture = hungarian
+		culture = dacian
 		religion = protestant
 		size = 350 
 	}
 
 	clergymen = {
-		culture = hungarian
+		culture = dacian
 		religion = protestant
 		size = 375    
 	}
 
 	artisans = {
-		culture = hungarian
+		culture = dacian
 		religion = protestant
 		size = 2100   
 	}
 
 	soldiers = {
-		culture = hungarian
+		culture = dacian
 		religion = protestant
 		size = 400
 	}
 
 	farmers = {
-		culture = hungarian
+		culture = dacian
 		religion = protestant
 		size = 33775   
 	}
@@ -173,25 +173,25 @@
 #Szatmare (444000/111000 POPS) #part of Romania today 
 651 = {
 	clergymen = {
-		culture = romanian
+		culture = avar
 		religion = orthodox
 		size = 500  
 	}
 
 	artisans = {
-		culture = romanian
+		culture = avar
 		religion = orthodox
 		size = 2500  
 	}
 
 	soldiers = {
-		culture = romanian
+		culture = avar
 		religion = orthodox
 		size = 550
 	}
 
 	serfs = {
-		culture = romanian
+		culture = avar
 		religion = orthodox
 		size = 47450  
 	}
@@ -203,61 +203,61 @@
 	}
 
 	aristocrats = {
-		culture = hungarian
+		culture = dacian
 		religion = catholic
 		size = 1250 
 	}
 
 	clergymen = {
-		culture = hungarian
+		culture = dacian
 		religion = catholic
 		size = 175 
 	}
 
 	artisans = {
-		culture = hungarian
+		culture = dacian
 		religion = catholic
 		size = 900 
 	}
 
 	soldiers = {
-		culture = hungarian
+		culture = dacian
 		religion = catholic
 		size = 200
 	}
 
 	farmers = {
-		culture = hungarian
+		culture = dacian
 		religion = catholic
 		size = 15475 
 	}
 
 	aristocrats = {
-		culture = hungarian
+		culture = dacian
 		religion = protestant
 		size = 1500
 	}
 
 	clergymen = {
-		culture = hungarian
+		culture = dacian
 		religion = protestant
 		size = 225    
 	}
 
 	artisans = {
-		culture = hungarian
+		culture = dacian
 		religion = protestant
 		size = 1300   
 	}
 
 	soldiers = {
-		culture = hungarian
+		culture = dacian
 		religion = protestant
 		size = 250
 	}
 
 	farmers = {
-		culture = hungarian
+		culture = dacian
 		religion = protestant
 		size = 21725     
 	}
@@ -1583,91 +1583,91 @@
 #Beszterce (300000/75000 POPS)  
 661 = {
 	clergymen = {
-		culture = romanian
+		culture = avar
 		religion = orthodox
 		size = 500 
 	}
 
 	artisans = {
-		culture = romanian
+		culture = avar
 		religion = orthodox
 		size = 2500
 	}
 
 	soldiers = {
-		culture = romanian
+		culture = avar
 		religion = orthodox
 		size = 500
 	}
 
 	farmers = {
-		culture = romanian
+		culture = avar
 		religion = orthodox
 		size = 29500 
 	}
 
 	serfs = {
-		culture = romanian
+		culture = avar
 		religion = orthodox
 		size = 20000 
 	}
 	
 	aristocrats = {
-		culture = hungarian
+		culture = dacian
 		religion = catholic
 		size = 350   
 	}
 
 	clergymen = {
-		culture = hungarian
+		culture = dacian
 		religion = catholic
 		size = 100  
 	}
 
 	artisans = {
-		culture = hungarian
+		culture = dacian
 		religion = catholic
 		size = 200  
 	}
 
 	soldiers = {
-		culture = hungarian
+		culture = dacian
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = hungarian
+		culture = dacian
 		religion = catholic
 		size = 3350   
 	}
 
 	aristocrats = {
-		culture = hungarian
+		culture = dacian
 		religion = protestant
 		size = 600  
 	}
 
 	clergymen = {
-		culture = hungarian
+		culture = dacian
 		religion = protestant
 		size = 100      
 	}
 
 	artisans = {
-		culture = hungarian
+		culture = dacian
 		religion = protestant
 		size = 400    
 	}
 
 	soldiers = {
-		culture = hungarian
+		culture = dacian
 		religion = protestant
 		size = 100
 	}
 
 	farmers = {
-		culture = hungarian
+		culture = dacian
 		religion = protestant
 		size = 6850      
 	}
@@ -1729,25 +1729,25 @@
 #Targu Mures (344000/86000 POPS)  
 2533 = {
 	clergymen = {
-		culture = romanian
+		culture = dacian
 		religion = orthodox
 		size = 250 
 	}
 
 	artisans = {
-		culture = romanian
+		culture = dacian
 		religion = orthodox
 		size = 1300
 	}
 
 	soldiers = {
-		culture = romanian
+		culture = dacian
 		religion = orthodox
 		size = 300
 	}
 
 	serfs = {
-		culture = romanian
+		culture = dacian
 		religion = orthodox
 		size = 24150 
 	}
@@ -1759,61 +1759,61 @@
 	}
 
 	aristocrats = {
-		culture = hungarian
+		culture = dacian
 		religion = catholic
 		size = 700   
 	}
 
 	clergymen = {
-		culture = hungarian
+		culture = dacian
 		religion = catholic
 		size = 150 
 	}
 
 	artisans = {
-		culture = hungarian
+		culture = dacian
 		religion = catholic
 		size = 800  
 	}
 
 	soldiers = {
-		culture = hungarian
+		culture = dacian
 		religion = catholic
 		size = 175
 	}
 
 	farmers = {
-		culture = hungarian
+		culture = dacian
 		religion = catholic
 		size = 14175   
 	}
 
 	aristocrats = {
-		culture = hungarian
+		culture = dacian
 		religion = protestant
 		size = 900  
 	}
 
 	clergymen = {
-		culture = hungarian
+		culture = dacian
 		religion = protestant
 		size = 300      
 	}
 
 	artisans = {
-		culture = hungarian
+		culture = dacian
 		religion = protestant
 		size = 1600    
 	}
 
 	soldiers = {
-		culture = hungarian
+		culture = dacian
 		religion = protestant
 		size = 325
 	}
 
 	farmers = {
-		culture = hungarian
+		culture = dacian
 		religion = protestant
 		size = 28875      
 	}
@@ -1925,31 +1925,31 @@
 	}
 
 	aristocrats = {
-		culture = hungarian
+		culture = avar
 		religion = catholic
 		size = 600   
 	}
 
 	clergymen = {
-		culture = hungarian
+		culture = avar
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = hungarian
+		culture = avar
 		religion = catholic
 		size = 175  
 	}
 
 	soldiers = {
-		culture = hungarian
+		culture = avar
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = hungarian
+		culture = avar
 		religion = catholic
 		size = 2100  
 	}
@@ -2095,31 +2095,31 @@
 #Tirgu Jiu (172000/43000 POPS)  
 665 = {
 	aristocrats = {
-		culture = romanian
+		culture = dacian
 		religion = orthodox
 		size = 750 
 	}
 
 	clergymen = {
-		culture = romanian
+		culture = dacian
 		religion = orthodox
 		size = 400 
 	}
 
 	artisans = {
-		culture = romanian
+		culture = dacian
 		religion = orthodox
 		size = 1950
 	}
 
 	soldiers = {
-		culture = romanian
+		culture = dacian
 		religion = orthodox
 		size = 1100
 	}
 
 	farmers = {
-		culture = romanian
+		culture = dacian
 		religion = orthodox
 		size = 58500 
 	}
@@ -2133,31 +2133,31 @@
 #Craiova (196000/49000 POPS)  
 666 = {
 	aristocrats = {
-		culture = romanian
+		culture = dacian
 		religion = orthodox
 		size = 900 
 	}
 
 	clergymen = {
-		culture = romanian
+		culture = dacian
 		religion = orthodox
 		size = 450 
 	}
 
 	artisans = {
-		culture = romanian
+		culture = dacian
 		religion = orthodox
 		size = 2250
 	}
 
 	soldiers = {
-		culture = romanian
+		culture = dacian
 		religion = orthodox
 		size = 1100
 	}
 
 	farmers = {
-		culture = romanian
+		culture = dacian
 		religion = orthodox
 		size = 55950 
 	}
@@ -2624,43 +2624,43 @@
 	}
 
 	aristocrats = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 650
 	}
 
 	bureaucrats = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 75
 	}
 
 	officers = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 1100
 	}
 
 	soldiers = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 1100
 	}
 
 	farmers = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 4165
 	}
@@ -2669,26 +2669,26 @@
 675 = {
 
 	soldiers = {
-		culture = greek
-		religion = catholic
+		culture = romanian
+		religion = orthodox
 		size = 100
 	}
 
 	clergymen = {
-		culture = greek
-		religion = catholic
+		culture = romanian
+		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = greek
-		religion = catholic
+		culture = romanian
+		religion = orthodox
 		size = 250
 	}
 
 	farmers = {
 		culture = romanian
-		religion = catholic
+		religion = orthodox
 		size = 3600 
 	}
 	
@@ -2700,30 +2700,30 @@
 
 	aristocrats = {
 		culture = greek
-		religion = catholic
+		religion = sunni
 		size = 150 
 	}
 
 	clergymen = {
-		culture = latin
-		religion = catholic
+		culture = greek
+		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = latin
-		religion = catholic
+		culture = greek
+		religion = sunni
 		size = 200 
 	}
 
 	soldiers = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 1100
 	}
 
 	farmers = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 600 
 	}
