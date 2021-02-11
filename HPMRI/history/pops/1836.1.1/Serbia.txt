@@ -89,31 +89,31 @@
 #Pancevo (268000/67000 POPS) #part of illyriania today
 792 = {
 	clergymen = {
-		culture = serb
+		culture = ostrogoth
 		religion = orthodox
 		size = 250
 	}
 
 	artisans = {
-		culture = serb
+		culture = ostrogoth
 		religion = orthodox
 		size = 1100
 	}
 
 	soldiers = {
-		culture = serb
+		culture = ostrogoth
 		religion = orthodox
 		size = 300 
 	}
 
 	farmers = {
-		culture = serb
+		culture = ostrogoth
 		religion = orthodox
 		size = 23325
 	}
 	
 	serfs = {
-		culture = serb
+		culture = ostrogoth
 		religion = catholic
 		size = 1000
 	}
@@ -143,7 +143,7 @@
 	}
 
 	farmers = {
-		culture = serb
+		culture = ostrogoth
 		religion = catholic
 		size = 8700 
 	}
@@ -173,31 +173,31 @@
 	}
 
 	farmers = {
-		culture = serb
+		culture = ostrogoth
 		religion = catholic
 		size = 17600  
 	}
 
 	clergymen = {
-		culture = serb
+		culture = ostrogoth
 		religion = orthodox
 		size = 100 
 	}
 
 	artisans = {
-		culture = serb
+		culture = ostrogoth
 		religion = orthodox
 		size = 500
 	}
 
 	soldiers = {
-		culture = serb
+		culture = ostrogoth
 		religion = orthodox
 		size = 100 
 	}
 
 	farmers = {
-		culture = serb
+		culture = ostrogoth
 		religion = orthodox
 		size = 10300 
 	}
@@ -205,37 +205,37 @@
 #Novi Sad (384000/96000 POPS) #part of illyriania today
 2538 = {
 	officers = {
-		culture = serb
+		culture = ostrogoth
 		religion = orthodox
 		size = 75 
 	}
 
 	clergymen = {
-		culture = serb
+		culture = ostrogoth
 		religion = orthodox
 		size = 275
 	}
 
 	artisans = {
-		culture = serb
+		culture = ostrogoth
 		religion = orthodox
 		size = 1250
 	}
 
 	soldiers = {
-		culture = serb
+		culture = ostrogoth
 		religion = orthodox
 		size = 300 
 	}
 
 	serfs = {
-		culture = serb
+		culture = ostrogoth
 		religion = orthodox
 		size = 24175 
 	}
 	
 	farmers = {
-		culture = serb
+		culture = ostrogoth
 		religion = catholic
 		size = 1000 
 	}
@@ -265,7 +265,7 @@
 	}
 
 	farmers = {
-		culture = serb
+		culture = ostrogoth
 		religion = catholic
 		size = 25000 
 	}
@@ -277,25 +277,25 @@
 	}
 	
 	clergymen = {
-		culture = serb
+		culture = ostrogoth
 		religion = catholic
 		size = 100  
 	}
 
 	artisans = {
-		culture = serb
+		culture = ostrogoth
 		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
-		culture = serb
+		culture = ostrogoth
 		religion = catholic
 		size = 100 
 	}
 
 	serfs = {
-		culture = serb
+		culture = ostrogoth
 		religion = catholic
 		size = 4625  
 	}
