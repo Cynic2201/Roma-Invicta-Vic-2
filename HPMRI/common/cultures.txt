@@ -1,6 +1,62 @@
 # Do not change tags in here without changing every other reference to them.
 # If adding new groups or cultures, make sure they are unique.
 	
+north_african = { 
+	leader = african
+	unit = AfricanGC
+	
+	berber = {
+ 	       color = {51 75 70}
+  	      first_names = {
+  	          Ahmed "Abd al-Karim" Khalid Muhammad Mustafa
+ 	           }
+
+ 	       last_names = {
+	            "al-Jazuli" Belkadi Mukrani "al-Rifi" "al-Sahrawi" "al-Shawiyyati" "al-Shiluhi" "al-Zanatawi"
+ 	           }
+ 	       radicalism = 10
+ 	   }
+	
+	neo_punic = {
+
+		color = {214 138 124}
+		first_names = { Wisimar Valentinian Huenric Alexandros Basil Constantine Christpohus Diocletian }
+		
+		last_names = {  Benedictus Antony Aurelius Appius Aulus Caeso Decimus Gaius Gnaeus Lucius Mamercus Manius Marcus
+		Numerius Publius Quintus Servius Sextus Spurius Titus Tiberius }
+		
+		}
+
+	mauretanian = {
+
+		color = {214 174 124}
+		first_names = { Wisimar Valentinian Huenric Alexandros Basil Constantine Christpohus Diocletian }
+		
+		last_names = {  Benedictus Antony Aurelius Appius Aulus Caeso Decimus Gaius Gnaeus Lucius Mamercus Manius Marcus
+		Numerius Publius Quintus Servius Sextus Spurius Titus Tiberius }
+		
+		}
+
+	numidian = {
+
+		color = {214 204 124}
+		first_names = { Wisimar Valentinian Huenric Alexandros Basil Constantine Christpohus Diocletian }
+		
+		last_names = {  Benedictus Antony Aurelius Appius Aulus Caeso Decimus Gaius Gnaeus Lucius Mamercus Manius Marcus
+		Numerius Publius Quintus Servius Sextus Spurius Titus Tiberius }
+		
+		}
+
+	tripolitanian = {
+			color = {199 155 193}
+		first_names = { Wisimar Valentinian Huenric Alexandros Basil Constantine Christpohus Diocletian }
+		
+		last_names = {  Benedictus Antony Aurelius Appius Aulus Caeso Decimus Gaius Gnaeus Lucius Mamercus Manius Marcus
+		Numerius Publius Quintus Servius Sextus Spurius Titus Tiberius }
+		
+		}
+	}
+
 latin_group = {
 	leader = european
 	unit = ItalianGC
@@ -109,12 +165,40 @@ hellenic = {
 		Tsaklev Valkov Valnarov Vasilev Vazov Velchev Zafirov Zhekov Zlatarev Zlatev
 		}
 	}
+	greko_egyptian = {
+		color = {142  200  230}
+		first_names = { Adamantios Alexandros Anastasios Andreas Antonios Aristidis Athanasios Augustinos Benizelos Charalambos
+		Charilaos Dimitrios Diomidis Eleftherios Emmanouil Epameinontas Evripidis Gennaios Georgios Ilias
+		Ionnis Kitsos Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
+		Nikolaos Odysseas Othon Panagiotis Pavlos Petros Sofoklis Sotiris Spyridion Spyros
+		Staikos Stefanos Stylianos Themistoklis Theodoros Tharyvoulos Tzannis Vasos Viktor Zinovios
+		}
 
+		last_names = { Charalambis Christakis-Zografos Danglis Dousmanis Foumis Gonatas Hatzianestis Kallergis Kanaris Katsimiros
+		Kolokotronis Kondylis Kountouriotis Kriezis Makriyannis Manos Mavrocordatos Mavrovouniotis Metaxas Mouskos
+		Nider Othonaios Palaskas Pangalos Papadiamantopoulos Papadopoulos Papagos Papoulas Parakevopouolos Plapoutas
+		Plastiras Sapountzakis Sarafis Smolenskis Sofoulis Soutsos Spyromilios Staikopoulos Stanotas "tes Elladas"
+		Trikoupis Tsakalotos Tsolakoglou Typaldos-Alfonsatos Tzavelas Vassos Venizelos Voulgaris Zaimis Zymvrakakis
+		}
+	}
 	}	
 
 germanic = {
 	leader = european
 	
+	vandal = {	
+		color = {171 68 0}
+		first_names = {  Wisimar Valentinian Huenric Alexandros Basil Constantine Christpohus Diocletian 
+		Konrad Leonhard Leopold Ludwig Lukas Manfred Maximilian Michael Nikolaus Otto
+		Pascal Paul Peter Reinhard Rudolf Ruprecht Stefan Theodor Wilhelm Wolfgang }
+		
+		last_names = { Behncke Brommy Cordemann Dreyer Droste Groener "Herwarth von Bittenfeld" Heppendorf Hoffmann Krohn Ludendorff Schree
+		Benedictus Antony Aurelius Appius Aulus Caeso Decimus Gaius Gnaeus Lucius Mamercus Manius Marcus
+		Numerius Publius Quintus Servius Sextus Spurius Titus Tiberius }
+	}	
+
+
+
 	saxon = {
 		color = {0 96 36}
 		first_names = { Adelbert Adolf Albrecht Alexander Alfred August Bernhard Burkhard Dieter
