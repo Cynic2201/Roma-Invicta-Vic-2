@@ -301,7 +301,7 @@
 	clergymen = {
 		culture = ukrainian
 		religion = orthodox
-		size = 850  
+		size = 851  
 	}
 
 	artisans = {
