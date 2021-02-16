@@ -5,6 +5,23 @@ north_african = {
 	leader = african
 	unit = AfricanGC
 	
+
+    misri = {
+        color = {235 201 134}
+        first_names = {
+            Abdullah Abdulhamid Abdulkerim Ahmet Ali Bekir Cemal Enver Fevzi Fuat Halil
+            Hasan Ibrahim Iskender Ismet Izzet Kamil Kazim Kemal
+            Mehmet Murat Musa Mustafa Nazim Nurettin Omar Osman
+            Nuri Rauf Rifat Selim Shukru Suleyman Urabi Yusuf Yunus Ziya
+            }
+
+        last_names = {
+            Elsherbiny  Elshinnawy Abdel-Dayem Elhadidy Adib Bassili Aboul-Nour Elbassiouny Aoul-Enein Elsaeid Elhousseiny Khattab Gouda Elbordiny Arafa
+            Elsafty Elshorbagy Hasheesh Halim Tawakol Elfar Elbadry Khalil Shahin Elserafie Hakim Kira Amer Bakhoum Elmanawy Deyab Derbala Elhadidi Elbenhawy
+            Negm Nakhla Koura Elshazly Soliman Elkhashab Elkady Hindawy Zeitoun Elgammal
+        }
+    }	
+
 	berber = {
  	       color = {51 75 70}
   	      first_names = {
@@ -46,16 +63,7 @@ north_african = {
 		Numerius Publius Quintus Servius Sextus Spurius Titus Tiberius }
 		
 		}
-
-	tripolitanian = {
-			color = {199 155 193}
-		first_names = { Wisimar Valentinian Huenric Alexandros Basil Constantine Christpohus Diocletian }
-		
-		last_names = {  Benedictus Antony Aurelius Appius Aulus Caeso Decimus Gaius Gnaeus Lucius Mamercus Manius Marcus
-		Numerius Publius Quintus Servius Sextus Spurius Titus Tiberius }
-		
-		}
-	}
+}
 
 latin_group = {
 	leader = european
@@ -120,6 +128,17 @@ jewish = {
 		}
 	}
 
+	bedouin = {
+		color = {100 60 10}
+		first_names = { Abraham Amos Baruch Binyamin Daniel David Efraim Ehud Eli Eliezer Elijah Gavriel Hebel Immanuel Itzhak Levi Mattiyahu Mensahe Mikhael Moshe 
+		Natan Noach Reuben Roi Shalom Shimon Tovia Uriel Uzziel Yaakov Yachin Yafe Yehoshua Yehudah Yochanan Yonatan Yosef Zohar
+		}
+
+		last_names = { Banai Barak "Ben Ami" Benveniste Canetti Cantor Cardoso Cohen Disraeli Gaon Golan Halevi Levy Maimon Mizrachi Montefiore Peretz Rafaeli Saban 
+		Sassoon Sebag
+		}
+	}
+
 	ashkenazi = { 
 		color = {130 100 100}
 		first_names = { Abraham Albert Benjamin Daniel David Franz Gustav Heinrich Hermann Isaak Ignatz Jakob Jeremias Josef Leonhard Michael Mose Salomon Saul Shmuel
@@ -166,7 +185,7 @@ hellenic = {
 		}
 	}
 	greko_egyptian = {
-		color = {142  200  230}
+		color = {150 209 209}
 		first_names = { Adamantios Alexandros Anastasios Andreas Antonios Aristidis Athanasios Augustinos Benizelos Charalambos
 		Charilaos Dimitrios Diomidis Eleftherios Emmanouil Epameinontas Evripidis Gennaios Georgios Ilias
 		Ionnis Kitsos Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis

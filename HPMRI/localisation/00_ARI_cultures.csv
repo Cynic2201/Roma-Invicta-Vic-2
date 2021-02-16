@@ -1,4 +1,4 @@
-wandalico_romanus;Cartago-Latin;;;;;;;;;;;;x
+debug_placeholder;debug placeholder;;;;;;;;;;;;
 gaul;Gaul;;;;;;;;;;;;x
 illyrian;Ilyrian;;;;;;;;;;;;x
 burgund;Burgund;;;;;;;;;;;;x
@@ -17,3 +17,11 @@ lusitanian;Lusitanian;;;;;;;;;;;;
 celtiberian;Celtiberian;;;;;;;;;;;;
 slovak;Slavic;;;;;;;;;;;;
 vasconian;Vasconian;;;;;;;;;;;;
+greko_egyptian;Alexandrian;;;;;;;;;;;;
+misri;Egyptian;;;;;;;;;;;;
+wandalico_romanus;Cartago-Latin;;;;;;;;;;;;x
+vandal;Vandal;;;;;;;;;;;;
+neo_punic;Neo Punic;;;;;;;;;;;;
+mauretanian;Mauretanian;;;;;;;;;;;;
+numidian;Numidian;;;;;;;;;;;;
+bedouin;Adean;;;;;;;;;;;;
