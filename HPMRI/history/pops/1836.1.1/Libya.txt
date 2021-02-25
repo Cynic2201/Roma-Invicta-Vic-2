@@ -9,37 +9,37 @@
 	}
 
 	bureaucrats = {
-		culture = wandalico_romanus 
+		culture = african 
 		religion = sunni
 		size = 50
 	}
 
 	officers = {
-		culture = wandalico_romanus 
+		culture = african 
 		religion = sunni
 		size = 75
 	}
 
 	clergymen = {
-		culture = wandalico_romanus 
+		culture = african 
 		religion = sunni
 		size = 275
 	}
 
 	artisans = {
-		culture = wandalico_romanus 
+		culture = african 
 		religion = sunni
 		size = 3150
 	}
 
 	soldiers = {
-		culture = wandalico_romanus 
+		culture = african 
 		religion = sunni
 		size = 1100
 	}
 
 	farmers = {
-		culture = wandalico_romanus 
+		culture = african 
 		religion = sunni
 		size = 42900
 	}
@@ -95,31 +95,31 @@
 #Gharyan (40000/10000 POPS)
 1732 = {
 	aristocrats = {
-		culture = wandalico_romanus 
+		culture = african 
 		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
-		culture = wandalico_romanus 
+		culture = african 
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = wandalico_romanus 
+		culture = african 
 		religion = sunni
 		size = 150
 	}
 
 	soldiers = {
-		culture = wandalico_romanus 
+		culture = african 
 		religion = sunni
 		size = 1100
 	}
 
 	farmers = {
-		culture = wandalico_romanus 
+		culture = african 
 		religion = sunni
 		size = 1725
 	}
@@ -163,31 +163,31 @@
 #Misratah (84000/21000 POPS)
 1733 = {
 	aristocrats = {
-		culture = wandalico_romanus 
+		culture = african 
 		religion = sunni
 		size = 175
 	}
 
 	clergymen = {
-		culture = wandalico_romanus 
+		culture = african 
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = wandalico_romanus 
+		culture = african 
 		religion = sunni
 		size = 500
 	}
 
 	soldiers = {
-		culture = wandalico_romanus 
+		culture = african 
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = wandalico_romanus 
+		culture = african 
 		religion = sunni
 		size = 10125
 	}
@@ -243,31 +243,31 @@
 #Sirt (100000/25000 POPS)
 1734 = {
 	aristocrats = {
-		culture = wandalico_romanus 
+		culture = african 
 		religion = sunni
 		size = 150
 	}
 
 	clergymen = {
-		culture = wandalico_romanus 
+		culture = african 
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = wandalico_romanus 
+		culture = african 
 		religion = sunni
 		size = 400
 	}
 
 	soldiers = {
-		culture = wandalico_romanus 
+		culture = african 
 		religion = sunni
 		size = 75
 	}
 
 	farmers = {
-		culture = wandalico_romanus 
+		culture = african 
 		religion = sunni
 		size = 7300
 	}
@@ -576,19 +576,19 @@
 #Waddan (16000/4000 POPS)
 1740 = {
 	aristocrats = {
-		culture = wandalico_romanus 
+		culture = african 
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-		culture = wandalico_romanus 
+		culture = african 
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = wandalico_romanus 
+		culture = african 
 		religion = sunni
 		size = 150
 	}
@@ -751,13 +751,13 @@
 	}
 
 	artisans = {
-		culture = wandalico_romanus 
+		culture = african 
 		religion = sunni
 		size = 50
 	}
 
 	soldiers = {
-		culture = wandalico_romanus 
+		culture = african 
 		religion = sunni
 		size = 10
 	}
@@ -888,13 +888,13 @@
 	}
 
 	artisans = {
-		culture = wandalico_romanus 
+		culture = african 
 		religion = sunni
 		size = 200
 	}
 
 	soldiers = {
-		culture = wandalico_romanus 
+		culture = african 
 		religion = sunni
 		size = 1100
 	}

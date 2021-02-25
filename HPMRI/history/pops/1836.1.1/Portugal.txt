@@ -366,7 +366,7 @@
 	}
 
 	farmers = {
-		culture = wandalico_romanus 
+		culture = african 
 		religion = catholic
 		size = 30000
 	}

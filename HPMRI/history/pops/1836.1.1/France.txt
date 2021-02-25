@@ -3800,7 +3800,7 @@
 #Corsica (210000/52500 POPS)
 473 = {
 	aristocrats = {
-		culture = wandalico_romanus
+		culture = african
 		religion = catholic
 		size = 400
 	}
@@ -3812,19 +3812,19 @@
 	}
 
 	officers = {
-		culture = wandalico_romanus
+		culture = african
 		religion = catholic
 		size = 50
 	}
 
 	bureaucrats = {
-		culture = wandalico_romanus
+		culture = african
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = wandalico_romanus
+		culture = african
 		religion = catholic
 		size = 200
 	}
@@ -3836,19 +3836,19 @@
 	}
 
 	artisans = {
-		culture = wandalico_romanus
+		culture = african
 		religion = catholic
 		size = 1100
 	}
 
 	soldiers = {
-		culture = wandalico_romanus
+		culture = african
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = wandalico_romanus
+		culture = african
 		religion = catholic
 		size = 4800
 	}

@@ -103,7 +103,7 @@ latin_group = {
 
 
 
-	wandalico_romanus = {
+	african = {
 		color = {252 163 119}
 		first_names = { Wisimar Valentinian Huenric Alexandros Basil Constantine Christpohus Diocletian }
 		

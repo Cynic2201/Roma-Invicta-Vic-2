@@ -21,37 +21,37 @@
 	}
 
 	aristocrats = {
-		culture = wandalico_romanus
+		culture = african
 		religion = catholic
 		size = 200
 	}
 
 	bureaucrats = {
-		culture = wandalico_romanus
+		culture = african
 		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
-		culture = wandalico_romanus
+		culture = african
 		religion = catholic
 		size = 275
 	}
 
 	artisans = {
-		culture = wandalico_romanus
+		culture = african
 		religion = catholic
 		size = 5500
 	}
 
 	soldiers = {
-		culture = wandalico_romanus
+		culture = african
 		religion = catholic
 		size = 340
 	}
 
 	farmers = {
-		culture = wandalico_romanus
+		culture = african
 		religion = catholic
 		size = 20475
 	}
