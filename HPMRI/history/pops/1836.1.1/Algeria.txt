@@ -3,7 +3,7 @@
 #Algiers (280000/70000 POPS)
 1700 = {
 	aristocrats = {
-		culture = wandalico_romanus 
+		culture = african 
 		religion = catholic
 		size = 100
 	}
