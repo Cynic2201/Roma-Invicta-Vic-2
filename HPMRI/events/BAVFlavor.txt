@@ -134,7 +134,7 @@ country_event = {
 
 	title = "EVTNAME33402"
 	desc = "EVTDESC33402"
-	picture = "Bayern"
+	picture = "Bavarian"
 
 	option = {
 		name = "EVTOPTA33402" 

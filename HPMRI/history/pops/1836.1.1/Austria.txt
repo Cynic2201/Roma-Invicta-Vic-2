@@ -3,13 +3,13 @@
 #Innsbruck (236000/59000 POPS)
 612 = {
 	aristocrats = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 750 
 	}
 
 	bureaucrats = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 1375 
 	}
@@ -39,7 +39,7 @@
 	}
 
 	soldiers = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 100
 	}
@@ -50,7 +50,7 @@
 		size = 30325
 	}
 	farmers = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 20000
 	}
@@ -58,7 +58,7 @@
 #Salzburg (136000/34000 POPS)
 613 = {
 	aristocrats = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 450 
 	}
@@ -76,7 +76,7 @@
 	}
 
 	soldiers = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 1100
 	}
@@ -87,7 +87,7 @@
 		size = 14975
 	}
 	farmers = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 10000
 	}
@@ -166,43 +166,43 @@
 #Graz (380000/95000 POPS)
 616 = {
 	aristocrats = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 1550 
 	}
 
 	bureaucrats = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 1425 
 	}
 
 	officers = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 275 
 	}
 
 	clergymen = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 1025 
 	}
 
 	artisans = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 10000
 	}
 
 	soldiers = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 2050
 	}
 
 	farmers = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 70675 
 	}
@@ -210,37 +210,37 @@
 #Judenburg (168000/42000 POPS)
 617 = {
 	aristocrats = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 700 
 	}
 
 	clergymen = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 450
 	}
 
 	artisans = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 2250
 	}
 
 	soldiers = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 3000
 	}
 
 	soldiers = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 1050
 	}
 
 	farmers = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 35150
 	}
@@ -248,25 +248,25 @@
 #Klagenfurt (188000/47000 POPS)
 618 = {
 	aristocrats = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 450 
 	}
 
 	clergymen = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 325 
 	}
 
 	artisans = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 1550
 	}
 
 	soldiers = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 1100
 	}
@@ -278,7 +278,7 @@
 	}
 
 	farmers = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 10000
 	}
@@ -312,91 +312,91 @@
 #Vienna (1084000/271000 POPS)
 619 = {
 	aristocrats = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 4250 
 	}
 
 	bureaucrats = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 3100
 	}
 
 	officers = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 600 
 	}
 
 	clergymen = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 2750
 	}
 
 	artisans = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 7500
 	}
 
 	soldiers = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 2750 
 	}
 
 	soldiers = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 3000
 	}
 
 	soldiers = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 3000
 	}
 
 	soldiers = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 3000
 	}
 
 	farmers = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 186250
 	}
@@ -466,37 +466,37 @@
 #Sankt Polten (88000/22000 POPS)
 620 = {
 	aristocrats = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 375 
 	}
 
 	bureaucrats = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 600 
 	}
 	
 	clergymen = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 250
 	}
 
 	artisans = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 1200
 	}
 
 	soldiers = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 250 
 	}
 
 	farmers = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 19925 
 	}
@@ -504,31 +504,31 @@
 #Krems (240000/60000 POPS)
 621 = {
 	aristocrats = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 925 
 	}
 
 	clergymen = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 625
 	}
 
 	artisans = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 3100
 	}
 
 	soldiers = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 2650
 	}
 
 	farmers = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 50700
 	}
@@ -536,49 +536,49 @@
 #Linz (588000/147000 POPS)
 622 = {
 	aristocrats = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 2300 
 	}
 
 	clergymen = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 3200 
 	}
 
 	artisans = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 7650
 	}
 
 	soldiers = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 1550 
 	}
 
 	soldiers = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 3000
 	}
 
 	soldiers = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 3000
 	}
 
 	soldiers = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 3000
 	}
 
 	farmers = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 115900
 	}
@@ -588,31 +588,31 @@
 #Eisenstadt (196000/49000 POPS)
 624 = {
 	aristocrats = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 700 
 	}
 
 	clergymen = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 475
 	}
 
 	artisans = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 2450
 	}
 
 	soldiers = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 2100
 	}
 
 	farmers = {
-		culture = bayern 
+		culture = bavarian 
 		religion = catholic
 		size = 40075
 	}

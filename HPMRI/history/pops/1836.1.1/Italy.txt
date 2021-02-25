@@ -868,7 +868,7 @@
 	}
 
 	bureaucrats = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 450
 	}
@@ -2469,7 +2469,7 @@
 	}
 
 	farmers = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 1000
 	}

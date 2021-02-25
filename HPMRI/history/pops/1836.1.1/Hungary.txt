@@ -3,43 +3,43 @@
 #Sopron (100000/25000 POPS) #part of Hungary today
 623 = {
 	aristocrats = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 126 
 	}
 
 	bureaucrats = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 400 
 	}
 
 	officers = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 200 
 	}
 
 	clergymen = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 100 
 	}
 
 	artisans = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 1500
 	}
 
 	soldiers = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 6600 
 	}
@@ -113,37 +113,37 @@
 #Zalaegerszeg (860000/215000 POPS) #part of Hungary today
 639 = {
 	aristocrats = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 450 
 	}
 
 	clergymen = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 300 
 	}
 
 	bureaucrats = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 400 
 	}
 	
 	artisans = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 1500
 	}
 
 	soldiers = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 27450 
 	}
@@ -381,43 +381,43 @@
 	}
 
 	aristocrats = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 500 
 	}
 
 	bureaucrats = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 75 
 	}
 
 	officers = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 100 
 	}
 
 	clergymen = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 175
 	}
 
 	artisans = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 1100 
 	}
 
 	soldiers = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 250
 	}
 
 	farmers = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 18545
 	}
@@ -469,7 +469,7 @@
 	}
 	
 	bureaucrats = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 600 
 	}
@@ -571,43 +571,43 @@
 	}
 
 	aristocrats = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 800  
 	}
 
 	bureaucrats = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 500  
 	}
 
 	officers = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 175  
 	}
 
 	clergymen = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 250
 	}
 
 	artisans = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 7500 
 	}
 
 	soldiers = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 1275
 	}
 
 	farmers = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 15500
 	}
@@ -699,25 +699,25 @@
 	}
 
 	clergymen = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 100 
 	}
 
 	artisans = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 150 
 	}
 
 	soldiers = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 1800 
 	}
@@ -809,31 +809,31 @@
 	}
 
 	aristocrats = {
-		culture = bayern
+		culture = bavarian
 		religion = protestant
 		size = 275 
 	}
 
 	clergymen = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 250 
 	}
 
 	artisans = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 1300 
 	}
 
 	soldiers = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 275
 	}
 
 	farmers = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 23900
 	}
@@ -925,25 +925,25 @@
 	}
 
 	clergymen = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 350 
 	}
 
 	soldiers = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 6525
 	}
@@ -1035,25 +1035,25 @@
 	}
 
 	clergymen = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 100 
 	}
 
 	artisans = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 150 
 	}
 
 	soldiers = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 800 
 	}
@@ -1075,7 +1075,7 @@
 	}
 	
 	bureaucrats = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 700 
 	}
@@ -1187,7 +1187,7 @@
 	}
 
 	bureaucrats = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 500 
 	}
@@ -1297,7 +1297,7 @@
 	}
 	
 	bureaucrats = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 600 
 	}
@@ -1381,25 +1381,25 @@
 	}
 
 	clergymen = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 100  
 	}
 
 	artisans = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 500  
 	}
 
 	soldiers = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 5375  
 	}
@@ -1413,7 +1413,7 @@
 	}
 
 	bureaucrats = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 600 
 	}
@@ -1497,25 +1497,25 @@
 	}
 
 	clergymen = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 100  
 	}
 
 	artisans = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 250  
 	}
 
 	soldiers = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = bayern
+		culture = bavarian
 		religion = catholic
 		size = 1675  
 	}
