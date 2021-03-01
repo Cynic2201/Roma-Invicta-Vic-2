@@ -1,7 +1,7 @@
 debug_placeholder;debug placeholder;;;;;;;;;;;;
-gaul;Gaul;;;;;;;;;;;;x
+gaul;Gallic;;;;;;;;;;;;x
 illyrian;Ilyrian;;;;;;;;;;;;x
-burgund;Burgund;;;;;;;;;;;;x
+burgund;Burgundi;;;;;;;;;;;;x
 gallo_roman;Gallo-Roman;;;;;;;;;;;;x
 latin;Latin;;;;;;;;;;;;
 swiss;Helvetian;;;;;;;;;;;;
@@ -11,7 +11,7 @@ frisian;Frisian;;;;;;;;;;;;
 saxon;Saxon;;;;;;;;;;;;
 bavarian;Bavarian;;;;;;;;;;;;
 sorbian;Sorbian;;;;;;;;;;;;
-visigoth;Visigoth;;;;;;;;;;;;
+visigoth;Visigothic;;;;;;;;;;;;
 latin_hispaniam;Latin-Hispanic;;;;;;;;;;;;x
 lusitanian;Lusitanian;;;;;;;;;;;;
 celtiberian;Celtiberian;;;;;;;;;;;;
@@ -24,3 +24,6 @@ neo_punic;Neo Punic;;;;;;;;;;;;
 mauretanian;Mauretanian;;;;;;;;;;;;
 numidian;Numidian;;;;;;;;;;;;
 bedouin;Arab;;;;;;;;;;;;
+dacian;Dacian;;;;;;;;;;;;
+ostrogoth;Ostrogothic;;;;;;;;;;;;
+avar;Avar;;;;;;;;;;;;

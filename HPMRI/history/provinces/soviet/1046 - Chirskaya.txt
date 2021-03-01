@@ -1,6 +1,6 @@
-owner = BUL
-controller = BUL
-add_core = BUL
+owner = KUM
+controller = KUM
+add_core = KUM
 add_core = KMK
 trade_goods = coal
 life_rating = 35

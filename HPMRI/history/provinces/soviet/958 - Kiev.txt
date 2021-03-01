@@ -1,6 +1,7 @@
-owner = UKR
-controller = UKR
-add_core = UKR
+owner = GLV
+controller = GLV
+add_core = GLV
+add_core = RUS
 trade_goods = grain
 life_rating = 40
 terrain = farmlands

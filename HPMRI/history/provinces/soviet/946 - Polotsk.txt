@@ -1,6 +1,7 @@
-owner = UKR
-controller = UKR
-add_core = UKR
-add_core = BYE
+owner = PLT
+controller = PLT
+add_core = PLT
+add_core = GLV
+add_core = RUS
 trade_goods = wool
 life_rating = 35

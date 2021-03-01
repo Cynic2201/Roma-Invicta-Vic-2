@@ -1,7 +1,6 @@
-owner = RUS
-controller = RUS
-add_core = RUS
-add_core = TAR
+owner = KZN
+controller = KZN
+add_core = KZN
 add_core = URA
 trade_goods = iron
 life_rating = 35

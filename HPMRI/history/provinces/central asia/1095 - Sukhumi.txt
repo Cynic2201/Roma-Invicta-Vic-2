@@ -1,5 +1,6 @@
-owner = ABK
-controller = ABK
+owner = SPQ
+controller = SPQ
+add_core = SPQ
 add_core = ABK
 add_core = CIR
 add_core = GEO

@@ -1,5 +1,7 @@
-owner = ARM
-controller = ARM
+owner = IBE
+controller = IBE
+add_core = IBE
+add_core = GEO
 add_core = ARM
 add_core = KDS
 trade_goods = wool

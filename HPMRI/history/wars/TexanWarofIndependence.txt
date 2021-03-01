@@ -1,6 +1,6 @@
 name = "Texan War of Independence"
 
-1835.10.2 = {
+1836.1.2 = {
 	add_attacker = MEX
 	add_defender = TEX
 	

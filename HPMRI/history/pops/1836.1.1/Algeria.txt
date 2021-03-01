@@ -3,80 +3,73 @@
 #Algiers (280000/70000 POPS)
 1700 = {
 	aristocrats = {
-		culture = african 
+		culture = latin
 		religion = catholic
 		size = 100
 	}
 
 	bureaucrats = {
-		culture = african 
+		culture = latin
 		religion = catholic
 		size = 150
 	}
 
 	clergymen = {
-		culture = african 
+		culture = latin
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = african 
+		culture = latin
 		religion = catholic
 		size = 1500
 	}
 
 	soldiers = {
-		culture = african 
+		culture = latin
 		religion = catholic
 		size = 2000
 	}
 
 	farmers = {
-		culture = african 
+		culture = latin
 		religion = catholic
 		size = 225
 	}
 
 	clergymen = {
-		culture = african 
+		culture = african
 		religion = sunni
-		size = 300
+		size = 325
 	}
 
 	artisans = {
-		culture = african 
+		culture = african
 		religion = sunni
 		size = 4500
 	}
 
 	soldiers = {
-		culture = african 
+		culture = african
 		religion = sunni
 		size = 500
 	}
 
 	farmers = {
-		culture = african 
+		culture = african
 		religion = sunni
 		size = 54200
 	}
 
-	clergymen = {
-		culture = african 
-		religion = sunni
-		size = 25
-	}
-
-
 	soldiers = {
-		culture = african 
+		culture = mauretanian
 		religion = sunni
 		size = 200
 	}
 
 	farmers = {
-		culture = mauretanian 
+		culture = mauretanian
 		religion = sunni
 		size = 4675
 	}
@@ -123,79 +116,62 @@
 #Bougie (448000/112000 POPS)
 1701 = {
 	aristocrats = {
-		culture = african 
+		culture = african
 		religion = sunni
-		size = 1100
+		size = 1400
 	}
 
 	officers = {
-		culture = african 
+		culture = african
 		religion = sunni
 		size = 200
 	}
 
 	bureaucrats = {
-		culture = african 
+		culture = african
 		religion = sunni
 		size = 200
 	}
 
 	clergymen = {
-		culture = african 
+		culture = african
 		religion = sunni
-		size = 875
+		size = 1125
 	}
 
 	artisans = {
-		culture = african 
+		culture = african
 		religion = sunni
-		size = 4350
+		size = 5700
 	}
 
 	soldiers = {
-		culture = african 
+		culture = african
 		religion = sunni
 		size = 1100
 	}
 
 	farmers = {
-		culture = african 
+		culture = african
 		religion = sunni
 		size = 77375
 	}
 
-	aristocrats = {
-		culture = mauretanian 
-		religion = sunni
-		size = 300
-	}
 
 	officers = {
-		culture = mauretanian 
+		culture = mauretanian
 		religion = sunni
 		size = 75
 	}
 
-	clergymen = {
-		culture = mauretanian 
-		religion = sunni
-		size = 250
-	}
-
-	artisans = {
-		culture = mauretanian 
-		religion = sunni
-		size = 1350
-	}
-
 	soldiers = {
-		culture = mauretanian 
+		culture = mauretanian
 		religion = sunni
 		size = 350
 	}
 
 	farmers = {
-		culture = mauretanian 
+		culture = mauretanian
 		religion = sunni
 		size = 20675
 	}
@@ -209,67 +185,43 @@
 #Setif (240000/60000 POPS)
 1702 = {
 	aristocrats = {
-		culture = african 
+		culture = african
 		religion = sunni
-		size = 600
+		size = 800
 	}
 
 	clergymen = {
-		culture = african 
+		culture = african
 		religion = sunni
-		size = 500
+		size = 700
 	}
 
 	artisans = {
-		culture = african 
+		culture = numidian
 		religion = sunni
 		size = 2400
 	}
 
 	soldiers = {
-		culture = numidian 
+		culture = numidian
 		religion = sunni
-		size = 3000
-	}
-
-	soldiers = {
-		culture = numidian 
-		religion = sunni
-		size = 3000
-	}
-
-	soldiers = {
-		culture = numidian 
-		religion = sunni
-		size = 2000
+		size = 8000
 	}
 
 	farmers = {
-		culture = numidian 
+		culture = numidian
 		religion = sunni
 		size = 80500
 	}
 
-	aristocrats = {
-		culture = numidian 
-		religion = sunni
-		size = 200
-	}
-
-	clergymen = {
-		culture = numidian 
-		religion = sunni
-		size = 200
-	}
-
 	soldiers = {
-		culture = numidian 
+		culture = mauretanian
 		religion = sunni
 		size = 1600
 	}
 
 	farmers = {
-		culture = numidian 
+		culture = mauretanian
 		religion = sunni
 		size = 12000
 	}
@@ -283,144 +235,126 @@
 #Medea (168000/42000 POPS)
 1703 = {
 	aristocrats = {
-		culture = mauretanian 
+		culture = african
 		religion = sunni
-		size = 300
+		size = 500
 	}
 
 	clergymen = {
-		culture = mauretanian 
+		culture = african
 		religion = sunni
-		size = 200
+		size = 600
 	}
 
 	artisans = {
-		culture = mauretanian 
+		culture = numidian
 		religion = sunni
-		size = 1100
+		size = 3300
 	}
 
 	soldiers = {
-		culture = mauretanian 
+		culture = numidian
 		religion = sunni
 		size = 2200
 	}
 
 	farmers = {
-		culture = mauretanian 
+		culture = numidian
 		religion = sunni
 		size = 17500
 	}
 
-	aristocrats = {
-		culture = mauretanian 
-		religion = sunni
-		size = 200
-	}
-
-	clergymen = {
-		culture = mauretanian 
-		religion = sunni
-		size = 400
-	}
-
 	artisans = {
-		culture = mauretanian 
+		culture = mauretanian
 		religion = sunni
 		size = 2200
 	}
 
 	soldiers = {
-		culture = mauretanian 
+		culture = mauretanian
 		religion = sunni
 		size = 2200
 	}
 
 	farmers = {
-		culture = mauretanian 
+		culture = mauretanian
 		religion = sunni
 		size = 38500
 	}
 
 }
 #Oranais Region (577600)
-#african  in 1836 :
+#latin in 1836 :
 #Oran (108000/27000 POPS)
 1704 = {
 	aristocrats = {
-		culture = african 
+		culture = latin
 		religion = catholic
 		size = 50
 	}
 
 	bureaucrats = {
-		culture = african 
+		culture = latin
 		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
-		culture = african 
+		culture = latin
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = african 
+		culture = latin
 		religion = catholic
 		size = 800
 	}
 
 	soldiers = {
-		culture = african 
+		culture = latin
 		religion = catholic
 		size = 875
 	}
 
 	farmers = {
-		culture = african 
+		culture = latin
 		religion = catholic
 		size = 200
 	}
 
 	clergymen = {
-		culture = mauretanian 
+		culture = african
 		religion = sunni
-		size = 100
+		size = 125
 	}
 
 	artisans = {
-		culture = mauretanian 
+		culture = african
 		religion = sunni
 		size = 1100
 	}
 
 	soldiers = {
-		culture = mauretanian 
+		culture = african
 		religion = sunni
 		size = 200
 	}
 
 	farmers = {
-		culture = mauretanian 
+		culture = african
 		religion = sunni
 		size = 19600
 	}
 
-	clergymen = {
-		culture = mauretanian 
-		religion = sunni
-		size = 25
-	}
-
 	soldiers = {
-		culture = mauretanian 
+		culture = mauretanian
 		religion = sunni
 		size = 125
 	}
 
 	farmers = {
-		culture = mauretanian 
+		culture = mauretanian
 		religion = sunni
 		size = 2600
 	}
@@ -467,82 +401,45 @@
 #Tilimsan - Tlemcen (221600/55400 POPS)
 1705 = {
 	aristocrats = {
-		culture = mauretanian 
+		culture = african
 		religion = sunni
-		size = 500
+		size = 700
 	}
 
 	officers = {
-		culture = mauretanian 
+		culture = african
 		religion = sunni
-		size = 100
+		size = 200
 	}
 
 	bureaucrats = {
-		culture = mauretanian 
+		culture = african
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = mauretanian 
+		culture = african
 		religion = sunni
-		size = 500
+		size = 700
 	}
 
 	artisans = {
-		culture = mauretanian 
+		culture = mauretanian
 		religion = sunni
 		size = 2250
 	}
 
 	soldiers = {
-		culture = mauretanian 
+		culture = mauretanian
 		religion = sunni
-		size = 3000
-	}
-
-	soldiers = {
-		culture = mauretanian 
-		religion = sunni
-		size = 1000
+		size = 5000
 	}
 
 	farmers = {
-		culture = mauretanian 
+		culture = mauretanian
 		religion = sunni
-		size = 53550
-	}
-
-	aristocrats = {
-		culture = mauretanian 
-		religion = sunni
-		size = 200
-	}
-
-	officers = {
-		culture = mauretanian 
-		religion = sunni
-		size = 100
-	}
-
-	clergymen = {
-		culture = mauretanian 
-		religion = sunni
-		size = 200
-	}
-
-
-	soldiers = {
-		culture = mauretanian 
-		religion = sunni
-		size = 1000
-	}
-
-	farmers = {
-		culture = mauretanian 
-		religion = sunni
-		size = 12500
+		size = 66050
 	}
 
 	######Jews
@@ -581,61 +478,43 @@
 #Mustaghanim (188000/47000 POPS)
 1706 = {
 	aristocrats = {
-		culture = african 
+		culture = african
 		religion = sunni
-		size = 300
+		size = 500
 	}
 
 	clergymen = {
-		culture = african 
+		culture = african
 		religion = sunni
-		size = 300
+		size = 475
 	}
 
 	artisans = {
-		culture = african 
+		culture = african
 		religion = sunni
-		size = 1500
+		size = 2350
 	}
 
 	soldiers = {
-		culture = african 
+		culture = african
 		religion = sunni
 		size = 350
 	}
 
 	farmers = {
-		culture = african 
+		culture = african
 		religion = sunni
 		size = 27550
 	}
 
-	aristocrats = {
-		culture = african 
-		religion = sunni
-		size = 200
-	}
-
-	clergymen = {
-		culture = african 
-		religion = sunni
-		size = 175
-	}
-
-	artisans = {
-		culture = african 
-		religion = sunni
-		size = 850
-	}
-
 	soldiers = {
-		culture = african 
+		culture = mauretanian
 		religion = sunni
 		size = 200
 	}
 
 	farmers = {
-		culture = african 
+		culture = mauretanian
 		religion = sunni
 		size = 12575
 	}
@@ -649,133 +528,102 @@
 #Mascara (60000/15000 POPS)
 1707 = {
 	aristocrats = {
-		culture = mauretanian 
+		culture = african
 		religion = sunni
-		size = 100
+		size = 175
 	}
 
 	clergymen = {
-		culture = mauretanian 
+		culture = african
 		religion = sunni
-		size = 75
+		size = 150
 	}
 
 	soldiers = {
-		culture = mauretanian 
+		culture = mauretanian
 		religion = sunni
-		size = 3000
-	}
-
-	soldiers = {
-		culture = mauretanian 
-		religion = sunni
-		size = 800
+		size = 4800
 	}
 
 	farmers = {
-		culture = mauretanian 
+		culture = mauretanian
 		religion = sunni
-		size = 6425
+		size = 16850
 	}
-
-	aristocrats = {
-		culture = mauretanian 
-		religion = sunni
-		size = 75
-	}
-
-	clergymen = {
-		culture = mauretanian 
-		religion = sunni
-		size = 75
-	}
-
-	soldiers = {
-		culture = mauretanian 
-		religion = sunni
-		size = 1000
-	}
-
-	farmers = {
-		culture = mauretanian 
-		religion = sunni
-		size = 10425
-	}
-
 }
 #Constantinois Region (344000)
 #Ruled by France 1836
 #Bone (68000/17000 POPS)
 1709 = {
 	aristocrats = {
-		culture = african 
+		culture = latin
 		religion = catholic
 		size = 25
 	}
 
 	bureaucrats = {
-		culture = african 
+		culture = latin
 		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
-		culture = african 
+		culture = latin
 		religion = catholic
 		size = 625
 	}
 
 	soldiers = {
-		culture = african 
+		culture = latin
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = african 
+		culture = latin
 		religion = catholic
 		size = 200
 	}
 
 	clergymen = {
-		culture = african 
+		culture = african
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = african 
+		culture = african
 		religion = sunni
 		size = 600
 	}
 
 	soldiers = {
-		culture = african 
+		culture = african
 		religion = sunni
 		size = 150
 	}
 
 	farmers = {
-		culture = african 
+		culture = african
 		religion = sunni
 		size = 11200
 	}
 
 	clergymen = {
-		culture = mauretanian 
+		culture = numidian
 		religion = sunni
 		size = 10
 	}
 
 
 	soldiers = {
-		culture = mauretanian 
+		culture = numidian
 		religion = sunni
 		size = 65
 	}
 
 	farmers = {
-		culture = mauretanian 
+		culture = numidian
 		religion = sunni
 		size = 925
 	}
@@ -784,79 +632,56 @@
 #Constantine (176000/44000 POPS)
 1708 = {
 	aristocrats = {
-		culture = african 
+		culture = african
 		religion = sunni
-		size = 250
+		size = 450
 	}
 
 	officers = {
-		culture = african 
+		culture = african
 		religion = sunni
-		size = 50
+		size = 100
 	}
 
 	bureaucrats = {
-		culture = african 
+		culture = african
 		religion = sunni
 		size = 75
 	}
 
 	clergymen = {
-		culture = numidian 
+		culture = african
 		religion = sunni
-		size = 213
+		size = 413
 	}
 
 	artisans = {
-		culture = numidian 
+		culture = african
 		religion = sunni
-		size = 1100
+		size = 3125
 	}
 
 	soldiers = {
-		culture = numidian 
+		culture = african
 		religion = sunni
 		size = 2200
 	}
 
 	farmers = {
-		culture = numidian 
+		culture = african
 		religion = sunni
 		size = 25312
 	}
 
-	aristocrats = {
-		culture = numidian 
-		religion = sunni
-		size = 200
-	}
-
-	officers = {
-		culture = numidian 
-		religion = sunni
-		size = 50
-	}
-
-	clergymen = {
-		culture = numidian 
-		religion = sunni
-		size = 200
-	}
-
-	artisans = {
-		culture = numidian 
-		religion = sunni
-		size = 2025
-	}
 
 	soldiers = {
-		culture = numidian 
+		culture = numidian
 		religion = sunni
 		size = 2200
 	}
 
 	farmers = {
-		culture = numidian 
+		culture = numidian
 		religion = sunni
 		size = 25550
 	}
@@ -902,61 +727,37 @@
 #Biskra (100000/25000 POPS)
 1710 = {
 	aristocrats = {
-		culture = african 
+		culture = vandal
 		religion = sunni
-		size = 150
+		size = 250
 	}
 
 	clergymen = {
-		culture = african 
+		culture = vandal
 		religion = sunni
-		size = 150
+		size = 250
 	}
 
 	artisans = {
-		culture = african 
+		culture = vandal
 		religion = sunni
-		size = 750
+		size = 850
 	}
 
 	soldiers = {
-		culture = numidian 
+		culture = vandal
 		religion = sunni
-		size = 1100
+		size = 1200
 	}
 
-	farmers = {
-		culture = numidian 
+	slaves = {
+		culture = numidian
 		religion = sunni
 		size = 12950
 	}
 
-	aristocrats = {
-		culture = numidian 
-		religion = sunni
-		size = 100
-	}
-
-	clergymen = {
-		culture = numidian 
-		religion = sunni
-		size = 100
-	}
-
-	artisans = {
-		culture = numidian 
-		religion = sunni
-		size = 500
-	}
-
-	soldiers = {
-		culture = numidian 
-		religion = sunni
-		size = 100
-	}
-
-	farmers = {
-		culture = numidian 
+	slaves = {
+		culture = mauretanian
 		religion = sunni
 		size = 9200
 	}
@@ -967,52 +768,27 @@
 #Ouargla (36000/9000 POPS)
 1711 = {
 	aristocrats = {
-		culture = mauretanian 
+		culture = vandal
 		religion = sunni
-		size = 25
+		size = 55
 	}
 
 	clergymen = {
-		culture = mauretanian 
+		culture = vandal
 		religion = sunni
-		size = 265
+		size = 335
 	}
 
 	soldiers = {
-		culture = mauretanian 
+		culture = vandal
 		religion = sunni
-		size = 30
+		size = 230
 	}
 
-	farmers = {
-		culture = mauretanian 
+	slaves = {
+		culture = mauretanian
 		religion = sunni
-		size = 2730
-	}
-
-	aristocrats = {
-		culture = mauretanian 
-		religion = sunni
-		size = 30
-	}
-
-	clergymen = {
-		culture = mauretanian 
-		religion = sunni
-		size = 70
-	}
-
-
-	soldiers = {
-		culture = mauretanian 
-		religion = sunni
-		size = 200
-	}
-
-	farmers = {
-		culture = berber
-		religion = sunni
-		size = 3700
+		size = 6430
 	}
 
 	aristocrats = {
@@ -1034,7 +810,7 @@
 	}
 
 	farmers = {
-		culture = mauretanian 
+		culture = tuareg
 		religion = sunni
 		size = 1900
 	}
@@ -1042,143 +818,60 @@
 #Tuggurt (12000/3000 POPS)
 1712 = {
 	aristocrats = {
-		culture = mauretanian 
-		religion = sunni
-		size = 20
-	}
-
-	clergymen = {
-		culture = mauretanian 
+		culture = vandal
 		religion = sunni
 		size = 30
 	}
 
-	soldiers = {
-		culture = mauretanian 
+	clergymen = {
+		culture = vandal
 		religion = sunni
-		size = 100
+		size = 50
 	}
 
-	farmers = {
-		culture = berber
+	soldiers = {
+		culture = vandal
+		religion = sunni
+		size = 170
+	}
+
+	slaves = {
+		culture = mauretanian
 		religion = sunni
 		size = 1850
 	}
 
-	aristocrats = {
-		culture = mauretanian 
-		religion = sunni
-		size = 10
-	}
-
-	clergymen = {
-		culture = mauretanian 
-		religion = sunni
-		size = 20
-	}
-
-	soldiers = {
-		culture = mauretanian 
-		religion = sunni
-		size = 70
-	}
-
-	farmers = {
-		culture = berber
-		religion = sunni
-		size = 900
-	}
 }
 #Laghwat (104000/26000 POPS)
 1713 = {
 	aristocrats = {
-		culture = mauretanian 
+		culture = vandal
 		religion = sunni
-		size = 100
+		size = 245
 	}
 
 	clergymen = {
-		culture = mauretanian 
+		culture = vandal
 		religion = sunni
-		size = 100
+		size = 265
 	}
 
 	artisans = {
-		culture = mauretanian 
+		culture = vandal
 		religion = sunni
-		size = 6500
+		size = 7650
 	}
 
 	soldiers = {
-		culture = mauretanian 
+		culture = vandal
 		religion = sunni
-		size = 1100
+		size = 1290
 	}
 
-	farmers = {
-		culture = mauretanian 
+	slaves = {
+		culture = mauretanian
 		religion = sunni
-		size = 11000
-	}
-
-	aristocrats = {
-		culture = mauretanian 
-		religion = sunni
-		size = 125
-	}
-
-	clergymen = {
-		culture = mauretanian 
-		religion = sunni
-		size = 125
-	}
-
-	artisans = {
-		culture = mauretanian 
-		religion = sunni
-		size = 550
-	}
-
-	soldiers = {
-		culture = mauretanian 
-		religion = sunni
-		size = 150
-	}
-
-	farmers = {
-		culture = mauretanian 
-		religion = sunni
-		size = 9050
-	}
-
-	aristocrats = {
-		culture = mauretanian 
-		religion = shiite
-		size = 20
-	}
-
-	clergymen = {
-		culture = mauretanian 
-		religion = shiite
-		size = 40
-	}
-
-	artisans = {
-		culture = mauretanian 
-		religion = shiite
-		size = 100
-	}
-
-	soldiers = {
-		culture = mauretanian 
-		religion = shiite
-		size = 40
-	}
-
-	farmers = {
-		culture = mauretanian 
-		religion = shiite
-		size = 1800
+		size = 21850
 	}
 
 	slaves = {
@@ -1193,63 +886,33 @@
 #Naama (92000/23000 POPS)
 1715 = {
 	aristocrats = {
-		culture = mauretanian 
+		culture = vandal
 		religion = sunni
-		size = 100
+		size = 200
 	}
 
 	clergymen = {
-		culture = mauretanian 
+		culture = vandal
 		religion = sunni
-		size = 100
+		size = 225
 	}
 
 	artisans = {
-		culture = mauretanian 
+		culture = vandal
 		religion = sunni
-		size = 600
+		size = 1150
 	}
 
 	soldiers = {
-		culture = mauretanian 
+		culture = vandal
 		religion = sunni
-		size = 1100
+		size = 1225
 	}
 
-	farmers = {
-		culture = mauretanian 
+	slaves = {
+		culture = mauretanian
 		religion = sunni
-		size = 10200
-	}
-
-	aristocrats = {
-		culture = mauretanian 
-		religion = sunni
-		size = 100
-	}
-
-	clergymen = {
-		culture = mauretanian 
-		religion = sunni
-		size = 125
-	}
-
-	artisans = {
-		culture = mauretanian 
-		religion = sunni
-		size = 550
-	}
-
-	soldiers = {
-		culture = mauretanian 
-		religion = sunni
-		size = 125
-	}
-
-	farmers = {
-		culture = mauretanian 
-		religion = sunni
-		size = 10100
+		size = 20300
 	}
 }
 #Tindouf (8000/2000 POPS)
@@ -1312,26 +975,26 @@
 1718 = {
 	
 	aristocrats = {
-		culture = mauretanian 
+		culture = mauretanian
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-		culture = mauretanian 
+		culture = mauretanian
 		religion = sunni
 		size = 20
 	}
 
 
 	soldiers = {
-		culture = mauretanian 
+		culture = mauretanian
 		religion = sunni
 		size = 1100
 	}
 
 	farmers = {
-		culture = mauretanian 
+		culture = mauretanian
 		religion = sunni
 		size = 850
 	}
@@ -1416,49 +1079,49 @@
 	}
 	
 	aristocrats = {
-		culture = mauretanian 
+		culture = mauretanian
 		religion = sunni
 		size = 10
 	}
 
 	clergymen = {
-		culture = mauretanian 
+		culture = mauretanian
 		religion = sunni
 		size = 15
 	}
 
 	soldiers = {
-		culture = mauretanian 
+		culture = mauretanian
 		religion = sunni
 		size = 55
 	}
 
 	farmers = {
-		culture = mauretanian 
+		culture = mauretanian
 		religion = sunni
 		size = 920
 	}
 
 	aristocrats = {
-		culture = mauretanian 
+		culture = mauretanian
 		religion = sunni
 		size = 20
 	}
 
 	clergymen = {
-		culture = mauretanian 
+		culture = mauretanian
 		religion = sunni
 		size = 40
 	}
 
 	soldiers = {
-		culture = mauretanian 
+		culture = mauretanian
 		religion = sunni
 		size = 130
 	}
 
 	farmers = {
-		culture = mauretanian 
+		culture = mauretanian
 		religion = sunni
 		size = 1810
 	}

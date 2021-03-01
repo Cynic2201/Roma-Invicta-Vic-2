@@ -98,7 +98,7 @@ WHA_anarcho_liberal;Anarchwyr;;;;;;;;;;;;;x,,
 WHA_fascist;Meibion Glyndwr;;;;;;;;;;;;;x,,
 WHA_communist;Plaid Gomiwnyddol;;;;;;;;;;;;;x,,
 WHA_reactionary;Plaid Genedlaethol;;;;;;;;;;;;;x,,
-BAV;Bayern;;;;;;;;;;;;x
+BAV;Bavaria;;;;;;;;;;;;x
 SOR;Sorbia;;;;;;;;;;;;x
 STE;Stettin;;;;;;;;;;;;x
 POM;Pomerania;;;;;;;;;;;;x
@@ -143,7 +143,7 @@ GAL;Gallia;;;;;;;;;;;;x
 GAL_ADJ;Gallic;;;;;;;;;;;;x
 BRG;Burgundiones;;;;;;;;;;;;x
 BRG_ADJ;Burgundi;;;;;;;;;;;;x
-AVA;Avars;;;;;;;;;;;;x
+AVA;Varchonia;;;;;;;;;;;;x
 AVA_ADJ;Avar;;;;;;;;;;;;x
 SWI;Helvetia;;;;;;;;;;;;x
 SWI_ADJ;Helvetic;;;;;;;;;;;;x
@@ -159,3 +159,17 @@ PNN_ADJ;Pannonian;;;;;;;;;;;;x
 HLL;Holland;;;;;;;;;;;;x
 HLL_ADJ;Dutch;;;;;;;;;;;;x
 PROV3323;West Frisia;;;;;;;;;;;;x
+NOV;Novgorod;;;;;;;;;;;;x
+MUS;Muscovy;;;;;;;;;;;;x
+GLV;Russia;;;;;;;;;;;;x
+PLT;Polotsk;;;;;;;;;;;;x
+SML;Smolensk;;;;;;;;;;;;x
+CHR;Chernigov;;;;;;;;;;;;x
+RYA;Ryazan;;;;;;;;;;;;x
+YAR;Yaroslavl;;;;;;;;;;;;x
+PRM;Perm;;;;;;;;;;;;x
+KZN;Kazan;;;;;;;;;;;;x
+KUM;Kummagyaria;;;;;;;;;;;;x
+KHZ;Khazaria;;;;;;;;;;;;x
+IBE;Iberia;;;;;;;;;;;;x
+LAZ;Lazica;;;;;;;;;;;;x

@@ -1,6 +1,7 @@
-owner = HUN
-controller = HUN
-add_core = HUN
+owner = GLV
+controller = GLV
+add_core = GLV
+add_core = RUS
 trade_goods = coal
 life_rating = 35
 terrain = mining_district

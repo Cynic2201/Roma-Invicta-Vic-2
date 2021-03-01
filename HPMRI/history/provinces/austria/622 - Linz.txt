@@ -1,5 +1,6 @@
-owner = BAV
-controller = BAV
+owner = LMB
+controller = LMB
+add_core = LMB
 add_core = BAV
 trade_goods = sulphur
 life_rating = 35

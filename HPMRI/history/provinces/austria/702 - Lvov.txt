@@ -1,5 +1,7 @@
-owner = POL
-controller = POL
+owner = GLV
+controller = GLV
+add_core = GLV
+add_core = RUS
 add_core = POL
 add_core = RUT
 trade_goods = coal

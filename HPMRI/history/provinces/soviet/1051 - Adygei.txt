@@ -1,6 +1,6 @@
-owner = BUL
-controller = BUL
-add_core = BUL
+owner = KHZ
+controller = KHZ
+add_core = KHZ
 add_core = CIR
 trade_goods = grain
 life_rating = 35

@@ -1,5 +1,5 @@
-owner = RUS
-controller = RUS
-add_core = RUS
+owner = KUM
+controller = KUM
+add_core = KUM
 trade_goods = cattle
 life_rating = 35

@@ -1,6 +1,6 @@
-owner = TCA
-controller = TCA
+owner = IBE
+controller = IBE
+add_core = IBE
 add_core = GEO
-add_core = TCA
 trade_goods = wool
 life_rating = 35

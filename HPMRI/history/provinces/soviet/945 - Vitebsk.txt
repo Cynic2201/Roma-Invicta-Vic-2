@@ -1,6 +1,7 @@
-owner = UKR
-controller = UKR
-add_core = UKR
-add_core = BYE
+owner = SML
+controller = SML
+add_core = SML
+add_core = GLV
+add_core = RUS
 trade_goods = grain
 life_rating = 35

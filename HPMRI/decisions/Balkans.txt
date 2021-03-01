@@ -14,22 +14,21 @@ political_decisions = {
 		allow = {
 			OR = {
 				nationalism_n_imperialism = 1
-				is_vassal = no
 				AND = {
-					TUR = { is_greater_power = no }
+					GLV = { is_greater_power = no }
 					WAL = {
 						NOT = {
-							neighbour = TUR
-							any_neighbor_country = { vassal_of = TUR }
+							neighbour = GLV
+							any_neighbor_country = { vassal_of = GLV }
 						}
 					}
 					MOL = {
 						NOT = {
-							neighbour = TUR
-							any_neighbor_country = { vassal_of = TUR }
+							neighbour = GLV
+							any_neighbor_country = { vassal_of = GLV }
 						}
 					}
-					MOL = { NOT = { neighbour = TUR } }
+					MOL = { NOT = { neighbour = GLV } }
 				}
 			}
 			WAL = {

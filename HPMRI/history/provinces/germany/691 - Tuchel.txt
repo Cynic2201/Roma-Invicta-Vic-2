@@ -1,5 +1,6 @@
-owner = PML
-controller = PML
+owner = POM
+controller = POM
+add_core = POM
 add_core = PML
 trade_goods = cattle
 life_rating = 40

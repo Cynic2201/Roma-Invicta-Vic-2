@@ -1,5 +1,6 @@
-owner = GEO
-controller = GEO
+owner = LAZ
+controller = LAZ
+add_core = LAZ
 add_core = GEO
 trade_goods = fish
 life_rating = 35

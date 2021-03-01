@@ -3,67 +3,49 @@
 #Tunis (488000/122000 POPS) 
 1725 = {
 	aristocrats = {
-		culture = african 
+		culture = african
 		religion = sunni
-		size = 2350
+		size = 12350
 	}
 
 	bureaucrats = {
-		culture = african 
+		culture = african
 		religion = sunni
 		size = 350
 	}
 
 	officers = {
-		culture = african 
+		culture = african
 		religion = sunni
 		size = 325
 	}
 
 	clergymen = {
-		culture = african 
+		culture = african
 		religion = sunni
 		size = 1200
 	}
 
 	artisans = {
-		culture = african 
+		culture = african
 		religion = sunni
-		size = 10000
-	}
-
-	artisans = {
-		culture = african 
-		religion = sunni
-		size = 10000
-	}
-
-	artisans = {
-		culture = african 
-		religion = sunni
-		size = 7500
+		size = 17500
 	}
 
 	soldiers = {
-		culture = african 
+		culture = african
 		religion = sunni
-		size = 3000
-	}
-
-	soldiers = {
-		culture = african 
-		religion = sunni
-		size = 1000
+		size = 4000
 	}
 
 	farmers = {
-		culture = african 
+		culture = african
 		religion = sunni
 		size = 76425
 	}
 
 	slaves = {
-		culture = neo_punic
+		culture = mauretanian
 		religion = sunni
 		size = 5000
 	}
@@ -81,51 +63,45 @@
 	}
 
 	artisans = {
-		culture = maltese
+		culture = latin
 		religion = catholic
-		size = 500
-	}
-
-	artisans = {
-		culture = south_italian
-		religion = catholic
-		size = 500
+		size = 1000
 	}
 }
 #Bizerte (268000/67000 POPS) 
 1726 = {
 	aristocrats = {
-		culture = african 
+		culture = african
 		religion = sunni
 		size = 1250
 	}
 
 	clergymen = {
-		culture = african 
+		culture = african
 		religion = sunni
 		size = 675
 	}
 
 	artisans = {
-		culture = african 
+		culture = african
 		religion = sunni
 		size = 3250
 	}
 
 	soldiers = {
-		culture = african 
+		culture = african
 		religion = sunni
 		size = 1100
 	}
 
 	farmers = {
-		culture = african 
+		culture = african
 		religion = sunni
 		size = 58575
 	}
 
 	slaves = {
-		culture = neo_punic
+		culture = mauretanian
 		religion = sunni
 		size = 2000
 	}
@@ -139,37 +115,37 @@
 #Gafsa (112000/28000 POPS) 
 1727 = {
 	aristocrats = {
-		culture = african 
+		culture = vandal
 		religion = sunni
 		size = 450
 	}
 
 	clergymen = {
-		culture = african 
+		culture = vandal
 		religion = sunni
 		size = 275
 	}
 
 	artisans = {
-		culture = african 
+		culture = vandal
 		religion = sunni
 		size = 1250
 	}
 
 	soldiers = {
-		culture = african 
+		culture = vandal
 		religion = sunni
 		size = 1100
 	}
 
-	farmers = {
-		culture = african 
+	slaves = {
+		culture = numidian
 		religion = sunni
 		size = 22025
 	}
 
 	slaves = {
-		culture = neo_punic
+		culture = mauretanian
 		religion = sunni
 		size = 3000
 	}
@@ -177,37 +153,37 @@
 #Kairouan (228000/57000 POPS) 
 1728 = {
 	aristocrats = {
-		culture = african 
+		culture = african
 		religion = sunni
 		size = 875
 	}
 
 	clergymen = {
-		culture = african 
+		culture = african
 		religion = sunni
 		size = 400
 	}
 
 	artisans = {
-		culture = african 
+		culture = african
 		religion = sunni
 		size = 2250
 	}
 
 	soldiers = {
-		culture = african 
+		culture = african
 		religion = sunni
 		size = 1100
 	}
 
 	farmers = {
-		culture = african 
+		culture = african
 		religion = sunni
 		size = 40225
 	}
 
 	slaves = {
-		culture = neo_punic
+		culture = mauretanian
 		religion = sunni
 		size = 12000
 	}
@@ -227,75 +203,75 @@
 #Tozeur (96000/24000 POPS) 
 1729 = {
 	aristocrats = {
-		culture = african 
+		culture = vandal
 		religion = sunni
 		size = 350
 	}
 
 	clergymen = {
-		culture = african 
+		culture = vandal
 		religion = sunni
 		size = 200
 	}
 
 	artisans = {
-		culture = african 
+		culture = vandal
 		religion = sunni
 		size = 950
 	}
 
 	soldiers = {
-		culture = african 
+		culture = vandal
 		religion = sunni
 		size = 200
 	}
 
-	farmers = {
-		culture = berber
+	slaves = {
+		culture = numidian
 		religion = sunni
-		size = 17300
+		size = 22025
 	}
 
 	slaves = {
-		culture = berber
+		culture = mauretanian
 		religion = sunni
-		size = 5000
+		size = 3000
 	}
 }
 #Gabes (200000/50000 POPS) 
 1730 = {
 	aristocrats = {
-		culture = african 
+		culture = african
 		religion = sunni
 		size = 900
 	}
 
 	clergymen = {
-		culture = african 
+		culture = african
 		religion = sunni
 		size = 400
 	}
 
 	artisans = {
-		culture = african 
+		culture = african
 		religion = sunni
 		size = 2275
 	}
 
 	soldiers = {
-		culture = african 
+		culture = african
 		religion = sunni
 		size = 1100
 	}
 
 	farmers = {
-		culture = african 
+		culture = african
 		religion = sunni
 		size = 40825
 	}
 
 	slaves = {
-		culture = neo_punic
+		culture = mauretanian
 		religion = sunni
 		size = 4000
 	}

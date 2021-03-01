@@ -1,5 +1,7 @@
-owner = POL
-controller = POL
+owner = GLV
+controller = GLV
+add_core = GLV
 add_core = POL
+add_core = RUS
 trade_goods = cattle
 life_rating = 35

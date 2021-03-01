@@ -1,6 +1,7 @@
-owner = UKR
-controller = UKR
-add_core = UKR
+owner = GLV
+controlled = GLV
+add_core = GLV
+add_core = RUS
 trade_goods = fish
 life_rating = 40
 naval_base = 1

@@ -3,7 +3,6 @@
 # Special countries...
 REB 	= 	"countries/rebels.txt"
 
-
 ##RI
 SPQ		="countries/Rome.txt"
 VAN		="countries/Vandals.txt"
@@ -25,10 +24,8 @@ CUR		="countries/Curonia.txt"
 NOV		="countries/Novgorod.txt"
 MUS		="countries/Muscovy.txt"
 LMB		="countries/Lombardy.txt"
-PNN		="countries/Pannonia.txt"f
+PNN		="countries/Pannonia.txt"
 HLL		="countries/Holland.txt"
-
-#RI Germany
 ULM		="countries/Ulm.txt"
 AAC 		="countries/Aachen.txt"
 KLE 		="countries/Kleves.txt"
@@ -37,12 +34,24 @@ UTR 		="countries/Utrecht.txt"
 GLR 		="countries/Gelre.txt"
 TER 		="countries/Trier.txt"
 FRI 		="countries/Friesland.txt"
-
-#RI England
 WSX		="countries/Westseaxna.txt"
 MNX		="countries/Manx.txt"
 LON		="countries/Londinium.txt"
 ANL		="countries/Englaland.txt"
+KHZ		="countries/Khazaria.txt"
+LAZ		="countries/Lazica.txt"
+IBE		="countries/IberiaG.txt"
+KUM		="countries/Kummagyaria.txt"
+GLV		="countries/Rus.txt"
+RYA		="countries/Ryazan.txt"
+CHR		="countries/Cherignov.txt"
+YAR		="countries/Yaroslavl.txt"
+KZN		="countries/Kazan.txt"
+PRM		="countries/Perm.txt"
+SML		="countries/Smolensk.txt"
+PLT		="countries/Polotsk.txt"
+
+
 
 ##HPM
 PNK		="countries/Pontianak.txt"
