@@ -51,6 +51,12 @@ PRM		="countries/Perm.txt"
 SML		="countries/Smolensk.txt"
 PLT		="countries/Polotsk.txt"
 
+SPA 		="countries/Spain.txt" #Roman Hispania
+ITA 		="countries/Italy.txt" #Italia
+GAU 		="countries/Gaul.txt" #Gaul	
+AFR 		="countries/Africa.txt" #Roman Africa
+NAR 		="countries/Narbornesis.txt" #Gallia Narbonensis
+SIC 		="countries/Sicilia.txt" #Sicilia
 
 
 ##HPM
@@ -373,7 +379,7 @@ IRE		= "countries/Ireland.txt"
 NET		= "countries/Netherlands.txt"
 POR		= "countries/Portugal.txt"
 SCO		= "countries/Scotland.txt"
-SPA		= "countries/Spain.txt"
+
 WLL		= "countries/Wallonia.txt"
 
 # Germany
@@ -411,7 +417,7 @@ MOD		= "countries/Modena.txt"
 PAP		= "countries/Papal States.txt"
 PAR		= "countries/Parma.txt"
 SAR		= "countries/Sardinia-Piedmont.txt"
-SIC		= "countries/Two Sicilies.txt"
+#SIC		= "countries/Two Sicilies.txt"
 TRE		= "countries/Trieste.txt"
 TUS		= "countries/Tuscany.txt"
 VEN		= "countries/Venice.txt"
@@ -591,7 +597,7 @@ GER		= "countries/Germany.txt"
 AUS		= "countries/Austria.txt"
 USA		= "countries/USA.txt"
 JAP		= "countries/Japan.txt"
-ITA		= "countries/Italy.txt"
+
 KUK		= "countries/Austria-Hungary.txt"
 
 
