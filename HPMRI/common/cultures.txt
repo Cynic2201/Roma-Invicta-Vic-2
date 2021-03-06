@@ -110,9 +110,9 @@ latin_group = {
 		last_names = {  Benedictus Antony Aurelius Appius Aulus Caeso Decimus Gaius Gnaeus Lucius Mamercus Manius Marcus
 		Numerius Publius Quintus Servius Sextus Spurius Titus Tiberius }
 		
-		}
-	union = SPQ
 	}
+	union = SPQ
+}
 
 jewish = {
 	leader = european
