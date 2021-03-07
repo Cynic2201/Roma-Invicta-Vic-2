@@ -112,25 +112,25 @@
 #Lisbon (348000/87000 POPS)
 521 = {
 	aristocrats = {
-		culture = latin_hispaniam 
+		culture = hispanic 
 		religion = catholic
 		size = 1100
 	}
 
 	officers = {
-		culture = latin_hispaniam 
+		culture = hispanic 
 		religion = catholic
 		size = 350
 	}
 
 	bureaucrats = {
-		culture = latin_hispaniam 
+		culture = hispanic 
 		religion = catholic
 		size = 650
 	}
 
 	clergymen = {
-		culture = latin_hispaniam 
+		culture = hispanic 
 		religion = catholic
 		size = 1100
 	}
@@ -148,7 +148,7 @@
 	}
 
 	farmers = {
-		culture = latin_hispaniam 
+		culture = hispanic 
 		religion = catholic
 		size = 48500
 	}
@@ -310,31 +310,31 @@
 #Beja (96000/24000 POPS)
 526 = {
 	aristocrats = {
-		culture = latin_hispaniam 
+		culture = hispanic 
 		religion = catholic
 		size = 500
 	}
 
 	clergymen = {
-		culture = latin_hispaniam 
+		culture = hispanic 
 		religion = catholic
 		size = 250
 	}
 
 	artisans = {
-		culture = latin_hispaniam 
+		culture = hispanic 
 		religion = catholic
 		size = 1250
 	}
 
 	soldiers = {
-		culture = latin_hispaniam 
+		culture = hispanic 
 		religion = catholic
 		size = 250
 	}
 
 	farmers = {
-		culture = latin_hispaniam 
+		culture = hispanic 
 		religion = catholic
 		size = 42250
 	}
@@ -342,25 +342,25 @@
 #Faro (120000/30000 POPS)
 527 = {
 	aristocrats = {
-		culture = latin_hispaniam 
+		culture = hispanic 
 		religion = catholic
 		size = 550
 	}
 
 	clergymen = {
-		culture = latin_hispaniam 
+		culture = hispanic 
 		religion = catholic
 		size = 325
 	}
 
 	artisans = {
-		culture = latin_hispaniam 
+		culture = hispanic 
 		religion = catholic
 		size = 1750
 	}
 
 	soldiers = {
-		culture = latin_hispaniam 
+		culture = hispanic 
 		religion = catholic
 		size = 350
 	}
@@ -371,7 +371,7 @@
 		size = 30000
 	}
 	farmers = {
-		culture = latin_hispaniam 
+		culture = hispanic 
 		religion = catholic
 		size = 10000
 	}

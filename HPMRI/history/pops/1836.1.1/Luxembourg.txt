@@ -3,49 +3,49 @@
 #Luxembourg (172000/43000 POPS)
 397 = {
 	aristocrats = {
-		culture = burgund
+		culture = frankish
 		religion = catholic
 		size = 175
 	}
 
 	bureaucrats = {
-		culture = burgund
+		culture = frankish
 		religion = catholic
 		size = 25
 	}
 	
 	officers = {
-		culture = burgund
+		culture = frankish
 		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
-		culture = burgund
+		culture = frankish
 		religion = catholic
 		size = 150
 	}
 
 	artisans = {
-		culture = burgund
+		culture = frankish
 		religion = catholic
 		size = 750
 	}
 
 	soldiers = {
-		culture = burgund
+		culture = frankish
 		religion = catholic
 		size = 2000
 	}
 
 	farmers = {
-		culture = burgund
+		culture = frankish
 		religion = catholic
 		size = 13580
 	}
 	
 	farmers = {
-		culture = burgund
+		culture = frankish
 		religion = protestant
 		size = 1320
 	}

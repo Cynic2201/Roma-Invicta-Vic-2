@@ -49,7 +49,7 @@ From;To;Type;Through;Data;Comment
 372;373;sea;2711;0;Fyn-Sjaelland
 371;373;sea;2711;0;Fyn-Jylland
 2557;373;sea;2711;0;Fyn-Esbjerg
-375;385;sea;2722;0;Bay of Holland
+3323;385;sea;2722;0;Bay of Holland
 473;766;land;2751;0;Sassari Strait
 826;824;sea;2764;0;Corfu Strait
 826;853;sea;2764;0;Corfu Strait
@@ -71,7 +71,7 @@ From;To;Type;Through;Data;Comment
 254;304;sea;2737;0;Irish Strait
 267;1724;sea;2735;0;Inverness - Orkney Strait
 780;782;land;2762;0;Mostar Bay
-#301;400;sea;2724;0;UK - France Strait
+301;400;sea;2724;0;UK - France Strait
 762;1725;land;2758;0;Carthage Strait
 758;851;land;2763;0;Adriatic Stait
 731;770;land;2761;0;Venice Crossing

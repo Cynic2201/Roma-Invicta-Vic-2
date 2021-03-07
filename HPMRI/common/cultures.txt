@@ -79,16 +79,16 @@ latin_group = {
 		Numerius Publius Quintus Servius Sextus Spurius Titus Tiberius }
 	}
 
-	latin_hispaniam = {
+	hispanic = {
 		color = {219 81 46}
 		first_names = { Himilco Mago Magon Hamilcar Hasdrubal Anibal Cartalão Himilcão Himilco Absalon Adonibal
 		Aldonazo Ansurius Castelleano Diago Domeno Donnadi Flain Gilo Coligula Graveil Gudesto Gullien Ineso Polo }
 
-		last_names = { "de  Hispaniam" "de Roma" "de Christus" Dandolo Ceaser Mareno }
+		last_names = { "de  Hispania" "de Roma" "de Christus" Dandolo Ceaser Mareno }
 
 		}
 
-	gallo_roman = {
+	gallo-roman = {
 		color = {128 153 69}
 		first_names = { Appius Aulus Caeso Decimus Gaius Gnaeus Lucius Mamercus Manius Marcus Numerius Publius Quintus Servius Sextus Spurius Titus and Tiberius 
 		Ancus Attius Decius Herius Marius Mettius Adbitus Rittuvvecc Areobindus Versicnos Carominius Cambo Atrectus Sagillus Remicus Dubnotalus Ambimogidus Cambo 
@@ -325,7 +325,7 @@ germanic = {
 west_gaulic = {
 	leader = european
 	
-	burgund = { 
+	burgundian = { 
 		color = {190 90 20}
 		first_names = { Albert Alexandre Alexis Alphonse André Antoine Auguste Barthélémy Baudouin Blaise Camille Clément Charles Constant 
 		Damien David Désiré Didier Edmond Édouard Emmanuel Émile Etienne Eugène Félix Fernand Feullien Florent François Frédéric Georges 
@@ -345,7 +345,7 @@ west_gaulic = {
 		Orban Pétillon Picquet Pirmez Pirson Raikem Roeser Rogier Rouen Rouppe Seron Thonus Thorn "van Snick" Wahis Wangermée Wyvekens Zoude }
 	}	
 
-	gaul = {
+	gallic = {
 		color = {0 161 80}
 		first_names = { Adbitus Rittuvvecc Areobindus Versicnos Carominius Cambo Atrectus Sagillus Remicus Dubnotalus Ambimogidus Cambo Eppo Ulcagni Reticus 
 		Carino Andreine Audoenus Nantonos Comnertus Dubnovellaun Metilius Samus Virotutus Corbagni Camulixus Agedillus Reginus Ollocnus Tanco Vocarantus Conbertius 
