@@ -1,5 +1,7 @@
 capital = 564
-primary_culture = north_german
+primary_culture = Saxon
+culture = bavarian 
+culture = frankish 
 religion = protestant
 government = democracy
 plurality = 25.0

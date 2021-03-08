@@ -1,7 +1,7 @@
 owner = SPQ
 controller = SPQ
 add_core = SPQ
-trade_goods = grain
+trade_goods = precious_goods
 life_rating = 35
 naval_base = 1
 1861.1.1 = {

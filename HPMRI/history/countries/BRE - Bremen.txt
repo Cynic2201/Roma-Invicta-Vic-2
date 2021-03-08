@@ -1,5 +1,6 @@
 capital = 539
-primary_culture = north_german
+primary_culture = saxon
+culture = frisian
 religion = protestant
 government = democracy
 plurality = 25.0

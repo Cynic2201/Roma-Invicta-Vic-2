@@ -1,5 +1,5 @@
 capital = 492
-primary_culture = basque
+primary_culture = vasconian
 religion = catholic
 government = democracy
 plurality = 0.1

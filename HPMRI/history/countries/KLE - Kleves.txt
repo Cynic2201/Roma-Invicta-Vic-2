@@ -1,5 +1,5 @@
 capital = 577
-primary_culture = north_german
+primary_culture = frankish
 religion = catholic
 government = absolute_monarchy
 plurality = 25.0

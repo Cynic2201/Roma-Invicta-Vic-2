@@ -1,5 +1,5 @@
 capital = 1680
-primary_culture = maghrebi
+primary_culture = mauretanian 
 culture = maures
 culture = tuareg
 culture = berber

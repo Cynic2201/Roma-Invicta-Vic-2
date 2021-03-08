@@ -1,5 +1,6 @@
 capital = 377
-primary_culture = dutch
+primary_culture = frisian
+culture = saxon
 religion = protestant
 government = theocracy
 plurality = 30

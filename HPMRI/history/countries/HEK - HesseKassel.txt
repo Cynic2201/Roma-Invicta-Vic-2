@@ -1,6 +1,5 @@
 capital = 566
-primary_culture = north_german
-culture = south_german
+primary_culture = saxon
 religion = protestant
 government = absolute_monarchy
 plurality = 25.0

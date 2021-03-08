@@ -1,5 +1,5 @@
 capital = 458
-primary_culture = occitan
+primary_culture = visigoth
 religion = catholic
 government = absolute_monarchy
 plurality = 0.1

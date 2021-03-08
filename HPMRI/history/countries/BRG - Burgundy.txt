@@ -1,5 +1,5 @@
 capital = 390
-primary_culture = burgund
+primary_culture = burgundian
 religion = protestant
 government = hms_government
 plurality = 5
