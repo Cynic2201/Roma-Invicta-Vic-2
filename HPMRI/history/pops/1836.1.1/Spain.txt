@@ -2,43 +2,43 @@
 #La Coruna (796000/199000 POPS)
 474 = {
 	aristocrats = {
-		culture = celtiberian 
+		culture = suebi 
 		religion = catholic
 		size = 2200
 	}
 
 	officers = {
-		culture = celtiberian 
+		culture = suebi 
 		religion = catholic
 		size = 450
 	}
 
 	bureaucrats = {
-		culture = celtiberian 
+		culture = suebi 
 		religion = catholic
 		size = 650
 	}
 
 	clergymen = {
-		culture = celtiberian 
+		culture = suebi 
 		religion = catholic
 		size = 2000
 	}
 
 	artisans = {
-		culture = celtiberian 
+		culture = suebi 
 		religion = catholic
 		size = 6350
 	}
 
 	soldiers = {
-		culture = celtiberian 
+		culture = suebi 
 		religion = catholic
 		size = 3000
 	}
 
 	farmers = {
-		culture = celtiberian 
+		culture = suebi 
 		religion = catholic
 		size = 154350
 	}
@@ -46,7 +46,7 @@
 #Oviedo (448000/112000 POPS)
 475 = {
 	aristocrats = {
-		culture = celtiberian 
+		culture = suebi 
 		religion = catholic
 		size = 1100
 	}
@@ -70,7 +70,7 @@
 	}
 
 	farmers = {
-		culture = celtiberian 
+		culture = suebi 
 		religion = catholic
 		size = 10850
 	}
@@ -99,31 +99,31 @@
 #Vigo (328000/82000 POPS)
 476 = {
 	aristocrats = {
-		culture = celtiberian 
+		culture = suebi 
 		religion = catholic
 		size = 700
 	}
 
 	clergymen = {
-		culture = celtiberian 
+		culture = suebi 
 		religion = catholic
 		size = 800
 	}
 
 	artisans = {
-		culture = celtiberian 
+		culture = suebi 
 		religion = catholic
 		size = 4000
 	}
 
 	soldiers = {
-		culture = celtiberian 
+		culture = suebi 
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = celtiberian 
+		culture = suebi 
 		religion = catholic
 		size = 75500
 	}
@@ -171,7 +171,12 @@
 	farmers = {
 		culture = celtiberian 
 		religion = catholic
-		size = 63600
+		size = 33600
+	}
+	farmers = {
+		culture = suebi 
+		religion = catholic
+		size = 30000
 	}
 }
 #Santander (178000/44500) POPS

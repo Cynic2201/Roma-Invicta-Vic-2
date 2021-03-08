@@ -407,7 +407,14 @@ celtic = {
 	}
 
 	lusitanian = {
-		color = {94 191 120}
+		color = {255 162 0}
+		first_names = { Alexander Rhys Gareth Seimon Lloyd Llewelyn Mervyn Huw Hywel Iwan Morys Owain Bryn }
+
+		last_names = { Ifans Glyn Lloyd Alwyn "ap Meryk" Lewis Glyndwr Maelor Iwrch Mawr Dda Elwyn }
+	}
+
+	suebi = {
+		color = {74 0 63}
 		first_names = { Alexander Rhys Gareth Seimon Lloyd Llewelyn Mervyn Huw Hywel Iwan Morys Owain Bryn }
 
 		last_names = { Ifans Glyn Lloyd Alwyn "ap Meryk" Lewis Glyndwr Maelor Iwrch Mawr Dda Elwyn }
