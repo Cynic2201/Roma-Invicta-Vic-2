@@ -1,0 +1,61 @@
+leader = {
+   name = "Karl Gradsurough"
+   type = land
+   date = 1836.1.1
+   background = uncommonly_young	
+   personality = stalwart
+}
+
+army = {
+	name = "Frislandwer Volunteers"
+	location = 385
+	regiment = {
+		name= "1.Schutters"
+		type = infantry
+		home = 385
+	}
+
+	regiment = {
+		name= "2.Schutters"
+		type = infantry
+		home = 385
+	}
+
+	regiment = {
+		name= "3.Schutters"
+		type = infantry
+		home = 385
+	}
+
+	regiment = {
+		name= "4.Schutters"
+		type = infantry
+		home = 383
+	}
+
+	regiment = {
+		name= "1.Huzaren"
+		type = hussar
+		home = 383
+	}
+
+	regiment = {
+		name= "3.Artillerie"
+		type = artillery
+		home = 383
+	}
+
+	regiment = {
+		name= "1.Artillerie"
+		type = artillery
+		home = 383
+	}
+
+	regiment = {
+		name= "2.Artillerie"
+		type = artillery
+		home = 383
+	}
+
+}
+

@@ -1,6 +1,6 @@
 capital = 393
-primary_culture = french
-culture = picard
+primary_culture = frankish
+culture = burgund
 religion = catholic
 government = hms_government
 plurality = 25

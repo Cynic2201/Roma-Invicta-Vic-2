@@ -1,6 +1,6 @@
-owner = NET
-controller = NET
+owner = FRI
+controller = FRI
+add_core = FRI
 add_core = NET
-add_core = GER
-trade_goods = cattle
+trade_goods = dye
 life_rating = 35

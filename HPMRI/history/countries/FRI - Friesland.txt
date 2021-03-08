@@ -1,5 +1,5 @@
 capital = 375
-primary_culture = dutch
+primary_culture = frisian
 religion = protestant
 government = democracy
 plurality = 25.0
@@ -7,6 +7,7 @@ nationalvalue = nv_liberty
 literacy = 0.8
 non_state_culture_literacy = 0.8
 civilized = yes
+prestige = 10
 
 # Political reforms
 slavery = no_slavery
@@ -73,6 +74,8 @@ piston_steam_engine = 1
 mechanical_production = 1
 mechanized_mining = 1
 basic_chemistry = 1
+
+oob = "FRI_oob.txt"
 
 #Inventions
 

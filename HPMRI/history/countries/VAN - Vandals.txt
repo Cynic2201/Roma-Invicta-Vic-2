@@ -1,5 +1,5 @@
 capital = 1680
-primary_culture = south_german
+primary_culture = vandal
 religion = protestant
 government = absolute_monarchy
 plurality = 0.0
