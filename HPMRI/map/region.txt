@@ -152,7 +152,7 @@ DEN_251 = { 251 252 253 2636 } #Iceland & Greenland
 
 SWE_308 = { 308 305 306 307 } #Nordnoge
 
-SWE_309 = { 309 311 310 312 } #Vestlandet
+SWE_309 = { 309 311 310 312 3326 } #Vestlandet
 
 SWE_313 = { 313 316 314 315 } #Ostlandet
 
@@ -174,7 +174,7 @@ DEN_367 = { 367 366 368 2557 } #Jylland
 
 HOL_369 = { 369 530 529 } #Holstein
 
-SCH_370 = { 370 371 533 } #Schleswig
+SCH_370 = { 370 371 533 3324 } #Schleswig
 
 DEN_372 = { 372 373 374 } #Sjaelland
 
@@ -310,7 +310,7 @@ PRU_682 = { 682 683 684 685 } #Silesia
 
 PRU_690 = { 690 691 694 693 } #Westpreuﬂen
 
-PRU_695 = { 695 696 697 698 } #Ostpreuﬂen
+PRU_695 = { 695 696 697 698 3325 } #Ostpreuﬂen
 
 PRU_701 = { 701 699 700 } #Posen
 

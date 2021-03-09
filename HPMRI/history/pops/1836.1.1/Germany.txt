@@ -5685,3 +5685,84 @@
 	}
 
 }
+
+#Sambia
+3325 = {
+	aristocrats = {
+		culture = sorbian 
+		religion = protestant
+		size = 1100 
+	}
+
+	clergymen = {
+		culture = sorbian 
+		religion = protestant
+		size = 475   
+	}
+
+	artisans = {
+		culture = sorbian 
+		religion = protestant
+		size = 2600
+	}
+
+	soldiers = {
+		culture = sorbian 
+		religion = protestant
+		size = 550  
+	}
+
+	farmers = {
+		culture = sorbian 
+		religion = protestant
+		size = 47275
+	}
+
+	clergymen = {
+		culture = polish
+		religion = protestant
+		size = 25 
+	}
+
+	artisans = {
+		culture = polish
+		religion = protestant
+		size = 100
+	}
+
+	soldiers = {
+		culture = polish
+		religion = protestant
+		size = 25 
+	}
+
+	farmers = {
+		culture = polish
+		religion = protestant
+		size = 1850 
+	}
+
+	clergymen = {
+		culture = lithuanian
+		religion = protestant
+		size = 25 
+	}
+
+	artisans = {
+		culture = lithuanian
+		religion = protestant
+		size = 150
+	}
+
+	soldiers = {
+		culture = lithuanian
+		religion = protestant
+		size = 25 
+	}
+
+	farmers = {
+		culture = lithuanian
+		religion = protestant
+		size = 3800 
+	}
+}

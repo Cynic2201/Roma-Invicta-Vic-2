@@ -442,3 +442,78 @@
 	}
 
 }
+
+#Nordfriesland
+3324 = {
+	bureaucrats = {
+		culture = danish
+		religion = protestant
+		size = 100
+	}
+
+	clergymen = {
+		culture = danish
+		religion = protestant
+		size = 125
+	}
+
+	artisans = {
+		culture = danish
+		religion = protestant
+		size = 5500
+	}
+
+	soldiers = {
+		culture = danish
+		religion = protestant
+		size = 250
+	}
+
+	farmers = {
+		culture = danish
+		religion = protestant
+		size = 10025
+	}
+
+	aristocrats = {
+		culture = saxon
+		religion = protestant
+		size = 650
+	}
+
+	bureaucrats = {
+		culture = saxon
+		religion = protestant
+		size = 100
+	}
+
+	officers = {
+		culture = saxon
+		religion = protestant
+		size = 150
+	}
+
+	clergymen = {
+		culture = saxon
+		religion = protestant
+		size = 250
+	}
+
+	artisans = {
+		culture = saxon
+		religion = protestant
+		size = 2500
+	}
+
+	soldiers = {
+		culture = saxon
+		religion = protestant
+		size = 500
+	}
+
+	farmers = {
+		culture = saxon
+		religion = protestant
+		size = 38850
+	}
+}

@@ -449,3 +449,48 @@
 	}
 
 }
+
+#Bergn (180000/45000 POPS)
+3326 = {
+	aristocrats = {
+		culture = norwegian
+		religion = protestant
+		size = 400
+	}
+	
+	bureaucrats = {
+		culture = norwegian
+		religion = protestant
+		size = 500
+	}
+
+	officers = {
+		culture = norwegian
+		religion = protestant
+		size = 100
+	}
+
+	clergymen = {
+		culture = norwegian
+		religion = protestant
+		size = 200
+	}
+
+	artisans = {
+		culture = norwegian
+		religion = protestant
+		size = 5000
+	}
+
+	soldiers = {
+		culture = norwegian
+		religion = protestant
+		size = 2000
+	}
+
+	farmers = {
+		culture = norwegian
+		religion = protestant
+		size = 39200
+	}
+}
