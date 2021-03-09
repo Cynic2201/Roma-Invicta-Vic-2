@@ -2,45 +2,55 @@
 #Oporto (768000/192000 POPS)
 518 = {
 	aristocrats = {
-		culture = lusitanian 
+		culture = latin 
 		religion = catholic
 		size = 1500
 	}
 
 	officers = {
-		culture = lusitanian 
+		culture = latin 
 		religion = catholic
 		size = 500
 	}
 
 	bureaucrats = {
-		culture = lusitanian 
+		culture = latin 
 		religion = catholic
 		size = 800
 	}
 
 	clergymen = {
-		culture = lusitanian 
+		culture = latin 
 		religion = catholic
 		size = 1100
 	}
 
 	artisans = {
-		culture = suebi 
+		culture = latin 
 		religion = catholic
 		size = 10000
 	}
 
 	soldiers = {
-		culture = lusitanian 
+		culture = latin 
 		religion = catholic
 		size = 2500
+	}
+	farmers = {
+		culture = african
+		religion = catholic
+		size = 10000
+	}
+	farmers = {
+		culture = latin
+		religion = catholic
+		size = 40000
 	}
 
 	farmers = {
 		culture = lusitanian 
 		religion = catholic
-		size = 100200
+		size = 50200
 	}
 	farmers = {
 		culture = suebi 
@@ -122,45 +132,54 @@
 #Lisbon (348000/87000 POPS)
 521 = {
 	aristocrats = {
-		culture = hispanic 
+		culture = latin 
 		religion = catholic
 		size = 1100
 	}
 
 	officers = {
-		culture = hispanic 
+		culture = latin 
 		religion = catholic
 		size = 350
 	}
 
 	bureaucrats = {
-		culture = hispanic 
+		culture = latin 
 		religion = catholic
 		size = 650
 	}
 
 	clergymen = {
-		culture = hispanic 
+		culture = latin 
 		religion = catholic
 		size = 1100
 	}
-
+	artisans = {
+		culture = greek
+		religion = catholic
+		size = 4000
+	}
 	artisans = {
 		culture = lusitanian 
 		religion = catholic
-		size = 8500
+		size = 4500
 	}
 
 	soldiers = {
-		culture = lusitanian 
+		culture = latin 
 		religion = catholic
 		size = 3000
 	}
 
 	farmers = {
-		culture = hispanic 
+		culture = african
 		religion = catholic
-		size = 48500
+		size = 20000
+	}
+	farmers = {
+		culture = latin 
+		religion = catholic
+		size = 28500
 	}
 
 	farmers = {
@@ -320,29 +339,32 @@
 #Beja (96000/24000 POPS)
 526 = {
 	aristocrats = {
-		culture = hispanic 
+		culture = lusitanian 
 		religion = catholic
 		size = 500
 	}
 
 	clergymen = {
-		culture = hispanic 
+		culture = lusitanian 
 		religion = catholic
 		size = 250
 	}
 
 	artisans = {
-		culture = hispanic 
+		culture = lusitanian 
 		religion = catholic
 		size = 1250
 	}
-
 	soldiers = {
-		culture = hispanic 
+		culture = lusitanian 
 		religion = catholic
 		size = 250
 	}
-
+	farmers = {
+		culture = lusitanian 
+		religion = catholic
+		size = 20000
+	}
 	farmers = {
 		culture = hispanic 
 		religion = catholic
