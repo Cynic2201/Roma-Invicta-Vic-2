@@ -1,230 +1,1045 @@
-AAC;Aachen;;;;;;;;;;;;x
-AAC_democracy;Free City of Aachen;;;;;;;;;;;;x
-AAC_ADJ;Aachenian;;;;;;;;;;;;x
-AFR;Africa;;;;;;;;;;;;x;;;;;;;;;;;;;;,,
-AFR_ADJ;African;;;;;;;;;;;;x
-ALD;Numidia;;;;;;;;;;;;x
-ANL;Anglaland;;;;;;;;;;;;x
-ANL_ADJ;Anglish;;;;;;;;;;;;
-ANL_democracy;Anglia;;;;;;;;;;;;x
-AQU;Aquitanica;;;;;;;;;;;;x;;;;;;;;;;;;;;
-AQU_ADJ;Visigothic;;;;;;;;;;;;
-AQU_absolute_monarchy;The Visigothic Empire;;;;;;;;;;;;x
-AQU_anarcho_liberal;Freedom Faction;;;;;;;;;;;;
-AQU_bourgeois_dictatorship;Aquitanica;;;;;;;;;;;;;;
-AQU_communist;Communist Faction;;;;;;;;;;;;
-AQU_conservative;Conservative Faction;;;;;;;;;;;;
-AQU_democracy;The Aquitanica Republic;;;;;;;;;;;;x
-AQU_fascist;Fascist Faction;;;;;;;;;;;;
-AQU_fascist_dictatorship;The Visigothic Reich;;;;;;;;;;;;;;
-AQU_hms_government;Aquitanica;;;;;;;;;;;;x
-AQU_liberal;Liberal Faction;;;;;;;;;;;;
-AQU_proletarian_dictatorship;The People's Republic of Aquitanica;;;;;;;;;;;;x
-AQU_prussian_constitutionalism;Aquitanica;;;;;;;;;;;;x
-AQU_reactionary;Reactionary Faction;;;;;;;;;;;;
-AQU_socialist;Socialist Faction;;;;;;;;;;;;
-AVA;Varchonia;;;;;;;;;;;;x
-AVA_ADJ;Avar;;;;;;;;;;;;x
-BAV;Bavaria;;;;;;;;;;;;x
-BAV_ADJ;Bayernor;;;;;;;;;;;;x
-BRG;Burgundiones;;;;;;;;;;;;x
-BRG_ADJ;Burgundi;;;;;;;;;;;;x
-BSQ;Vasconia;;;;;;;;;;;;;x
-BSQ_ADJ;Vasconian;;;;;;;;;;;;;x
-BSQ_anarcho_liberal;Alderdi Anarkiazale;;;;;;;;;;;;;x
-BSQ_communist;Mugimendu Komunista;;;;;;;;;;;;;x
-BSQ_conservative;Alderdi Jeltzalea;;;;;;;;;;;;;x
-BSQ_fascist;Euskadi Ta Askatasuna;;;;;;;;;;;;;x
-BSQ_fascist_dictatorship;Euskadi;;;;;;;;;;;;;x
-BSQ_liberal;Alderdi Abertzale Errepublikanoa;;;;;;;;;;;;;x
-BSQ_reactionary;Alderdi Monarkiko;;;;;;;;;;;;;x
-BSQ_socialist;Abertzale Ekintza;;;;;;;;;;;;;x
-CHR;Chernigov;;;;;;;;;;;;x
-CUR;Curonia;;;;;;;;;;;;x
-CUR_ADJ;Curonian;;;;;;;;;;;;x
-DAC;Dacia;;;;;;;;;;;;x
-DAC_ADJ;Dacian;;;;;;;;;;;;x
-EAN;East Anglia;;;;;;;;;;;;x
-EAN_ADJ;East Anglian;;;;;;;;;;;;x
-FRA;Francia;;;;;;;;;;;;x
-FRA_ADJ;Frankish;;;;;;;;;;;;x
-FRI;East Frisia;;;;;;;;;;;;x
-FRI_ADJ;Frisian;;;;;;;;;;;;x
-GAL;Gallia;;;;;;;;;;;;x
-GAL_ADJ;Gallic;;;;;;;;;;;;x
-GAU;Gaul;;;;;;;;;;;;x;;;;;;;;;;;;;;,,
-GAU_ADJ;Gaulish;;;;;;;;;;;;x;;;;;;;;;;;;;;,,
-GLC;Gallaecia;;;;;;;;;;;;;x
-GLC_ADJ;Gallaecian;;;;;;;;;;;;;x
-GLC_anarcho_liberal;Partido Radical;Partido Radical;Partido Radical;;;;;;;;;;;;x;;;;;;;;;;;;;;
-GLC_communist;Federación Regional;Federación Regional;Federación Regional;;;;;;;;;;;;x;;;;;;;;;;;;;;
-GLC_conservative;Partido Moderado;Partido Moderado;Partido Moderado;;;;;;;;;;;;x;;;;;;;;;;;;;;
-GLC_fascist;Partido Fascist;Falange;Falange;;;;;;;;;;;;x;;;;;;;;;;;;;;
-GLC_liberal;Partido Progresista;Partido Progresista;Partido Progresista;;;;;;;;;;;;x;;;;;;;;;;;;;;
-GLC_reactionary;Partido Nationalist;Comunión Carlista;Comunión Carlista;;;;;;;;;;;;x;;;;;;;;;;;;;;
-GLC_socialist;Partido Socialista;Partido Socialista;Partido Socialista;;;;;;;;;;;;x;;;;;;;;;;;;;;
-GLR;Glere;;;;;;;;;;;;x
-GLR_ADJ;Glerean;;;;;;;;;;;;x
-GLV;Russia;;;;;;;;;;;;x
-HAN;Hansa;;;;;;;;;;;;x;;;;;;;;;;;;;;
-HAN_ADJ;Hanseatic;;;;;;;;;;;;
-HAN_democracy;Hanseatic League;;;;;;;;;;;;
-HAN_fascist_dictatorship;HASDAP;;;;;;;;;;;;;;
-HAN_proletarian_dictatorship;Hanseatic Commune;;;;;;;;;;;;x
-HLL;Holland;;;;;;;;;;;;x
-HLL_ADJ;Dutch;;;;;;;;;;;;x
-IBE;Iberia;;;;;;;;;;;;x
-ITA;Italia;;;;;;;;;;;;x;;;;;;;;;;;;;;,,
-ITA_ADJ;Italian;;;;;;;;;;;;x;;;;;;;;;;;;;;,,
-KBG;Königsberg;;;;;;;;;;;;x
-KBG_ADJ;Königsberger;;;;;;;;;;;;x
-KHZ;Khazaria;;;;;;;;;;;;x
-KLE;Kleves;;;;;;;;;;;;
-KOL;Cologne;;;;;;;;;;;;x
-KOL_ADJ;Cologneian;;;;;;;;;;;;x
-KUM;Kummagyaria;;;;;;;;;;;;x
-KZN;Kazan;;;;;;;;;;;;x
-LAZ;Lazica;;;;;;;;;;;;x
-LIV;Livonia;;;;;;;;;;;;x
-LIV_ADJ;Livonian;;;;;;;;;;;;x
-LMB;Lombardy;;;;;;;;;;;;x
-LMB_ADJ;Lombard;;;;;;;;;;;;x
-LON;Londinium;;;;;;;;;;;;x;;;;;;;;;;;;;;
-LON_ADJ;Roman;;;;;;;;;;;;
-LON_anarcho_liberal;Libertatem Faction;;;;;;;;;;;;
-LON_communist;Seditiosa Faction;;;;;;;;;;;;
-LON_conservative;Optimates Faction;;;;;;;;;;;;
-LON_democracy;The Free City of Londinium;;;;;;;;;;;;x
-LON_fascist;Liberatores Faction;;;;;;;;;;;;
-LON_fascist_dictatorship;Britannia;;;;;;;;;;;;;;
-LON_liberal;Populares Faction;;;;;;;;;;;;
-LON_proletarian_dictatorship;The London Commune;;;;;;;;;;;;x
-LON_reactionary;Caesarian Faction;;;;;;;;;;;;
-LON_socialist;Plebeius Faction;;;;;;;;;;;;
-MGH;Gaetulia;;;;;;;;;;;;x
-MGH_ADJ;Gaetulian;;;;;;;;;;;;x
-MOR;Mauretania;;;;;;;;;;;;x;;;;;;;;;;;;;;
-MUS;Muscovy;;;;;;;;;;;;x
-NAR;Narbornesis;;;;;;;;;;;;x;;;;;;;;;;;;;;,,
-NAR_ADJ;Narbornesi;;;;;;;;;;;;x;;;;;;;;;;;;;;,,
-NOV;Novgorod;;;;;;;;;;;;x
-PLB;Polabia;;;;;;;;;;;;x
-PLB_ADJ;Polabian;;;;;;;;;;;;x
-PLT;Polotsk;;;;;;;;;;;;x
-PNN;Pannonia;;;;;;;;;;;;x
-PNN_ADJ;Pannonian;;;;;;;;;;;;x
-POM;Pomerania;;;;;;;;;;;;x
-POM_ADJ;Pomeranian;;;;;;;;;;;;x
-PRM;Perm;;;;;;;;;;;;x
-PRU;Pruthenia;;;;;;;;;;;;x
-PRU_ADJ;Prutherian;;;;;;;;;;;;x
-RIG;Riga;;;;;;;;;;;;x
-RIG_ADJ;Rigan;;;;;;;;;;;;x
-RIG_democracy:Free City of Riga;;;;;;;;;;;;x
-RYA;Ryazan;;;;;;;;;;;;x
-SIC;Sicilia;;;;;;;;;;;;x;;;;;;;;;;;;;;,,
-SIC_ADJ;Sicilian;;;;;;;;;;;;x;;;;;;;;;;;;;;,,
-SML;Smolensk;;;;;;;;;;;;x
-SOR;Sorbia;;;;;;;;;;;;x
-SOR_ADJ;Sorbian;;;;;;;;;;;;x
-SPA;Hispania;;;;;;;;;;;;x;;;;;;;;;;;;;;,,
-SPA_ADJ;Hispanian;;;;;;;;;;;;x;;;;;;;;;;;;;;,,
-SPQ;The Roman Empire;;;;;;;;;;;;x;;;;;;;;;;;;;;
-SPQ_ADJ;Roman;;;;;;;;;;;;
-SPQ_absolute_monarchy;The Roman Empire;;;;;;;;;;;;x
-SPQ_anarcho_liberal;Libertatem Faction;;;;;;;;;;;;
-SPQ_bourgeois_dictatorship;The Roman People;;;;;;;;;;;;;;
-SPQ_communist;Seditiosa Faction;;;;;;;;;;;;
-SPQ_conservative;Optimates Faction;;;;;;;;;;;;
-SPQ_democracy;The Roman Republic;;;;;;;;;;;;x
-SPQ_fascist;Liberatores Faction;;;;;;;;;;;;
-SPQ_fascist_dictatorship;The Imperium of Rome;;;;;;;;;;;;;;
-SPQ_hms_government;The Roman Empire;;;;;;;;;;;;x
-SPQ_liberal;Populares Faction;;;;;;;;;;;;
-SPQ_proletarian_dictatorship;The Roman People's Republic;;;;;;;;;;;;x
-SPQ_prussian_constitutionalism;The Roman Empire;;;;;;;;;;;;x
-SPQ_reactionary;Caesarian Faction;;;;;;;;;;;;
-SPQ_socialist;Plebeius Faction;;;;;;;;;;;;
-STE;Stettin;;;;;;;;;;;;x
-STE_ADJ;Stettiner;;;;;;;;;;;;x
-SWE_absolute_monarchy;The Swedish Empire;;;;;;;;;;;;x
-SWE_hms_government;The Swedish Empire;;;;;;;;;;;;x
-SWE_prussian_constitutionalism;The Swedish Empire;;;;;;;;;;;;x
-SWI;Helvetia;;;;;;;;;;;;x
-SWI_ADJ;Helvetic;;;;;;;;;;;;x
-TER;Trier;;;;;;;;;;;;x
-TER_ADJ;Trierian;;;;;;;;;;;;x
-ULM;Ulm;;;;;;;;;;;;x
-ULM_ADJ;Ulmer;;;;;;;;;;;;x
-ULM_democracy;Free City of Ulm;;;;;;;;;;;;x
-UTR;Utretch;;;;;;;;;;;;x
-UTR_ADJ;Utretcher;;;;;;;;;;;;x
-VAN;Vandalia;;;;;;;;;;;;x;;;;;;;;;;;;;;
-VAN_ADJ;Vandal;;;;;;;;;;;;
-VAN_absolute_monarchy;The Vandal Empire;;;;;;;;;;;;x
-VAN_anarcho_liberal;Freedom Faction;;;;;;;;;;;;
-VAN_bourgeois_dictatorship;Vandalia;;;;;;;;;;;;;;
-VAN_communist;Communist Faction;;;;;;;;;;;;
-VAN_conservative;Conservative Faction;;;;;;;;;;;;
-VAN_democracy;The Vandal Republic;;;;;;;;;;;;x
-VAN_fascist;Fascist Faction;;;;;;;;;;;;
-VAN_fascist_dictatorship;Greater Carthage;;;;;;;;;;;;;;
-VAN_hms_government;The Vandal Kingdom;;;;;;;;;;;;x
-VAN_liberal;Liberal Faction;;;;;;;;;;;;
-VAN_proletarian_dictatorship;The People's Republic of Vandalia;;;;;;;;;;;;x
-VAN_prussian_constitutionalism;The Vandal Kingdom;;;;;;;;;;;;x
-VAN_reactionary;Reactionary Faction;;;;;;;;;;;;
-VAN_socialist;Socialist Faction;;;;;;;;;;;;
-WHA;Brythonia;;;;;;;;;;;;;x
-WHA_ADJ;Brythonic;;;;;;;;;;;;;x
-WHA_anarcho_liberal;Anarchwyr;;;;;;;;;;;;;x
-WHA_communist;Plaid Gomiwnyddol;;;;;;;;;;;;;x
-WHA_conservative;Plaid Geidwadol;;;;;;;;;;;;;x
-WHA_fascist;Meibion Glyndwr;;;;;;;;;;;;;x
-WHA_liberal;Democratiaid Rhyddfrydol;;;;;;;;;;;;;x
-WHA_reactionary;Plaid Genedlaethol;;;;;;;;;;;;;x
-WHA_socialist;Plaid Cymru;;;;;;;;;;;;;x
-WSX;Westseaxna;;;;;;;;;;;;x;;;;;;;;;;;;;;
-WSX_ADJ;Saxon;;;;;;;;;;;;
-WSX_democracy;Saxony;;;;;;;;;;;;x
-WSX_fascist_dictatorship;The Saxon Empire;;;;;;;;;;;;;;
-WSX_proletarian_dictatorship;The Saxon Commune;;;;;;;;;;;;x
-YAR;Yaroslavl;;;;;;;;;;;;x
-gallic;Gallic;;;;;;;;;;;;x
-illyrian;Ilyrian;;;;;;;;;;;;x
-burgundian;Burgund;;;;;;;;;;;;x
-gallo-roman;Gallo-Roman;;;;;;;;;;;;x
-latin;Latin;;;;;;;;;;;;
-swiss;Helvetian;;;;;;;;;;;;
-noric;Noric;;;;;;;;;;;;
-frankish;Frankish;;;;;;;;;;;;
-frisian;Frisian;;;;;;;;;;;;
-saxon;Saxon;;;;;;;;;;;;
-bavarian;High German;;;;;;;;;;;;
-sorbian;Sorbian;;;;;;;;;;;;
-visigoth;Visigothic;;;;;;;;;;;;
-hispanic;Hispaneus;;;;;;;;;;;;x
-lusitanian;Lusitanian;;;;;;;;;;;;
-celtiberian;Celtiberian;;;;;;;;;;;;
-vasconian;Vasconian;;;;;;;;;;;;
-alexandrian;Alexandrian;;;;;;;;;;;;
-egyptian;Egyptian;;;;;;;;;;;;
-african;Africae;;;;;;;;;;;;x
-vandal;Vandal;;;;;;;;;;;;
-neo_punic;Neo-Punic;;;;;;;;;;;;
-mauretanian;Mauretanian;;;;;;;;;;;;
-numidian;Numidian;;;;;;;;;;;;
-arabic;Arabic;;;;;;;;;;;;
-dacian;Dacian;;;;;;;;;;;;
-ostrogoth;Ostrogothic;;;;;;;;;;;;
-avar;Avar;;;;;;;;;;;;
-greek;Graecian;;;;;;;;;;;;
-suebi;Suebi;;;;;;;;;;;;
-phonecian;Phonecian;;;;;;;;;;;;
-hebrew;Hebrew;;;;;;;;;;;;
-Aramaic;Aramaic;;;;;;;;;;;;
-siwi;Siwi;;;;;;;;;;;;
-PROV3323;West Frisia;;;;;;;;;;;;x
-PROV3324;Nordfriesland;;;;;;;;;;;;x
-PROV3325;Sambia;;;;;;;;;;;;x
-PROV3326;Bergn;;;;;;;;;;;;x
+TAG;;
+TAG_ADJ;;
+TAG_absolute_monarchy;;
+TAG_bourgeois_dictatorship;;
+TAG_democracy;;
+TAG_fascist_dictatorship;;
+TAG_hms_government;;
+TAG_proletarian_dictatorship;;
+TAG_prussian_constitutionalism;;
+TAG_anarcho_liberal;;
+TAG_communist;;
+TAG_conservative;;
+TAG_fascist;;
+TAG_liberal;;
+TAG_reactionary;;
+TAG_socialist;;
+AAC;Aachen;
+AAC_ADJ;Aachener;
+AAC_absolute_monarchy;;
+AAC_bourgeois_dictatorship;;
+AAC_democracy;Free City of Aachen;
+AAC_fascist_dictatorship;;
+AAC_hms_government;;
+AAC_proletarian_dictatorship;;
+AAC_prussian_constitutionalism;;
+AAC_anarcho_liberal;;
+AAC_communist;;
+AAC_conservative;;
+AAC_fascist;;
+AAC_liberal;;
+AAC_reactionary;;
+AAC_socialist;;
+AFR;Africa;
+AFR_ADJ;African;
+AFR_absolute_monarchy;;
+AFR_bourgeois_dictatorship;;
+AFR_democracy;;
+AFR_fascist_dictatorship;;
+AFR_hms_government;;
+AFR_proletarian_dictatorship;;
+AFR_prussian_constitutionalism;;
+AFR_anarcho_liberal;;
+AFR_communist;;
+AFR_conservative;;
+AFR_fascist;;
+AFR_liberal;;
+AFR_reactionary;;
+AFR_socialist;;
+ALD;Numidia;
+ALD_ADJ;Numidian;
+ALD_absolute_monarchy;;
+ALD_bourgeois_dictatorship;;
+ALD_democracy;;
+ALD_fascist_dictatorship;;
+ALD_hms_government;;
+ALD_proletarian_dictatorship;;
+ALD_prussian_constitutionalism;;
+ALD_anarcho_liberal;;
+ALD_communist;;
+ALD_conservative;;
+ALD_fascist;;
+ALD_liberal;;
+ALD_reactionary;;
+ALD_socialist;;
+ANL;Anglaland;
+ANL_ADJ;Anglish;
+ANL_absolute_monarchy;;
+ANL_bourgeois_dictatorship;;
+ANL_democracy;Anglia;
+ANL_fascist_dictatorship;;
+ANL_hms_government;;
+ANL_proletarian_dictatorship;;
+ANL_prussian_constitutionalism;;
+ANL_anarcho_liberal;;
+ANL_communist;;
+ANL_conservative;;
+ANL_fascist;;
+ANL_liberal;;
+ANL_reactionary;;
+ANL_socialist;;
+AQU;Aquitanica;
+AQU_ADJ;Visigothic;
+AQU_absolute_monarchy;;
+AQU_bourgeois_dictatorship;;
+AQU_democracy;;
+AQU_fascist_dictatorship;The Visigothic Reich;
+AQU_hms_government;;
+AQU_proletarian_dictatorship;The People's Republic of Aquitanica;
+AQU_prussian_constitutionalism;;
+AQU_anarcho_liberal;;
+AQU_communist;;
+AQU_conservative;;
+AQU_fascist;;
+AQU_liberal;;
+AQU_reactionary;;
+AQU_socialist;;
+AVA;Varchonia;
+AVA_ADJ;Avarian;
+AVA_absolute_monarchy;;
+AVA_bourgeois_dictatorship;;
+AVA_democracy;;
+AVA_fascist_dictatorship;;
+AVA_hms_government;;
+AVA_proletarian_dictatorship;;
+AVA_prussian_constitutionalism;;
+AVA_anarcho_liberal;;
+AVA_communist;;
+AVA_conservative;;
+AVA_fascist;;
+AVA_liberal;;
+AVA_reactionary;;
+AVA_socialist;;
+BAV;Bayern;
+BAV_ADJ;Bavarian;
+BAV_absolute_monarchy;;
+BAV_bourgeois_dictatorship;;
+BAV_democracy;;
+BAV_fascist_dictatorship;;
+BAV_hms_government;;
+BAV_proletarian_dictatorship;;
+BAV_prussian_constitutionalism;;
+BAV_anarcho_liberal;;
+BAV_communist;;
+BAV_conservative;;
+BAV_fascist;;
+BAV_liberal;;
+BAV_reactionary;;
+BAV_socialist;;
+BRG;Burgundia;
+BRG_ADJ;Burgundi;
+BRG_absolute_monarchy;;
+BRG_bourgeois_dictatorship;;
+BRG_democracy;;
+BRG_fascist_dictatorship;;
+BRG_hms_government;;
+BRG_proletarian_dictatorship;;
+BRG_prussian_constitutionalism;;
+BRG_anarcho_liberal;;
+BRG_communist;;
+BRG_conservative;;
+BRG_fascist;;
+BRG_liberal;;
+BRG_reactionary;;
+BRG_socialist;;
+BSQ;Vasconia;
+BSQ_ADJ;Vasconian;
+BSQ_absolute_monarchy;;
+BSQ_bourgeois_dictatorship;;
+BSQ_democracy;;
+BSQ_fascist_dictatorship;;
+BSQ_hms_government;;
+BSQ_proletarian_dictatorship;;
+BSQ_prussian_constitutionalism;;
+BSQ_anarcho_liberal;;
+BSQ_communist;;
+BSQ_conservative;;
+BSQ_fascist;;
+BSQ_liberal;;
+BSQ_reactionary;;
+BSQ_socialist;;
+CHR;Chernigov;
+CHR_ADJ;;
+CHR_absolute_monarchy;;
+CHR_bourgeois_dictatorship;;
+CHR_democracy;;
+CHR_fascist_dictatorship;;
+CHR_hms_government;;
+CHR_proletarian_dictatorship;;
+CHR_prussian_constitutionalism;;
+CHR_anarcho_liberal;;
+CHR_communist;;
+CHR_conservative;;
+CHR_fascist;;
+CHR_liberal;;
+CHR_reactionary;;
+CHR_socialist;;
+CUR;Curonia;
+CUR_ADJ;Curonian;
+CUR_absolute_monarchy;;
+CUR_bourgeois_dictatorship;;
+CUR_democracy;;
+CUR_fascist_dictatorship;;
+CUR_hms_government;;
+CUR_proletarian_dictatorship;;
+CUR_prussian_constitutionalism;;
+CUR_anarcho_liberal;;
+CUR_communist;;
+CUR_conservative;;
+CUR_fascist;;
+CUR_liberal;;
+CUR_reactionary;;
+CUR_socialist;;
+DAC;Dacia;
+DAC_ADJ;Dacian;
+DAC_absolute_monarchy;;
+DAC_bourgeois_dictatorship;;
+DAC_democracy;;
+DAC_fascist_dictatorship;;
+DAC_hms_government;;
+DAC_proletarian_dictatorship;;
+DAC_prussian_constitutionalism;;
+DAC_anarcho_liberal;;
+DAC_communist;;
+DAC_conservative;;
+DAC_fascist;;
+DAC_liberal;;
+DAC_reactionary;;
+DAC_socialist;;
+EAN;East Anglia;
+EAN_ADJ;East Anglian;
+EAN_absolute_monarchy;;
+EAN_bourgeois_dictatorship;;
+EAN_democracy;;
+EAN_fascist_dictatorship;;
+EAN_hms_government;;
+EAN_proletarian_dictatorship;;
+EAN_prussian_constitutionalism;;
+EAN_anarcho_liberal;;
+EAN_communist;;
+EAN_conservative;;
+EAN_fascist;;
+EAN_liberal;;
+EAN_reactionary;;
+EAN_socialist;;
+FRA;Francia;
+FRA_ADJ;Frankish;
+FRA_absolute_monarchy;;
+FRA_bourgeois_dictatorship;;
+FRA_democracy;;
+FRA_fascist_dictatorship;;
+FRA_hms_government;;
+FRA_proletarian_dictatorship;;
+FRA_prussian_constitutionalism;;
+FRA_anarcho_liberal;;
+FRA_communist;;
+FRA_conservative;;
+FRA_fascist;;
+FRA_liberal;;
+FRA_reactionary;;
+FRA_socialist;;
+FRI;East Frisia;
+FRI_ADJ;Frisian;
+FRI_absolute_monarchy;;
+FRI_bourgeois_dictatorship;;
+FRI_democracy;;
+FRI_fascist_dictatorship;;
+FRI_hms_government;;
+FRI_proletarian_dictatorship;;
+FRI_prussian_constitutionalism;;
+FRI_anarcho_liberal;;
+FRI_communist;;
+FRI_conservative;;
+FRI_fascist;;
+FRI_liberal;;
+FRI_reactionary;;
+FRI_socialist;;
+GAL;Gallia;
+GAL_ADJ;Gallic;
+GAL_absolute_monarchy;;
+GAL_bourgeois_dictatorship;;
+GAL_democracy;;
+GAL_fascist_dictatorship;;
+GAL_hms_government;;
+GAL_proletarian_dictatorship;;
+GAL_prussian_constitutionalism;;
+GAL_anarcho_liberal;;
+GAL_communist;;
+GAL_conservative;;
+GAL_fascist;;
+GAL_liberal;;
+GAL_reactionary;;
+GAL_socialist;;
+GAU;Gaul;
+GAU_ADJ;Gaulish;
+GAU_absolute_monarchy;;
+GAU_bourgeois_dictatorship;;
+GAU_democracy;;
+GAU_fascist_dictatorship;;
+GAU_hms_government;;
+GAU_proletarian_dictatorship;;
+GAU_prussian_constitutionalism;;
+GAU_anarcho_liberal;;
+GAU_communist;;
+GAU_conservative;;
+GAU_fascist;;
+GAU_liberal;;
+GAU_reactionary;;
+GAU_socialist;;
+GLC;Gallaecia;
+GLC_ADJ;Suebian;
+GLC_absolute_monarchy;;
+GLC_bourgeois_dictatorship;;
+GLC_democracy;;
+GLC_fascist_dictatorship;The Suebian Reich;
+GLC_hms_government;;
+GLC_proletarian_dictatorship;;
+GLC_prussian_constitutionalism;;
+GLC_anarcho_liberal;;
+GLC_communist;;
+GLC_conservative;;
+GLC_fascist;;
+GLC_liberal;;
+GLC_reactionary;;
+GLC_socialist;;
+GLR;Glere;
+GLR_ADJ;Glerean;
+GLR_absolute_monarchy;;
+GLR_bourgeois_dictatorship;;
+GLR_democracy;;
+GLR_fascist_dictatorship;;
+GLR_hms_government;;
+GLR_proletarian_dictatorship;;
+GLR_prussian_constitutionalism;;
+GLR_anarcho_liberal;;
+GLR_communist;;
+GLR_conservative;;
+GLR_fascist;;
+GLR_liberal;;
+GLR_reactionary;;
+GLR_socialist;;
+GLV;Russia;
+GLV_ADJ;;
+GLV_absolute_monarchy;;
+GLV_bourgeois_dictatorship;;
+GLV_democracy;;
+GLV_fascist_dictatorship;;
+GLV_hms_government;;
+GLV_proletarian_dictatorship;;
+GLV_prussian_constitutionalism;;
+GLV_anarcho_liberal;;
+GLV_communist;;
+GLV_conservative;;
+GLV_fascist;;
+GLV_liberal;;
+GLV_reactionary;;
+GLV_socialist;;
+HAN;Hansa;
+HAN_ADJ;Hanseatic;
+HAN_absolute_monarchy;;
+HAN_bourgeois_dictatorship;Hanseatic Commune;
+HAN_democracy;;
+HAN_fascist_dictatorship;HASDAP;
+HAN_hms_government;;
+HAN_proletarian_dictatorship;;
+HAN_prussian_constitutionalism;;
+HAN_anarcho_liberal;;
+HAN_communist;;
+HAN_conservative;;
+HAN_fascist;;
+HAN_liberal;;
+HAN_reactionary;;
+HAN_socialist;;
+HLL;Holland;
+HLL_ADJ;Dutch;
+HLL_absolute_monarchy;;
+HLL_bourgeois_dictatorship;;
+HLL_democracy;;
+HLL_fascist_dictatorship;;
+HLL_hms_government;;
+HLL_proletarian_dictatorship;;
+HLL_prussian_constitutionalism;;
+HLL_anarcho_liberal;;
+HLL_communist;;
+HLL_conservative;;
+HLL_fascist;;
+HLL_liberal;;
+HLL_reactionary;;
+HLL_socialist;;
+IBE;Iberia;
+IBE_ADJ;;
+IBE_absolute_monarchy;;
+IBE_bourgeois_dictatorship;;
+IBE_democracy;;
+IBE_fascist_dictatorship;;
+IBE_hms_government;;
+IBE_proletarian_dictatorship;;
+IBE_prussian_constitutionalism;;
+IBE_anarcho_liberal;;
+IBE_communist;;
+IBE_conservative;;
+IBE_fascist;;
+IBE_liberal;;
+IBE_reactionary;;
+IBE_socialist;;
+ITA;Italia;
+ITA_ADJ;Italian;
+ITA_absolute_monarchy;;
+ITA_bourgeois_dictatorship;;
+ITA_democracy;;
+ITA_fascist_dictatorship;;
+ITA_hms_government;;
+ITA_proletarian_dictatorship;;
+ITA_prussian_constitutionalism;;
+ITA_anarcho_liberal;;
+ITA_communist;;
+ITA_conservative;;
+ITA_fascist;;
+ITA_liberal;;
+ITA_reactionary;;
+ITA_socialist;;
+KBG;Königsberg;
+KBG_ADJ;Königsberger;
+KBG_absolute_monarchy;;
+KBG_bourgeois_dictatorship;;
+KBG_democracy;;
+KBG_fascist_dictatorship;;
+KBG_hms_government;;
+KBG_proletarian_dictatorship;;
+KBG_prussian_constitutionalism;;
+KBG_anarcho_liberal;;
+KBG_communist;;
+KBG_conservative;;
+KBG_fascist;;
+KBG_liberal;;
+KBG_reactionary;;
+KBG_socialist;;
+KHZ;Khazaria;
+KHZ_ADJ;;
+KHZ_absolute_monarchy;;
+KHZ_bourgeois_dictatorship;;
+KHZ_democracy;;
+KHZ_fascist_dictatorship;;
+KHZ_hms_government;;
+KHZ_proletarian_dictatorship;;
+KHZ_prussian_constitutionalism;;
+KHZ_anarcho_liberal;;
+KHZ_communist;;
+KHZ_conservative;;
+KHZ_fascist;;
+KHZ_liberal;;
+KHZ_reactionary;;
+KHZ_socialist;;
+KLE;Kleves;
+KLE_ADJ;;
+KLE_absolute_monarchy;;
+KLE_bourgeois_dictatorship;;
+KLE_democracy;;
+KLE_fascist_dictatorship;;
+KLE_hms_government;;
+KLE_proletarian_dictatorship;;
+KLE_prussian_constitutionalism;;
+KLE_anarcho_liberal;;
+KLE_communist;;
+KLE_conservative;;
+KLE_fascist;;
+KLE_liberal;;
+KLE_reactionary;;
+KLE_socialist;;
+KOL;Cologne;
+KOL_ADJ;Cologneian;
+KOL_absolute_monarchy;;
+KOL_bourgeois_dictatorship;;
+KOL_democracy;;
+KOL_fascist_dictatorship;;
+KOL_hms_government;;
+KOL_proletarian_dictatorship;;
+KOL_prussian_constitutionalism;;
+KOL_anarcho_liberal;;
+KOL_communist;;
+KOL_conservative;;
+KOL_fascist;;
+KOL_liberal;;
+KOL_reactionary;;
+KOL_socialist;;
+KUM;Kummagyaria;
+KUM_ADJ;;
+KUM_absolute_monarchy;;
+KUM_bourgeois_dictatorship;;
+KUM_democracy;;
+KUM_fascist_dictatorship;;
+KUM_hms_government;;
+KUM_proletarian_dictatorship;;
+KUM_prussian_constitutionalism;;
+KUM_anarcho_liberal;;
+KUM_communist;;
+KUM_conservative;;
+KUM_fascist;;
+KUM_liberal;;
+KUM_reactionary;;
+KUM_socialist;;
+KZN;Kazan;
+KZN_ADJ;;
+KZN_absolute_monarchy;;
+KZN_bourgeois_dictatorship;;
+KZN_democracy;;
+KZN_fascist_dictatorship;;
+KZN_hms_government;;
+KZN_proletarian_dictatorship;;
+KZN_prussian_constitutionalism;;
+KZN_anarcho_liberal;;
+KZN_communist;;
+KZN_conservative;;
+KZN_fascist;;
+KZN_liberal;;
+KZN_reactionary;;
+KZN_socialist;;
+LAZ;Lazica;
+LAZ_ADJ;;
+LAZ_absolute_monarchy;;
+LAZ_bourgeois_dictatorship;;
+LAZ_democracy;;
+LAZ_fascist_dictatorship;;
+LAZ_hms_government;;
+LAZ_proletarian_dictatorship;;
+LAZ_prussian_constitutionalism;;
+LAZ_anarcho_liberal;;
+LAZ_communist;;
+LAZ_conservative;;
+LAZ_fascist;;
+LAZ_liberal;;
+LAZ_reactionary;;
+LAZ_socialist;;
+LIV;Livonia;
+LIV_ADJ;Livonian;
+LIV_absolute_monarchy;;
+LIV_bourgeois_dictatorship;;
+LIV_democracy;;
+LIV_fascist_dictatorship;;
+LIV_hms_government;;
+LIV_proletarian_dictatorship;;
+LIV_prussian_constitutionalism;;
+LIV_anarcho_liberal;;
+LIV_communist;;
+LIV_conservative;;
+LIV_fascist;;
+LIV_liberal;;
+LIV_reactionary;;
+LIV_socialist;;
+LMB;Lombardy;
+LMB_ADJ;Lombard;
+LMB_absolute_monarchy;;
+LMB_bourgeois_dictatorship;;
+LMB_democracy;;
+LMB_fascist_dictatorship;;
+LMB_hms_government;;
+LMB_proletarian_dictatorship;;
+LMB_prussian_constitutionalism;;
+LMB_anarcho_liberal;;
+LMB_communist;;
+LMB_conservative;;
+LMB_fascist;;
+LMB_liberal;;
+LMB_reactionary;;
+LMB_socialist;;
+LON;Londinium;
+LON_ADJ;Londinian;
+LON_absolute_monarchy;;
+LON_bourgeois_dictatorship;;
+LON_democracy;The Free City of Londinium;
+LON_fascist_dictatorship;Britannia;
+LON_hms_government;;
+LON_proletarian_dictatorship;The London Commune;
+LON_prussian_constitutionalism;;
+LON_anarcho_liberal;Libertatem Faction;
+LON_communist;Seditiosa Faction;
+LON_conservative;Optimates Faction;
+LON_fascist;Liberatores Faction;
+LON_liberal;Populares Faction;
+LON_reactionary;Caesarian Faction;
+LON_socialist;Plebeius Faction;
+MGH;Gaetulia;
+MGH_ADJ;Gaetulian;
+MGH_absolute_monarchy;;
+MGH_bourgeois_dictatorship;;
+MGH_democracy;;
+MGH_fascist_dictatorship;;
+MGH_hms_government;;
+MGH_proletarian_dictatorship;;
+MGH_prussian_constitutionalism;;
+MGH_anarcho_liberal;;
+MGH_communist;;
+MGH_conservative;;
+MGH_fascist;;
+MGH_liberal;;
+MGH_reactionary;;
+MGH_socialist;;
+MOR;Mauretania;
+MOR_ADJ;;
+MOR_absolute_monarchy;;
+MOR_bourgeois_dictatorship;;
+MOR_democracy;;
+MOR_fascist_dictatorship;;
+MOR_hms_government;;
+MOR_proletarian_dictatorship;;
+MOR_prussian_constitutionalism;;
+MOR_anarcho_liberal;;
+MOR_communist;;
+MOR_conservative;;
+MOR_fascist;;
+MOR_liberal;;
+MOR_reactionary;;
+MOR_socialist;;
+MUS;Muscovy;
+MUS_ADJ;;
+MUS_absolute_monarchy;;
+MUS_bourgeois_dictatorship;;
+MUS_democracy;;
+MUS_fascist_dictatorship;;
+MUS_hms_government;;
+MUS_proletarian_dictatorship;;
+MUS_prussian_constitutionalism;;
+MUS_anarcho_liberal;;
+MUS_communist;;
+MUS_conservative;;
+MUS_fascist;;
+MUS_liberal;;
+MUS_reactionary;;
+MUS_socialist;;
+NAR;Narbornesis;
+NAR_ADJ;Narbornesi;
+NAR_absolute_monarchy;;
+NAR_bourgeois_dictatorship;;
+NAR_democracy;;
+NAR_fascist_dictatorship;;
+NAR_hms_government;;
+NAR_proletarian_dictatorship;;
+NAR_prussian_constitutionalism;;
+NAR_anarcho_liberal;;
+NAR_communist;;
+NAR_conservative;;
+NAR_fascist;;
+NAR_liberal;;
+NAR_reactionary;;
+NAR_socialist;;
+NOV;Novgorod;
+NOV_ADJ;;
+NOV_absolute_monarchy;;
+NOV_bourgeois_dictatorship;;
+NOV_democracy;;
+NOV_fascist_dictatorship;;
+NOV_hms_government;;
+NOV_proletarian_dictatorship;;
+NOV_prussian_constitutionalism;;
+NOV_anarcho_liberal;;
+NOV_communist;;
+NOV_conservative;;
+NOV_fascist;;
+NOV_liberal;;
+NOV_reactionary;;
+NOV_socialist;;
+PLB;Polabia;
+PLB_ADJ;Polabian;
+PLB_absolute_monarchy;;
+PLB_bourgeois_dictatorship;;
+PLB_democracy;;
+PLB_fascist_dictatorship;;
+PLB_hms_government;;
+PLB_proletarian_dictatorship;;
+PLB_prussian_constitutionalism;;
+PLB_anarcho_liberal;;
+PLB_communist;;
+PLB_conservative;;
+PLB_fascist;;
+PLB_liberal;;
+PLB_reactionary;;
+PLB_socialist;;
+PLT;Polotsk;
+PLT_ADJ;;
+PLT_absolute_monarchy;;
+PLT_bourgeois_dictatorship;;
+PLT_democracy;;
+PLT_fascist_dictatorship;;
+PLT_hms_government;;
+PLT_proletarian_dictatorship;;
+PLT_prussian_constitutionalism;;
+PLT_anarcho_liberal;;
+PLT_communist;;
+PLT_conservative;;
+PLT_fascist;;
+PLT_liberal;;
+PLT_reactionary;;
+PLT_socialist;;
+PNN;Pannonia;
+PNN_ADJ;Pannonian;
+PNN_absolute_monarchy;;
+PNN_bourgeois_dictatorship;;
+PNN_democracy;;
+PNN_fascist_dictatorship;;
+PNN_hms_government;;
+PNN_proletarian_dictatorship;;
+PNN_prussian_constitutionalism;;
+PNN_anarcho_liberal;;
+PNN_communist;;
+PNN_conservative;;
+PNN_fascist;;
+PNN_liberal;;
+PNN_reactionary;;
+PNN_socialist;;
+POM;Pomerania;
+POM_ADJ;Pomeranian;
+POM_absolute_monarchy;;
+POM_bourgeois_dictatorship;;
+POM_democracy;;
+POM_fascist_dictatorship;;
+POM_hms_government;;
+POM_proletarian_dictatorship;;
+POM_prussian_constitutionalism;;
+POM_anarcho_liberal;;
+POM_communist;;
+POM_conservative;;
+POM_fascist;;
+POM_liberal;;
+POM_reactionary;;
+POM_socialist;;
+PRM;Perm;
+PRM_ADJ;;
+PRM_absolute_monarchy;;
+PRM_bourgeois_dictatorship;;
+PRM_democracy;;
+PRM_fascist_dictatorship;;
+PRM_hms_government;;
+PRM_proletarian_dictatorship;;
+PRM_prussian_constitutionalism;;
+PRM_anarcho_liberal;;
+PRM_communist;;
+PRM_conservative;;
+PRM_fascist;;
+PRM_liberal;;
+PRM_reactionary;;
+PRM_socialist;;
+PRU;Pruthenia;
+PRU_ADJ;Prutherian;
+PRU_absolute_monarchy;;
+PRU_bourgeois_dictatorship;;
+PRU_democracy;;
+PRU_fascist_dictatorship;;
+PRU_hms_government;;
+PRU_proletarian_dictatorship;;
+PRU_prussian_constitutionalism;;
+PRU_anarcho_liberal;;
+PRU_communist;;
+PRU_conservative;;
+PRU_fascist;;
+PRU_liberal;;
+PRU_reactionary;;
+PRU_socialist;;
+RIG;Riga;
+RIG_ADJ;Rigan;
+RIG_absolute_monarchy;;
+RIG_bourgeois_dictatorship;;
+RIG_democracy;Free City of Riga;
+RIG_fascist_dictatorship;;
+RIG_hms_government;;
+RIG_proletarian_dictatorship;;
+RIG_prussian_constitutionalism;;
+RIG_anarcho_liberal;;
+RIG_communist;;
+RIG_conservative;;
+RIG_fascist;;
+RIG_liberal;;
+RIG_reactionary;;
+RIG_socialist;;
+RYA;Ryazan;
+RYA_ADJ;;
+RYA_absolute_monarchy;;
+RYA_bourgeois_dictatorship;;
+RYA_democracy;;
+RYA_fascist_dictatorship;;
+RYA_hms_government;;
+RYA_proletarian_dictatorship;;
+RYA_prussian_constitutionalism;;
+RYA_anarcho_liberal;;
+RYA_communist;;
+RYA_conservative;;
+RYA_fascist;;
+RYA_liberal;;
+RYA_reactionary;;
+RYA_socialist;;
+SIC;Sicilia;
+SIC_ADJ;Sicilian;
+SIC_absolute_monarchy;;
+SIC_bourgeois_dictatorship;;
+SIC_democracy;;
+SIC_fascist_dictatorship;;
+SIC_hms_government;;
+SIC_proletarian_dictatorship;;
+SIC_prussian_constitutionalism;;
+SIC_anarcho_liberal;;
+SIC_communist;;
+SIC_conservative;;
+SIC_fascist;;
+SIC_liberal;;
+SIC_reactionary;;
+SIC_socialist;;
+SML;Smolensk;
+SML_absolute_monarchy;;
+SML_bourgeois_dictatorship;;
+SML_democracy;;
+SML_fascist_dictatorship;;
+SML_hms_government;;
+SML_proletarian_dictatorship;;
+SML_prussian_constitutionalism;;
+SML_anarcho_liberal;;
+SML_communist;;
+SML_conservative;;
+SML_fascist;;
+SML_liberal;;
+SML_reactionary;;
+SML_socialist;;
+SOR;Sorbia;
+SOR_ADJ;Sorbian;
+SOR_absolute_monarchy;;
+SOR_bourgeois_dictatorship;;
+SOR_democracy;;
+SOR_fascist_dictatorship;;
+SOR_hms_government;;
+SOR_proletarian_dictatorship;;
+SOR_prussian_constitutionalism;;
+SOR_anarcho_liberal;;
+SOR_communist;;
+SOR_conservative;;
+SOR_fascist;;
+SOR_liberal;;
+SOR_reactionary;;
+SOR_socialist;;
+SPA;Hispania;
+SPA_ADJ;Hispanian;
+SPA_absolute_monarchy;;
+SPA_bourgeois_dictatorship;;
+SPA_democracy;;
+SPA_fascist_dictatorship;;
+SPA_hms_government;;
+SPA_proletarian_dictatorship;;
+SPA_prussian_constitutionalism;;
+SPA_anarcho_liberal;;
+SPA_communist;;
+SPA_conservative;;
+SPA_fascist;;
+SPA_liberal;;
+SPA_reactionary;;
+SPA_socialist;;
+SPQ;The Roman Empire;
+SPQ_ADJ;Roman;
+SPQ_absolute_monarchy;The Roman Empire;
+SPQ_bourgeois_dictatorship;The Roman People;
+SPQ_democracy;The Roman Republic;
+SPQ_fascist_dictatorship;The Imperium of Rome;
+SPQ_hms_government;The Roman Empire;
+SPQ_proletarian_dictatorship;The Roman People's Republic;
+SPQ_prussian_constitutionalism;The Roman Empire;
+SPQ_anarcho_liberal;Libertatem Faction;
+SPQ_communist;Seditiosa Faction;
+SPQ_conservative;Optimates Faction;
+SPQ_fascist;Liberatores Faction;
+SPQ_liberal;Populares Faction;
+SPQ_reactionary;Caesarian Faction;
+SPQ_socialist;Plebeius Faction;
+STE;Stettin;
+STE_ADJ;Stettiner;
+STE_absolute_monarchy;;
+STE_bourgeois_dictatorship;;
+STE_democracy;;
+STE_fascist_dictatorship;;
+STE_hms_government;;
+STE_proletarian_dictatorship;;
+STE_prussian_constitutionalism;;
+STE_anarcho_liberal;;
+STE_communist;;
+STE_conservative;;
+STE_fascist;;
+STE_liberal;;
+STE_reactionary;;
+STE_socialist;;
+SWE;;
+SWE_ADJ;;
+SWE_absolute_monarchy;The Swedish Empire;
+SWE_bourgeois_dictatorship;;
+SWE_democracy;;
+SWE_fascist_dictatorship;;
+SWE_hms_government;The Swedish Empire;
+SWE_proletarian_dictatorship;;
+SWE_prussian_constitutionalism;The Swedish Empire;
+SWE_anarcho_liberal;;
+SWE_communist;;
+SWE_conservative;;
+SWE_fascist;;
+SWE_liberal;;
+SWE_reactionary;;
+SWE_socialist;;
+SWI;Helvetia;
+SWI_ADJ;Helvetic;
+SWI_absolute_monarchy;;
+SWI_bourgeois_dictatorship;;
+SWI_democracy;;
+SWI_fascist_dictatorship;;
+SWI_hms_government;;
+SWI_proletarian_dictatorship;;
+SWI_prussian_constitutionalism;;
+SWI_anarcho_liberal;;
+SWI_communist;;
+SWI_conservative;;
+SWI_fascist;;
+SWI_liberal;;
+SWI_reactionary;;
+SWI_socialist;;
+TER;Trier;
+TER_ADJ;Trierian;
+TER_absolute_monarchy;;
+TER_bourgeois_dictatorship;;
+TER_democracy;;
+TER_fascist_dictatorship;;
+TER_hms_government;;
+TER_proletarian_dictatorship;;
+TER_prussian_constitutionalism;;
+TER_anarcho_liberal;;
+TER_communist;;
+TER_conservative;;
+TER_fascist;;
+TER_liberal;;
+TER_reactionary;;
+TER_socialist;;
+ULM;Ulm;
+ULM_ADJ;Ulmer;
+ULM_absolute_monarchy;;
+ULM_bourgeois_dictatorship;;
+ULM_democracy;Free City of Ulm;
+ULM_fascist_dictatorship;;
+ULM_hms_government;;
+ULM_proletarian_dictatorship;;
+ULM_prussian_constitutionalism;;
+ULM_anarcho_liberal;;
+ULM_communist;;
+ULM_conservative;;
+ULM_fascist;;
+ULM_liberal;;
+ULM_reactionary;;
+ULM_socialist;;
+UTR;Utretch;
+UTR_ADJ;Utretcher;
+UTR_absolute_monarchy;;
+UTR_bourgeois_dictatorship;;
+UTR_democracy;;
+UTR_fascist_dictatorship;;
+UTR_hms_government;;
+UTR_proletarian_dictatorship;;
+UTR_prussian_constitutionalism;;
+UTR_anarcho_liberal;;
+UTR_communist;;
+UTR_conservative;;
+UTR_fascist;;
+UTR_liberal;;
+UTR_reactionary;;
+UTR_socialist;;
+VAN;Vandalia;
+VAN_ADJ;Vandal;
+VAN_absolute_monarchy;The Vandal Empire;
+VAN_bourgeois_dictatorship;Vandalia;
+VAN_democracy;Vandaia;
+VAN_fascist_dictatorship;The Vandal Reich;
+VAN_hms_government;The Vandal Kingdom;
+VAN_proletarian_dictatorship;The People's Republic of Vandalia;
+VAN_prussian_constitutionalism;The Vandal Kingdom;
+VAN_anarcho_liberal;;
+VAN_communist;;
+VAN_conservative;;
+VAN_fascist;;
+VAN_liberal;;
+VAN_reactionary;;
+VAN_socialist;;
+WHA;Brythonia;
+WHA_ADJ;Brythonic;
+WHA_absolute_monarchy;;
+WHA_bourgeois_dictatorship;;
+WHA_democracy;;
+WHA_fascist_dictatorship;;
+WHA_hms_government;;
+WHA_proletarian_dictatorship;;
+WHA_prussian_constitutionalism;;
+WHA_anarcho_liberal;;
+WHA_communist;;
+WHA_conservative;;
+WHA_fascist;;
+WHA_liberal;;
+WHA_reactionary;;
+WHA_socialist;;
+WSX;Westseaxna;
+WSX_ADJ;Saxon;
+WSX_absolute_monarchy;;
+WSX_bourgeois_dictatorship;;
+WSX_democracy;Saxony;
+WSX_fascist_dictatorship;The Saxon Empire;
+WSX_hms_government;;
+WSX_proletarian_dictatorship;The Saxon Commune;
+WSX_prussian_constitutionalism;;
+WSX_anarcho_liberal;;
+WSX_communist;;
+WSX_conservative;;
+WSX_fascist;;
+WSX_liberal;;
+WSX_reactionary;;
+WSX_socialist;;
+YAR;Yaroslavl;
+YAR_ADJ;;
+YAR_absolute_monarchy;;
+YAR_bourgeois_dictatorship;;
+YAR_democracy;;
+YAR_fascist_dictatorship;;
+YAR_hms_government;;
+YAR_proletarian_dictatorship;;
+YAR_prussian_constitutionalism;;
+YAR_anarcho_liberal;;
+YAR_communist;;
+YAR_conservative;;
+YAR_fascist;;
+YAR_liberal;;
+YAR_reactionary;;
+YAR_socialist;;
+PROV3323;West Frisia;
+PROV3324;Nordfriesland;
+PROV3325;Sambia;
+PROV3326;Bergn;
+african;Africae;
+alexandrian;Alexandrian;
+arabic;Arabic;
+aramaic;Aramaic;
+avar;Avar;
+bavarian;High German;
+burgundian;Burgund;
+celtiberian;Celtiberian;
+dacian;Dacian;
+egyptian;Egyptian;
+frankish;Frankish;
+frisian;Frisian;
+gallic;Gallic;
+gallo-roman;Gallo-Roman;
+greek;Graecian;
+hebrew;Hebrew;
+hispanic;Hispaneus;
+illyrian;Ilyrian;
+latin;Latin;
+lusitanian;Lusitanian;
+mauretanian;Mauretanian;
+neo_punic;Neo-Punic;
+noric;Noric;
+numidian;Numidian;
+ostrogoth;Ostrogothic;
+phonecian;Phonecian;
+saxon;Saxon;
+siwi;Siwi;
+sorbian;Sorbian;
+suebi;Suebi;
+swiss;Helvetian;
+vandal;Vandal;
+vasconian;Vasconian;
+visigoth;Visigothic;
