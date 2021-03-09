@@ -235,7 +235,7 @@
 	slaves = {
 		culture = mauretanian
 		religion = sunni
-		size = 3000
+		size = 5000
 	}
 }
 #Gabes (200000/50000 POPS) 

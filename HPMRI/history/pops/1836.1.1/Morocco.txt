@@ -43,7 +43,6 @@
 		religion = sunni
 		size = 24400
 	}
-
 	
 	slaves = {
 		culture = mauretanian

@@ -3,7 +3,7 @@
 #Tripoli (172000/43000 POPS) 
 1731 = {
 	aristocrats = {
-		culture = latin
+		culture = african 
 		religion = sunni
 		size = 550
 	}
@@ -15,63 +15,63 @@
 	}
 
 	officers = {
-		culture = african 
+		culture = african
 		religion = sunni
 		size = 75
 	}
 
 	clergymen = {
-		culture = african 
+		culture = african
 		religion = sunni
 		size = 275
 	}
 
 	artisans = {
-		culture = african 
+		culture = african
 		religion = sunni
 		size = 3150
 	}
 
 	soldiers = {
-		culture = african 
+		culture = african
 		religion = sunni
 		size = 1100
 	}
 
 	farmers = {
-		culture = african 
+		culture = african
 		religion = sunni
-		size = 42900
+		size = 22900
 	}
 
 	aristocrats = {
-		culture = neo_punic
+		culture = african
 		religion = sunni
 		size = 125
 	}
 
 	clergymen = {
-		culture = neo_punic
+		culture = african
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = neo_punic
+		culture = african
 		religion = sunni
 		size = 350
 	}
 
 	soldiers = {
-		culture = neo_punic
+		culture = african
 		religion = sunni
 		size = 75
 	}
 
 	farmers = {
-		culture = neo_punic
+		culture = african
 		religion = sunni
-		size = 43075
+		size = 63075
 	}
 
 	slaves = {
@@ -95,63 +95,51 @@
 #Gharyan (40000/10000 POPS)
 1732 = {
 	aristocrats = {
-		culture = african 
+		culture = neo_punic
 		religion = sunni
-		size = 50
+		size = 125
 	}
 
 	clergymen = {
-		culture = african 
+		culture = neo_punic
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = african 
+		culture = neo_punic
 		religion = sunni
-		size = 150
+		size = 400
 	}
 
 	soldiers = {
-		culture = african 
+		culture = neo_punic
 		religion = sunni
 		size = 1100
-	}
-
-	farmers = {
-		culture = african 
-		religion = sunni
-		size = 1725
-	}
-
-	aristocrats = {
-		culture = neo_punic
-		religion = sunni
-		size = 75
-	}
-
-	clergymen = {
-		culture = neo_punic
-		religion = sunni
-		size = 75
-	}
-
-	artisans = {
-		culture = neo_punic
-		religion = sunni
-		size = 250
-	}
-
-	soldiers = {
-		culture = neo_punic
-		religion = sunni
-		size = 50
 	}
 
 	farmers = {
 		culture = neo_punic
 		religion = sunni
 		size = 4550
+	}
+
+	clergymen = {
+		culture = tuareg
+		religion = sunni
+		size = 75
+	}
+
+	soldiers = {
+		culture = tuareg
+		religion = sunni
+		size = 50
+	}
+
+	farmers = {
+		culture = tuareg
+		religion = sunni
+		size = 1725
 	}
 
 	slaves = {
@@ -163,55 +151,55 @@
 #Misratah (84000/21000 POPS)
 1733 = {
 	aristocrats = {
-		culture = african 
+		culture = african
 		religion = sunni
 		size = 175
 	}
 
 	clergymen = {
-		culture = african 
+		culture = african
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = african 
+		culture = african
 		religion = sunni
 		size = 500
 	}
 
 	soldiers = {
-		culture = african 
+		culture = neo_punic
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = african 
+		culture = african
 		religion = sunni
 		size = 10125
 	}
 
 	aristocrats = {
-		culture = neo_punic
+		culture = african
 		religion = sunni
 		size = 125
 	}
 
 	clergymen = {
-		culture = neo_punic
+		culture = african
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = neo_punic
+		culture = african
 		religion = sunni
 		size = 275
 	}
 
 	soldiers = {
-		culture = neo_punic
+		culture = african
 		religion = sunni
 		size = 1100
 	}
@@ -243,62 +231,62 @@
 #Sirt (100000/25000 POPS)
 1734 = {
 	aristocrats = {
-		culture = african 
+		culture = african
 		religion = sunni
 		size = 150
 	}
 
 	clergymen = {
-		culture = african 
+		culture = african
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = african 
+		culture = african
 		religion = sunni
 		size = 400
 	}
 
 	soldiers = {
-		culture = african 
+		culture = neo_punic
 		religion = sunni
 		size = 75
 	}
 
 	farmers = {
-		culture = african 
+		culture = neo_punic
 		religion = sunni
 		size = 7300
 	}
 
 	aristocrats = {
-		culture = neo_punic
+		culture = african
 		religion = sunni
 		size = 225
 	}
 
 	clergymen = {
-		culture = neo_punic
+		culture = african
 		religion = sunni
 		size = 125
 	}
 
 	artisans = {
-		culture = neo_punic
+		culture = african
 		religion = sunni
 		size = 650
 	}
 
 	soldiers = {
-		culture = neo_punic
+		culture = african
 		religion = sunni
 		size = 1100
 	}
 
 	farmers = {
-		culture = neo_punic
-		religion = sunni
+		culture = african
+		religion = african
 		size = 10000
 	}
 
@@ -313,73 +301,73 @@
 #Benghazi (124000/31000 POPS)
 1735 = {
 	aristocrats = {
-		culture = greko_egyptian
+		culture = alexandrian
 		religion = sunni
 		size = 275
 	}
 
 	bureaucrats = {
-		culture = greko_egyptian
+		culture = alexandrian
 		religion = sunni
 		size = 25
 	}
 
 	officers = {
-		culture = greko_egyptian
+		culture = alexandrian
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-		culture = greko_egyptian
+		culture = alexandrian
 		religion = sunni
 		size = 150
 	}
 
 	artisans = {
-		culture = greko_egyptian
+		culture = alexandrian
 		religion = sunni
 		size = 735
 	}
 
 	soldiers = {
-		culture = greko_egyptian
+		culture = alexandrian
 		religion = sunni
 		size = 1100
 	}
 
 	farmers = {
-		culture = greko_egyptian
+		culture = alexandrian
 		religion = sunni
 		size = 14025
 	}
 
 	aristocrats = {
-		culture = neo_punic
+		culture = alexandrian
 		religion = sunni
 		size = 175
 	}
 
 	clergymen = {
-		culture = neo_punic
+		culture = alexandrian
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = neo_punic
+		culture = alexandrian
 		religion = sunni
 		size = 500
 	}
 
 	soldiers = {
-		culture = neo_punic
+		culture = siwi
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = neo_punic
+		culture = siwi
 		religion = sunni
 		size = 9150
 	}
@@ -405,131 +393,163 @@
 #Darnah (60000/15000 POPS)
 1736 = {
 	aristocrats = {
-		culture = greko_egyptian
+		culture = alexandrian
 		religion = sunni
-		size = 75
+		size = 375
 	}
 
 	clergymen = {
-		culture = greko_egyptian
+		culture = alexandrian
+		religion = sunni
+		size = 450
+	}
+
+bureaucrats = {
+		culture = alexandrian
 		religion = sunni
 		size = 50
 	}
 
+officers = {
+		culture = alexandrian
+		religion = sunni
+		size = 25
+	}
+
 	artisans = {
-		culture = greko_egyptian
+		culture = alexandrian
+		religion = sunni
+		size = 735
+	}
+
+	soldiers = {
+		culture = alexandrian
 		religion = sunni
 		size = 250
 	}
 
-	soldiers = {
-		culture = greko_egyptian
-		religion = sunni
-		size = 50
-	}
-
 	farmers = {
-		culture = greko_egyptian
+		culture = siwi
 		religion = sunni
-		size = 6575
+		size = 5575
 	}
 
 	aristocrats = {
-		culture = neo_punic
+		culture = alexandrian
 		religion = sunni
 		size = 125
 	}
 
 	clergymen = {
-		culture = neo_punic
+		culture = alexandrian
 		religion = sunni
-		size = 75
+		size = 150
 	}
 
 	artisans = {
-		culture = neo_punic
+		culture = alexandrian
 		religion = sunni
-		size = 400
+		size = 735
 	}
 
 	soldiers = {
-		culture = neo_punic
+		culture = alexandrian
 		religion = sunni
 		size = 75
 	}
 
 	farmers = {
-		culture = neo_punic
+		culture = alexandrian
 		religion = sunni
-		size = 4325
+		size = 19325
 	}
 
 	slaves = {
 		culture = forest_bantu
 		religion = animist
-		size = 2000
+		size = 7500
 	}
+
+clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 50
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 545
+	}
+
 }
 #Tobruk (48000/12000 POPS)
 1737 = {
 	aristocrats = {
-		culture = greko_egyptian
+		culture = alexandrian
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-		culture = greko_egyptian
+		culture = alexandrian
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = greko_egyptian
+		culture = egyptian
 		religion = sunni
 		size = 150
 	}
 
 	soldiers = {
-		culture = greko_egyptian
+		culture = maghrebi
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = greko_egyptian
+		culture = siwi
 		religion = sunni
-		size = 4700
+		size = 1000
 	}
 
+	farmers = {
+		culture = egyptian
+		religion = sunni
+		size = 2700
+	}
+
+
 	aristocrats = {
-		culture = neo_punic
+		culture = alexandrian
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = neo_punic
+		culture = alexandrian
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = neo_punic
+		culture = alexandrian
 		religion = sunni
 		size = 300
 	}
 
 	soldiers = {
-		culture = neo_punic
+		culture = alexandrian
 		religion = sunni
 		size = 50
 	}
 
 	farmers = {
-		culture = neo_punic
+		culture = alexandrian
 		religion = sunni
-		size = 3500
+		size = 5500
 	}
 
 	slaves = {
@@ -543,31 +563,31 @@
 #Jaghbub (12000/3000 POPS)
 1738 = {
 	aristocrats = {
-		culture = neo_punic
+		culture = siwi
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-		culture = neo_punic
+		culture = siwi
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = neo_punic
+		culture = siwi
 		religion = sunni
 		size = 150
 	}
 
 	soldiers = {
-		culture = neo_punic
+		culture = siwi
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = misri 
+		culture = siwi
 		religion = sunni
 		size = 2750
 	}
@@ -576,19 +596,19 @@
 #Waddan (16000/4000 POPS)
 1740 = {
 	aristocrats = {
-		culture = african 
+		culture = neo_punic
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-		culture = african 
+		culture = neo_punic
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = african 
+		culture = neo_punic
 		religion = sunni
 		size = 150
 	}
@@ -639,69 +659,33 @@
 2585 = {
 
 	aristocrats = {
-		culture = teda
+		culture = siwi
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-		culture = teda
+		culture = siwi
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = teda
+		culture = siwi
 		religion = sunni
 		size = 150
 	}
 	
 	soldiers = {
-		culture = teda
+		culture = siwi
 		religion = sunni
 		size = 1100
 	}
 
 	farmers = {
-		culture = teda
+		culture = siwi
 		religion = sunni
 		size = 1650
-	}
-
-	aristocrats = {
-		culture = teda
-		religion = sunni
-		size = 15
-	}
-
-	clergymen = {
-		culture = teda
-		religion = sunni
-		size = 25
-	}
-
-	artisans = {
-		culture = teda
-		religion = sunni
-		size = 50
-	}
-
-	soldiers = {
-		culture = teda
-		religion = sunni
-		size = 10
-	}
-
-	farmers = {
-		culture = teda
-		religion = sunni
-		size = 500
-	}
-	
-	aristocrats = {
-		culture = teda
-		religion = sunni
-		size = 15
 	}
 
 	clergymen = {
@@ -751,13 +735,13 @@
 	}
 
 	artisans = {
-		culture = african 
+		culture = neo_punic
 		religion = sunni
 		size = 50
 	}
 
 	soldiers = {
-		culture = african 
+		culture = neo_punic
 		religion = sunni
 		size = 10
 	}
@@ -765,7 +749,7 @@
 	farmers = {
 		culture = neo_punic
 		religion = sunni
-		size = 1880
+		size = 880
 	}
 
 	aristocrats = {
@@ -795,11 +779,11 @@
 	farmers = {
 		culture = tuareg
 		religion = sunni
-		size = 875
+		size = 1875
 	}
 
 	slaves = {
-		culture = berber
+		culture = mauretanian
 		religion = sunni
 		size = 1100
 	}
@@ -807,36 +791,6 @@
 #Sabha (14000/3500 POPS)
 1742 = {
 	aristocrats = {
-		culture = teda
-		religion = sunni
-		size = 15
-	}
-
-	clergymen = {
-		culture = teda
-		religion = sunni
-		size = 25
-	}
-
-	artisans = {
-		culture = teda
-		religion = sunni
-		size = 50
-	}
-
-	soldiers = {
-		culture = teda
-		religion = sunni
-		size = 10
-	}
-
-	farmers = {
-		culture = neo_punic
-		religion = sunni
-		size = 900
-	}
-
-	aristocrats = {
 		culture = tuareg
 		religion = sunni
 		size = 25
@@ -861,7 +815,7 @@
 	}
 
 	farmers = {
-		culture = teda
+		culture = tuareg
 		religion = sunni
 		size = 1875
 	}
@@ -888,13 +842,13 @@
 	}
 
 	artisans = {
-		culture = african 
+		culture = neo_punic
 		religion = sunni
 		size = 200
 	}
 
 	soldiers = {
-		culture = african 
+		culture = neo_punic
 		religion = sunni
 		size = 1100
 	}
@@ -912,31 +866,31 @@
 	}
 
 	clergymen = {
-		culture = neo_punic
+		culture = tuareg
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = neo_punic
+		culture = tuareg
 		religion = sunni
 		size = 150
 	}
 
 	soldiers = {
-		culture = neo_punic
+		culture = tuareg
 		religion = sunni
 		size = 1120
 	}
 
 	farmers = {
-		culture = neo_punic
+		culture = tuareg
 		religion = sunni
 		size = 1800
 	}
 
 	slaves = {
-		culture = berber
+		culture = mauretanian
 		religion = sunni
 		size = 3100
 	}

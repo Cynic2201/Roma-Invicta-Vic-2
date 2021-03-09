@@ -3,43 +3,43 @@
 #Kuwait (12000/3000 POPS) #now part of Kuwait 
 935 = {
 	aristocrats = {
-		culture = bedouin
+		culture = arabic
 		religion = sunni
 		size = 200
 	}
 	
 	bureaucrats = {
-		culture = bedouin
+		culture = arabic
 		religion = sunni
 		size = 10
 	}
 	
 	officers = {
-		culture = bedouin
+		culture = arabic
 		religion = sunni
 		size = 10
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = arabic
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = arabic
 		religion = sunni
 		size = 150
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = arabic
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = arabic
 		religion = sunni
 		size = 2725
 	}
@@ -49,67 +49,67 @@
 #Bahrain (20000/5000 POPS) #now part of Bahrain  
 1162 = {
 	aristocrats = {
-		culture = bedouin
+		culture = arabic
 		religion = sunni
 		size = 150
 	}
 
 	bureaucrats = {
-		culture = bedouin
+		culture = arabic
 		religion = sunni
 		size = 25
 	}
 
 	officers = {
-		culture = bedouin
+		culture = arabic
 		religion = sunni
 		size = 10
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = arabic
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = arabic
 		religion = sunni
 		size = 100
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = arabic
 		religion = sunni
 		size = 1050
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = arabic
 		religion = sunni
 		size = 500
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = arabic
 		religion = shiite
 		size = 50
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = arabic
 		religion = shiite
 		size = 150
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = arabic
 		religion = shiite
 		size = 3600
 	}
 	
 	farmers = {
-		culture = mashriqi
+		culture = hebrew
 		religion = jewish
 		size = 50
 	}
@@ -127,7 +127,7 @@
 	}
 	
 	farmers = {
-		culture = bedouin
+		culture = alexandrian
 		religion = orthodox
 		size = 250
 	}
@@ -135,43 +135,43 @@
 #Doha (8000/2000 POPS) #now part of Qatar 
 1165 = {
 	aristocrats = {
-		culture = bedouin
+		culture = arabic
 		religion = sunni
 		size = 70
 	}
 	
 	bureaucrats = {
-		culture = bedouin
+		culture = arabic
 		religion = sunni
 		size = 10
 	}
 	
 	officers = {
-		culture = bedouin
+		culture = arabic
 		religion = sunni
 		size = 10
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = arabic
 		religion = sunni
 		size = 25
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = arabic
 		religion = sunni
 		size = 100
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = arabic
 		religion = sunni
 		size = 1050
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = arabic
 		religion = sunni
 		size = 1525
 	}
@@ -187,43 +187,43 @@
 #Abu Dhabi (20000/5000 POPS) #now part of UAE  
 1167 = {
 	aristocrats = {
-		culture = bedouin
+		culture = arabic
 		religion = sunni
 		size = 225
 	}
 
 	bureaucrats = {
-		culture = bedouin
+		culture = arabic
 		religion = sunni
 		size = 15
 	}
 
 	officers = {
-		culture = bedouin
+		culture = arabic
 		religion = sunni
 		size = 10
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = arabic
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = arabic
 		religion = sunni
 		size = 250
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = arabic
 		religion = sunni
 		size = 1000
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = arabic
 		religion = sunni
 		size = 3650
 	}
@@ -237,31 +237,31 @@
 #Dubai (16000/4000 POPS)   #now part of UAE 
 1168 = {
 	aristocrats = {
-		culture = bedouin
+		culture = arabic
 		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = arabic
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = arabic
 		religion = sunni
 		size = 200
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = arabic
 		religion = sunni
 		size = 1000
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = arabic
 		religion = sunni
 		size = 2625
 	}

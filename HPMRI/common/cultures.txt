@@ -6,7 +6,7 @@ north_african = {
 	unit = AfricanGC
 	
 
-    misri = {
+    egyptian = {
         color = {235 201 134}
         first_names = {
             Abdullah Abdulhamid Abdulkerim Ahmet Ali Bekir Cemal Enver Fevzi Fuat Halil
@@ -21,18 +21,6 @@ north_african = {
             Negm Nakhla Koura Elshazly Soliman Elkhashab Elkady Hindawy Zeitoun Elgammal
         }
     }	
-
-	berber = {
- 	       color = {51 75 70}
-  	      first_names = {
-  	          Ahmed "Abd al-Karim" Khalid Muhammad Mustafa
- 	           }
-
- 	       last_names = {
-	            "al-Jazuli" Belkadi Mukrani "al-Rifi" "al-Sahrawi" "al-Shawiyyati" "al-Shiluhi" "al-Zanatawi"
- 	           }
- 	       radicalism = 10
- 	   }
 	
 	neo_punic = {
 
@@ -43,7 +31,26 @@ north_african = {
 		Numerius Publius Quintus Servius Sextus Spurius Titus Tiberius }
 		
 		}
+	
+	maures = {
+		color = {252 125 78}
+		first_names = { Abbas Malamah Abu "Ibn Muhammad" Tariq Farraj Galib Hajib Amira Asim Hasan Hayyan Jalaf Mansur Maymun Mujahid Mutarrif Nasr Tabit Tamim Ubada Ufayr Umar Wasil Yazid Yunus Zuhayr
+		}
 
+		last_names = { Ziyad al-Rahman Firnas al-Majriti al-Zahrawi al-Zarqali Bajjah Zuhr al-Idrisi Tufail Rushd al-Baitar Battuta Khaldon al-Qalasadi 
+		}
+	}
+	
+	sudanese = {
+		color = {241 241 78}
+		first_names = { "Ibn Muhammad" Abdullah "Abbas said" Ismail Mansur Rahman Abdallahi Hassan Malusi Tahir Wiraj Amsalu Nijam Bakri
+		}
+
+		last_names = { Ahmad Ali Zubayr Digna Azrak Hammuda al-Tasashi Nujumi
+		}
+		radicalism = 10
+	}
+	
 	mauretanian = {
 
 		color = {214 174 124}
@@ -57,6 +64,16 @@ north_african = {
 	numidian = {
 
 		color = {214 204 124}
+		first_names = { Wisimar Valentinian Huenric Alexandros Basil Constantine Christpohus Diocletian }
+		
+		last_names = {  Benedictus Antony Aurelius Appius Aulus Caeso Decimus Gaius Gnaeus Lucius Mamercus Manius Marcus
+		Numerius Publius Quintus Servius Sextus Spurius Titus Tiberius }
+		
+		}
+		
+	siwi = {
+
+		color = {76 76 76}
 		first_names = { Wisimar Valentinian Huenric Alexandros Basil Constantine Christpohus Diocletian }
 		
 		last_names = {  Benedictus Antony Aurelius Appius Aulus Caeso Decimus Gaius Gnaeus Lucius Mamercus Manius Marcus
@@ -128,8 +145,8 @@ jewish = {
 		}
 	}
 
-	bedouin = {
-		color = {100 60 10}
+	arabic = {
+		color = {38 117 66}
 		first_names = { Abraham Amos Baruch Binyamin Daniel David Efraim Ehud Eli Eliezer Elijah Gavriel Hebel Immanuel Itzhak Levi Mattiyahu Mensahe Mikhael Moshe 
 		Natan Noach Reuben Roi Shalom Shimon Tovia Uriel Uzziel Yaakov Yachin Yafe Yehoshua Yehudah Yochanan Yonatan Yosef Zohar
 		}
@@ -138,6 +155,37 @@ jewish = {
 		Sassoon Sebag
 		}
 	}
+	
+	hebrew = {
+		color = {191 105 19}
+		first_names = { Abraham Amos Baruch Binyamin Daniel David Efraim Ehud Eli Eliezer Elijah Gavriel Hebel Immanuel Itzhak Levi Mattiyahu Mensahe Mikhael Moshe 
+		Natan Noach Reuben Roi Shalom Shimon Tovia Uriel Uzziel Yaakov Yachin Yafe Yehoshua Yehudah Yochanan Yonatan Yosef Zohar
+		}
+
+		last_names = { Banai Barak "Ben Ami" Benveniste Canetti Cantor Cardoso Cohen Disraeli Gaon Golan Halevi Levy Maimon Mizrachi Montefiore Peretz Rafaeli Saban 
+		Sassoon Sebag
+		}
+	}
+	
+	aramaic = {
+		color = {210 135 63}
+		first_names = { Abraham Amos Baruch Binyamin Daniel David Efraim Ehud Eli Eliezer Elijah Gavriel Hebel Immanuel Itzhak Levi Mattiyahu Mensahe Mikhael Moshe 
+		Natan Noach Reuben Roi Shalom Shimon Tovia Uriel Uzziel Yaakov Yachin Yafe Yehoshua Yehudah Yochanan Yonatan Yosef Zohar
+		}
+
+		last_names = { Banai Barak "Ben Ami" Benveniste Canetti Cantor Cardoso Cohen Disraeli Gaon Golan Halevi Levy Maimon Mizrachi Montefiore Peretz Rafaeli Saban 
+		Sassoon Sebag
+		}
+	}
+	
+	phonecian = {
+		color = {158 68 132}
+		first_names = { Wisimar Valentinian Huenric Alexandros Basil Constantine Christpohus Diocletian }
+		
+		last_names = {  Benedictus Antony Aurelius Appius Aulus Caeso Decimus Gaius Gnaeus Lucius Mamercus Manius Marcus
+		Numerius Publius Quintus Servius Sextus Spurius Titus Tiberius }
+		
+	}	
 
 	ashkenazi = { 
 		color = {130 100 100}
@@ -184,7 +232,7 @@ hellenic = {
 		Tsaklev Valkov Valnarov Vasilev Vazov Velchev Zafirov Zhekov Zlatarev Zlatev
 		}
 	}
-	greko_egyptian = {
+	alexandrian = {
 		color = {150 209 209}
 		first_names = { Adamantios Alexandros Anastasios Andreas Antonios Aristidis Athanasios Augustinos Benizelos Charalambos
 		Charilaos Dimitrios Diomidis Eleftherios Emmanouil Epameinontas Evripidis Gennaios Georgios Ilias

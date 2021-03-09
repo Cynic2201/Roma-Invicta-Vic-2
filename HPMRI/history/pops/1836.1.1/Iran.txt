@@ -82,19 +82,19 @@
 	}
 
 	farmers = {
-		culture = circassian
+		culture = alexandrian
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = sephardic
+		culture = hebrew
 		religion = jewish
 		size = 10
 	}
 
 	artisans = {
-		culture = sephardic
+		culture = hebrew
 		religion = jewish
 		size = 490
 	}
@@ -112,7 +112,7 @@
 	}
 	
 	slaves = {
-		culture = circassian
+		culture = alexandrian
 		religion = orthodox
 		size = 12000
 	}
@@ -290,7 +290,7 @@
 	}
 
 	farmers = {
-		culture = kurdish
+		culture = persian
 		religion = shiite
 		size = 10900
 	}
@@ -320,7 +320,7 @@
 	}
 
 	farmers = {
-		culture = kurdish
+		culture = persian
 		religion = sunni
 		size = 15575
 	}
@@ -794,13 +794,13 @@
 	}
 
 	clergymen = {
-		culture = sephardic
+		culture = hebrew
 		religion = jewish
 		size = 5
 	}
 
 	artisans = {
-		culture = sephardic
+		culture = hebrew
 		religion = jewish
 		size = 245
 	}
@@ -1062,13 +1062,13 @@
 	}
 
 	clergymen = {
-		culture = sephardic
+		culture = hebrew
 		religion = jewish
 		size = 10
 	}
 
 	artisans = {
-		culture = sephardic
+		culture = hebrew
 		religion = jewish
 		size = 490
 	}
@@ -1118,13 +1118,13 @@
 	}
 
 	clergymen = {
-		culture = sephardic
+		culture = hebrew
 		religion = jewish
 		size = 10
 	}
 
 	artisans = {
-		culture = sephardic
+		culture = hebrew
 		religion = jewish
 		size = 490
 	}
@@ -1322,13 +1322,13 @@
 	}
 
 	clergymen = {
-		culture = sephardic
+		culture = hebrew
 		religion = jewish
 		size = 10
 	}
 
 	artisans = {
-		culture = sephardic
+		culture = hebrew
 		religion = jewish
 		size = 490
 	}
@@ -1416,7 +1416,7 @@
 	}
 
 	artisans = {
-		culture = sephardic
+		culture = hebrew
 		religion = jewish
 		size = 200
 	}
@@ -1434,13 +1434,13 @@
 	}
 
 	artisans = {
-		culture = sephardic
+		culture = hebrew
 		religion = jewish
 		size = 175
 	}
 
 	clergymen = {
-		culture = sephardic
+		culture = hebrew
 		religion = jewish
 		size = 25
 	}
@@ -1478,13 +1478,13 @@
 	}
 
 	clergymen = {
-		culture = sephardic
+		culture = hebrew
 		religion = jewish
 		size = 5
 	}
 
 	artisans = {
-		culture = sephardic
+		culture = hebrew
 		religion = jewish
 		size = 245
 	}
@@ -1506,31 +1506,31 @@
 #Ahvaz (56000/14000 POPS)
 1131 = {
 	aristocrats = {
-		culture = assyrian
+		culture = persian
 		religion = shiite
 		size = 200
 	}
 
 	clergymen = {
-		culture = assyrian
+		culture = persian
 		religion = shiite
 		size = 100
 	}
 
 	artisans = {
-		culture = assyrian
+		culture = persian
 		religion = shiite
 		size = 425
 	}
 
 	soldiers = {
-		culture = assyrian
+		culture = persian
 		religion = shiite
 		size = 100
 	}
 
 	farmers = {
-		culture = assyrian
+		culture = persian
 		religion = shiite
 		size = 9925
 	}
@@ -1578,13 +1578,13 @@
 	}
 
 	clergymen = {
-		culture = sephardic
+		culture = hebrew
 		religion = jewish
 		size = 5
 	}
 
 	artisans = {
-		culture = sephardic
+		culture = hebrew
 		religion = jewish
 		size = 245
 	}
@@ -1592,31 +1592,31 @@
 #Abadan (44000/11000 POPS)
 1132 = {
 	aristocrats = {
-		culture = assyrian
+		culture = persian
 		religion = shiite
 		size = 200
 	}
 
 	clergymen = {
-		culture = assyrian
+		culture = persian
 		religion = shiite
 		size = 100
 	}
 
 	artisans = {
-		culture = assyrian
+		culture = persian
 		religion = shiite
 		size = 550
 	}
 
 	soldiers = {
-		culture = assyrian
+		culture = persian
 		religion = shiite
 		size = 100
 	}
 
 	farmers = {
-		culture = assyrian
+		culture = persian
 		religion = shiite
 		size = 10050
 	}
@@ -1624,31 +1624,31 @@
 #Dezful (32000/8000 POPS)
 1133 = {
 	aristocrats = {
-		culture = assyrian
+		culture = persian
 		religion = shiite
 		size = 25
 	}
 
 	clergymen = {
-		culture = assyrian
+		culture = persian
 		religion = shiite
 		size = 50
 	}
 
 	artisans = {
-		culture = assyrian
+		culture = persian
 		religion = shiite
 		size = 100
 	}
 
 	soldiers = {
-		culture = assyrian
+		culture = persian
 		religion = shiite
 		size = 25
 	}
 
 	farmers = {
-		culture = assyrian
+		culture = persian
 		religion = shiite
 		size = 1800
 	}
@@ -1762,13 +1762,13 @@
 	}
 
 	clergymen = {
-		culture = sephardic
+		culture = hebrew
 		religion = jewish
 		size = 50
 	}
 
 	artisans = {
-		culture = sephardic
+		culture = hebrew
 		religion = jewish
 		size = 700
 	}
@@ -1818,7 +1818,7 @@
 	}
 
 	artisans = {
-		culture = sephardic
+		culture = hebrew
 		religion = jewish
 		size = 200
 	}
@@ -1998,31 +1998,31 @@
 	}
 
 	aristocrats = {
-		culture = mashriqi
+		culture = persian
 		religion = shiite
 		size = 25
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = persian
 		religion = shiite
 		size = 50
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = persian
 		religion = shiite
 		size = 150
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = persian
 		religion = shiite
 		size = 25
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = persian
 		religion = shiite
 		size = 2750
 	}
@@ -2060,31 +2060,31 @@
 	}
 
 	aristocrats = {
-		culture = mashriqi
+		culture = persian
 		religion = shiite
 		size = 100
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = persian
 		religion = shiite
 		size = 75
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = persian
 		religion = shiite
 		size = 350
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = persian
 		religion = shiite
 		size = 75
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = persian
 		religion = shiite
 		size = 6400
 	}
@@ -2458,13 +2458,13 @@
 	}
 
 	clergymen = {
-		culture = sephardic
+		culture = hebrew
 		religion = jewish
 		size = 5
 	}
 
 	artisans = {
-		culture = sephardic
+		culture = hebrew
 		religion = jewish
 		size = 245
 	}
@@ -2637,7 +2637,7 @@
 	}
 	
 	farmers = {
-		culture = bedouin
+		culture = arabic
 		religion = sunni
 		size = 225
 	}
