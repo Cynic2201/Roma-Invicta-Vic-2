@@ -29,25 +29,25 @@
 	clergymen = {
 		culture = ashkenazi
 		religion = jewish
-		size = 100
+		size = 25
 	}
-	
+
 	clerks = {
 		culture = ashkenazi
 		religion = jewish
-		size = 300
+		size = 500
 	}
-	
+
 	craftsmen = {
 		culture = ashkenazi
 		religion = jewish
-		size = 600
+		size = 1100
 	}
 
 	artisans = {
 		culture = ashkenazi
 		religion = jewish
-		size = 500
+		size = 1100
 	}
 	
 	farmers = {
@@ -279,7 +279,18 @@
 }
 #Antwerp (354000/88500 POPS)
 390 = {
-	
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 25
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 1475
+	}
+
 	aristocrats = {
 		culture = frankish
 		religion = catholic
@@ -580,13 +591,13 @@
 	}
 
 	artisans = {
-		culture = picard
+		culture = frankish
 		religion = catholic
 		size = 500
 	}
 
 	farmers = {
-		culture = picard
+		culture = frankish
 		religion = catholic
 		size = 12000
 	}
@@ -712,7 +723,7 @@
 	}
 
 	artisans = {
-		culture = frankish
+		culture = saxon
 		religion = catholic
 		size = 1200
 	}
@@ -730,7 +741,7 @@
 	}
 	
 	farmers = {
-		culture = frankish
+		culture = saxon
 		religion = protestant
 		size = 1250
 	}
@@ -750,7 +761,7 @@
 	}
 
 	artisans = {
-		culture = frankish
+		culture = saxon
 		religion = catholic
 		size = 450
 	}
@@ -832,7 +843,7 @@
 	}
 	
 	artisans = {
-		culture = frankish
+		culture = saxon
 		religion = protestant
 		size = 600
 	}

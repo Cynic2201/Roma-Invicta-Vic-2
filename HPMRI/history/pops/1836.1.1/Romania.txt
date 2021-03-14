@@ -9,7 +9,7 @@
 	}
 	
 	bureaucrats = {
-		culture = bavarian 
+		culture = goth 
 		religion = catholic
 		size = 750 
 	}
@@ -147,25 +147,25 @@
 	}
 
 	clergymen = {
-		culture = bavarian 
+		culture = goth 
 		religion = catholic
 		size = 100  
 	}
 
 	artisans = {
-		culture = bavarian 
+		culture = goth 
 		religion = catholic
 		size = 450  
 	}
 
 	soldiers = {
-		culture = bavarian 
+		culture = goth 
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = bavarian 
+		culture = goth 
 		religion = catholic
 		size = 5425  
 	}
@@ -227,7 +227,7 @@
 	}
 
 	farmers = {
-		culture = dacian
+		culture = avar
 		religion = catholic
 		size = 15475 
 	}
@@ -263,25 +263,25 @@
 	}
 
 	clergymen = {
-		culture = bavarian 
+		culture = goth 
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = bavarian 
+		culture = goth 
 		religion = catholic
 		size = 450  
 	}
 
 	soldiers = {
-		culture = bavarian 
+		culture = goth 
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = bavarian 
+		culture = goth 
 		religion = catholic
 		size = 6425
 	}
@@ -417,43 +417,43 @@
 	}
 
 	aristocrats = {
-		culture = bavarian 
+		culture = ostrogoth 
 		religion = catholic
 		size = 350  
 	}
 
 	bureaucrats = {
-		culture = bavarian 
+		culture = ostrogoth 
 		religion = catholic
 		size = 475 
 	}
 
 	officers = {
-		culture = bavarian 
+		culture = ostrogoth 
 		religion = catholic
 		size = 350 
 	}
 
 	clergymen = {
-		culture = bavarian 
+		culture = ostrogoth 
 		religion = catholic
 		size = 800   
 	}
 
 	artisans = {
-		culture = bavarian 
+		culture = ostrogoth 
 		religion = catholic
 		size = 4500   
 	}
 
 	soldiers = {
-		culture = bavarian 
+		culture = ostrogoth 
 		religion = catholic
 		size = 850
 	}
 
 	farmers = {
-		culture = bavarian 
+		culture = ostrogoth 
 		religion = catholic
 		size = 75025  
 	}
@@ -601,31 +601,31 @@
 	}
 
 	aristocrats = {
-		culture = bavarian 
+		culture = ostrogoth 
 		religion = catholic
 		size = 1100  
 	}
 
 	clergymen = {
-		culture = bavarian 
+		culture = ostrogoth 
 		religion = catholic
 		size = 150   
 	}
 
 	artisans = {
-		culture = bavarian 
+		culture = ostrogoth 
 		religion = catholic
 		size = 800   
 	}
 
 	soldiers = {
-		culture = bavarian 
+		culture = ostrogoth 
 		religion = catholic
 		size = 150
 	}
 
 	farmers = {
-		culture = bavarian 
+		culture = ostrogoth 
 		religion = catholic
 		size = 12900 
 	}
@@ -641,7 +641,7 @@
 	}
 
 	bureaucrats = {
-		culture = bavarian 
+		culture = goth 
 		religion = catholic
 		size = 450
 	}
@@ -755,43 +755,43 @@
 	}
 
 	aristocrats = {
-		culture = north_german
+		culture = goth
 		religion = protestant
 		size = 350   
 	}
 
 	bureaucrats = {
-		culture = north_german
+		culture = goth
 		religion = protestant
 		size = 250  
 	}
 
 	officers = {
-		culture = north_german
+		culture = goth
 		religion = protestant
 		size = 100 
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = goth
 		religion = protestant
 		size = 100    
 	}
 
 	artisans = {
-		culture = north_german
+		culture = goth
 		religion = protestant
 		size = 850  
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = goth
 		religion = protestant
 		size = 100
 	}
 
 	farmers = {
-		culture = north_german
+		culture = goth
 		religion = protestant
 		size = 3320   
 	}
@@ -937,31 +937,31 @@
 	}
 
 	aristocrats = {
-		culture = north_german
+		culture = goth
 		religion = protestant
 		size = 350  
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = goth
 		religion = protestant
 		size = 100    
 	}
 
 	artisans = {
-		culture = north_german
+		culture = goth
 		religion = protestant
 		size = 350  
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = goth
 		religion = protestant
 		size = 100
 	}
 
 	farmers = {
-		culture = north_german
+		culture = goth
 		religion = protestant
 		size = 6175   
 	}
@@ -1083,25 +1083,25 @@
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = goth
 		religion = protestant
 		size = 100    
 	}
 
 	artisans = {
-		culture = north_german
+		culture = goth
 		religion = protestant
 		size = 100  
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = goth
 		religion = protestant
 		size = 100
 	}
 
 	farmers = {
-		culture = north_german
+		culture = goth
 		religion = protestant
 		size = 1850   
 	}
@@ -1139,7 +1139,7 @@
 	}
 
 	bureaucrats = {
-		culture = bavarian 
+		culture = goth 
 		religion = catholic
 		size = 750
 	}
@@ -1387,31 +1387,31 @@
 	}
 
 	aristocrats = {
-		culture = north_german
+		culture = goth
 		religion = protestant
 		size = 350  
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = goth
 		religion = protestant
 		size = 100    
 	}
 
 	artisans = {
-		culture = north_german
+		culture = goth
 		religion = protestant
 		size = 2400  
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = goth
 		religion = protestant
 		size = 100
 	}
 
 	farmers = {
-		culture = north_german
+		culture = goth
 		religion = protestant
 		size = 6075   
 	}
@@ -1533,25 +1533,25 @@
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = goth
 		religion = protestant
 		size = 100    
 	}
 
 	artisans = {
-		culture = north_german
+		culture = goth
 		religion = protestant
 		size = 150  
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = goth
 		religion = protestant
 		size = 100
 	}
 
 	farmers = {
-		culture = north_german
+		culture = goth
 		religion = protestant
 		size = 1775    
 	}
@@ -1673,31 +1673,31 @@
 	}
 
 	aristocrats = {
-		culture = north_german
+		culture = goth
 		religion = protestant
 		size = 400  
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = goth
 		religion = protestant
 		size = 100    
 	}
 
 	artisans = {
-		culture = north_german
+		culture = goth
 		religion = protestant
 		size = 425  
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = goth
 		religion = protestant
 		size = 100
 	}
 
 	farmers = {
-		culture = north_german
+		culture = goth
 		religion = protestant
 		size = 7025  
 	}
@@ -1819,31 +1819,31 @@
 	}
 
 	aristocrats = {
-		culture = north_german
+		culture = goth
 		religion = protestant
 		size = 200  
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = goth
 		religion = protestant
 		size = 50     
 	}
 
 	artisans = {
-		culture = north_german
+		culture = goth
 		religion = protestant
 		size = 350   
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = goth
 		religion = protestant
 		size = 100
 	}
 
 	farmers = {
-		culture = north_german
+		culture = goth
 		religion = protestant
 		size = 5350   
 	}
@@ -1901,25 +1901,25 @@
 	}
 
 	clergymen = {
-		culture = ukrainian
+		culture = russian
 		religion = orthodox
 		size = 125   
 	}
 
 	artisans = {
-		culture = ukrainian
+		culture = russian
 		religion = orthodox
 		size = 700 
 	}
 
 	soldiers = {
-		culture = ukrainian
+		culture = russian
 		religion = orthodox
 		size = 150
 	}
 
 	serfs = {
-		culture = ukrainian
+		culture = russian
 		religion = orthodox
 		size = 9025   
 	}
@@ -1955,25 +1955,25 @@
 	}
 
 	clergymen = {
-		culture = bavarian 
+		culture = goth 
 		religion = catholic
 		size = 100 
 	}
 
 	artisans = {
-		culture = bavarian 
+		culture = goth 
 		religion = catholic
 		size = 600  
 	}
 
 	soldiers = {
-		culture = bavarian 
+		culture = goth 
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = bavarian 
+		culture = goth 
 		religion = catholic
 		size = 4300    
 	}
@@ -2498,43 +2498,43 @@
 		size = 6000
 	}
 }
-#Dobruja Region (168000) #see Bulgaria.txt for balance of Region  
+#Dobruja Region (168000) #see moesiania.txt for balance of Region  
 #under the rule of the Ottoman Empire in 1836 
 #Constanta (128000/32000 POPS)  
 674 = {
 
 	aristocrats = {
-		culture = romanian
+		culture = greek
 		religion = orthodox
 		size = 100
 	}
 	
 	officers = {
-		culture = romanian
+		culture = greek
 		religion = orthodox
 		size = 100
 	}
 	
 	soldiers = {
-		culture = romanian
+		culture = greek
 		religion = orthodox
 		size = 100
 	}
 	
 	clergymen = {
-		culture = romanian
+		culture = greek
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = romanian
+		culture = greek
 		religion = orthodox
 		size = 550
 	}
 
 	farmers = {
-		culture = romanian
+		culture = greek
 		religion = orthodox
 		size = 18150 
 	}
@@ -2552,37 +2552,37 @@
 	}
 	
 	aristocrats = {
-		culture = bulgarian
+		culture = moesian
 		religion = orthodox
 		size = 100
 	}
 	
 	officers = {
-		culture = bulgarian
+		culture = moesian
 		religion = orthodox
 		size = 100
 	}
 	
 	soldiers = {
-		culture = bulgarian
+		culture = moesian
 		religion = orthodox
 		size = 100
 	}
 	
 	clergymen = {
-		culture = bulgarian
+		culture = moesian
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = moesian
 		religion = orthodox
 		size = 550
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = moesian
 		religion = orthodox
 		size = 12050 
 	}
@@ -2669,25 +2669,25 @@
 675 = {
 
 	soldiers = {
-		culture = romanian
+		culture = moesian
 		religion = orthodox
 		size = 100
 	}
 
 	clergymen = {
-		culture = romanian
+		culture = moesian
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = romanian
+		culture = moesian
 		religion = orthodox
 		size = 250
 	}
 
 	farmers = {
-		culture = romanian
+		culture = moesian
 		religion = orthodox
 		size = 3600 
 	}
@@ -2729,25 +2729,25 @@
 	}
 	
 	soldiers = {
-		culture = ukrainian
+		culture = greek
 		religion = orthodox
 		size = 100
 	}
 
 	clergymen = {
-		culture = ukrainian
+		culture = greek
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = ukrainian
+		culture = greek
 		religion = orthodox
 		size = 150
 	}
 
 	farmers = {
-		culture = ukrainian
+		culture = greek
 		religion = orthodox
 		size = 2825
 	}

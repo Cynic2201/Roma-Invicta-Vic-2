@@ -187,9 +187,9 @@
 	}
 
 	artisans = {
-		culture = norwegian
+		culture = saxon
 		religion = protestant
-		size = 5000
+		size = 500
 	}
 
 	soldiers = {
@@ -201,7 +201,7 @@
 	farmers = {
 		culture = norwegian
 		religion = protestant
-		size = 39200
+		size = 30000
 	}
 }
 #Christiansand (164000/41000 POPS)
@@ -453,44 +453,44 @@
 #Bergn (180000/45000 POPS)
 3326 = {
 	aristocrats = {
-		culture = norwegian
+		culture = saxon
 		religion = protestant
-		size = 400
+		size = 200
 	}
 	
 	bureaucrats = {
-		culture = norwegian
+		culture = saxon
 		religion = protestant
-		size = 500
+		size = 250
 	}
 
 	officers = {
-		culture = norwegian
+		culture = saxon
+		religion = protestant
+		size = 40
+	}
+
+	clergymen = {
+		culture = saxon
 		religion = protestant
 		size = 100
 	}
 
-	clergymen = {
-		culture = norwegian
-		religion = protestant
-		size = 200
-	}
-
 	artisans = {
-		culture = norwegian
+		culture = saxon
 		religion = protestant
 		size = 5000
 	}
 
 	soldiers = {
-		culture = norwegian
+		culture = saxon
 		religion = protestant
-		size = 2000
+		size = 1000
 	}
 
 	farmers = {
 		culture = norwegian
 		religion = protestant
-		size = 39200
+		size = 9200
 	}
 }

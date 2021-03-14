@@ -782,7 +782,7 @@ farmers = {
 	farmers = {
 		culture = burgundian
 		religion = protestant
-		size = 41375
+		size = 42500
 	}
 
 	######Jews

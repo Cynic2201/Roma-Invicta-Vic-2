@@ -1,5 +1,5 @@
-owner = HAN
-controller = HAN
+owner = FRI
+controller = FRI
 add_core = HAN
 add_core = FRI
 add_core = GER
