@@ -69,37 +69,37 @@
 	}
 
 	aristocrats = {
-		culture = russian
+		culture = saxon
 		religion = orthodox
 		size = 100
 	}
 
 	bureaucrats = {
-		culture = russian
+		culture = saxon
 		religion = orthodox
 		size = 100
 	}
 
 	officers = {
-		culture = russian
+		culture = saxon
 		religion = orthodox
 		size = 100
 	}
 
 	clergymen = {
-		culture = russian
+		culture = saxon
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = russian
+		culture = saxon
 		religion = orthodox
 		size = 1500
 	}
 
 	soldiers = {
-		culture = russian
+		culture = saxon
 		religion = orthodox
 		size = 150
 	}
@@ -137,25 +137,25 @@
 #Valmeira (516000/129000 POPS)  
 355 = {
 	clergymen = {
-		culture = lithuanian
+		culture = livonian
 		religion = protestant
 		size = 1100
 	}
 
 	artisans = {
-		culture = lithuanian
+		culture = livonian
 		religion = protestant
 		size = 3350
 	}
 
 	soldiers = {
-		culture = lithuanian
+		culture = livonian
 		religion = protestant
 		size = 2150
 	}
 
 	farmers = {
-		culture = lithuanian
+		culture = livonian
 		religion = protestant
 		size = 112375
 	}
@@ -209,61 +209,61 @@
 	}
 
 	aristocrats = {
-		culture = russian
+		culture = saxon
 		religion = orthodox
 		size = 250
 	}
 
 	clergymen = {
-		culture = russian
+		culture = saxon
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = russian
+		culture = saxon
 		religion = orthodox
 		size = 100
 	}
 
 	soldiers = {
-		culture = russian
+		culture = saxon
 		religion = orthodox
 		size = 100
 	}
 
 	farmers = {
-		culture = russian
+		culture = saxon
 		religion = orthodox
 		size = 1550
 	}
 
 	aristocrats = {
-		culture = polish
+		culture = lithuanian
 		religion = catholic
 		size = 500
 	}
 
 	clergymen = {
-		culture = polish
+		culture = lithuanian
 		religion = catholic
 		size = 150
 	}
 
 	artisans = {
-		culture = polish
+		culture = lithuanian
 		religion = catholic
 		size = 200
 	}
 
 	soldiers = {
-		culture = polish
+		culture = lithuanian
 		religion = catholic
 		size = 100
 	}
 	
 	farmers = {
-		culture = polish
+		culture = lithuanian
 		religion = catholic
 		size = 200
 	}
@@ -272,25 +272,25 @@
 #Daugavpils (136000/34000 POPS)  
 356 = {
 	clergymen = {
-		culture = lithuanian
+		culture = livonian
 		religion = protestant
 		size = 175
 	}
 
 	artisans = {
-		culture = lithuanian
+		culture = livonian
 		religion = protestant
 		size = 650
 	}
 
 	soldiers = {
-		culture = lithuanian
+		culture = livonian
 		religion = protestant
 		size = 250
 	}
 
 	farmers = {
-		culture = lithuanian
+		culture = livonian
 		religion = protestant
 		size = 19800
 	}
@@ -408,7 +408,13 @@
 	farmers = {
 		culture = lithuanian
 		religion = protestant
-		size = 28275
+		size = 20000
+	}
+	
+	farmers = {
+		culture = livonian
+		religion = protestant
+		size = 8275
 	}
 
 	aristocrats = {
@@ -480,9 +486,15 @@
 	}
 
 	farmers = {
+		culture = livonian
+		religion = protestant
+		size = 14000
+	}
+	
+	farmers = {
 		culture = lithuanian
 		religion = protestant
-		size = 19450
+		size = 5450
 	}
 
 	farmers = {

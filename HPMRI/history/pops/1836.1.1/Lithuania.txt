@@ -666,7 +666,7 @@
 	}
 
 	farmers = {
-		culture = sorbian
+		culture = prussian
 		religion = protestant
 		size = 19500 
 	}

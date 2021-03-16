@@ -1988,115 +1988,115 @@
 	}
 	
 	aristocrats = {
-		culture = tatar
+		culture = bulgarian
 		religion = sunni
 		size = 550
 	}
 
 	bureaucrats = {
-		culture = tatar
+		culture = bulgarian
 		religion = sunni
 		size = 75
 	}
 
 	officers = {
-		culture = tatar
+		culture = bulgarian
 		religion = sunni
 		size = 40
 	}
 
 	clergymen = {
-		culture = tatar
+		culture = bulgarian
 		religion = sunni
 		size = 200
 	}
 
 	artisans = {
-		culture = tatar
+		culture = bulgarian
 		religion = sunni
 		size = 950
 	}
 
 	soldiers = {
-		culture = tatar
+		culture = bulgarian
 		religion = sunni
 		size = 1000
 	}
 
 	farmers = {
-		culture = tatar
+		culture = bulgarian
 		religion = sunni
 		size = 8185
 	}
 	
-	serfs = {
-		culture = tatar
+	farmers = {
+		culture = goth
 		religion = sunni
 		size = 10000
 	}
 
 	clergymen = {
-		culture = russian
+		culture = bosporan
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = russian
+		culture = bosporan
 		religion = orthodox
 		size = 150
 	}
 
 	soldiers = {
-		culture = russian
+		culture = bosporan
 		religion = orthodox
 		size = 100
 	}
 
 	farmers = {
-		culture = russian
+		culture = bosporan
 		religion = orthodox
 		size = 2750
 	}
 
 	aristocrats = {
-		culture = russian
+		culture = bosporan
 		religion = orthodox
 		size = 100
 	}
 
 	bureaucrats = {
-		culture = russian
+		culture = bosporan
 		religion = orthodox
 		size = 175
 	}
 
 	officers = {
-		culture = russian
+		culture = bosporan
 		religion = orthodox
 		size = 60
 	}
 
 	clergymen = {
-		culture = russian
+		culture = bosporan
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = russian
+		culture = bosporan
 		religion = orthodox
 		size = 100
 	}
 
 	soldiers = {
-		culture = russian
+		culture = bosporan
 		religion = orthodox
 		size = 100
 	}
 
 	farmers = {
-		culture = russian
+		culture = bosporan
 		religion = orthodox
 		size = 2465
 	}
@@ -2152,97 +2152,97 @@
 #Cherson (126000/29000 POPS)
 965 = {
 	aristocrats = {
-		culture = russian
+		culture = bulgarian
 		religion = orthodox
 		size = 450
 	}
 
 	clergymen = {
-		culture = russian
+		culture = bulgarian
 		religion = orthodox
 		size = 125
 	}
 
 	artisans = {
-		culture = russian
+		culture = bulgarian
 		religion = orthodox
 		size = 275
 	}
 
 	soldiers = {
-		culture = russian
+		culture = bulgarian
 		religion = orthodox
 		size = 150
 	}
 
 	farmers = {
-		culture = russian
+		culture = bulgarian
 		religion = orthodox
 		size = 2000
 	}
 	
-	serfs = {
-		culture = russian
+	farmers = {
+		culture = bulgarian
 		religion = orthodox
 		size = 10000
 	}
 
 	aristocrats = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 200
 	}
 
 	soldiers = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = tatar
+		culture = russian
 		religion = sunni
 		size = 4575
 	}
 
 	aristocrats = {
-		culture = russian
+		culture = bosporan
 		religion = orthodox
 		size = 100
 	}
 
 	clergymen = {
-		culture = russian
+		culture = bosporan
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = russian
+		culture = bosporan
 		religion = orthodox
 		size = 150
 	}
 
 	soldiers = {
-		culture = russian
+		culture = bosporan
 		religion = orthodox
 		size = 100
 	}
 
 	farmers = {
-		culture = russian
+		culture = bosporan
 		religion = orthodox
 		size = 2625
 	}
@@ -2278,19 +2278,19 @@
 	}
 
 	artisans = {
-		culture = greek
+		culture = bosporan
 		religion = orthodox
 		size = 200
 	}
 
 	soldiers = {
-		culture = greek
+		culture = bosporan
 		religion = orthodox
 		size = 100
 	}
 
 	farmers = {
-		culture = greek
+		culture = bosporan
 		religion = orthodox
 		size = 750
 	}
@@ -2346,63 +2346,63 @@
 #Kerch (48000/12000 POPS)
 966 = {
 	aristocrats = {
-		culture = tatar
+		culture = bulgarian
 		religion = sunni
 		size = 200
 	}
 
 	clergymen = {
-		culture = tatar
+		culture = bulgarian
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = tatar
+		culture = bulgarian
 		religion = sunni
 		size = 175
 	}
 
 	soldiers = {
-		culture = tatar
+		culture = bulgarian
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = tatar
+		culture = bulgarian
 		religion = sunni
-		size = 7950
+		size = 5950
 	}
 
 	aristocrats = {
-		culture = russian
+		culture = bosporan
 		religion = orthodox
 		size = 50
 	}
 
 	clergymen = {
-		culture = russian
+		culture = bosporan
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = russian
+		culture = bosporan
 		religion = orthodox
 		size = 125
 	}
 
 	soldiers = {
-		culture = russian
+		culture = bosporan
 		religion = orthodox
 		size = 100
 	}
 
 	farmers = {
-		culture = russian
+		culture = bosporan
 		religion = orthodox
-		size = 1750
+		size = 3750
 	}
 
 	clergymen = {
@@ -2430,25 +2430,25 @@
 	}
 
 	clergymen = {
-		culture = greek
+		culture = bosporan
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = greek
+		culture = bosporan
 		religion = orthodox
 		size = 200
 	}
 
 	soldiers = {
-		culture = greek
+		culture = bosporan
 		religion = orthodox
 		size = 100
 	}
 
 	farmers = {
-		culture = greek
+		culture = bosporan
 		religion = orthodox
 		size = 750
 	}
@@ -2462,61 +2462,61 @@
 	}
 	
 	aristocrats = {
-		culture = tatar
+		culture = bosporan
 		religion = sunni
 		size = 250
 	}
 
 	clergymen = {
-		culture = tatar
+		culture = bosporan
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = tatar
+		culture = bosporan
 		religion = sunni
 		size = 175
 	}
 
 	soldiers = {
-		culture = tatar
+		culture = bosporan
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = tatar
+		culture = bosporan
 		religion = sunni
 		size = 9375
 	}
 
 	aristocrats = {
-		culture = russian
+		culture = bulgarian
 		religion = orthodox
 		size = 50
 	}
 
 	clergymen = {
-		culture = russian
+		culture = bulgarian
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = russian
+		culture = bulgarian
 		religion = orthodox
 		size = 100
 	}
 
 	soldiers = {
-		culture = russian
+		culture = bulgarian
 		religion = orthodox
 		size = 100
 	}
 
 	farmers = {
-		culture = russian
+		culture = bulgarian
 		religion = orthodox
 		size = 1775
 	}
@@ -2552,25 +2552,25 @@
 	}
 
 	clergymen = {
-		culture = greek
+		culture = goth
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = greek
+		culture = goth
 		religion = orthodox
 		size = 250
 	}
 
 	soldiers = {
-		culture = greek
+		culture = goth
 		religion = orthodox
 		size = 100
 	}
 
 	farmers = {
-		culture = greek
+		culture = goth
 		religion = orthodox
 		size = 960
 	}
@@ -2754,49 +2754,49 @@
 	}
 
 	clergymen = {
-		culture = greek
+		culture = bosporan
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = greek
+		culture = bosporan
 		religion = orthodox
 		size = 750
 	}
 
 	soldiers = {
-		culture = greek
+		culture = bosporan
 		religion = orthodox
 		size = 100
 	}
 
 	farmers = {
-		culture = greek
+		culture = bosporan
 		religion = orthodox
 		size = 200
 	}
 
 	clergymen = {
-		culture = south_italian
+		culture = bosporan
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = south_italian
+		culture = bosporan
 		religion = catholic
 		size = 4000
 	}
 
 	soldiers = {
-		culture = south_italian
+		culture = bosporan
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = south_italian
+		culture = bosporan
 		religion = catholic
 		size = 900
 	}
@@ -3271,37 +3271,37 @@
 	}
 	
 	aristocrats = {
-		culture = north_german
+		culture = bosporan
 		religion = protestant
 		size = 100
 	}
 
 	officers = {
-		culture = north_german
+		culture = bosporan
 		religion = protestant
 		size = 100
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = bosporan
 		religion = protestant
 		size = 100
 	}
 
 	artisans = {
-		culture = north_german
+		culture = bosporan
 		religion = protestant
 		size = 300
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = bosporan
 		religion = protestant
 		size = 100
 	}
 
 	farmers = {
-		culture = north_german
+		culture = bosporan
 		religion = protestant
 		size = 3575
 	}
@@ -3347,43 +3347,43 @@
 #Melitopol (84000/21000 POPS)
 973 = {
 	aristocrats = {
-		culture = russian
+		culture = bulgarian
 		religion = orthodox
 		size = 250
 	}
 
 	bureaucrats = {
-		culture = russian
+		culture = bulgarian
 		religion = orthodox
 		size = 50
 	}
 
 	officers = {
-		culture = russian
+		culture = bulgarian
 		religion = orthodox
 		size = 75
 	}
 
 	clergymen = {
-		culture = russian
+		culture = bulgarian
 		religion = orthodox
 		size = 150
 	}
 
 	artisans = {
-		culture = russian
+		culture = bulgarian
 		religion = orthodox
 		size = 650
 	}
 
 	soldiers = {
-		culture = russian
+		culture = bulgarian
 		religion = orthodox
 		size = 175
 	}
 
 	farmers = {
-		culture = russian
+		culture = bulgarian
 		religion = orthodox
 		size = 15650
 	}
@@ -3519,31 +3519,31 @@
 #Yuzovka (76000/19000 POPS)
 975 = {
 	aristocrats = {
-		culture = russian
+		culture = bulgarian
 		religion = orthodox
 		size = 300
 	}
 
 	clergymen = {
-		culture = russian
+		culture = bulgarian
 		religion = orthodox
 		size = 125
 	}
 
 	artisans = {
-		culture = russian
+		culture = bulgarian
 		religion = orthodox
 		size = 500
 	}
 
 	soldiers = {
-		culture = russian
+		culture = bulgarian
 		religion = orthodox
 		size = 150
 	}
 
 	farmers = {
-		culture = russian
+		culture = bulgarian
 		religion = orthodox
 		size = 12925
 	}
@@ -3605,39 +3605,33 @@
 #Mariopol (248000/62000 POPS)
 976 = {
 	aristocrats = {
-		culture = russian
+		culture = bulgarian
 		religion = orthodox
 		size = 1400
 	}
 
 	clergymen = {
-		culture = russian
+		culture = bulgarian
 		religion = orthodox
 		size = 525
 	}
 
 	artisans = {
-		culture = russian
+		culture = bulgarian
 		religion = orthodox
 		size = 1275
 	}
 
 	soldiers = {
-		culture = russian
+		culture = bulgarian
 		religion = orthodox
 		size = 550
 	}
 
 	farmers = {
-		culture = russian
+		culture = bulgarian
 		religion = orthodox
-		size = 50150
-	}
-
-	serfs = {
-		culture = russian
-		religion = orthodox
-		size = 5000
+		size = 55150
 	}
 	
 	aristocrats = {
@@ -3671,25 +3665,25 @@
 	}
 
 	clergymen = {
-		culture = greek
+		culture = bosporan
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = greek
+		culture = bosporan
 		religion = orthodox
 		size = 1100
 	}
 
 	soldiers = {
-		culture = greek
+		culture = bosporan
 		religion = orthodox
 		size = 100
 	}
 
 	farmers = {
-		culture = greek
+		culture = bosporan
 		religion = orthodox
 		size = 3900
 	}

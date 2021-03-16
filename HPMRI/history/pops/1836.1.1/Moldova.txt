@@ -87,25 +87,25 @@
 	}
 
 	clergymen = {
-		culture = turkish #gagauz
+		culture = goth #gagauz
 		religion = orthodox
 		size = 75  
 	}
 
 	artisans = {
-		culture = turkish
+		culture = goth
 		religion = orthodox
 		size = 250 
 	}
 
 	soldiers = {
-		culture = turkish
+		culture = goth
 		religion = orthodox
 		size = 50
 	}
 
 	farmers = {
-		culture = turkish
+		culture = goth
 		religion = orthodox
 		size = 4625  
 	}

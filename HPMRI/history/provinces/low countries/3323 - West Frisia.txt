@@ -1,6 +1,8 @@
-owner =  HLL
+owner = HLL
 controller = HLL
-add_core = FRI
 add_core = HLL
+add_core = NET
+add_core = FRI
+add_core = GER
 trade_goods = dye
-life_rating = 35
+life_rating = 35 
