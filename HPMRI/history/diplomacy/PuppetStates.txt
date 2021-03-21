@@ -70,6 +70,14 @@ vassal = {
 	end_date = 1876.1.1
 }
 
+#China/Altai
+vassal = {
+	first = QNG
+	second = ALT
+	start_date = 1836.1.1
+	end_date = 1876.1.1
+}
+
 #Vandalia/Mauretania
 substate = {
 	first = VAN
@@ -270,6 +278,15 @@ vassal = {
 	end_date = 1936.1.1
 }
 
+#Persia/Khiva
+vassal = {
+	first = PER
+	second = KHI
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+
 #Russia - Moldova
 substate = {
 	first = GLV
@@ -294,10 +311,10 @@ substate = {
 	end_date = 1936.1.1
 }
 
-#Russia - Chernigov
+#Russia - Kursk
 substate = {
 	first = GLV
-	second = CHR
+	second = KRS
 	start_date = 1836.1.1
 	end_date = 1936.1.1
 }
@@ -317,5 +334,4 @@ substate = {
 	start_date = 1836.1.1
 	end_date = 1936.1.1
 }
-
 

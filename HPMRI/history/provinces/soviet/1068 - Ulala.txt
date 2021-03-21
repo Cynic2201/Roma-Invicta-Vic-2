@@ -1,9 +1,7 @@
-owner = RUS
-controller = RUS
-add_core = RUS
-add_core = SIB
-# add_core = TNT
+owner = ALT
+controller = ALT
+add_core = TNT
 add_core = ALT
+add_core = KAZ
 trade_goods = coal
-life_rating = 35
-colonial = 2
+life_rating = 35 

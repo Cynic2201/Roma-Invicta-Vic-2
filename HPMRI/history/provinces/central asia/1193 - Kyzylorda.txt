@@ -1,3 +1,6 @@
+owner = KAZ
+controller = KAZ
 add_core = KAZ
+add_core = BUK
 trade_goods = coal
 life_rating = 30

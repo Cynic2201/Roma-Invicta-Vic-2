@@ -1,6 +1,6 @@
-owner = CHR
-controller = CHR
-add_core = CHR
+owner = KRS
+controller = KRS
+add_core = KRS
 add_core = GLV
 add_core = RUS
 trade_goods = timber

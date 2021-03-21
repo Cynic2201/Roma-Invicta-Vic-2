@@ -3,63 +3,75 @@
 #Khiva (200000/50000 POPS) #now part of Uzbekistan  
 1191 = {
 	aristocrats = {
-		culture = uzbek
+		culture = bactrian
 		religion = sunni
 		size = 950
 	}
 
 	bureaucrats = {
-		culture = uzbek
+		culture = bactrian
 		religion = sunni
 		size = 125
 	}
 
 	officers = {
-		culture = uzbek
+		culture = bactrian
 		religion = sunni
 		size = 125
 	}
 
 	clergymen = {
-		culture = uzbek
+		culture = bactrian
 		religion = sunni
 		size = 450
 	}
 
 	artisans = {
-		culture = uzbek
+		culture = bactrian
 		religion = sunni
 		size = 2300
 	}
 
 	soldiers = {
-		culture = uzbek
+		culture = bactrian
 		religion = sunni
 		size = 3000
 	}
 
 	soldiers = {
-		culture = uzbek
+		culture = bactrian
 		religion = sunni
 		size = 1000
 	}
 
 	farmers = {
+		culture = bactrian
+		religion = sunni
+		size = 15050
+	}
+	
+	farmers = {
 		culture = uzbek
 		religion = sunni
-		size = 38050
+		size = 15000
 	}
 
-	slaves = {
+	farmers = {
 		culture = persian
 		religion = shiite
 		size = 7000
 	}
-
+	
 	slaves = {
-		culture = russian
+		culture = hungarian
 		religion = orthodox
 		size = 3000
+	}
+	
+	farmers = {
+		culture = uzbek
+		religion = orthodox
+		size = 10000
 	}
 }
 #Nukus (180000/45000 POPS) #now part of Uzbekistan  
@@ -101,45 +113,45 @@
 	}
 
 	aristocrats = {
-		culture = kazak
+		culture = hungarian
 		religion = sunni
 		size = 275
 	}
 
 	clergymen = {
-		culture = kazak
+		culture = hungarian
 		religion = sunni
 		size = 125
 	}
 
 	artisans = {
-		culture = kazak
+		culture = hungarian
 		religion = sunni
 		size = 700
 	}
 
 	soldiers = {
-		culture = kazak
+		culture = hungarian
 		religion = sunni
 		size = 125
 	}
 
 	farmers = {
-		culture = kazak
+		culture = hungarian
 		religion = sunni
 		size = 13900
 	}
 
-	slaves = {
+	farmers = {
+		culture = bactrian
+		religion = orthodox
+		size = 2100
+	}
+	
+	farmers = {
 		culture = persian
 		religion = shiite
 		size = 4000
-	}
-
-	slaves = {
-		culture = russian
-		religion = orthodox
-		size = 2100
 	}
 
 	aristocrats = {
@@ -387,9 +399,9 @@
 		religion = sunni
 		size = 8000
 	}
-
+	
 	slaves = {
-		culture = russian
+		culture = bactrian
 		religion = orthodox
 		size = 5000
 	}
@@ -470,31 +482,31 @@
 	}
 
 	aristocrats = {
-		culture = mashriqi
+		culture = bactrian
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = bactrian
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = bactrian
 		religion = sunni
 		size = 1500
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = bactrian
 		religion = sunni
 		size = 50
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = bactrian
 		religion = sunni
 		size = 3375
 	}
@@ -512,7 +524,7 @@
 	}
 
 	slaves = {
-		culture = mashriqi
+		culture = bactrian
 		religion = sunni
 		size = 8000
 	}
@@ -586,31 +598,31 @@
 	}
 
 	aristocrats = {
-		culture = mashriqi
+		culture = bactrian
 		religion = sunni
 		size = 75
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = bactrian
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = bactrian
 		religion = sunni
 		size = 1500
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = bactrian
 		religion = sunni
 		size = 50
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = bactrian
 		religion = sunni
 		size = 2325
 	}
@@ -684,31 +696,31 @@
 	}
 
 	aristocrats = {
-		culture = turkmen
+		culture = bactrian
 		religion = sunni
 		size = 150
 	}
 
 	clergymen = {
-		culture = turkmen
+		culture = bactrian
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = turkmen
+		culture = bactrian
 		religion = sunni
 		size = 300
 	}
 
 	soldiers = {
-		culture = turkmen
+		culture = bactrian
 		religion = sunni
 		size = 75
 	}
 
 	farmers = {
-		culture = turkmen
+		culture = bactrian
 		religion = sunni
 		size = 6425
 	}

@@ -1,5 +1,6 @@
-owner = KZN
-controller = KZN
+owner = KUM
+controller = KUM
+add_core = KUM
 add_core = KZN
 trade_goods = grain
 life_rating = 35

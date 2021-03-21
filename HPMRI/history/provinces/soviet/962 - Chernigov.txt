@@ -1,7 +1,7 @@
-owner = CHR
-controller = CHR
-add_core = CHR
+owner = GLV
+controller = GLV
 add_core = GLV
+add_core = CHR
 add_core = RUS
 trade_goods = grain
 life_rating = 35

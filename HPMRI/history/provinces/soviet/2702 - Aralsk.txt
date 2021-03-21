@@ -1,3 +1,5 @@
-add_core = KAZ
+owner = KUM
+controller = KUM
+add_core = KUM
 trade_goods = wool
 life_rating = 30

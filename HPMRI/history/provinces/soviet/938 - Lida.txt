@@ -1,7 +1,7 @@
-owner = PLT
-controller = PLT
-add_core = PLT
+owner = GLV
+controller = GLV
 add_core = GLV
+add_core = PLT
 add_core = LIT
 add_core = RUS
 trade_goods = grain

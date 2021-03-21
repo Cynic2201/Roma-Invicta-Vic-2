@@ -1,5 +1,6 @@
-owner = BUK
-controller = BUK
+owner = BAC
+controller = BAC
+add_core = BAC
 add_core = KHI
 add_core = BUK
 add_core = TKM

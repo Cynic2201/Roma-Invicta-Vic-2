@@ -1,7 +1,5 @@
 owner = KUM
 controller = KUM
 add_core = KUM
-add_core = KAZ
 trade_goods = opium
 life_rating = 35
-colonial = 2

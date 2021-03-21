@@ -1,4 +1,6 @@
-add_core = KAZ
+owner = KUM
+controller = KUM
+add_core = KUM
 terrain = semidesert
 trade_goods = fish
 life_rating = 25

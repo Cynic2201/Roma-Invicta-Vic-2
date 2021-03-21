@@ -1,3 +1,6 @@
+owner = BAC
+controller = BAC
+add_core = BAC
 add_core = BDK
 add_core = AFG
 terrain = dryhills

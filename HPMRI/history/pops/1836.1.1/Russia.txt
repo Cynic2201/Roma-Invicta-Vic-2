@@ -6272,13 +6272,13 @@
 #Barnaul (116000/29000 POPS)
 1067 = {
 	aristocrats = {
-		culture = tatar
+		culture = kazak
 		religion = animist
 		size = 100
 	}
 	
 	farmers = {
-		culture = tatar
+		culture = kazak
 		religion = animist
 		size = 1400
 	}

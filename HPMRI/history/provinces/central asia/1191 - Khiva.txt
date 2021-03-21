@@ -1,5 +1,7 @@
-owner = KHI
-controller = KHI
+owner = BAC
+controller = BAC
+add_core = BAC
 add_core = KHI
+add_core = BUK
 trade_goods = wool
 life_rating = 35

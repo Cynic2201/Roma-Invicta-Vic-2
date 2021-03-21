@@ -45,11 +45,13 @@ KUM		="countries/Kummagyaria.txt"
 GLV		="countries/Rus.txt"
 RYA		="countries/Ryazan.txt"
 CHR		="countries/Cherignov.txt"
+KRS		="countries/Kursk.txt"
 YAR		="countries/Yaroslavl.txt"
 KZN		="countries/Kazan.txt"
 PRM		="countries/Perm.txt"
 SML		="countries/Smolensk.txt"
 PLT		="countries/Polotsk.txt"
+BAC		="countries/Bactria.txt"
 
 SPA 		="countries/Spain.txt" #Roman Hispania
 ITA 		="countries/Italy.txt" #Italia

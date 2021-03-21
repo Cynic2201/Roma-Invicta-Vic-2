@@ -3,121 +3,97 @@
 #Kabul (996000/249000 POPS)
 1209 = {
 	aristocrats = {
-		culture = pashtun
+		culture = bactrian
 		religion = sunni
-		size = 2750
-	}
-
-	bureaucrats = {
-		culture = pashtun
-		religion = sunni
-		size = 825
-	}
-
-	officers = {
-		culture = pashtun
-		religion = sunni
-		size = 625
+		size = 1600
 	}
 
 	clergymen = {
-		culture = pashtun
+		culture = bactrian
 		religion = sunni
-		size = 1375
+		size = 813
 	}
 
 	artisans = {
-		culture = pashtun
-		religion = sunni
-		size = 5400
-	}
-
-	soldiers = {
-		culture = pashtun
-		religion = sunni
-		size = 3000
-	}
-
-	soldiers = {
-		culture = pashtun
-		religion = sunni
-		size = 3000
-	}
-
-	soldiers = {
-		culture = pashtun
-		religion = sunni
-		size = 3000
-	}
-
-	soldiers = {
-		culture = pashtun
-		religion = sunni
-		size = 2000
-	}
-
-	farmers = {
-		culture = pashtun
-		religion = sunni
-		size = 100025
-	}
-
-	aristocrats = {
-		culture = tajik
-		religion = sunni
-		size = 2000
-	}
-
-	officers = {
-		culture = tajik
-		religion = sunni
-		size = 350
-	}
-
-	clergymen = {
-		culture = tajik
-		religion = sunni
-		size = 975
-	}
-
-	artisans = {
-		culture = tajik
+		culture = bactrian
 		religion = sunni
 		size = 4900
 	}
 
 	soldiers = {
-		culture = tajik
+		culture = bactrian
+		religion = sunni
+		size = 825
+	}
+
+	farmers = {
+		culture = bactrian
+		religion = sunni
+		size = 50112
+	}
+
+	slaves = {
+		culture = pashtun
+		religion = sunni
+		size = 15000
+	}
+
+	aristocrats = {
+		culture = bactrian
+		religion = sunni
+		size = 2000
+	}
+
+	officers = {
+		culture = bactrian
+		religion = sunni
+		size = 350
+	}
+
+	clergymen = {
+		culture = bactrian
+		religion = sunni
+		size = 975
+	}
+
+	artisans = {
+		culture = bactrian
+		religion = sunni
+		size = 1650
+	}
+
+	soldiers = {
+		culture = bactrian
 		religion = sunni
 		size = 1000
 	}
 
 	farmers = {
-		culture = tajik
+		culture = pashtun
 		religion = sunni
 		size = 82775
 	}
 
 	aristocrats = {
-		culture = hazara
+		culture = bactrian
 		religion = shiite
 		size = 250
 	}
 
 	clergymen = {
-		culture = hazara
+		culture = bactrian
 		religion = shiite
 		size = 138
 	}
 
 	artisans = {
-		culture = hazara
+		culture = bactrian
 		religion = shiite
 		size = 800
 	}
 
 	soldiers = {
-		culture = hazara
+		culture = bactrian
 		religion = shiite
 		size = 150
 	}
@@ -126,6 +102,74 @@
 		culture = hazara
 		religion = shiite
 		size = 80662
+	}
+
+	slaves = {
+		culture = panjabi
+		religion = sikh
+		size = 14500
+	}
+}
+#Balkh (516000/129000 POPS)
+1211 = {
+	aristocrats = {
+		culture = bactrian
+		religion = sunni
+		size = 2750
+	}
+
+	bureaucrats = {
+		culture = bactrian
+		religion = sunni
+		size = 825
+	}
+
+	officers = {
+		culture = bactrian
+		religion = sunni
+		size = 625
+	}
+
+	clergymen = {
+		culture = bactrian
+		religion = sunni
+		size = 1375
+	}
+
+	artisans = {
+		culture = bactrian
+		religion = sunni
+		size = 5400
+	}
+
+	soldiers = {
+		culture = bactrian
+		religion = sunni
+		size = 3000
+	}
+
+	soldiers = {
+		culture = bactrian
+		religion = sunni
+		size = 3000
+	}
+
+	soldiers = {
+		culture = bactrian
+		religion = sunni
+		size = 3000
+	}
+
+	soldiers = {
+		culture = bactrian
+		religion = sunni
+		size = 2000
+	}
+
+	farmers = {
+		culture = bactrian
+		religion = sunni
+		size = 100025
 	}
 
 	slaves = {
@@ -145,9 +189,7 @@
 		religion = sunni
 		size = 18000
 	}
-}
-#Balkh (516000/129000 POPS)
-1211 = {
+
 	aristocrats = {
 		culture = pashtun
 		religion = sunni
@@ -345,43 +387,43 @@
 #Bamyan (412000/103000 POPS)
 1213 = {
 	aristocrats = {
-		culture = pashtun
+		culture = bactrian
 		religion = sunni
 		size = 163
 	}
 
 	clergymen = {
-		culture = pashtun
+		culture = bactrian
 		religion = sunni
 		size = 87
 	}
 
 	artisans = {
-		culture = pashtun
+		culture = bactrian
 		religion = sunni
 		size = 425
 	}
 
 	soldiers = {
-		culture = pashtun
+		culture = bactrian
 		religion = sunni
 		size = 500
 	}
 
 	farmers = {
-		culture = pashtun
+		culture = bactrian
 		religion = sunni
 		size = 27325
 	}
 
 	aristocrats = {
-		culture = tajik
+		culture = bactrian
 		religion = sunni
 		size = 250
 	}
 
 	clergymen = {
-		culture = tajik
+		culture = bactrian
 		religion = sunni
 		size = 138
 	}
@@ -405,13 +447,13 @@
 	}
 
 	aristocrats = {
-		culture = hazara
+		culture = bactrian
 		religion = shiite
 		size = 525
 	}
 
 	clergymen = {
-		culture = hazara
+		culture = bactrian
 		religion = shiite
 		size = 250
 	}
@@ -435,13 +477,13 @@
 	}
 
 	aristocrats = {
-		culture = hazara
+		culture = bactrian
 		religion = sunni
 		size = 175
 	}
 
 	clergymen = {
-		culture = hazara
+		culture = bactrian
 		religion = sunni
 		size = 94
 	}
@@ -609,39 +651,45 @@
 #Jalalabad (268000/67000 POPS)
 1216 = {
 	aristocrats = {
-		culture = pashtun
+		culture = bactrian
 		religion = sunni
 		size = 1300
 	}
 
 	clergymen = {
-		culture = pashtun
+		culture = bactrian
 		religion = sunni
 		size = 675
 	}
 
 	artisans = {
-		culture = pashtun
+		culture = bactrian
 		religion = sunni
 		size = 3350
 	}
 
 	soldiers = {
-		culture = pashtun
+		culture = bactrian
 		religion = sunni
 		size = 3000
 	}
 
 	soldiers = {
-		culture = pashtun
+		culture = bactrian
 		religion = sunni
 		size = 1000
 	}
 
 	farmers = {
+		culture = bactrian
+		religion = sunni
+		size = 20000
+	}
+	
+	farmers = {
 		culture = pashtun
 		religion = sunni
-		size = 57985
+		size = 37985
 	}
 
 	slaves = {
@@ -723,73 +771,73 @@
 #Faizabad (340000/85000 POPS)
 1210 = {
 	aristocrats = {
-		culture = uzbek
+		culture = bactrian
 		religion = sunni
 		size = 125
 	}
 
 	clergymen = {
-		culture = uzbek
+		culture = bactrian
 		religion = sunni
 		size = 100
 	}
 	
 	bureaucrats = {
-		culture = uzbek
+		culture = bactrian
 		religion = sunni
 		size = 300
 	}
 
 	artisans = {
-		culture = uzbek
+		culture = bactrian
 		religion = sunni
 		size = 350
 	}
 	
 	officers = {
-		culture = uzbek
+		culture = bactrian
 		religion = sunni
 		size = 100
 	}
 
 	soldiers = {
-		culture = uzbek
+		culture = bactrian
 		religion = sunni
 		size = 1000
 	}
 
 	farmers = {
-		culture = uzbek
+		culture = bactrian
 		religion = sunni
 		size = 5512
 	}
 
 	aristocrats = {
-		culture = tajik
+		culture = bactrian
 		religion = sunni
 		size = 1650
 	}
 
 	clergymen = {
-		culture = tajik
+		culture = bactrian
 		religion = sunni
 		size = 775
 	}
 
 	artisans = {
-		culture = tajik
+		culture = bactrian
 		religion = sunni
 		size = 3750
 	}
 	
 	officers = {
-		culture = tajik
+		culture = bactrian
 		religion = sunni
 		size = 100
 	}
 
 	soldiers = {
-		culture = tajik
+		culture = bactrian
 		religion = sunni
 		size = 4000
 	}
