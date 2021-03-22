@@ -1,5 +1,5 @@
-owner = ENG
-controller = ENG
+owner = VAN
+controller = VAN
 trade_goods = fish
 life_rating = 32
 colonial = 2

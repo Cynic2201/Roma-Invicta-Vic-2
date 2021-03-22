@@ -2934,3 +2934,66 @@
 		size = 20150
 	}
 }
+
+#Dejima
+3337 = {
+	aristocrats = {
+		culture = japanese
+		religion = shinto
+		size = 3600
+	}
+
+	clergymen = {
+		culture = japanese
+		religion = shinto
+		size = 1850
+	}
+
+	artisans = {
+		culture = japanese
+		religion = shinto
+		size = 9150
+	}
+
+	soldiers = {
+		culture = japanese
+		religion = shinto
+		size = 11850
+	}
+
+	farmers = {
+		culture = japanese
+		religion = shinto
+		size = 156550
+	}
+
+	aristocrats = {
+		culture = japanese
+		religion = shinto
+		size = 1300
+	}
+
+	clergymen = {
+		culture = japanese
+		religion = shinto
+		size = 750
+	}
+
+	artisans = {
+		culture = japanese
+		religion = shinto
+		size = 3500
+	}
+
+	soldiers = {
+		culture = japanese
+		religion = shinto
+		size = 700
+	}
+
+	farmers = {
+		culture = japanese
+		religion = shinto
+		size = 63750
+	}
+}

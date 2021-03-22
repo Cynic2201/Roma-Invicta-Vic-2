@@ -9007,3 +9007,1103 @@
 		size = 300
 	}
 }
+
+#3327 - Bombai
+3327 = {
+	aristocrats = {
+		culture = portuguese
+		religion = catholic
+		size = 150
+	}
+
+	bureaucrats = {
+		culture = portuguese
+		religion = catholic
+		size = 25
+	}
+
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 500
+	}
+
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 25
+	}
+
+	aristocrats = {
+		culture = marathi
+		religion = catholic
+		size = 450
+	}
+
+	bureaucrats = {
+		culture = marathi
+		religion = catholic
+		size = 75
+	}
+
+	clergymen = {
+		culture = marathi
+		religion = catholic
+		size = 450
+	}
+
+	artisans = {
+		culture = marathi
+		religion = catholic
+		size = 2300
+	}
+
+	soldiers = {
+		culture = marathi
+		religion = catholic
+		size = 1100
+	}
+
+	farmers = {
+		culture = marathi
+		religion = catholic
+		size = 46725
+	}
+
+	clergymen = {
+		culture = marathi
+		religion = hindu
+		size = 100
+	}
+
+	artisans = {
+		culture = marathi
+		religion = hindu
+		size = 500
+	}
+
+	soldiers = {
+		culture = marathi
+		religion = hindu
+		size = 100
+	}
+
+	farmers = {
+		culture = marathi
+		religion = hindu
+		size = 9300
+	}
+
+	slaves = {
+		culture = marathi
+		religion = hindu
+		size = 5000
+	}
+
+}
+
+#3328 - Cannor
+3328 = {
+	aristocrats = {
+		culture = portuguese
+		religion = catholic
+		size = 150
+	}
+
+	bureaucrats = {
+		culture = portuguese
+		religion = catholic
+		size = 25
+	}
+
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 500
+	}
+
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 25
+	}
+
+	aristocrats = {
+		culture = marathi
+		religion = catholic
+		size = 450
+	}
+
+	bureaucrats = {
+		culture = marathi
+		religion = catholic
+		size = 75
+	}
+
+	clergymen = {
+		culture = marathi
+		religion = catholic
+		size = 450
+	}
+
+	artisans = {
+		culture = marathi
+		religion = catholic
+		size = 2300
+	}
+
+	soldiers = {
+		culture = marathi
+		religion = catholic
+		size = 1100
+	}
+
+	farmers = {
+		culture = marathi
+		religion = catholic
+		size = 46725
+	}
+
+	clergymen = {
+		culture = marathi
+		religion = hindu
+		size = 100
+	}
+
+	artisans = {
+		culture = marathi
+		religion = hindu
+		size = 500
+	}
+
+	soldiers = {
+		culture = marathi
+		religion = hindu
+		size = 100
+	}
+
+	farmers = {
+		culture = marathi
+		religion = hindu
+		size = 9300
+	}
+
+	slaves = {
+		culture = marathi
+		religion = hindu
+		size = 5000
+	}
+
+}
+
+#3329 - Calicu
+3329 = {
+	aristocrats = {
+		culture = portuguese
+		religion = catholic
+		size = 150
+	}
+
+	bureaucrats = {
+		culture = portuguese
+		religion = catholic
+		size = 25
+	}
+
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 500
+	}
+
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 25
+	}
+
+	aristocrats = {
+		culture = marathi
+		religion = catholic
+		size = 450
+	}
+
+	bureaucrats = {
+		culture = marathi
+		religion = catholic
+		size = 75
+	}
+
+	clergymen = {
+		culture = marathi
+		religion = catholic
+		size = 450
+	}
+
+	artisans = {
+		culture = marathi
+		religion = catholic
+		size = 2300
+	}
+
+	soldiers = {
+		culture = marathi
+		religion = catholic
+		size = 1100
+	}
+
+	farmers = {
+		culture = marathi
+		religion = catholic
+		size = 46725
+	}
+
+	clergymen = {
+		culture = marathi
+		religion = hindu
+		size = 100
+	}
+
+	artisans = {
+		culture = marathi
+		religion = hindu
+		size = 500
+	}
+
+	soldiers = {
+		culture = marathi
+		religion = hindu
+		size = 100
+	}
+
+	farmers = {
+		culture = marathi
+		religion = hindu
+		size = 9300
+	}
+
+	slaves = {
+		culture = marathi
+		religion = hindu
+		size = 5000
+	}
+
+}
+
+#3330 - Nagapatam
+3330 = {
+	aristocrats = {
+		culture = portuguese
+		religion = catholic
+		size = 150
+	}
+
+	bureaucrats = {
+		culture = portuguese
+		religion = catholic
+		size = 25
+	}
+
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 500
+	}
+
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 25
+	}
+
+	aristocrats = {
+		culture = marathi
+		religion = catholic
+		size = 450
+	}
+
+	bureaucrats = {
+		culture = marathi
+		religion = catholic
+		size = 75
+	}
+
+	clergymen = {
+		culture = marathi
+		religion = catholic
+		size = 450
+	}
+
+	artisans = {
+		culture = marathi
+		religion = catholic
+		size = 2300
+	}
+
+	soldiers = {
+		culture = marathi
+		religion = catholic
+		size = 1100
+	}
+
+	farmers = {
+		culture = marathi
+		religion = catholic
+		size = 46725
+	}
+
+	clergymen = {
+		culture = marathi
+		religion = hindu
+		size = 100
+	}
+
+	artisans = {
+		culture = marathi
+		religion = hindu
+		size = 500
+	}
+
+	soldiers = {
+		culture = marathi
+		religion = hindu
+		size = 100
+	}
+
+	farmers = {
+		culture = marathi
+		religion = hindu
+		size = 9300
+	}
+
+	slaves = {
+		culture = marathi
+		religion = hindu
+		size = 5000
+	}
+
+}
+
+#3331 - Madra
+3331 = {
+	aristocrats = {
+		culture = portuguese
+		religion = catholic
+		size = 150
+	}
+
+	bureaucrats = {
+		culture = portuguese
+		religion = catholic
+		size = 25
+	}
+
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 500
+	}
+
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 25
+	}
+
+	aristocrats = {
+		culture = marathi
+		religion = catholic
+		size = 450
+	}
+
+	bureaucrats = {
+		culture = marathi
+		religion = catholic
+		size = 75
+	}
+
+	clergymen = {
+		culture = marathi
+		religion = catholic
+		size = 450
+	}
+
+	artisans = {
+		culture = marathi
+		religion = catholic
+		size = 2300
+	}
+
+	soldiers = {
+		culture = marathi
+		religion = catholic
+		size = 1100
+	}
+
+	farmers = {
+		culture = marathi
+		religion = catholic
+		size = 46725
+	}
+
+	clergymen = {
+		culture = marathi
+		religion = hindu
+		size = 100
+	}
+
+	artisans = {
+		culture = marathi
+		religion = hindu
+		size = 500
+	}
+
+	soldiers = {
+		culture = marathi
+		religion = hindu
+		size = 100
+	}
+
+	farmers = {
+		culture = marathi
+		religion = hindu
+		size = 9300
+	}
+
+	slaves = {
+		culture = marathi
+		religion = hindu
+		size = 5000
+	}
+
+}
+
+#3332 - Masulipatna
+3332 = {
+	aristocrats = {
+		culture = portuguese
+		religion = catholic
+		size = 150
+	}
+
+	bureaucrats = {
+		culture = portuguese
+		religion = catholic
+		size = 25
+	}
+
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 500
+	}
+
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 25
+	}
+
+	aristocrats = {
+		culture = marathi
+		religion = catholic
+		size = 450
+	}
+
+	bureaucrats = {
+		culture = marathi
+		religion = catholic
+		size = 75
+	}
+
+	clergymen = {
+		culture = marathi
+		religion = catholic
+		size = 450
+	}
+
+	artisans = {
+		culture = marathi
+		religion = catholic
+		size = 2300
+	}
+
+	soldiers = {
+		culture = marathi
+		religion = catholic
+		size = 1100
+	}
+
+	farmers = {
+		culture = marathi
+		religion = catholic
+		size = 46725
+	}
+
+	clergymen = {
+		culture = marathi
+		religion = hindu
+		size = 100
+	}
+
+	artisans = {
+		culture = marathi
+		religion = hindu
+		size = 500
+	}
+
+	soldiers = {
+		culture = marathi
+		religion = hindu
+		size = 100
+	}
+
+	farmers = {
+		culture = marathi
+		religion = hindu
+		size = 9300
+	}
+
+	slaves = {
+		culture = marathi
+		religion = hindu
+		size = 5000
+	}
+
+}
+
+#3333 - Yanam
+3333 = {
+	aristocrats = {
+		culture = portuguese
+		religion = catholic
+		size = 150
+	}
+
+	bureaucrats = {
+		culture = portuguese
+		religion = catholic
+		size = 25
+	}
+
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 500
+	}
+
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 25
+	}
+
+	aristocrats = {
+		culture = marathi
+		religion = catholic
+		size = 450
+	}
+
+	bureaucrats = {
+		culture = marathi
+		religion = catholic
+		size = 75
+	}
+
+	clergymen = {
+		culture = marathi
+		religion = catholic
+		size = 450
+	}
+
+	artisans = {
+		culture = marathi
+		religion = catholic
+		size = 2300
+	}
+
+	soldiers = {
+		culture = marathi
+		religion = catholic
+		size = 1100
+	}
+
+	farmers = {
+		culture = marathi
+		religion = catholic
+		size = 46725
+	}
+
+	clergymen = {
+		culture = marathi
+		religion = hindu
+		size = 100
+	}
+
+	artisans = {
+		culture = marathi
+		religion = hindu
+		size = 500
+	}
+
+	soldiers = {
+		culture = marathi
+		religion = hindu
+		size = 100
+	}
+
+	farmers = {
+		culture = marathi
+		religion = hindu
+		size = 9300
+	}
+
+	slaves = {
+		culture = marathi
+		religion = hindu
+		size = 5000
+	}
+
+}
+
+#3334 - Cuttac
+3334 = {
+	aristocrats = {
+		culture = portuguese
+		religion = catholic
+		size = 150
+	}
+
+	bureaucrats = {
+		culture = portuguese
+		religion = catholic
+		size = 25
+	}
+
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 500
+	}
+
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 25
+	}
+
+	aristocrats = {
+		culture = marathi
+		religion = catholic
+		size = 450
+	}
+
+	bureaucrats = {
+		culture = marathi
+		religion = catholic
+		size = 75
+	}
+
+	clergymen = {
+		culture = marathi
+		religion = catholic
+		size = 450
+	}
+
+	artisans = {
+		culture = marathi
+		religion = catholic
+		size = 2300
+	}
+
+	soldiers = {
+		culture = marathi
+		religion = catholic
+		size = 1100
+	}
+
+	farmers = {
+		culture = marathi
+		religion = catholic
+		size = 46725
+	}
+
+	clergymen = {
+		culture = marathi
+		religion = hindu
+		size = 100
+	}
+
+	artisans = {
+		culture = marathi
+		religion = hindu
+		size = 500
+	}
+
+	soldiers = {
+		culture = marathi
+		religion = hindu
+		size = 100
+	}
+
+	farmers = {
+		culture = marathi
+		religion = hindu
+		size = 9300
+	}
+
+	slaves = {
+		culture = marathi
+		religion = hindu
+		size = 5000
+	}
+
+}
+
+#3335 - Balasore
+3335 = {
+	aristocrats = {
+		culture = portuguese
+		religion = catholic
+		size = 150
+	}
+
+	bureaucrats = {
+		culture = portuguese
+		religion = catholic
+		size = 25
+	}
+
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 500
+	}
+
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 25
+	}
+
+	aristocrats = {
+		culture = marathi
+		religion = catholic
+		size = 450
+	}
+
+	bureaucrats = {
+		culture = marathi
+		religion = catholic
+		size = 75
+	}
+
+	clergymen = {
+		culture = marathi
+		religion = catholic
+		size = 450
+	}
+
+	artisans = {
+		culture = marathi
+		religion = catholic
+		size = 2300
+	}
+
+	soldiers = {
+		culture = marathi
+		religion = catholic
+		size = 1100
+	}
+
+	farmers = {
+		culture = marathi
+		religion = catholic
+		size = 46725
+	}
+
+	clergymen = {
+		culture = marathi
+		religion = hindu
+		size = 100
+	}
+
+	artisans = {
+		culture = marathi
+		religion = hindu
+		size = 500
+	}
+
+	soldiers = {
+		culture = marathi
+		religion = hindu
+		size = 100
+	}
+
+	farmers = {
+		culture = marathi
+		religion = hindu
+		size = 9300
+	}
+
+	slaves = {
+		culture = marathi
+		religion = hindu
+		size = 5000
+	}
+
+}
+
+#3336 - Calcutt
+3336 = {
+	aristocrats = {
+		culture = portuguese
+		religion = catholic
+		size = 150
+	}
+
+	bureaucrats = {
+		culture = portuguese
+		religion = catholic
+		size = 25
+	}
+
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 500
+	}
+
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 25
+	}
+
+	aristocrats = {
+		culture = marathi
+		religion = catholic
+		size = 450
+	}
+
+	bureaucrats = {
+		culture = marathi
+		religion = catholic
+		size = 75
+	}
+
+	clergymen = {
+		culture = marathi
+		religion = catholic
+		size = 450
+	}
+
+	artisans = {
+		culture = marathi
+		religion = catholic
+		size = 2300
+	}
+
+	soldiers = {
+		culture = marathi
+		religion = catholic
+		size = 1100
+	}
+
+	farmers = {
+		culture = marathi
+		religion = catholic
+		size = 46725
+	}
+
+	clergymen = {
+		culture = marathi
+		religion = hindu
+		size = 100
+	}
+
+	artisans = {
+		culture = marathi
+		religion = hindu
+		size = 500
+	}
+
+	soldiers = {
+		culture = marathi
+		religion = hindu
+		size = 100
+	}
+
+	farmers = {
+		culture = marathi
+		religion = hindu
+		size = 9300
+	}
+
+	slaves = {
+		culture = marathi
+		religion = hindu
+		size = 5000
+	}
+
+}
+
+#3338 - Pulicat
+3338 = {
+	aristocrats = {
+		culture = portuguese
+		religion = catholic
+		size = 150
+	}
+
+	bureaucrats = {
+		culture = portuguese
+		religion = catholic
+		size = 25
+	}
+
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 500
+	}
+
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 25
+	}
+
+	aristocrats = {
+		culture = marathi
+		religion = catholic
+		size = 450
+	}
+
+	bureaucrats = {
+		culture = marathi
+		religion = catholic
+		size = 75
+	}
+
+	clergymen = {
+		culture = marathi
+		religion = catholic
+		size = 450
+	}
+
+	artisans = {
+		culture = marathi
+		religion = catholic
+		size = 2300
+	}
+
+	soldiers = {
+		culture = marathi
+		religion = catholic
+		size = 1100
+	}
+
+	farmers = {
+		culture = marathi
+		religion = catholic
+		size = 46725
+	}
+
+	clergymen = {
+		culture = marathi
+		religion = hindu
+		size = 100
+	}
+
+	artisans = {
+		culture = marathi
+		religion = hindu
+		size = 500
+	}
+
+	soldiers = {
+		culture = marathi
+		religion = hindu
+		size = 100
+	}
+
+	farmers = {
+		culture = marathi
+		religion = hindu
+		size = 9300
+	}
+
+	slaves = {
+		culture = marathi
+		religion = hindu
+		size = 5000
+	}
+
+}
