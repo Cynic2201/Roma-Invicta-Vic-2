@@ -52,6 +52,17 @@ roman = {
 
 		last_names = { Ifans Glyn Lloyd Alwyn "ap Meryk" Lewis Glyndwr Maelor Iwrch Mawr Dda Elwyn }
 	}
+	
+	londoner = {
+		color = {130 17 130}
+		first_names = { Appius Aulus Caeso Decimus Gaius Gnaeus Lucius Mamercus Manius Marcus Numerius
+		Publius Quintus Servius Sextus Spurius Titus and Tiberius Ancus Attius Decius Herius Marius Mettius
+		Minatus Minius Nerius Novius Numa Numerius Ovius Paccius Pompi Salvius Seppius Statius Taurus Trebius Vibius
+		Vettius Marcus Ceaserian Juaelo Jesus Ladius }
+		
+		last_names = { Benedictus Antony Aurelius Appius Aulus Caeso Decimus Gaius Gnaeus Lucius Mamercus Manius Marcus
+		Numerius Publius Quintus Servius Sextus Spurius Titus Tiberius }
+	}
 	union = SPQ
 }
 
@@ -539,6 +550,36 @@ germanic = {
 
 		last_names = { Ifans Glyn Lloyd Alwyn "ap Meryk" Lewis Glyndwr Maelor Iwrch Mawr Dda Elwyn }
 	}
+	
+	anglish = {
+		color = {239 96 88}
+		first_names = { Albert Alexander Alfred Archibald Arthur Augustus Benjamin Bernard Charles Colbert
+		Colin Cyril David Donald Douglas Edmund Edwar Fairfax Ferdinand Francis
+		Frederick Geoffrey George Graham Henrey Herbert Horatio Hubert Hugh Ian
+		James Jeremy John Joseph Leopold Lester Louis Martin Nigel Oswald
+		Percy Reginald Richard Robert Russell Stanley Thomas Wallace William Winston Zachary }
+		
+		last_names = { Allenby Battemberg Beatty Beresford Brown Buller Butler Campbell Cardigan Churchill
+		Cochrane Cockburn "de Robeck" Dundas Fisher French Gough Grant Grenfell Haig
+		Hamilton Hardinge Havelock Hope Jellicoe Kitchener Lyons Madden Milne Montgomery
+		Moresby Mundy Napier Odoni "of Hannover" "of Saxe-Coburg-Gotha" Plummer Ragland Roberts Seaton Seymour
+		Smith Smith-Dorrien Stewart Thesiger Tyron Tyrwhitt Williams Windsor Wolseley Wood }
+	}
+	
+	west_saxon = {
+		color = {215 128 45}
+		first_names = { Albert Alexander Alfred Archibald Arthur Augustus Benjamin Bernard Charles Colbert
+		Colin Cyril David Donald Douglas Edmund Edwar Fairfax Ferdinand Francis
+		Frederick Geoffrey George Graham Henrey Herbert Horatio Hubert Hugh Ian
+		James Jeremy John Joseph Leopold Lester Louis Martin Nigel Oswald
+		Percy Reginald Richard Robert Russell Stanley Thomas Wallace William Winston Zachary }
+		
+		last_names = { Allenby Battemberg Beatty Beresford Brown Buller Butler Campbell Cardigan Churchill
+		Cochrane Cockburn "de Robeck" Dundas Fisher French Gough Grant Grenfell Haig
+		Hamilton Hardinge Havelock Hope Jellicoe Kitchener Lyons Madden Milne Montgomery
+		Moresby Mundy Napier Odoni "of Hannover" "of Saxe-Coburg-Gotha" Plummer Ragland Roberts Seaton Seymour
+		Smith Smith-Dorrien Stewart Thesiger Tyron Tyrwhitt Williams Windsor Wolseley Wood }
+	}
 	union = GER
 }
 
@@ -720,7 +761,6 @@ celtic = {
 		color = {0 71 182}
 		primary = SCO
 		first_names = { Alan Alastair Alban Alpin Andrew Angus Aulay Blane Boyd Calum Clyde Coll Derek Donald Donnan Dougal Douglas Duff Duncan Ewan Farquar Fingal Finlay Gavin Gillian Gillis Gordon Greer Hamish Ian Ivar Kenneth Kentigern Kirk Kyle Lachlan Lorne Malcolm Mirren Mungo Neil Nevin Ranald Rory Ross Sholto Somerled Tavish Torquil Wallace}
-		
 		last_names = { Smith Brown Wilson Robertson Thomson Campbell Stewart Anderson Scott Murray MacDonald Reid Taylor Clark Ross Young Mitchell Watson Paterson Morrison Sanders	}
 	}
 	
@@ -728,6 +768,13 @@ celtic = {
 		color = {000 171 057}
 		first_names = { Alwyn Alastair Alban Alpin Caradog Angus Aulay Blane Boyd Calum Cynog Coll Derek Donald Derwyn Dougal Douglas Duff Duncan Ewan Farquar Fingal Finlay Gavin Gillian Gillis Gordon Greer Hamish Ian Ivar Kenneth Kentigern Kirk Kyle Lachlan Lorne Malcolm Mirren Mungo Neil Nevin Ranald Rory Ross Sholto Somerled Tavish Torquil Wallace}
 		primary = WHA
+		last_names = { Ace Adams Anwyl Baugh Benbow Campbell Cadwalader Clocker Craddock Faithfull Foulkes Gethin Griffiths Gwyther Hathaway Heilyn Humphreys Ithell Llewelyn Llywarch Phillips Salusbury Smout Trewent Wigley Yorath }
+	}
+	
+	manx = { 
+		color = {176 71 25}
+		first_names = { Alwyn Alastair Alban Alpin Caradog Angus Aulay Blane Boyd Calum Cynog Coll Derek Donald Derwyn Dougal Douglas Duff Duncan Ewan Farquar Fingal Finlay Gavin Gillian Gillis Gordon Greer Hamish Ian Ivar Kenneth Kentigern Kirk Kyle Lachlan Lorne Malcolm Mirren Mungo Neil Nevin Ranald Rory Ross Sholto Somerled Tavish Torquil Wallace}
+		primary = MNX
 		last_names = { Ace Adams Anwyl Baugh Benbow Campbell Cadwalader Clocker Craddock Faithfull Foulkes Gethin Griffiths Gwyther Hathaway Heilyn Humphreys Ithell Llewelyn Llywarch Phillips Salusbury Smout Trewent Wigley Yorath }
 	}
 	union = GAL

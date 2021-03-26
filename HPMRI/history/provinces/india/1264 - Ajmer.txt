@@ -1,5 +1,6 @@
-owner = JAI
-controller = JAI
+owner = RAJ
+controller = RAJ
+add_core = RAJ
 add_core = JAI
 add_core = MEW
 add_core = HND

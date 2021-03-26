@@ -1,6 +1,7 @@
 owner = HAN
 controller = HAN
 add_core = BAS
+add_core = HYD
 add_core = ORI
 add_core = HND
 trade_goods = tobacco
