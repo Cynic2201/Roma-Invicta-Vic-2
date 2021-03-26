@@ -1,0 +1,139 @@
+country_event = {
+	id = 40000
+	title = "EVTNAME40000"
+	desc = "EVTDESC40000"
+	major = yes
+
+	is_triggered_only = no
+	fire_only_once = yes
+	allow_multiple_instances = no
+	
+	trigger = {
+	tag = SPQ
+	year = 1837
+	}
+	
+	mean_time_to_happen = {
+		months = 3
+	}
+
+    option = {
+        name = "OPT40000C1"
+
+        random_state = {
+            limit = {
+                any_owned_province = {
+                       region = EGY_1745 
+                }
+            }
+
+            any_owned = {
+                any_pop = {
+                    militancy = 4
+                    money = -20
+                    reduce_pop = 0.9
+                }
+                add_province_modifier = {
+                    name = nile_famine
+                    duration = 730
+                }
+            }
+        }
+        change_variable = {
+            which = roman_instability
+            value = 1
+        }
+    }
+	
+}
+
+country_event = {		
+	id = 40001
+	title = "EVTNAME40001"
+	desc = "EVTDESC40001"
+	
+	trigger = {
+	tag = SPQ
+	check_variable = {
+	which = roman_instability
+	value = 1
+	}
+	NOT = { 
+	year = 1840
+	}
+	}
+
+	mean_time_to_happen = {
+		months = 1
+	}
+
+  option = {
+    
+        name = "OPT40001C1"
+
+        random_state = {
+            limit = {
+	
+	any_owned_province = {
+		OR = {
+              region = EGY_1745
+              region = EGY_1771
+              region = EGY_1762
+              region = TRI_1735
+              region = EGY_1758
+              region = EGY_1755
+		}
+	}
+            }
+	
+            any_owned = {
+                add_province_modifier = {
+                    name = nile_famine
+                    duration = 730
+                }
+            }
+        }
+   }
+        
+	
+	option = {
+	
+	name = "OPT40000C2"
+
+	money = -20000
+	war_exhaustion = 5	
+
+	}	
+}
+country_event = { 
+	id = 40002
+	title = "EVTNAME40002"
+	desc = "EVTDESC40002"
+
+	fire_only_once = yes
+	
+	trigger = {
+	tag = SPQ
+	NOT = {
+	set_country_flag = rome_stable
+	}
+	}
+	mean_time_to_happen = {
+		months = 240
+	}
+
+	option = {
+
+        name = "OPT40002C1"
+
+	any_pop = { 
+	
+	consciousness = 3
+	militancy = 3
+	}
+    
+   change_variable = {
+            which = roman_instability
+            value = 1
+        }
+}
