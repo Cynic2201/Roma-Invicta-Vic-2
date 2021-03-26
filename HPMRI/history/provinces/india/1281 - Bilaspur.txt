@@ -1,3 +1,6 @@
+owner = AWA
+controller = AWA
+add_core = AWA
 add_core = NAG
 add_core = HND
 trade_goods = grain

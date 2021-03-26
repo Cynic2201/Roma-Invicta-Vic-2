@@ -1,7 +1,8 @@
-owner = BIK
-controller = BIK
+owner = AWA
+controller = AWA
+add_core = AWA
 add_core = BIK
-add_core = MUG
+add_core = RAJ
 add_core = HND
 trade_goods = wool
 life_rating = 32

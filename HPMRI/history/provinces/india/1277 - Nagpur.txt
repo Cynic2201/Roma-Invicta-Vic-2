@@ -1,5 +1,5 @@
-owner = MAH
-controller = MAH
+owner = NAG
+controller = NAG
 add_core = MAH
 add_core = NAG
 add_core = HND

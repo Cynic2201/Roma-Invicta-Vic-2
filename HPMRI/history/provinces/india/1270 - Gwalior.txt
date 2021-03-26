@@ -1,7 +1,7 @@
-owner = GWA
-controller = GWA
+owner = AWA
+controller = AWA
+add_core = AWA
 add_core = GWA
-add_core = MUG
 add_core = MAH
 add_core = HND
 trade_goods = dye
