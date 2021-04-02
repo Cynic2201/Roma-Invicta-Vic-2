@@ -1,5 +1,6 @@
-owner = BRT
-controller = BRT
+owner = GAL
+controller = GAL
+add_core = GAL
 add_core = BRT
 
 trade_goods = grain

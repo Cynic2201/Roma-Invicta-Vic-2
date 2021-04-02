@@ -1649,7 +1649,13 @@
 	labourers = {
 		culture = welsh
 		religion = protestant
-		size = 82375
+		size = 42375
+	}
+	
+	labourers = {
+		culture = west_saxon
+		religion = protestant
+		size = 40000
 	}
 }
 #Bath (408000/102000 POPS)
@@ -1686,7 +1692,13 @@
 	labourers = {
 		culture = welsh
 		religion = protestant
-		size = 70625
+		size = 50625
+	}
+	
+	labourers = {
+		culture = welsh
+		religion = protestant
+		size = 20000
 	}
 }
 #Plymouth (812000/203000 POPS)
