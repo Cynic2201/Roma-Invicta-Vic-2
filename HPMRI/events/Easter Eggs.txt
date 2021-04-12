@@ -1,0 +1,40 @@
+country_event = {
+	
+	id = 99999
+	title = "EVTNAME99999"
+	desc = "EVTDESC99999"
+
+	is_triggered_only = no
+	fire_only_once = yes
+	allow_multiple_instances = no
+
+	trigger = {
+	
+	tag = ISR
+
+	SPQ = {
+	is_our_vassal = ISR
+	}
+	
+	}
+
+	mean_time_to_happen = {
+		days = 3
+	}
+
+	option = {
+        	name = "OPT99999"
+	
+	define_general = {
+
+	name = "Pontius Pilate of Judea"
+	picture = senator
+	date = 1832.1.1
+	type = land
+	personality = imperious
+	background = powerful_friends
+	prestige = 0.4
+		
+	}
+	}
+}

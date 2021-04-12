@@ -1,0 +1,141 @@
+# Influence
+
+GLC = {
+	value = 100		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 100
+}
+	
+AQU = {
+	value = 100		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 100
+}
+	
+BRG = {
+	value = 100		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 100
+}
+	
+GAU = {
+	value = 100		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 100
+}
+	
+DAC = {
+	value = 100		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 100
+}
+	
+PNN = {
+	value = 100		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 100
+}
+	
+LAZ = {
+	value = 100		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 100
+}
+	
+IBE = {
+	value = 100		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 100
+}
+	
+BSQ = {
+	value = 100		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 100
+}
+	
+SWI = {
+	value = 100		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 100
+}
+	
+ARM = {
+	value = 100		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 100
+}
+
+GAL = {
+	value = 100		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 100
+}
+
+LON = {
+	value = 100		#relation
+	level = 4		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 0
+}
+
+
+leader = {
+	name = "Julian of Carthage"
+	picture = latin_general_3
+	date = 1832.1.1
+	type = land
+	personality = bastard
+	background = cursed_luck	
+	prestige = 0.4
+}
+
+leader = {
+	name = "Amius Pactus"
+	picture = latin_general_2
+	date = 1832.1.1
+	type = land
+	personality = bold	
+	background = yesman
+	prestige = 0.2
+}
+
+leader = {
+	name = "Neorodin Lazucus"
+	picture = latin_general_2
+	date = 1832.1.1
+	type = land
+	personality = timid	
+	background = school_of_the_bayonet	
+	prestige = 0.2
+}
+
+leader = {
+	name = "Senator Midalaius"
+	picture = latin_general_1
+	date = 1832.1.1
+	type = sea
+	personality = audacious
+	background = powerful_friends	
+	prestige = 0.4
+}
+
+leader = {
+	name = "Senator Marcus"
+	picture = latin_general_1
+	date = 1832.1.1
+	type = sea
+	personality = audacious
+	background = powerful_friends	
+	prestige = 0.4
+}
+
+leader = {
+	name = "Delwick the Barbarian"
+	picture = russian_general_0
+	date = 1832.1.1
+	type = land
+	personality = stalwart
+	background = expert_raider
+	prestige = 0.3
+}
+
