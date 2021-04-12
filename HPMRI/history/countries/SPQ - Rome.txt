@@ -38,13 +38,13 @@ border_policy = open_borders
 
 set_country_flag = catholic_country
 
-ruling_party = ITA_conservative
+ruling_party = SPQ_conservative
 upper_house = {
 	fascist = 0
-	liberal = 50
-	conservative = 20
-	reactionary = 5
-	anarcho_liberal = 10
+	liberal = 5
+	conservative = 70
+	reactionary = 25
+	anarcho_liberal = 0
 	socialist = 15
 	communist = 0
 }
