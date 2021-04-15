@@ -1,5 +1,6 @@
-owner = MOR
-controller = MOR
+owner = VAN
+controller = VAN
+add_core = VAN
 add_core = MOR
 trade_goods = fish
 life_rating = 32

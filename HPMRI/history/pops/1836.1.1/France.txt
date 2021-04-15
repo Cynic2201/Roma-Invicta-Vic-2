@@ -82,19 +82,19 @@
 	}
 
 	artisans = {
-		culture = flemish
+		culture = dutch
 		religion = catholic
 		size = 2500
 	}
 
 	soldiers = {
-		culture = flemish
+		culture = dutch
 		religion = catholic
 		size = 300
 	}
 
 	farmers = {
-		culture = flemish
+		culture = dutch
 		religion = catholic
 		size = 15000
 	}
@@ -740,13 +740,13 @@ farmers = {
 	soldiers = {
 		culture = frankish
 		religion = catholic
-		size = 300
+		size = 7600
 	}
 
 	farmers = {
 		culture = frankish
 		religion = catholic
-		size = 27600
+		size = 20300
 	}
 
 	aristocrats = {

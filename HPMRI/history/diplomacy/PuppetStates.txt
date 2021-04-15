@@ -78,22 +78,6 @@ vassal = {
 	end_date = 1876.1.1
 }
 
-#Vandalia/Mauretania
-substate = {
-	first = VAN
-	second = MOR
-	start_date = 1836.1.1
-	end_date = 1936.1.1
-}
-
-#Vandalia/Gaetulia
-substate = {
-	first = VAN
-	second = MGH
-	start_date = 1836.1.1
-	end_date = 1936.1.1
-}
-
 #Rome/Gallaeica
 substate = {
 	first = SPQ

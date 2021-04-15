@@ -1,5 +1,6 @@
-owner = MGH
-controller = MGH
+owner = VAN
+controller = VAN
+add_core = VAN
 add_core = MGH
 add_core = ALD
 trade_goods = wool

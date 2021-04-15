@@ -1,0 +1,37 @@
+leader = {
+   name = "Hoenheim Goldman"
+   type = land
+   date = 1836.1.1
+   background = generals_aide	
+   personality = disciplined
+}
+
+leader = {
+   name = "Trademaster Reger"
+   type = sea
+   date = 1836.1.1
+   background = school_of_the_bayonet	
+   personality = audacious
+}
+
+army = {
+	name = "the Handelsgarde"
+	location = 410
+	
+	regiment = {
+		name= "Spezialartillerie 1."
+		type = artillery
+		home = 410
+	}
+	regiment = {
+		name= "Spezialartillerie 2."
+		type = artillery
+		home = 410
+	}
+	regiment = {
+		name= "Wehrpflichtige Reiter 1."
+		type = hussar
+		home = 410
+	}
+}
+
