@@ -1,6 +1,6 @@
-capital = 749
-primary_culture = north_italian
-culture = south_italian
+capital = 442
+primary_culture = gallo-roman
+culture = latin
 religion = catholic
 government = hms_government
 plurality = 0.12
@@ -8,7 +8,6 @@ nationalvalue = nv_order
 literacy = 0.28
 non_state_culture_literacy = 0.15
 civilized = yes
-prestige = 250
 
 # Political reforms
 slavery = no_slavery

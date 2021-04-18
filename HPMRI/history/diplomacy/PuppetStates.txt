@@ -246,6 +246,15 @@ vassal = {
 	end_date = 1936.1.1
 }
 
+#Anglia/EastAnglia
+vassal = {
+	first = ANL
+	second = EAN
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+
 #Sorbia/Polabia
 vassal = {
 	first = SOR
@@ -319,3 +328,18 @@ substate = {
 	end_date = 1936.1.1
 }
 
+#Persia/Raj
+vassal = {
+	first = PER
+	second = RAJ
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+#Persia/Sindh
+vassal = {
+	first = PER
+	second = SIN
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}

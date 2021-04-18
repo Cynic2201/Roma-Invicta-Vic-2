@@ -1,13 +1,12 @@
-capital = 1680
+capital = 1713
 primary_culture = mauretanian 
-culture = maures
-culture = tuareg
-culture = berber
+culture = numidian
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_autocracy
 literacy = 0.03
+non_state_culture_literacy = 0.01
 civilized = yes
 
 slavery = no_slavery

@@ -5,8 +5,9 @@ government = absolute_monarchy
 plurality = 25.0
 nationalvalue = nv_order
 literacy = 0.8
+non_state_culture_literacy = 0.1
 civilized = yes
-prestige = 5
+prestige = 15
 
 # Political reforms
 slavery = no_slavery
@@ -31,7 +32,8 @@ school_reforms = no_schools
 conscription = four_year_draft
 debt_law = debtors_prisons
 penal_system = capital_punishment
-child_labor = child_labor_legalcitizens_rights = culture_voting_only
+child_labor = child_labor_legal
+citizens_rights = culture_voting_only
 border_policy = open_borders
 
 set_country_flag = protestant_country

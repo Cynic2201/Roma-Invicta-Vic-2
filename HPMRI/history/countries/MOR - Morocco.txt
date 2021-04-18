@@ -1,11 +1,10 @@
 capital = 1680
 primary_culture = mauretanian 
-culture = tuareg
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
-literacy = 0.01
+literacy = 0.05
 non_state_culture_literacy = 0.01
 
 # Political reforms
@@ -31,7 +30,8 @@ school_reforms = no_schools
 conscription = no_draft
 debt_law = peonage
 penal_system = capital_punishment
-child_labor = child_labor_legalcitizens_rights = primary_culture_only
+child_labor = child_labor_legal
+citizens_rights = primary_culture_only
 border_policy = open_borders
 
 ruling_party = MOR_conservative

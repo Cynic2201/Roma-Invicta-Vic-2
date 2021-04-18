@@ -1,5 +1,5 @@
 capital = 304
-primary_culture = scottish
+primary_culture = manx
 religion = catholic
 government = democracy
 plurality = 0.1	

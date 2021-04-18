@@ -1,10 +1,11 @@
 capital = 300
-primary_culture = north_italian
+primary_culture = londoner
 religion = catholic
-government = hms_government
+government = democracy
 plurality = 0.1
 nationalvalue = nv_liberty
 literacy = 0.8
+non_state_culture_literacy = 0.6
 civilized = yes
 prestige = 20
 

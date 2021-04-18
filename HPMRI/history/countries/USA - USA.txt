@@ -1,4 +1,4 @@
-capital = 2146
+capital = 60
 primary_culture = yankee
 culture = dixie
 culture = texan

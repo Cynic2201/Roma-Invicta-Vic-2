@@ -1,5 +1,6 @@
 capital = 310
 primary_culture = norwegian
+culture = danish
 religion = protestant
 government = hms_government
 plurality = 0.0

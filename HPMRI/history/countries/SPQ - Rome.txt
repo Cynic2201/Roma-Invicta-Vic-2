@@ -1,11 +1,20 @@
 capital = 749
 primary_culture = latin
+culture = hispanic
+culture = lusitanian
+culture = african
+culture = greek
+culture = bosporan
+culture = alexandrian
+culture = gallo-roman
+culture = pannonian
+culture = dacian
 religion = catholic
-government = hms_government
+government = absolute_monarchy
 plurality = 0.12
 nationalvalue = nv_order
-literacy = 0.28
-non_state_culture_literacy = 0.15
+literacy = 0.4
+non_state_culture_literacy = 0.2
 civilized = yes
 prestige = 250
 

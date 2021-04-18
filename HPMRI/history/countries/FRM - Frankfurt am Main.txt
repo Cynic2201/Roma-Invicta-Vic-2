@@ -1,13 +1,14 @@
 capital = 564
-primary_culture = Saxon
+primary_culture = saxon
 culture = bavarian 
 culture = frankish 
+culture = ashkenazi
 religion = protestant
 government = democracy
 plurality = 25.0
 nationalvalue = nv_liberty
-literacy = 0.8
-non_state_culture_literacy = 0.8
+literacy = 0.9
+non_state_culture_literacy = 0.9
 civilized = yes
 prestige = 5
 
@@ -34,7 +35,8 @@ school_reforms = no_schools
 conscription = one_year_draft
 debt_law = debtors_prisons
 penal_system = capital_punishment
-child_labor = child_labor_legalcitizens_rights = culture_voting_only
+child_labor = child_labor_legal
+citizens_rights = culture_voting_only
 border_policy = open_borders
 
 set_country_flag = protestant_country
