@@ -1,5 +1,6 @@
-owner = LIT
-controller = LIT
+owner = SAM
+controller = SAM
+add_core = SAM
 add_core = LIT
 trade_goods = grain
 life_rating = 35

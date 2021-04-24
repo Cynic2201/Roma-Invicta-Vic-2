@@ -1,6 +1,7 @@
 owner = WSX
 controller = WSX
 add_core = WSX
+add_core = KEN
 trade_goods = coal
 life_rating = 35
 #naval_base = 1 #Chatham

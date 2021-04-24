@@ -1,6 +1,8 @@
-owner = CUR
-controller = CUR
+owner = 
+controller = 
+add_core = 
 add_core = CUR
 add_core = LAT
+add_core = LIT
 trade_goods = cattle
 life_rating = 35

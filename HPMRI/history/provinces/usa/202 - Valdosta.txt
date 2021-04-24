@@ -1,5 +1,6 @@
-owner = FRA
-controller = FRA
+owner = CLN
+controller = CLN
+add_core = CLN
 trade_goods = cotton
 life_rating = 35
 colonial = 2

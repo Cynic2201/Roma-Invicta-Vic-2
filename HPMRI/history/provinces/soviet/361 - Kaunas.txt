@@ -1,6 +1,6 @@
-owner = PRU
-controller = PRU
-add_core = PRU
+owner = PLT
+controller = PLT
+add_core = PLT
 add_core = LIT
 trade_goods = grain
 life_rating = 35

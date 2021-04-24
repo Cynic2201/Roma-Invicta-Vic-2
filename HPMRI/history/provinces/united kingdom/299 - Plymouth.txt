@@ -1,6 +1,7 @@
 owner = WHA
 controller = WHA
 add_core = WHA
+add_core = CRN
 trade_goods = fruit
 life_rating = 35
 naval_base = 2

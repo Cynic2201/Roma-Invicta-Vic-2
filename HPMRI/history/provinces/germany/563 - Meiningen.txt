@@ -1,5 +1,6 @@
-owner = MEI
-controller = MEI
+owner = THU
+controller = THU
+add_core = THU
 add_core = MEI
 add_core = GER
 trade_goods = iron

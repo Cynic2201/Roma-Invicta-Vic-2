@@ -1,5 +1,6 @@
-owner = CUR
-controller = CUR
+owner = 
+controller = 
+add_core = 
 add_core = CUR
 add_core = LAT
 trade_goods = cattle

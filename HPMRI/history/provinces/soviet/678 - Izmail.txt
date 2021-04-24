@@ -1,5 +1,6 @@
-owner = GLV
-controller = GLV
+owner = GOT
+controller = GOT
+add_core = GOT
 add_core = GLV
 add_core = MOL
 add_core = ROM
