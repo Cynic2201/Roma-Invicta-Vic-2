@@ -77,6 +77,11 @@ DUB		="countries/Dublin.txt"
 CLN		="countries/Carolina.txt"
 VIN		="countries/Vinland.txt"
 NVS		="countries/Nova Scotia.txt"
+NNE		="countries/New Netherlands.txt"
+MIQ		="countries/Miquelon.txt"
+HEL		="countries/Helluland.txt"
+MAR		="countries/Markland.txt"
+NSV		="countries/New Sweden.txt"
 
 
 SPA 		="countries/Spain.txt" #Roman Hispania
@@ -141,6 +146,7 @@ CHY		="countries/Chechnya.txt"
 CHK		="countries/Champasak.txt"
 QNG		="countries/Qing China.txt"
 MGH		="countries/Maghreb.txt"
+
 
 #HPM Africa
 BKF		="countries/Burkina Faso.txt"
