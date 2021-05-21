@@ -1,6 +1,6 @@
-owner = SCO
-controller = SCO
-add_core = MRU
+owner = BSQ
+controller = BSQ
+add_core = MIQ
 trade_goods = coal
 life_rating = 31
 colonial = 2

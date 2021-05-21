@@ -1,0 +1,6 @@
+add_core = HEL
+add_core = VIN
+trade_goods = timber
+terrain = new_world_boreal
+life_rating = 20
+colonial = 2

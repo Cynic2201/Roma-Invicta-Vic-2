@@ -1,6 +1,7 @@
-owner = RPL
-controller = RPL
-add_core = RPL
+owner = NOR
+controller = NOR
+add_core = HEL
+add_core = VIN
 trade_goods = timber
 life_rating = 10
 colonial = 2

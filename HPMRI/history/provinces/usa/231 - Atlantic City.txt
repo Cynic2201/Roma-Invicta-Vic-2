@@ -1,5 +1,6 @@
 owner = NOR
 controller = NOR
+add_core = NSV
 trade_goods = fish
 naval_base = 1
 colonial = 2

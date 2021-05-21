@@ -4,7 +4,7 @@ USA_1 = { 1 2 3 4 5 2599 2630 2631 } #Alaska
 
 #ENG_6 = { 6 7 } #Yukon
 
-ENG_9 = { 11 2595 2596 2598 6 7 } #Northwest Territories
+ENG_9 = { 11 2595 2596 2598 6 7 3365 } #Northwest Territories
 
 CAN_13 = { 13 14 20 21 15 19 16 18 17 2629 } #Columbia
 
@@ -18,15 +18,15 @@ ENG_36 = { 42 36 37 38 39 40 41 } #Manitoba
 
 CAN_46 = { 46 50 51 57 55 56 52 53 54 } #Southern Ontario
 
-CAN_50 = { 49 47 48 2594 } #Northern Ontario
+CAN_50 = { 49 47 48 2594 3357 3358 } #Northern Ontario
 
-CAN_58 = { 58 65 62 61 63 64 66 67 } #Southern Quebec
+CAN_58 = { 58 65 62 61 63 64 66 67 3359 } #Southern Quebec
 
 CAN_60 = { 9 59 2593 2626 2592 } #Northern Quebec
 
 ENG_68 = { 68 69 70 71 72 73 } #Maritimes
 
-ENG_74 = { 74 75 76 77 2625 } #Newfoundland
+ENG_74 = { 74 75 76 77 2625 3360 } #Newfoundland
 
 ### United States
 
@@ -86,7 +86,7 @@ USA_178 = { 179 178 180 183 182 181 } #Ohio
 
 USA_185 = { 184 185 186 187 } #Kentucky
 
-USA_188 = { 188 189 191 190 } #Tennessee
+USA_188 = { 188 189 191 190 3361 } #Tennessee
 
 USA_194 = { 194 192 193 } #Mississippi
 
@@ -529,7 +529,7 @@ RUS_360 = { 360 361 362 363 364 365 } #Lithuania
 
 RUS_339 = { 339 984 995 988 2587 983 982 } #Karelia
 
-RUS_706 = { 706 708 709 710 717 712 } #Masovia
+RUS_706 = { 706 708 709 710 717 712 3364 } #Masovia
 
 RUS_707 = { 936 707 719 937 } #Brêst
 
@@ -1177,11 +1177,11 @@ PEU_2289 = { 2286 2287 2288 2289 } #Pastaza
 
 PEU_2291 = { 2290 2291 2292 2294 } #Cajamarca
 
-PEU_2297 = { 2302 2297 2299 2301 } #Ica
+PEU_2297 = { 2302 2297 2299 2301 3362 } #Ica
 
 PEU_2300 = { 2295 2300 2293 2296 2298 } #Lima
 
-PEU_2303 = { 2303 2304 2578 } #Arequipa
+PEU_2303 = { 2303 2304 2578 3363 } #Arequipa
 
 BOL_2305 = { 2313 2314 2312 } #Atacama
 

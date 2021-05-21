@@ -1,5 +1,5 @@
-owner = CAN
-controller = CAN
+owner = NNE
+controller = NNE
 add_core = USA
 trade_goods = tobacco
 life_rating = 35

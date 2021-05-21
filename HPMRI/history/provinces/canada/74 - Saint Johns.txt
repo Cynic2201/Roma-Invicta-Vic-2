@@ -1,6 +1,6 @@
-owner = BSQ
-controller = BSQ
-add_core = NEW
+owner = NOR
+controller = NOR
+add_core = VIN
 trade_goods = fish
 terrain = new_world_boreal
 life_rating = 31
