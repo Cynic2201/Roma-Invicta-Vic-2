@@ -1,4 +1,4 @@
 name = "Roma Invicta"
-path = "mod/HPMRI"
+path = "mod/RI"
 user_dir = "RI"
 replace_path = "history/provinces"
