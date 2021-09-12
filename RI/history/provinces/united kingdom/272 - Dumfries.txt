@@ -1,6 +1,9 @@
-owner = SCO
-controller = SCO
+owner = VAL
+controller = VAL
+add_core = VAL
+add_core = ANL
 add_core = SCO
+add_core = BRI
 trade_goods = coal
 life_rating = 35
 1861.1.1 = { railroad = 3 }

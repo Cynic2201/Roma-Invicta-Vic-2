@@ -1,5 +1,6 @@
-owner = LON
-controller = LON
+owner = BRI
+controller = BRI
+add_core = BRI
 add_core = LON
 trade_goods = grain
 life_rating = 45

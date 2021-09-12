@@ -1,8 +1,9 @@
-owner = ANL
-controller = ANL
+owner = DUB
+controller = DUB
 add_core = IRE
 add_core = DUB
 add_core = LEI
+add_core = BRI
 trade_goods = grain
 naval_base = 1
 life_rating = 35

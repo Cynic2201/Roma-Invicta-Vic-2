@@ -1,6 +1,7 @@
 owner = MNX
 controller = MNX
 add_core = MNX
+add_core = BRI
 trade_goods = fish
 life_rating = 35
 terrain = small_island

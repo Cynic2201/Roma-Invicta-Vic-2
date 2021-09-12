@@ -1,5 +1,6 @@
-owner = WSX
-controller = WSX
+owner = BRI
+controller = BRI
+add_core = BRI
 add_core = WSX
 trade_goods = fish
 life_rating = 35

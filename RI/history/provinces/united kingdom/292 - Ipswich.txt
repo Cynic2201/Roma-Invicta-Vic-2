@@ -1,5 +1,6 @@
-owner = EAN
-controller = EAN
+owner = BRI
+controller = BRI
+add_core = BRI
 add_core = EAN
 add_core = ANL
 trade_goods = grain

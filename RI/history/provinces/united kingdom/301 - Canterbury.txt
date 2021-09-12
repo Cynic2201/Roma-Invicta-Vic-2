@@ -1,5 +1,6 @@
-owner = WSX
-controller = WSX
+owner = BRI
+controller = BRI
+add_core = BRI
 add_core = WSX
 add_core = KEN
 trade_goods = coal

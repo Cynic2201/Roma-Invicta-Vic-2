@@ -343,3 +343,68 @@ vassal = {
 	start_date = 1836.1.1
 	end_date = 1936.1.1
 }
+
+#Britannia/Brythonia
+substate = {
+	first = BRI
+	second = BTH
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+#Britannia/Deira
+substate = {
+	first = BRI
+	second = DER
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+#Britannia/Bernicia
+substate = {
+	first = BRI
+	second = BRN
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+#Britannia/Valentia
+substate = {
+	first = BRI
+	second = VAL
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+#Britannia/Wexford
+substate = {
+	first = BRI
+	second = WEX
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+#Britannia/Ulster
+substate = {
+	first = BRI
+	second = ULS
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+#Britannia/Dublin
+substate = {
+	first = BRI
+	second = DUB
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+#Britannia/Manx
+substate = {
+	first = BRI
+	second = MNX
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+

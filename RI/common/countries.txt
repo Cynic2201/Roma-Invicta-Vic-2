@@ -37,7 +37,7 @@ FRI 		="countries/Friesland.txt"
 WSX		="countries/Westseaxna.txt"
 MNX		="countries/Manx.txt"
 LON		="countries/Londinium.txt"
-ANL		="countries/Englaland.txt"
+ANL		="countries/Anglia.txt"
 KHZ		="countries/Khazaria.txt"
 LAZ		="countries/Lazica.txt"
 IBE		="countries/IberiaG.txt"
@@ -82,15 +82,19 @@ MIQ		="countries/Miquelon.txt"
 HEL		="countries/Helluland.txt"
 MAR		="countries/Markland.txt"
 NSV		="countries/New Sweden.txt"
-
-
 SPA 		="countries/Spain.txt" #Roman Hispania
 ITA 		="countries/Italy.txt" #Italia
 GAU 		="countries/Gaul.txt" #Gaul	
 AFR 		="countries/Africa.txt" #Roman Africa
 NAR 		="countries/Narbornesis.txt" #Gallia Narbonensis
 SIC 		="countries/Sicilia.txt" #Sicilia
-
+BRI		="countries/Britannia.txt"
+BTH		="countries/Brythonia.txt"
+BRN		="countries/Bernicia.txt"
+DER		="countries/Deira.txt"
+VAL		="countries/Valentia.txt"
+WEX		="countries/Wexford.txt"
+ALA		="countries/Alba.txt"
 
 ##HPM
 PNK		="countries/Pontianak.txt"
@@ -225,15 +229,15 @@ ALT		= "countries/Altai Republic.txt"
 CPL		= "countries/Congress Poland.txt"
 DON		= "countries/Cossackia.txt"
 IZH		= "countries/Ingria.txt"
-KAZ 	= "countries/Kazakhstan.txt"
-KAM 	= "countries/Kamchatka.txt"
+KAZ 		= "countries/Kazakhstan.txt"
+KAM 		= "countries/Kamchatka.txt"
 KMK		= "countries/Kalmykia.txt"
 KRL		= "countries/Karelia.txt"
 SIB		= "countries/Siberian Republic.txt"
-TAR 	= "countries/Tatarstan.txt"
+TAR 		= "countries/Tatarstan.txt"
 TNT		= "countries/Tannu Tuva.txt"
-URA 	= "countries/Ural Republic.txt"
-YAK 	= "countries/Yakutia.txt"
+URA 		= "countries/Ural Republic.txt"
+YAK 		= "countries/Yakutia.txt"
 
 #Middle East
 ARU		= "countries/Arab Union.txt"
@@ -269,7 +273,7 @@ BNG		= "countries/Bengal.txt"
 DRA		= "countries/Dravidistan.txt"
 KRN		= "countries/Karnatak.txt"
 MAH		= "countries/Maharashtra.txt"
-#MRT	= "countries/Marathas.txt"
+#MRT		= "countries/Marathas.txt"
 RAJ		= "countries/Rajputana.txt"
 SRI		= "countries/Sri Lanka.txt"
 
@@ -384,9 +388,9 @@ TOS		= "countries/Tosa.txt"
 YZW		= "countries/Yonezawa.txt"
 
 # Australasia & the Pacific
-AOT     = "countries/Aotearoa.txt"
+AOT     	= "countries/Aotearoa.txt"
 FIJ		= "countries/Fiji.txt"
-SNZ     = "countries/South Island.txt"
+SNZ     	= "countries/South Island.txt"
 TGA		= "countries/Tonga.txt"
 TMT		= "countries/Tuamotu.txt"
 
@@ -704,3 +708,4 @@ D47		= "countries/D47.txt"
 D48		= "countries/D48.txt"
 D49		= "countries/D49.txt"
 D50		= "countries/D50.txt"
+

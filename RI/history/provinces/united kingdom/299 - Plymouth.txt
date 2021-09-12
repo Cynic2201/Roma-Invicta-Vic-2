@@ -1,6 +1,8 @@
-owner = WHA
-controller = WHA
-add_core = WHA
+owner = BTH
+controller = BTH
+add_core = BTH
+add_core = BRI
+add_core = BRT
 add_core = CRN
 trade_goods = fruit
 life_rating = 35

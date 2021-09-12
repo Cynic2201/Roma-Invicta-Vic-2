@@ -1,6 +1,8 @@
-owner = WHA
-controller = WHA
-add_core = WHA
+owner = BTH
+controller = BTH
+add_core = BTH
+add_core = BRI
+add_core = BRT
 trade_goods = grain
 life_rating = 35
 1861.1.1 = { railroad = 3 }

@@ -1,6 +1,7 @@
-owner = IRE
-controller = IRE
+owner = DUB
+controller = DUB
 add_core = IRE
+add_core = DUB
 add_core = KID
 add_core = LEI
 trade_goods = cattle

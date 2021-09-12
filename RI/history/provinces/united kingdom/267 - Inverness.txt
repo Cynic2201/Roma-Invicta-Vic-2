@@ -1,5 +1,7 @@
-owner = SCO
-controller = SCO
+owner = NOR
+controller = NOR
+add_core = NOR
+add_core = ALA
 add_core = SCO
 trade_goods = sulphur
 life_rating = 35

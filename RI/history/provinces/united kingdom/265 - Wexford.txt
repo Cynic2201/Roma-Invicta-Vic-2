@@ -1,6 +1,8 @@
-owner = WHA
-controller = WHA
+owner = WEX
+controller = WEX
 add_core = IRE
 add_core = LEI
+add_core = WEX
+add_core = BRI
 trade_goods = fish
 life_rating = 35
