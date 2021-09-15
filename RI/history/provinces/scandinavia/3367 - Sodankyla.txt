@@ -1,0 +1,9 @@
+owner = LAP
+controller = LAP
+add_core = LAP
+add_core = SWE
+add_core = FIN
+add_core = NOR
+trade_goods = iron
+terrain = boreal
+life_rating = 10

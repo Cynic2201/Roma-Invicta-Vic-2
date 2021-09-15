@@ -1,8 +1,7 @@
 owner = SWE
 controller = SWE
 add_core = SWE
-add_core = FIN
-add_core = SMI
+add_core = LAP
 trade_goods = timber
 terrain = boreal
 life_rating = 10

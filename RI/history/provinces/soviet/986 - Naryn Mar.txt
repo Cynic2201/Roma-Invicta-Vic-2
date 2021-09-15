@@ -1,3 +1,6 @@
+owner = BJA
+controller = BJA
+add_ocre = BJA
 add_core = RUS
 trade_goods = timber
 terrain = boreal

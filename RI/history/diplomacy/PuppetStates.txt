@@ -408,3 +408,18 @@ substate = {
 	end_date = 1936.1.1
 }
 
+#Norway/Lappland
+substate = {
+	first = NOR
+	second = LAP
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+#Norway/Bjarmaland
+vassal = {
+	first = NOR
+	second = BJA
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}

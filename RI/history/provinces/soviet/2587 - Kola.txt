@@ -1,8 +1,7 @@
-owner = SWE
-controller = SWE
-add_core = SWE
-add_core = FIN
+owner = LAP
+controller = LAP
+add_core = LAP
+add_core = NOR
 add_core = KRL
-add_core = SMI
 trade_goods = timber
 life_rating = 10

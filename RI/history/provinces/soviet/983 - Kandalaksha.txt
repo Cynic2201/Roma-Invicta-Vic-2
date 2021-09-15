@@ -1,8 +1,9 @@
-owner = SWE
-controller = SWE
-add_core = SWE
+owner = LAP
+controller = LAP
+add_core = LAP
+add_core = NOR
 add_core = FIN
 add_core = KRL
-add_core = SMI
+add_core = SWE
 trade_goods = sulphur
 life_rating = 10
