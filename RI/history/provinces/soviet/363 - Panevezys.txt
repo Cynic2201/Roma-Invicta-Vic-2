@@ -1,6 +1,6 @@
-owner = 
-controller = 
-add_core = 
+owner = AUK
+controller = AUK
+add_core = AUK
 add_core = LIT
 trade_goods = grain
 life_rating = 35

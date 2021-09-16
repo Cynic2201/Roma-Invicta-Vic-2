@@ -1,7 +1,6 @@
-owner = 
-controller = 
-add_core = 
-add_core = POL
+owner = YOT
+controller = YOT
+add_core = YOT
 add_core = LIT
 trade_goods = grain
 life_rating = 35

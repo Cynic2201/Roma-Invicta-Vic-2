@@ -1,7 +1,8 @@
-owner = SKA
-controller = SKA
-add_core = SKA
+owner = KLA
+controller = KLA
+add_core = KLA
 add_core = LIT
+add_core = SAM
 add_core = PRU
 trade_goods = fish
 life_rating = 40

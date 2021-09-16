@@ -3,5 +3,6 @@ controller = RIG
 add_core = RIG
 add_core = LAT
 add_core = CUR
+add_core = LIT
 trade_goods = fish
 life_rating = 35

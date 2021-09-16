@@ -1,7 +1,6 @@
-owner = 
-controller = 
-add_core = 
-add_core = CUR
+owner = SEL
+controller = SEL
+add_core = SEL
 add_core = LAT
 add_core = LIT
 trade_goods = cattle
