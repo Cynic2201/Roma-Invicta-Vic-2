@@ -162,7 +162,7 @@ SWE_322 = { 322 324 326 325 } #Stockholm
 
 SWE_329 = { 329 328 327 323 330 } #Goteburg
 
-SWE_334 = { 334 332 331 333 335 } #Malmo
+SWE_334 = { 334 332 331 333 335 3375 } #Malmo
 
 RUS_336 = { 336 337 338 342 3367 } #Northern Finland
 
@@ -274,9 +274,9 @@ HAN_534 = { 534 536 537 585 } #Hannover
 
 HAN_540 = { 539 540 543 542 541 1743 } #East Friesland
 
-PRU_544 = { 544 545 547 548 } #Mecklenburg
+PRU_544 = { 544 545 547 548 3369 3370 3371 } #Mecklenburg
 
-PRU_546 = { 546 679 680 692 681 } #Pomerania
+PRU_546 = { 546 679 680 692 681 3368 } #Pomerania
 
 PRU_549 = { 549 550 551 552 } #Brandenburg
 
@@ -290,7 +290,7 @@ HES_2560 = { 564 565 566 567 568 2560 } #Hessen
 
 PRU_570 = { 570 573 574 571 } #Palatinate
 
-PRU_575 = { 575 576 577 572 397 396 } #Rheinland
+PRU_575 = { 575 576 577 572 397 396 3372 3373 3374 } #Rheinland
 
 PRU_578 = { 578 579 2561 583 } #Eastern Rheinland
 
