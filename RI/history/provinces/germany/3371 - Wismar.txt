@@ -1,0 +1,9 @@
+owner = WIS
+controller = WIS
+add_core = WIS
+add_core = HAN
+add_core = FWT
+add_core = OBO
+add_core = GER
+trade_goods = fish
+life_rating = 40

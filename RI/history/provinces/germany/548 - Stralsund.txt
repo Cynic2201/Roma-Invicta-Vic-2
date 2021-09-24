@@ -1,5 +1,9 @@
-owner = HAN
-controller = HAN
+owner = FCI
+controller = FCI
+add_core = FCI
 add_core = HAN
+add_core = FWT
+add_core = OBO
+add_core = GER
 trade_goods = fish
 life_rating = 40

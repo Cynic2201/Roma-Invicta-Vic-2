@@ -1,5 +1,5 @@
-owner = PLB
-controller = PLB
-add_core = PLB
+owner = OBO
+controller = OBO
+add_core = OBO
 trade_goods = grain
 life_rating = 40

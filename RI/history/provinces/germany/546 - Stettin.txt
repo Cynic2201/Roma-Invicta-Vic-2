@@ -1,6 +1,7 @@
 owner = STE
 controller = STE
 add_core = STE
+add_core = FWT
 trade_goods = fish
 life_rating = 40
 naval_base = 1

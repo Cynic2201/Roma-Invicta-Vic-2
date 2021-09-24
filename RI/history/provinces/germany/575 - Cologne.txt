@@ -1,5 +1,6 @@
-owner = KOL
-controller = KOL
+owner = HAN
+controller = HAN
+add_core = HAN
 add_core = KOL
 add_core = GER
 trade_goods = coal

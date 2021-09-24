@@ -1,7 +1,7 @@
-owner = POL
-controller = POL
+owner = WSL
+controller = WSL
+add_core = WSL
 add_core = POL
-add_core = BOH
 trade_goods = grain
 life_rating = 35
 1861.1.1 = { railroad = 3 }

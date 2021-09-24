@@ -103,6 +103,13 @@ SEM		="countries/Semigallia.txt"
 AUK		="countries/Aukstaitija.txt"
 YOT		="countries/Yotvingia.txt"
 LTG		="countries/Latgalia.txt"
+ROS		="countries/Rostock.txt"
+WIS		="countries/Wismar.txt"
+FCI		="countries/FourCities.txt"
+FWT		="countries/WendishTowns.txt"
+OBO		="countries/Obotritia.txt"
+MRV		="countries/Moravia.txt"
+WSL		="countries/Wislania.txt"
 
 ##HPM
 PNK		="countries/Pontianak.txt"

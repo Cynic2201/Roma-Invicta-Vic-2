@@ -1,7 +1,6 @@
-owner = LMB
-controller = LMB
-add_core = LMB
-add_core = BAV
+owner = MRV
+controller = MRV
+add_core = MRV
 trade_goods = grain
 life_rating = 35
 fort = 1

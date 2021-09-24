@@ -1,0 +1,9 @@
+owner = KOL
+controller = KOL
+add_core = KOL
+add_core = PAL
+add_core = TER
+add_core = GER
+trade_goods = iron
+life_rating = 40
+1861.1.1 = { railroad = 3 }

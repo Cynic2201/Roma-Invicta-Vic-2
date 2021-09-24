@@ -1,5 +1,6 @@
-owner = BAV
-controller = BAV
+owner = HES
+controller = HES
+add_core = HES
 add_core = BAV
 add_core = MAI
 add_core = PAL

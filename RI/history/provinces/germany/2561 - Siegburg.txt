@@ -1,6 +1,6 @@
-owner = KOL
-controller = KOL
-add_core = KOL
+owner = HAN
+controller = HAN
+add_core = HAN
 add_core = PAL
 add_core = GER
 trade_goods = cattle

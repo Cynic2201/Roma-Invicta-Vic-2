@@ -166,7 +166,7 @@ vassal = {
 	end_date = 1936.1.1
 }
 
-#Hannover/Bremen
+#Hansa/Bremen
 vassal = {
 	first = HAN
 	second = BRE
@@ -174,7 +174,7 @@ vassal = {
 	end_date = 1936.1.1
 }
 
-#Hannover/Hamburg
+#Hansa/Hamburg
 vassal = {
 	first = HAN
 	second = HAM
@@ -182,7 +182,7 @@ vassal = {
 	end_date = 1936.1.1
 }
 
-#Hannover/Lubeck
+#Hansa/Lubeck
 vassal = {
 	first = HAN
 	second = LUB
@@ -190,7 +190,7 @@ vassal = {
 	end_date = 1936.1.1
 }
 
-#Hannover/Friesland
+#Hansa/Friesland
 vassal = {
 	first = HAN
 	second = FRI
@@ -198,7 +198,7 @@ vassal = {
 	end_date = 1936.1.1
 }
 
-#Hannover/Stettin
+#Hansa/Stettin
 vassal = {
 	first = HAN
 	second = STE
@@ -206,7 +206,7 @@ vassal = {
 	end_date = 1936.1.1
 }
 
-#Hannover/Danzig
+#Hansa/Danzig
 vassal = {
 	first = HAN
 	second = DZG
@@ -214,7 +214,7 @@ vassal = {
 	end_date = 1936.1.1
 }
 
-#Hannover/Konigsberg
+#Hansa/Konigsberg
 vassal = {
 	first = HAN
 	second = KBG
@@ -222,10 +222,42 @@ vassal = {
 	end_date = 1936.1.1
 }
 
-#Hannover/Riga
+#Hansa/Riga
 vassal = {
 	first = HAN
 	second = RIG
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+#Hansa/Wismar
+vassal = {
+	first = HAN
+	second = WIS
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+#Hansa/Rostock
+vassal = {
+	first = HAN
+	second = ROS
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+#Hansa/FourCities
+vassal = {
+	first = HAN
+	second = FCI
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+#Hansa/Obotrites
+vassal = {
+	first = HAN
+	second = OBO
 	start_date = 1836.1.1
 	end_date = 1936.1.1
 }
@@ -238,27 +270,26 @@ vassal = {
 	end_date = 1936.1.1
 }
 
-#Bohemia/Silesia
+#Moravia/Silesia
 vassal = {
-	first = BOH
+	first = MRV
 	second = SLS
 	start_date = 1836.1.1
 	end_date = 1936.1.1
 }
 
-#Anglia/EastAnglia
+#Moravia/Bohemia
 vassal = {
-	first = ANL
-	second = EAN
+	first = MRV
+	second = BOH
 	start_date = 1836.1.1
 	end_date = 1936.1.1
 }
 
-
-#Sorbia/Polabia
+#Moravia/Wislania
 vassal = {
-	first = SOR
-	second = PLB
+	first = MRV
+	second = WSL
 	start_date = 1836.1.1
 	end_date = 1936.1.1
 }
