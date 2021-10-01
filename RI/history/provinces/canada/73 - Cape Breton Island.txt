@@ -1,6 +1,6 @@
-owner = BSQ
-controller = BSQ
-add_core = MIQ
+owner = NOR
+controller = NOR
+add_core = VIN
 trade_goods = coal
 life_rating = 31
 colonial = 2

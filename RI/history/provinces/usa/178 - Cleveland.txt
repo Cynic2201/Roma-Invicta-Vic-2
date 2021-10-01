@@ -1,6 +1,7 @@
-owner = USA
-controller = USA
-add_core = USA
+owner = VIR
+controller = VIR
+add_core = VIR
+add_core = OHI
 trade_goods = coal
 life_rating = 35
 railroad = 1

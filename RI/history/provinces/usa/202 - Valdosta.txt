@@ -1,9 +1,9 @@
-owner = CLN
-controller = CLN
-add_core = CLN
+owner = BRS
+controller = BRS
+add_core = BRS
+add_core = BRL
 trade_goods = cotton
 life_rating = 35
-colonial = 2
 party_loyalty = {
 	ideology = conservative
 	loyalty_value = 5

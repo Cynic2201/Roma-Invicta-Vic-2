@@ -1,6 +1,8 @@
-owner = NNE
-controller = NNE
+owner = MSS
+controller = MSS
+add_core = MSS
 add_core = NNE
+add_core = CNC
 trade_goods = grain
 life_rating = 35
 party_loyalty = {

@@ -1,6 +1,7 @@
-owner = CSA
-controller = CSA
-add_core = CSA
+owner = BRS
+controller = BRS
+add_core = BRS
+add_core = NVS
 add_core = CHE
 trade_goods = coal
 life_rating = 35

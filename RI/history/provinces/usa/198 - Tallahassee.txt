@@ -1,9 +1,10 @@
-owner = CLN
-controller = CLN
+owner = BRS
+controller = BRS
+add_core = BRS
+add_core = BRL
 add_core = CLN
 trade_goods = cotton
 life_rating = 35
-colonial = 2
 is_slave = yes
 
 party_loyalty = {

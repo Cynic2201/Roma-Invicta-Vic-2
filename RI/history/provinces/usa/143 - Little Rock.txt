@@ -1,8 +1,8 @@
-owner = WHA
-controller = WHA
+owner = MDC
+controller = MDC
+add_core = MDC
 trade_goods = cotton
 life_rating = 35
-colonial = 2
 
 party_loyalty = {
 	ideology = conservative

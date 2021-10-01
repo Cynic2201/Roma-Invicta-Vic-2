@@ -1,5 +1,3 @@
-owner = WHA
-controller = WHA
 trade_goods = coal
 life_rating = 35
 

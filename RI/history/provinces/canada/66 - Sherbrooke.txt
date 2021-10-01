@@ -1,8 +1,7 @@
-owner = NEN
-controller = NEN
-add_core = NEN
-add_core = CAN
-add_core = QUE
+owner = MSS
+controller = MSS
+add_core = MSS
+add_core = VER
 trade_goods = grain
 life_rating = 32
 1861.1.1 = { railroad = 3 }

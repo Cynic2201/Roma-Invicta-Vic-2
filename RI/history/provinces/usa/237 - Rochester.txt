@@ -1,6 +1,7 @@
 owner = NNE
 controller = NNE
 add_core = NNE
+add_core = IRQ
 trade_goods = grain
 life_rating = 35
 

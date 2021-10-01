@@ -1,6 +1,7 @@
-owner = SCO
-controller = SCO
-add_core = NVS
+owner = MSS
+controller = MSS
+add_core = MSS
+add_core = ACA
 trade_goods = timber
 life_rating = 31
-colonial = 2
+ 

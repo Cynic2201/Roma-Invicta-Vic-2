@@ -1,6 +1,7 @@
-owner = QUE
-controller = QUE
-add_core = QUE
+owner = NNE
+controller = NNE
+add_core = NNE
+add_core = LAR
 trade_goods = iron
 life_rating = 35
-colonial = 2
+ 

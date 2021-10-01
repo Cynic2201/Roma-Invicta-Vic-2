@@ -1,7 +1,7 @@
-owner = NEN
-controller = NEN
-add_core = NEN
-add_core = CAN
+owner = MSS
+controller = MSS
+add_core = MSS
+add_core = VER
 trade_goods = timber
 life_rating = 35
 

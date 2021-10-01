@@ -1,4 +1,7 @@
-add_core = USA
+owner = VIR
+controller = VIR
+add_core = VIR
+add_core = OHI
 trade_goods = cattle
 life_rating = 31
 colonial = 2
