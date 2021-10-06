@@ -1,4 +1,6 @@
+owner = IRN
+controller = IRN
+add_core = IRN
 add_core = MTC
-colonial = 2
 trade_goods = timber
 life_rating = 31

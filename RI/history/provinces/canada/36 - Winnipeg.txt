@@ -1,5 +1,7 @@
+owner = IRN
+controller = IRN
+add_core = IRN
 add_core = MTC
 trade_goods = grain
 terrain = new_world_boreal
 life_rating = 31
-colonial = 2

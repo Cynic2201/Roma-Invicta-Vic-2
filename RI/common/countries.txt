@@ -122,6 +122,12 @@ LAR		="countries/Laurentia.txt"
 BRL		="countries/Brendland.txt"
 BRS		="countries/Brasil.txt"
 MDC		="countries/Madoc.txt"
+IRN		="countries/Iron Confederacy.txt"
+SIO		="countries/Sioux.txt"
+COM		="countries/Comanche.txt"
+FRE		="countries/Freedonia.txt"
+APA		="countries/Apache.txt"
+NAV		="countries/Navajo.txt"
 
 ##HPM
 PNK		="countries/Pontianak.txt"

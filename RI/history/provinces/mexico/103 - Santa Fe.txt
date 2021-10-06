@@ -1,6 +1,8 @@
+owner = APA
+controller = APA
+add_core = APA
 trade_goods = fruit
 life_rating = 35
-colonial = 2
 1861.1.1 = {
 	controller = USA
 	owner = USA

@@ -1,6 +1,6 @@
-owner = TEX
-controller = TEX
-add_core = TEX
+owner = FRE
+controller = FRE
+add_core = FRE
 trade_goods = cattle
 life_rating = 35
 

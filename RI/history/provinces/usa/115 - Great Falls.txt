@@ -1,4 +1,5 @@
+owner = IRN
+controller = IRN
+add_core = IRN
 trade_goods = cattle
 life_rating = 35
-colonial = 2
-1861.1.1 = { colonial = 0 }

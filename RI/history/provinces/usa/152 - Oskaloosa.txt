@@ -1,5 +1,7 @@
+owner = SIO
+controller = SIO
+add_core = SIO
 trade_goods = grain
 life_rating = 35
-colonial = 2
 1861.1.1 = { colonial = 0 }
 1861.1.1 = { railroad = 3 }

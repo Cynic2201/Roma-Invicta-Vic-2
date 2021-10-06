@@ -1,3 +1,5 @@
-colonial = 2
+owner = IRN
+controller = IRN
+add_core = IRN
 trade_goods = coal
 life_rating = 31

@@ -2,6 +2,6 @@ owner = NNE
 controller = NNE
 add_core = NNE
 add_core = LAR
-add_core = IRQ
+add_core = IRO
 trade_goods = iron
 life_rating = 31

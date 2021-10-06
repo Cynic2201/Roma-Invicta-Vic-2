@@ -1,4 +1,6 @@
-colonial = 2
+owner = COM
+controller = COM
+add_core = COM
 trade_goods = grain
 life_rating = 35
 1861.1.1 = {
