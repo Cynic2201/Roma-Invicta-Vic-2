@@ -1,3 +1,5 @@
-add_core = NYE
+owner = AXM
+controller = AXM
+add_core = AXM
 trade_goods = grain
 life_rating = 35

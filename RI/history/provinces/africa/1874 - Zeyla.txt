@@ -1,6 +1,6 @@
-add_core = MAJ
-add_core = GEL
-add_core = WRL
+owner = AXM
+controller = AXM
+add_core = AXM
 trade_goods = grain
 terrain = semidesert
 life_rating = 35

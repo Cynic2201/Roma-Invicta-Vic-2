@@ -1,3 +1,6 @@
+owner = AXM
+controller = AXM
+add_core = AXM
 trade_goods = opium
 life_rating = 20
 terrain = desert

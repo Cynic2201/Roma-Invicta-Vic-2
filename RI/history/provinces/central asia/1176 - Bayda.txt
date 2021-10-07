@@ -1,7 +1,6 @@
-add_core = KTH
-add_core = MHR
-add_core = FDL
-add_core = LHJ
+owner = AXM
+controller = AXM
+add_core = AXM
 trade_goods = fish
 life_rating = 32
 terrain = semidesert

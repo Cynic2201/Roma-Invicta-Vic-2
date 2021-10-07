@@ -1,9 +1,8 @@
-add_core = TIG
-add_core = ETH
+owner = AXM
+controller = AXM
+add_core = AXM
 trade_goods = fruit
 life_rating = 35
-1861.1.1 = {
-	owner = ETH
-	controller = ETH
-	remove_core = TIG
-}
+
+
+	

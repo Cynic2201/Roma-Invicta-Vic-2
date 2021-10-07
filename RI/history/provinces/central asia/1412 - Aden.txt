@@ -1,13 +1,6 @@
-add_core = KTH
-add_core = MHR
-add_core = FDL
-add_core = LHJ
-add_core = NYE
+owner = AXM
+controller = AXM
+add_core = AXM
 trade_goods = fish
 life_rating = 35
 naval_base = 1
-1861.1.1 = { 
-	owner = ENG
-	controller = ENG
-	naval_base = 1 
-}
