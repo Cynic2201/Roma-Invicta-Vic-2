@@ -1,7 +1,6 @@
-owner = SUD
-controller = SUD
-add_core = SUD
-add_core = EGY
+owner = MAK
+controller = MAK
+add_core = MAK
 trade_goods = grain
 life_rating = 35
 terrain = semidesert
