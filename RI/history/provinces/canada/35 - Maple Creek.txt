@@ -1,6 +1,6 @@
-owner = IRN
-controller = IRN
-add_core = IRN
+owner = BLA
+controller = BLA
+add_core = BLA
 add_core = MTC
 trade_goods = grain
 terrain = steppe

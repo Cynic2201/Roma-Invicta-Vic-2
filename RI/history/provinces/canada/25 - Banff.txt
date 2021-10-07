@@ -1,5 +1,5 @@
-owner = IRN
-controller = IRN
-add_core = IRN
+owner = BLA
+controller = BLA
+add_core = BLA
 trade_goods = coal
 life_rating = 31

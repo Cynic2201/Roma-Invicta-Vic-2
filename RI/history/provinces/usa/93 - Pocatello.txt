@@ -1,4 +1,6 @@
-colonial = 2
+owner = SHS
+controller = SHS
+add_core = SHS
 trade_goods = cattle
 life_rating = 35
 1861.1.1 = {

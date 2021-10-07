@@ -128,6 +128,10 @@ COM		="countries/Comanche.txt"
 FRE		="countries/Freedonia.txt"
 APA		="countries/Apache.txt"
 NAV		="countries/Navajo.txt"
+SHS		="countries/Shoshone.txt"
+BLA		="countries/Blackfoot.txt"
+CHN		="countries/Chinook.txt"
+SAL		="countries/Salish.txt"
 AXM		="countries/Axum.txt"
 
 ##HPM
