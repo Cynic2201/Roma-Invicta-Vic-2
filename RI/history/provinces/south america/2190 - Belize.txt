@@ -1,6 +1,6 @@
-add_core = YUC
-add_core = BLZ
-add_core = GUA
+owner = MYA
+controller = MYA
+add_core = MYA
 trade_goods = fruit
 life_rating = 33
 1861.1.1 = {

@@ -1,5 +1,5 @@
-owner = YUC
-controller = YUC
-add_core = YUC
+owner = MYA
+controller = MYA
+add_core = MYA
 trade_goods = grain
 life_rating = 35

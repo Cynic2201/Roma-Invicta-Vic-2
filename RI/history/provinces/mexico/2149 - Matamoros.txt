@@ -1,6 +1,8 @@
-owner = RGR
-controller = RGR
+owner = NOP
+controller = NOP
+add_core = HDL
+add_core = NOP
+add_core = HUA
 terrain = new_world_semidesert
-add_core = RGR
 trade_goods = cattle
 life_rating = 31

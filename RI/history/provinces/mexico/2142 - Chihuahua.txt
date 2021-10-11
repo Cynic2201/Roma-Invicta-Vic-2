@@ -1,2 +1,6 @@
+owner = NOP
+controller = NOP
+add_core = GLS
+add_core = NOP
 trade_goods = iron
 life_rating = 35

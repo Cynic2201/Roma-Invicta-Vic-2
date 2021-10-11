@@ -1,6 +1,8 @@
-owner = TEX
-controller = TEX
-add_core = TEX
+owner = NOP
+controller = FRE
+add_core = FRE
+add_core = HDL
+add_core = NOP
 trade_goods = cattle
 life_rating = 35
 fort = 1 #Remember the Alamo!

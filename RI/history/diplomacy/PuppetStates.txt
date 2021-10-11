@@ -454,3 +454,67 @@ vassal = {
 	start_date = 1836.1.1
 	end_date = 1936.1.1
 }
+
+#Hansa/HWIC
+vassal = {
+	first = HAN
+	second = HWI
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+#HWIC/Mayapan
+vassal = {
+	first = HAN
+	second = MYA
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+#HWIC/Azteca
+vassal = {
+	first = HAN
+	second = AZT
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+#HWIC/Chichimeca
+vassal = {
+	first = HAN
+	second = CHC
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+#HWIC/Tarasca
+vassal = {
+	first = HAN
+	second = TRS
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+#HWIC/Tlaxcala
+vassal = {
+	first = HAN
+	second = TLA
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+#HWIC/Mixtec
+vassal = {
+	first = HAN
+	second = MIX
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+#HWIC/Northern Provinces
+vassal = {
+	first = HAN
+	second = NOP
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}

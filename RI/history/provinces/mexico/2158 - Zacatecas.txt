@@ -1,3 +1,6 @@
+owner = CHC
+controller = CHC
+add_core = CHC
 add_core = MEX
 trade_goods = grain
 life_rating = 35

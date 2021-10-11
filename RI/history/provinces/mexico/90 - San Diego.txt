@@ -1,4 +1,8 @@
-add_core = CAL
+owner = NOP
+controller = NOP
+add_core = BEA
+add_core = KLF
+add_core = NOP
 trade_goods = grain
 life_rating = 35
 colonial = 2

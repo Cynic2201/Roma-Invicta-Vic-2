@@ -1,5 +1,5 @@
-owner = HAN
-controller = HAN
+owner = HWI
+controller = HWI
 add_core = MEX
 trade_goods = dye
 life_rating = 35

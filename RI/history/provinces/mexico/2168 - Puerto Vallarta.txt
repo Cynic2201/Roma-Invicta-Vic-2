@@ -1,6 +1,7 @@
-owner = HAN
-controller = HAN
+owner = NOP
+controller = NOP
+add_core = GLS
+add_core = NOP
 add_core = MEX
 trade_goods = fish
 life_rating = 35
-colonial = 2

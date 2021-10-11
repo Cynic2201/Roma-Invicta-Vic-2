@@ -1,4 +1,7 @@
-add_core = MEX
+owner = NOP
+controller = NOP
+add_core = GLS
+add_core = NOP
 trade_goods = cattle
 terrain = montane_forest
 life_rating = 35

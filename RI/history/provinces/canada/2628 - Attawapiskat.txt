@@ -1,5 +1,6 @@
-add_core = YUC
+owner = UCA
+controller = UCA
 add_core = UCA
-add_core = GUA
+add_core = MYA
 trade_goods = fish
 life_rating = 35

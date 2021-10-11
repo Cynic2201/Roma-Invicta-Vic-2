@@ -1,6 +1,9 @@
-owner = APA
-controller = APA
+owner = NOP
+controller = NOP
+add_core = GLS
+add_core = NOP
 add_core = APA
+add_core = FRE
 terrain = new_world_semidesert
 trade_goods = cattle
 life_rating = 31

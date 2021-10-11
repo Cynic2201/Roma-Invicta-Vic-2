@@ -1,6 +1,6 @@
-owner = SCO
-controller = SCO
-add_core = PNM
+owner = HWI
+controller = HWI
+add_core = HWI
 trade_goods = fruit
 life_rating = 35
 naval_base = 1

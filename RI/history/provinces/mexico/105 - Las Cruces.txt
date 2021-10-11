@@ -1,6 +1,8 @@
 owner = APA
 controller = APA
 add_core = APA
+add_core = FRE
+add_core = NOP
 trade_goods = cattle
 life_rating = 35
 1861.1.1 = {

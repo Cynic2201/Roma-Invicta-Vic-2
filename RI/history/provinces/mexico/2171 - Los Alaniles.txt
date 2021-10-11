@@ -1,5 +1,6 @@
-owner = HAN
-controller = HAN
+owner = HWI
+controller = HWI
+add_core = GLS
 add_core = MEX
 trade_goods = grain
 life_rating = 35

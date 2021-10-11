@@ -1,5 +1,6 @@
-owner = HAN
-controller = HAN
+owner = HWI
+controller = HWI
+add_core = MIX
 add_core = MEX
 trade_goods = coffee
 life_rating = 35

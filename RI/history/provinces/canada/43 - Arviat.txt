@@ -1,5 +1,7 @@
 owner = FRE
 controller = FRE
 add_core = FRE
+add_core = HDL
+add_core = NOP
 trade_goods = cotton
 life_rating = 35

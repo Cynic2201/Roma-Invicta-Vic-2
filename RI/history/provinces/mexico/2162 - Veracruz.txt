@@ -1,7 +1,9 @@
-owner = HAN
-controller = HAN
+owner = HWI
+controller = HWI
+add_core = GLD
+add_core = HUA
 add_core = MEX
 trade_goods = grain
 life_rating = 35
-naval_base = 1
 colonial = 2
+naval_base = 1

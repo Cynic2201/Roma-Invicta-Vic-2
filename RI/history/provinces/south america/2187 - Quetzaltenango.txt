@@ -1,10 +1,9 @@
-owner = HAN
-controller = HAN
-add_core = YUC
-add_core = GUA
-add_core = LOS
+owner = HWI
+controller = HWI
+add_core = MYA
 trade_goods = iron
 life_rating = 33
+colonial = 2
 1861.1.1 = {
 	owner = GUA
 	controller = GUA

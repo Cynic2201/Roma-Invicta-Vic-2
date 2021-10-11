@@ -1,8 +1,6 @@
-owner = SCO
-controller = SCO
-add_core = PNM
+owner = UCA
+controller = UCA
 add_core = UCA
-add_core = COS
 trade_goods = coffee
 life_rating = 33
 1861.1.1 = {

@@ -1,5 +1,7 @@
-owner = HAN
-controller = HAN
+owner = NOP
+controller = NOP
+add_core = GLS
+add_core = NOP
 add_core = MEX
 trade_goods = iron
 life_rating = 35
