@@ -1,5 +1,5 @@
 owner = HWI
 controller = HWI
-add_core = HWI
+add_core = NCD
 trade_goods = fruit
 life_rating = 35
