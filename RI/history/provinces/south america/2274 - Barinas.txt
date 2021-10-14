@@ -1,5 +1,5 @@
-owner = VNZ
-controller = VNZ
-add_core = VNZ
+owner = AME
+controller = AME
+add_core = AME
 trade_goods = cattle
 life_rating = 31

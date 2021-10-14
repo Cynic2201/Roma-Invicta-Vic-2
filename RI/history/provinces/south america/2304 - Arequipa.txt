@@ -1,7 +1,6 @@
-owner = SPU
-controller = SPU
-add_core = SPU
-add_core = PEU
+owner = VRL
+controller = VRL
+add_core = VRL
 trade_goods = sulphur
 terrain = new_world_semidesert
 life_rating = 31

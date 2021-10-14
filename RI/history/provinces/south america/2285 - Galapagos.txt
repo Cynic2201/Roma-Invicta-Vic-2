@@ -1,4 +1,6 @@
-add_core = ECU
+owner = VRL
+controller = VRL
+add_core = VRL
 trade_goods = fish
 life_rating = 30
 terrain = new_world_plains

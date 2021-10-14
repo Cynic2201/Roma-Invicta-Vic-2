@@ -1,7 +1,7 @@
-owner = SCO
-controller = SCO
-add_core = PNM
-add_core = VNZ
-add_core = CLM
+owner = VRL
+controller = VRL
+add_core = VRL
+add_core = QUI
+add_core = AME
 trade_goods = fish
 life_rating = 34

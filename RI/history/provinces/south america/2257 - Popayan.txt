@@ -1,7 +1,7 @@
-owner = VNZ
-controller = VNZ
-add_core = VNZ
-add_core = CLM
+owner = QUI
+controller = QUI
+add_core = QUI
+add_core = AME
 trade_goods = grain
 terrain = montane_forest
 life_rating = 34

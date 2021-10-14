@@ -1,6 +1,5 @@
 owner = ALS
 controller = ALS
-add_core = VNZ
 add_core = GUY
 trade_goods = fruit
 terrain = jungle

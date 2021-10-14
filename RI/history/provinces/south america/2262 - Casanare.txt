@@ -1,5 +1,4 @@
-add_core = VNZ
-add_core = CLM
+add_core = AME
 trade_goods = cattle
 terrain = savanna
 life_rating = 35

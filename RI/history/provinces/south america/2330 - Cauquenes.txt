@@ -1,5 +1,5 @@
-owner = CHL
-controller = CHL
-add_core = CHL
+owner = VRL
+controller = VRL
+add_core = VRL
 trade_goods = iron
 life_rating = 35

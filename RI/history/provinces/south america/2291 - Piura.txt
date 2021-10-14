@@ -1,7 +1,6 @@
-owner = ECU
-controller = ECU
-add_core = ECU
-add_core = PEU
+owner = VRL
+controller = VRL
+add_core = VRL
 trade_goods = fish
 terrain = new_world_semidesert
 life_rating = 32

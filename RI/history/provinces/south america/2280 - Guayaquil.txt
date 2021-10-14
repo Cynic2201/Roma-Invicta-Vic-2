@@ -1,5 +1,5 @@
-owner = ECU
-controller = ECU
-add_core = ECU
+owner = VRL
+controller = VRL
+add_core = VRL
 trade_goods = fruit
 life_rating = 35
