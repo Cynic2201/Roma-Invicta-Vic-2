@@ -1995,25 +1995,25 @@
 	
 	#1200 Ashkenazi Pops
 	clergymen = {
-		culture = russian
+		culture = rusyn
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = russian
+		culture = rusyn
 		religion = orthodox
 		size = 200
 	}
 
 	soldiers = {
-		culture = russian
+		culture = rusyn
 		religion = orthodox
 		size = 100
 	}
 
 	farmers = {
-		culture = russian
+		culture = rusyn
 		religion = orthodox
 		size = 3700
 	}
@@ -2024,7 +2024,7 @@
 		size = 100
 	}
 	farmers = {
-		culture = russian
+		culture = rusyn
 		religion = orthodox
 		size = 700
 	}
@@ -2376,37 +2376,37 @@
 	}
 	
 	aristocrats = {
-		culture = russian
+		culture = rusyn
 		religion = orthodox
 		size = 100
 	}
 	
 	officers = {
-		culture = russian
+		culture = rusyn
 		religion = orthodox
 		size = 100
 	}
 	
 	clergymen = {
-		culture = russian
+		culture = rusyn
 		religion = orthodox
 		size = 200
 	}
 	
 	soldiers = {
-		culture = russian
+		culture = rusyn
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = russian
+		culture = rusyn
 		religion = orthodox
 		size = 1100
 	}
 
 	farmers = {
-		culture = russian
+		culture = rusyn
 		religion = orthodox
 		size = 20700
 	}
@@ -2538,25 +2538,25 @@
 #Przemysl (596000/149000 POPS)
 705 = {
 	clergymen = {
-		culture = russian
+		culture = rusyn
 		religion = orthodox
 		size = 175
 	}
 
 	artisans = {
-		culture = russian
+		culture = rusyn
 		religion = orthodox
 		size = 950
 	}
 
 	soldiers = {
-		culture = russian
+		culture = rusyn
 		religion = orthodox
 		size = 175
 	}
 
 	farmers = {
-		culture = russian
+		culture = rusyn
 		religion = orthodox
 		size = 17700
 	}
@@ -3090,25 +3090,25 @@
 #Bialystok (320000/80000 POPS)
 719 = {
 	clergymen = {
-		culture = russian
+		culture = rusyn
 		religion = orthodox
 		size = 325
 	}
 
 	artisans = {
-		culture = russian
+		culture = rusyn
 		religion = orthodox
 		size = 250
 	}
 	
 	soldiers = {
-		culture = russian
+		culture = rusyn
 		religion = orthodox
 		size = 100
 	}
 
 	farmers = {
-		culture = russian
+		culture = rusyn
 		religion = orthodox
 		size = 19275
 	}
@@ -3144,25 +3144,25 @@
 	}
 
 	clergymen = {
-		culture = russian
+		culture = rusyn
 		religion = catholic
 		size = 100
 	}
 	
 	soldiers = {
-		culture = russian
+		culture = rusyn
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = russian
+		culture = rusyn
 		religion = catholic
 		size = 750
 	}
 
 	farmers = {
-		culture = russian
+		culture = rusyn
 		religion = catholic
 		size = 12350
 	}
