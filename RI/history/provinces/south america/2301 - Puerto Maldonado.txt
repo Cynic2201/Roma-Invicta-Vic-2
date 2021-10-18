@@ -1,3 +1,8 @@
+owner = VLC
+controller = VLC
+add_core = VLC
+add_core = ASU
+add_core = TSU
 trade_goods = fruit
 terrain = jungle
 life_rating = 31

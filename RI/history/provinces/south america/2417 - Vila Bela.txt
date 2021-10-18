@@ -1,4 +1,2 @@
-owner = SPQ
-controller = SPQ
 trade_goods = tobacco
 life_rating = 31

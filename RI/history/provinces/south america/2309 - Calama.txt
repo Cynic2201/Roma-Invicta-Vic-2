@@ -1,6 +1,9 @@
 owner = VRL
 controller = VRL
 add_core = VRL
+add_core = AYM
+add_core = QSU
+add_core = TSU
 trade_goods = fish
 terrain = new_world_desert
 life_rating = 31

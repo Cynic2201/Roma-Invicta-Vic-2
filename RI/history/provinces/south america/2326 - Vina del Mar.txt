@@ -1,5 +1,7 @@
 owner = VRL
 controller = VRL
 add_core = VRL
+add_core = QSU
+add_core = TSU
 trade_goods = cattle
 life_rating = 35

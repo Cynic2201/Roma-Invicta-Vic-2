@@ -1,5 +1,4 @@
-owner = SPQ
-controller = SPQ
+add_core = PNB
 trade_goods = fruit
 terrain = savanna
 life_rating = 31

@@ -1,2 +1,7 @@
+owner = CAJ
+controller = CAJ
+add_core = CAJ
+add_core = CSU
+add_core = TSU
 trade_goods = precious_metal
 life_rating = 35

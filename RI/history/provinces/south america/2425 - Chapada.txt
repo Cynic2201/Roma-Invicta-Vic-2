@@ -1,5 +1,6 @@
-owner = NET
-controller = NET
+owner = PNB
+controller = PNB
+add_core = PNB
 trade_goods = cotton
 terrain = new_world_semidesert
 life_rating = 31
