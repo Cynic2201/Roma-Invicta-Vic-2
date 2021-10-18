@@ -173,6 +173,9 @@ CSU		="countries/Chinchaysuyu.txt"
 QSU		="countries/Qullasuyu.txt"
 TSU		="countries/Tawantinsuyu.txt"
 MUI		="countries/Muisca.txt"
+MKU		="countries/Makuria.txt"
+BEJ		="countries/Beja.txt"
+
 
 ##HPM
 PNK		="countries/Pontianak.txt"

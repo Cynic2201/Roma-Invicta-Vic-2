@@ -1,6 +1,6 @@
-owner = MAK
-controller = MAK
-add_core = MAK
+owner = MKU
+controller = MKU
+add_core = MKU
 trade_goods = fruit
 life_rating = 32
 terrain = semidesert
