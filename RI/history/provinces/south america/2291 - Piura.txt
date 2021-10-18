@@ -1,6 +1,10 @@
 owner = VRL
 controller = VRL
 add_core = VRL
+add_core = QUI
+add_core = CHM
+add_core = CSU
+add_core = TSU
 trade_goods = fish
 terrain = new_world_semidesert
 life_rating = 32

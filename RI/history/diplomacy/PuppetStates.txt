@@ -518,3 +518,48 @@ vassal = {
 	start_date = 1836.1.1
 	end_date = 1936.1.1
 }
+
+
+#Virland/Quito
+vassal = {
+	first = VRL
+	second = QUI
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+
+#Virland/Cajamarca
+vassal = {
+	first = VRL
+	second = CAJ
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+
+#Virland/Cusco
+vassal = {
+	first = VRL
+	second = CUS
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+
+#Virland/Aymaria
+vassal = {
+	first = VRL
+	second = AYM
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+
+#Virland/Cochabamba
+vassal = {
+	first = VRL
+	second = COC
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}

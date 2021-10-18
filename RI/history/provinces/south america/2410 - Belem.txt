@@ -1,4 +1,5 @@
 owner = SPQ
 controller = SPQ
+add_core = AMA
 trade_goods = rubber
 life_rating = 35

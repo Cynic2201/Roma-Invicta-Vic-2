@@ -1,5 +1,6 @@
-owner = NET
-controller = NET
+owner = HLL
+controller = HLL
+add_core = PNB
 trade_goods = cattle
 terrain = savanna
 life_rating = 35

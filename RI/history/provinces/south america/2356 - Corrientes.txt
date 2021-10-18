@@ -1,7 +1,6 @@
-owner = ARC
-controller = ARC
-add_core = ARC
-add_core = CRT
+owner = PRG
+controller = PRG
+add_core = PRG
 trade_goods = cattle
 life_rating = 34
 1861.1.1 = { 

@@ -1,3 +1,6 @@
+add_core = VLC
+add_core = ASU
+add_core = TSU
 trade_goods = wool
 terrain = jungle
 life_rating = 31

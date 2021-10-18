@@ -1,6 +1,7 @@
-owner = NET
-controller = NET
+owner = FRA
+controller = FRA
 add_core = GUY
+add_core = COU
 trade_goods = timber
 life_rating = 35
 colonial = 2

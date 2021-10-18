@@ -1,5 +1,5 @@
-owner = SPQ
-controller = SPQ
+add_core = ASU
+add_core = TSU
 trade_goods = tropical_wood
 life_rating = 15
 

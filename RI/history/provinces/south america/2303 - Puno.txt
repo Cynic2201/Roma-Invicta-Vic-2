@@ -1,9 +1,8 @@
-owner = PBC
-controller = PBC
-add_core = PBC
-add_core = BOL
-add_core = SPU
-add_core = PEU
+owner = AYM
+controller = AYM
+add_core = AYM
+add_core = QSU
+add_core = TSU
 trade_goods = iron
 life_rating = 35
 1860.1.1 = {

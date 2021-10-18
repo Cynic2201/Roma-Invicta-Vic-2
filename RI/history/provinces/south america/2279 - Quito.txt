@@ -1,5 +1,7 @@
-owner = ECU
-controller = ECU
-add_core = ECU
+owner = QUI
+controller = QUI
+add_core = QUI
+add_core = CSU 
+add_core = TSU
 trade_goods = fruit
 life_rating = 39

@@ -1,4 +1,5 @@
-owner = SPQ
-controller = SPQ
+owner = MRO
+controller = MRO
+add_core = MRO
 trade_goods = rubber
 life_rating = 34

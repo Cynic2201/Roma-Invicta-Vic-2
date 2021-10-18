@@ -1,6 +1,8 @@
 owner = QUI
 controller = QUI
 add_core = QUI
+add_core = CSU 
+add_core = TSU
 add_core = AME
 trade_goods = cattle
 terrain = montane_forest

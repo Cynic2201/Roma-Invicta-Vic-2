@@ -1,6 +1,9 @@
 owner = VRL
 controller = VRL
 add_core = VRL
+add_core = CUS
+add_core = KSU
+add_core = TSU
 trade_goods = fish
 terrain = dryhills
 life_rating = 35

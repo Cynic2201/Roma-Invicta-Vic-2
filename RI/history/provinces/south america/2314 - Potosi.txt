@@ -1,3 +1,9 @@
+owner = COC
+controller = COC
+add_core = COC
+add_core = AYM
+add_core = QSU
+add_core = TSU
 trade_goods = grain
 life_rating = 31
 terrain = new_world_semidesert

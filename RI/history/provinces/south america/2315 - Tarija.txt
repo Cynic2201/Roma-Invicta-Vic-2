@@ -1,3 +1,8 @@
+owner = COC
+controller = COC
+add_core = COC
+add_core = QSU
+add_core = TSU
 trade_goods = wool
 life_rating = 35
 1861.1.1 = {

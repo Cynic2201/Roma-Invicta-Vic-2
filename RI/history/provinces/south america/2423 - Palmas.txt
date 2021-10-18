@@ -1,4 +1,5 @@
-owner = SPQ
-controller = SPQ
+owner = PNB
+controller = PNB
+add_core = PNB
 trade_goods = fruit
 life_rating = 31
