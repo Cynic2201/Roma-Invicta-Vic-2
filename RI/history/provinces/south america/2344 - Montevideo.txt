@@ -1,6 +1,6 @@
-owner = URU
-controller = URU
-add_core = URU
+owner = NSU
+controller = NSU
+add_core = NSU
 trade_goods = cattle
 life_rating = 39
 naval_base = 1

@@ -1,5 +1,6 @@
-owner = WHA
-controller = WHA
+owner = WLA
+controller = WLA
+add_core = WLA
 add_core = PTG
 trade_goods = wool
 terrain = steppe

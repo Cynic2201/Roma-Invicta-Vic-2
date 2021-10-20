@@ -1,6 +1,5 @@
-owner = ARC
-controller = ARC
-add_core = ARC
-add_core = CRT
+owner = URU
+controller = URU
+add_core = URU
 trade_goods = wool
 life_rating = 35

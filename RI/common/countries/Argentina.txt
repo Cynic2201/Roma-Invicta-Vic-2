@@ -1,4 +1,4 @@
-color = { 117  170  219 }
+color = { 80  102  136 }
 graphical_culture = SouthAmericanGC
 party = {
 	name = "ARG_liberal"

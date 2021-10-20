@@ -1,7 +1,6 @@
-owner = CHL
-controller = CHL
-add_core = CHL
-add_core = ARC
+owner = VRL
+controller = VRL
+add_core = VRL
 trade_goods = fruit
 terrain = dryhills
 life_rating = 35

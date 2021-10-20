@@ -231,7 +231,6 @@ country_event = {
 	
 	trigger = {
 		OR = {
-			tag = ARG
 			tag = ARC
 			tag = LPL
 		}

@@ -159,7 +159,6 @@ AMA		="countries/Amazonia.txt"
 ANT		="countries/Antarctica.txt"
 VRL		="countries/Virland.txt"
 NWH		="countries/New Holland.txt"
-HNS		="countries/Hunsrikland.txt"
 AYM		="countries/Aymaria.txt"
 CAJ		="countries/Cajamarca.txt"
 QUI		="countries/Quito.txt"
@@ -175,7 +174,8 @@ TSU		="countries/Tawantinsuyu.txt"
 MUI		="countries/Muisca.txt"
 MKU		="countries/Makuria.txt"
 BEJ		="countries/Beja.txt"
-
+NSU		="countries/New Suebia.txt"
+WLA		="countries/Wladychfa.txt"
 
 ##HPM
 PNK		="countries/Pontianak.txt"
