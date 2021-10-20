@@ -1,5 +1,5 @@
-owner = CUB
-controller = CUB
-add_core = CUB
+owner = KYD
+controller = KYD
+add_core = KYD
 trade_goods = coffee
 life_rating = 35

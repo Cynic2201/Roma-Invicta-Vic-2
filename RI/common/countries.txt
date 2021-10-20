@@ -176,6 +176,10 @@ MKU		="countries/Makuria.txt"
 BEJ		="countries/Beja.txt"
 NSU		="countries/New Suebia.txt"
 WLA		="countries/Wladychfa.txt"
+KYD		="countries/Kydonia.txt"
+PAT		="countries/Patrian Isles.txt"
+NVN		="countries/New Vandalia.txt"
+DWI		="countries/Dutch West Indies.txt"
 
 ##HPM
 PNK		="countries/Pontianak.txt"

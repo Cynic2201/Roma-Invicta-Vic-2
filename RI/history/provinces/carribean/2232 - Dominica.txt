@@ -1,5 +1,6 @@
-owner = ANL
-controller = ANL
+owner = VIR
+controller = VIR
+add_core = VIR
 trade_goods = cotton
 life_rating = 35
 colonial = 2
