@@ -180,6 +180,7 @@ KYD		="countries/Kydonia.txt"
 PAT		="countries/Patrian Isles.txt"
 NVN		="countries/New Vandalia.txt"
 DWI		="countries/Dutch West Indies.txt"
+ALO		="countries/Alodia.txt"
 
 ##HPM
 PNK		="countries/Pontianak.txt"

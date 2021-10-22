@@ -1,6 +1,6 @@
-owner = SUD
-controller = SUD
-add_core = SUD
+owner = AXM
+controller = AXM
+add_core = AXM
 trade_goods = fruit
 terrain = semidesert
 life_rating = 32
