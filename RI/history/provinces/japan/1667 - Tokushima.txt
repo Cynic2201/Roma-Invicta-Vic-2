@@ -1,6 +1,8 @@
-owner = TOS
-controller = TOS
+owner = TOY
+controller = TOY
+add_core = TOY
 add_core = TOS
-add_core = TKG
+add_core = IJP
+add_core = JAP
 trade_goods = fruit
 life_rating = 35

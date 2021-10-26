@@ -1,6 +1,7 @@
-owner = JAP
-controller = JAP
+owner = TOY
+controller = TOY
+add_core = TOY
+add_core = IJP
 add_core = JAP
-add_core = TKG
 trade_goods = cattle
 life_rating = 35

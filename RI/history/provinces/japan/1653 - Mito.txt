@@ -1,5 +1,7 @@
-owner = TKG
-controller = TKG
-add_core = TKG
+owner = EDO
+controller = EDO
+add_core = EDO
+add_core = TOK
+add_core = JAP
 trade_goods = fish
 life_rating = 35

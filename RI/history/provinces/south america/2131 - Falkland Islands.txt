@@ -1,7 +1,5 @@
-owner = ENG
-controller = ENG
-add_core = ENG
-add_core = ARC
+owner = HAN
+controller = HAN
 trade_goods = wool
 life_rating = 30
 colonial = 2

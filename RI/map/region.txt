@@ -835,7 +835,7 @@ CHI_1610 = { 1610 1607 1611 } #South Zhejiang
 
 CHI_1612 = { 1612 1614 1615 1618 } #Baoding
 
-CHI_1616 = { 1616 1613 1617 3351 } #Peking
+CHI_1616 = { 1616 1613 1617 3358 } #Peking
 
 
 ### Japan & Korea

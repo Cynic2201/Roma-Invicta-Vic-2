@@ -1,43 +1,33 @@
-#Tokugawa substates
+#Imperial substates
 substate = {
-	first = TKG
-	second = SEN
+	first = IJP
+	second = TOY
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
 substate = {
-	first = TKG
-	second = YZW
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-substate = {
-	first = TKG
+	first = IJP
 	second = KAG
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
+
+#Shogun substates
 substate = {
-	first = TKG
-	second = TOS
+	first = MTS
+	second = DAT
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
 substate = {
-	first = TKG
-	second = CHO
+	first = MTS
+	second = TOK
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
 substate = {
-	first = TKG
-	second = SAT
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-substate = {
-	first = TKG
-	second = JAP
+	first = MTS
+	second = UES
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }

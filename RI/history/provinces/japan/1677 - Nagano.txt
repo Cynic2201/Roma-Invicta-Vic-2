@@ -1,5 +1,5 @@
-owner = TKG
-controller = TKG
-add_core = TKG
+owner = IJP
+controller = IJP
+add_core = IJP
 trade_goods = tea
 life_rating = 35

@@ -1,7 +1,8 @@
 owner = KAG
 controller = KAG
 add_core = KAG
-add_core = TKG
+add_core = IJP
+add_core = JAP
 trade_goods = fish
 life_rating = 35
 naval_base = 1

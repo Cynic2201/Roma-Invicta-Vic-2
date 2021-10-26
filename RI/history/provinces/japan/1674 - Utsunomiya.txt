@@ -1,5 +1,6 @@
-owner = TKG
-controller = TKG
-add_core = TKG
+owner = TOK
+controller = TOK
+add_core = TOK
+add_core = MTS
 trade_goods = wool
 life_rating = 35

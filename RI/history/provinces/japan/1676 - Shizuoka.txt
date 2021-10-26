@@ -1,5 +1,8 @@
-owner = TKG
-controller = TKG
-add_core = TKG
+owner = TOY
+controller = TOY
+add_core = TOY
+add_core = IJP
+add_core = TOK
+add_core = JAP
 trade_goods = precious_metal
 life_rating = 35

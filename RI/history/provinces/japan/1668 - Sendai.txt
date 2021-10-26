@@ -1,7 +1,9 @@
-owner = SEN
-controller = SEN
-add_core = SEN
-add_core = TKG
+owner = TOY
+controller = TOY
+add_core = TOY
+add_core = IJP
+add_core = MTS
+add_core = JAP
 trade_goods = grain
 life_rating = 35
 naval_base = 1

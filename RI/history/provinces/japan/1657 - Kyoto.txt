@@ -1,7 +1,6 @@
-owner = JAP
-controller = JAP
-add_core = JAP
-add_core = TKG
+owner = IJP
+controller = IJP
+add_core = IJP
 trade_goods = fruit
 life_rating = 35
 fort = 1

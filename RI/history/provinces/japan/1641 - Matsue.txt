@@ -1,7 +1,8 @@
-owner = CHO
-controller = CHO
+owner = KJP
+controller = KJP
 add_core = CHO
-add_core = TKG
+add_core = KJP
+add_core = JAP
 trade_goods = fish
 life_rating = 35
 naval_base = 1
