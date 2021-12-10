@@ -189,6 +189,8 @@ MTS		="countries/Matsumae.txt"
 TOK		="countries/Tokugawa.txt"
 TOY		="countries/Toyotomi.txt"
 UES		="countries/Uesugi.txt"
+CAP		="countries/Cape.txt"
+
 
 ##HPM
 PNK		="countries/Pontianak.txt"

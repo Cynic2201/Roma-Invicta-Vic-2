@@ -1,6 +1,6 @@
-owner = HLL
-controller = HLL
-add_core = SAF
+owner = CAP
+controller = CAP
+add_core = CAP
 trade_goods = fruit
 life_rating = 30
 terrain = mountain

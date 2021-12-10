@@ -1,5 +1,6 @@
-owner = HLL
-controller = HLL
+owner = CAP
+controller = CAP
+add_core = CAP
 add_core = XHO
 add_core = SAF
 trade_goods = fruit

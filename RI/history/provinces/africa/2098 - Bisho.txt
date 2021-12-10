@@ -1,3 +1,6 @@
+owner = CAP
+controller = CAP
+add_core = CAP
 owner = XHO
 controller = XHO
 add_core = XHO

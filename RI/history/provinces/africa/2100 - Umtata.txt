@@ -1,4 +1,4 @@
-owner = XHO
+owner = ZUL
 controller = XHO
 add_core = XHO
 trade_goods = wool
