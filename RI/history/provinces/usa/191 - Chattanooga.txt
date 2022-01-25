@@ -1,7 +1,7 @@
 owner = BRS
 controller = BRS
 add_core = BRS
-add_core = BRL
+add_core = NVS
 add_core = CHE
 trade_goods = coal
 life_rating = 35

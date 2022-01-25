@@ -1,9 +1,8 @@
-owner = NOR
-controller = NOR
+owner = NNE
+controller = NNE
 add_core = NSV
 trade_goods = fish
 naval_base = 1
-colonial = 2
 life_rating = 35
 
 party_loyalty = {

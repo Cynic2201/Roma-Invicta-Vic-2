@@ -1,9 +1,8 @@
-owner = NOR
-controller = NOR
+owner = NNE
+controller = NNE
 add_core = NSV
-rade_goods = grain
+trade_goods = grain
 life_rating = 35
-colonial = 2
 
 party_loyalty = {
 	ideology = conservative

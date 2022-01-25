@@ -1,6 +1,7 @@
 owner = MSS
 controller = MSS
 add_core = MSS
+add_core = LAR
 add_core = ACA
 trade_goods = grain
 life_rating = 35
