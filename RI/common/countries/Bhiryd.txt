@@ -1,4 +1,4 @@
-color = { 138  171  58 }
+color = { 95  171  58 }
 graphical_culture = EuropeanGC
 
 party = {

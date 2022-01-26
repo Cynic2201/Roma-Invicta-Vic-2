@@ -1967,7 +1967,6 @@ native_american = {
 
 columbian_cultures = {
 	leader = european
-
 	yankee = {
 		color = {85 116 224}
 		first_names = { Adam Alexander William Henry Michael Samuel Joshua George John Matthew Mark Luke Lucas Jeffrey Ulysses 
@@ -2027,7 +2026,7 @@ columbian_cultures = {
 		Nelson Randal Robertson Ross Rosser Scurry Steele Terrell Waterhouse Waul Wharton Whitfield Wigfall Young Bowie Travis Houston
 		}
 	}
-	union = USA
+	union = USC
 }
 
 neo_european_cultures = {

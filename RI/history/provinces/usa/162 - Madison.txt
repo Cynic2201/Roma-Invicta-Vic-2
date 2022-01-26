@@ -2,6 +2,7 @@ owner = VIR
 controller = VIR
 add_core = VIR
 add_core = OHI
+add_core = MIC
 trade_goods = coal
 life_rating = 35
 colonial = 2

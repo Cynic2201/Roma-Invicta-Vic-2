@@ -1,6 +1,7 @@
 owner = BRS
 controller = BRS
 add_core = BRS
+add_core = BHI
 trade_goods = cotton
 life_rating = 35
 

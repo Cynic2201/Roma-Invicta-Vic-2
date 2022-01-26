@@ -114,7 +114,7 @@ BRS_205	= { 205 } #Avalon
 
 BRS_206 = { 206 209 2556 } #Nova Scotia
 
-USA_2556 = { 207 208 210 } #North Carolina
+VIR_207 = { 207 208 210 } #Granville
 
 USA_211 = { 60 211 212 213 214 215 216 217 } #Virginia
 
