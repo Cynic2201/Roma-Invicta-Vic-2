@@ -642,25 +642,25 @@
 #Sacramento (9600/2400 POPS)
 84 = {
 	aristocrats = {
-		culture = mexican
+		culture = xikaner
 		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
-		culture = mexican
+		culture = xikaner
 		religion = catholic
 		size = 10
 	}
 
 	soldiers = {
-		culture = mexican
+		culture = xikaner
 		religion = catholic
 		size = 10
 	}
 
 	farmers = {
-		culture = mexican
+		culture = xikaner
 		religion = catholic
 		size = 350
 	}
@@ -756,31 +756,31 @@
 #Monterey (6400/1600 POPS)
 87 = {
 	aristocrats = {
-		culture = mexican
+		culture = xikaner
 		religion = catholic
 		size = 12
 	}
 
 	bureaucrats = {
-		culture = mexican
+		culture = xikaner
 		religion = catholic
 		size = 3
 	}
 
 	clergymen = {
-		culture = mexican
+		culture = xikaner
 		religion = catholic
 		size = 15
 	}
 
 	soldiers = {
-		culture = mexican
+		culture = xikaner
 		religion = catholic
 		size = 10
 	}
 
 	farmers = {
-		culture = mexican
+		culture = xikaner
 		religion = catholic
 		size = 525
 	}
@@ -850,24 +850,24 @@
 #Los Angeles (12000/3000 POPS)
 89 = {
 	aristocrats = {
-		culture = mexican
+		culture = xikaner
 		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
-		culture = mexican
+		culture = xikaner
 		religion = catholic
 		size = 25
 	}
 	soldiers = {
-		culture = mexican
+		culture = xikaner
 		religion = catholic
 		size = 15
 	}
 
 	farmers = {
-		culture = mexican
+		culture = xikaner
 		religion = catholic
 		size = 900
 	}
@@ -899,25 +899,25 @@
 #San Diego (12000/3000 POPS)
 90 = {
 	aristocrats = {
-		culture = mexican
+		culture = xikaner
 		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
-		culture = mexican
+		culture = xikaner
 		religion = catholic
 		size = 25
 	}
 
 	soldiers = {
-		culture = mexican
+		culture = xikaner
 		religion = catholic
 		size = 15
 	}
 
 	farmers = {
-		culture = mexican
+		culture = xikaner
 		religion = catholic
 		size = 900
 	}
@@ -1348,31 +1348,31 @@
 	}
 
 	aristocrats = {
-		culture = mexican
+		culture = xikaner
 		religion = catholic
 		size = 2
 	}
 
 	bureaucrats = {
-		culture = mexican
+		culture = xikaner
 		religion = catholic
 		size = 1
 	}
 
 	clergymen = {
-		culture = mexican
+		culture = xikaner
 		religion = catholic
 		size = 5
 	}
 
 	soldiers = {
-		culture = mexican
+		culture = xikaner
 		religion = catholic
 		size = 5
 	}
 
 	farmers = {
-		culture = mexican
+		culture = xikaner
 		religion = catholic
 		size = 225
 	}
@@ -1439,7 +1439,7 @@
 	}
 
 	farmers = {
-		culture = mexican
+		culture = xikaner
 		religion = catholic
 		size = 100
 	}
@@ -1447,25 +1447,25 @@
 #Las Cruces (4000/1000 POPS)
 105 = {
 	aristocrats = {
-		culture = mexican
+		culture = xikaner
 		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
-		culture = mexican
+		culture = xikaner
 		religion = catholic
 		size = 25
 	}
 
 	soldiers = {
-		culture = mexican
+		culture = xikaner
 		religion = catholic
 		size = 15
 	}
 
 	farmers = {
-		culture = mexican
+		culture = xikaner
 		religion = catholic
 		size = 850
 	}
@@ -2809,7 +2809,7 @@
 	}
 	
 	farmers = {
-		culture = handler
+		culture = xikaner
 		religion = protestant
 		size = 5500
 	}
@@ -2947,7 +2947,7 @@
 	}
 	
 	farmers = {
-		culture = handler
+		culture = xikaner
 		religion = protestant
 		size = 8000
 	}
@@ -3041,7 +3041,7 @@
 	}
 
 	farmers = {
-		culture = handler
+		culture = xikaner
 		religion = protestant
 		size = 8680
 	}
@@ -3091,7 +3091,7 @@
 	}
 	
 	farmers = {
-		culture = handler
+		culture = xikaner
 		religion = protestant
 		size = 500
 	}
@@ -3235,7 +3235,7 @@
 	}
 
 	farmers = {
-		culture = mexican
+		culture = xikaner
 		religion = catholic
 		size = 225
 		militancy = 9
@@ -3505,31 +3505,31 @@
 #German Coast (36000/9000 POPS)
 3351 = {
 	aristocrats = {
-		culture = handler
+		culture = xikaner
 		religion = protestant
 		size = 300
 	}
 
 	clergymen = {
-		culture = handler
+		culture = xikaner
 		religion = protestant
 		size = 200
 	}
 
 	artisans = {
-		culture = handler
+		culture = xikaner
 		religion = protestant
 		size = 350
 	}
 
 	soldiers = {
-		culture = handler
+		culture = xikaner
 		religion = protestant
 		size = 1200
 	}
 
 	farmers = {
-		culture = handler
+		culture = xikaner
 		religion = protestant
 		size = 6450
 	}
@@ -11377,7 +11377,7 @@
 2662 = {
 
 	clergymen = {
-		culture = mexican
+		culture = xikaner
 		religion = catholic
 		size = 25
 	}
@@ -11389,13 +11389,13 @@
 	}
 
 	soldiers = {
-		culture = mexican
+		culture = xikaner
 		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = mexican
+		culture = xikaner
 		religion = catholic
 		size = 50
 	}
