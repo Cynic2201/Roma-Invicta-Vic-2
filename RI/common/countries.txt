@@ -193,6 +193,7 @@ CAP		="countries/Cape.txt"
 MIC		="countries/Michigan.txt"
 BHI		="countries/Bhiryd.txt"
 USC		="countries/USC.txt"
+MIS		="countries/Mississippi.txt"
 
 ##HPM
 PNK		="countries/Pontianak.txt"

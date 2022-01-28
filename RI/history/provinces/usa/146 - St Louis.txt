@@ -1,6 +1,7 @@
 owner = MDC
 controller = MDC
 add_core = MDC
+add_core = MIS
 trade_goods = cattle
 life_rating = 35
 
