@@ -5213,7 +5213,7 @@
 	clergymen = {
 		culture = ohian
 		religion = protestant
-		size = 375
+		size = 175
 	}
 
 	artisans = {
@@ -5375,7 +5375,7 @@
 	clergymen = {
 		culture = ohian
 		religion = protestant
-		size = 325
+		size = 125
 	}
 
 	artisans = {
@@ -5735,7 +5735,7 @@
 	clergymen = {
 		culture = ohian
 		religion = protestant
-		size = 575
+		size = 275
 	}
 
 	artisans = {
@@ -5759,7 +5759,7 @@
 	clergymen = {
 		culture = columbian
 		religion = protestant
-		size = 50
+		size = 20
 	}
 
 	artisans = {
@@ -5777,7 +5777,7 @@
 	clergymen = {
 		culture = yankee
 		religion = mormon
-		size = 75
+		size = 55
 	}
 
 	artisans = {
@@ -5859,7 +5859,7 @@
 	clergymen = {
 		culture = ohian
 		religion = protestant
-		size = 525
+		size = 225
 	}
 
 	artisans = {
@@ -5915,13 +5915,13 @@
 	clergymen = {
 		culture = ohian
 		religion = protestant
-		size = 275
+		size = 95
 	}
 
 	artisans = {
 		culture = ohian
 		religion = protestant
-		size = 1350
+		size = 150
 	}
 
 	soldiers = {
@@ -5933,61 +5933,61 @@
 	farmers = {
 		culture = ohian
 		religion = protestant
-		size = 19450
+		size = 12450
 	}
 
 	clergymen = {
 		culture = columbian
 		religion = protestant
-		size = 50
+		size = 10
 	}
 
 	artisans = {
 		culture = columbian
+		religion = protestant
+		size = 200
+	}
+
+	farmers = {
+		culture = columbian
+		religion = protestant
+		size = 3750
+	}
+
+	clergymen = {
+		culture = havensmen
+		religion = protestant
+		size = 55
+	}
+
+	artisans = {
+		culture = havensmen
 		religion = protestant
 		size = 300
 	}
 
 	farmers = {
-		culture = columbian
-		religion = protestant
-		size = 6550
-	}
-
-	clergymen = {
 		culture = havensmen
 		religion = protestant
-		size = 75
-	}
-
-	artisans = {
-		culture = havensmen
-		religion = protestant
-		size = 400
-	}
-
-	farmers = {
-		culture = havensmen
-		religion = protestant
-		size = 8425
+		size = 4425
 	}
 
 	clergymen = {
 		culture = afro_american
 		religion = protestant
-		size = 400
+		size = 10
 	}
 
 	artisans = {
 		culture = afro_american
 		religion = protestant
-		size = 1800
+		size = 1200
 	}
 
 	slaves = {
 		culture = afro_american
 		religion = protestant
-		size = 15500
+		size = 10000
 	}
 }
 #Marietta (160000/40000 POPS)
@@ -6001,7 +6001,7 @@
 	clergymen = {
 		culture = ohian
 		religion = protestant
-		size = 325
+		size = 125
 	}
 
 	artisans = {
@@ -6025,7 +6025,7 @@
 	clergymen = {
 		culture = afro_american
 		religion = protestant
-		size = 150
+		size = 50
 	}
 
 	artisans = {
@@ -6237,13 +6237,13 @@
 	clergymen = {
 		culture = ohian
 		religion = protestant
-		size = 350
+		size = 150
 	}
 
 	artisans = {
 		culture = ohian
 		religion = protestant
-		size = 2350
+		size = 1750
 	}
 
 	soldiers = {
@@ -6255,7 +6255,7 @@
 	farmers = {
 		culture = ohian
 		religion = protestant
-		size = 12725
+		size = 8725
 	}
 
 	aristocrats = {
@@ -6297,7 +6297,7 @@
 	farmers = {
 		culture = ohian
 		religion = protestant
-		size = 20825
+		size = 15825
 	}
 
 	clergymen = {
@@ -9917,7 +9917,7 @@
 	farmers = {
 		culture = ohian
 		religion = protestant
-		size = 2		2175
+		size = 22175
 	}
 }
 #New Jersey Region (340000)  

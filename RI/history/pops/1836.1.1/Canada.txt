@@ -1664,25 +1664,25 @@
 50 = {
 
 	clergymen = {
-		culture = anglo_canadian
+		culture = yankee
 		religion = protestant
 		size = 5
 	}
 
 	artisans = {
-		culture = anglo_canadian
+		culture = yankee
 		religion = protestant
 		size = 5
 	}
 
 	soldiers = {
-		culture = anglo_canadian
+		culture = yankee
 		religion = protestant
 		size = 5
 	}
 	
 	farmers = {
-		culture = anglo_canadian
+		culture = yankee
 		religion = protestant
 		size = 20
 	}
