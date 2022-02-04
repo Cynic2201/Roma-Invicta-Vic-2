@@ -22,7 +22,9 @@ NNE_58 = { 58 65 62 61 64 } #Laurentia
 
 VIN_37 = { 37 23 31 32 38 39 } #Missinipi
 
-VIN_48 = { 48 47 59 2592 2593 2594 2595 2626 } #Helluland
+VIN_48 = { 48 47 59 2594 } #Eriksland
+
+VIN_2595 = { 2595 2592 2626 2593 } #Helluland
 
 VIR_50 = { 50 51 63 } #Laurentian Plateau
 
@@ -72,9 +74,9 @@ TEX_132 = { 133 43 132 134 135 136 137 138 } #Texas
 
 USA_139 = { 139 140 141 142 3351 } #Louisiana
 
-USA_144 = { 143 144 145 } #Arkansas
+MDC_146 = { 146 143 144 145 148 } #Mississippi
 
-USA_148 = { 146 148 147 149 150 } #Missouri
+USA_148 = {148 147 149 150 } #Missouri
 
 USA_151 = { 151 152 153 154 } #Iowa
 
