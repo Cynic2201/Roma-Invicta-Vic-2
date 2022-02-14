@@ -16,16 +16,31 @@ roman = {
 	}
 
 	hispanic = {
-		color = {219 81 46}
-		first_names = { Himilco Mago Magon Hamilcar Hasdrubal Anibal Cartalão Himilcão Himilco Absalon Adonibal
-		Aldonazo Ansurius Castelleano Diago Domeno Donnadi Flain Gilo Coligula Graveil Gudesto Gullien Ineso Polo }
+		color = {196 72 72}
+		first_names = { Appius Aulus Caeso Decimus Gaius Gnaeus Lucius Mamercus Manius Marcus Numerius
+		Publius Quintus Servius Sextus Spurius Titus and Tiberius Ancus Attius Decius Herius Marius Mettius
+		Minatus Minius Nerius Novius Numa Numerius Ovius Paccius Pompi Salvius Seppius Statius Taurus Trebius Vibius
+		Vettius Marcus Ceaserian Juaelo Jesus Ladius }
+		
+		last_names = { Benedictus Antony Aurelius Appius Aulus Caeso Decimus Gaius Gnaeus Lucius Mamercus Manius Marcus
+		Numerius Publius Quintus Servius Sextus Spurius Titus Tiberius }
+	}
 
-		last_names = { "de  Hispania" "de Roma" "de Christus" Dandolo Ceaser Mareno }
-
+	asturian = {
+		color = {198 118 118}
+		first_names = { Appius Aulus Caeso Decimus Gaius Gnaeus Lucius Mamercus Manius Marcus Numerius Publius Quintus Servius Sextus Spurius Titus and Tiberius 
+		Ancus Attius Decius Herius Marius Mettius Adbitus Rittuvvecc Areobindus Versicnos Carominius Cambo Atrectus Sagillus Remicus Dubnotalus Ambimogidus Cambo 
+		Eppo Ulcagni Reticus Carino Andreine Audoenus Nantonos Comnertus Dubnovellaun Metilius Samus Virotutus Corbagni Camulixus Agedillus Reginus Ollocnus Tanco 
+		Vocarantus Conbertius Ebredus Catamanus Tascus Carathounus Dalagni Adebugius Virici Samius		
 		}
 
-	gallo-roman = {
-		color = {128 153 69}
+		last_names = { Gnata Trocina Carosa Matidia Samuda Caturigia Troucissa Litania Boudinna Caratila Matucia Valeia Victisarana Caruca Comatia Tritia Camoulatia 
+		Aleasiumara Ritulla Camulata Derceia Matugena Aleasiumara Origena Samia Venna Bitudaga Andarta Olugnia Deuognata Sumenu Vlattu Mottu Sumaria Verbronara Contessia 
+		Viccus Indercilea Cincissa Tritia }
+	}
+	
+	narbonnese = {
+		color = {217 62	62}
 		first_names = { Appius Aulus Caeso Decimus Gaius Gnaeus Lucius Mamercus Manius Marcus Numerius Publius Quintus Servius Sextus Spurius Titus and Tiberius 
 		Ancus Attius Decius Herius Marius Mettius Adbitus Rittuvvecc Areobindus Versicnos Carominius Cambo Atrectus Sagillus Remicus Dubnotalus Ambimogidus Cambo 
 		Eppo Ulcagni Reticus Carino Andreine Audoenus Nantonos Comnertus Dubnovellaun Metilius Samus Virotutus Corbagni Camulixus Agedillus Reginus Ollocnus Tanco 
@@ -38,19 +53,12 @@ roman = {
 	}
 
 	african = {
-		color = {252 163 119}
+		color = {193 45 45}
 		first_names = { Wisimar Valentinian Huenric Alexandros Basil Constantine Christpohus Diocletian }
 		
 		last_names = {  Benedictus Antony Aurelius Appius Aulus Caeso Decimus Gaius Gnaeus Lucius Mamercus Manius Marcus
 		Numerius Publius Quintus Servius Sextus Spurius Titus Tiberius }
 		
-	}
-	
-	lusitanian = {
-		color = {255 162 0}
-		first_names = { Alexander Rhys Gareth Seimon Lloyd Llewelyn Mervyn Huw Hywel Iwan Morys Owain Bryn }
-
-		last_names = { Ifans Glyn Lloyd Alwyn "ap Meryk" Lewis Glyndwr Maelor Iwrch Mawr Dda Elwyn }
 	}
 	
 	londoner = {
@@ -404,15 +412,68 @@ jewish = {
 		last_names = { Abramovitch Ashkenazi Bernstein Birnbaum Bloch Cantor Cohen Frank Friedländer Ginsberg Goldstein Horowitz Israel Jacobsohn Kagan Kaplan Klein
 		Levin Luria Morgenstern Nathan Oren Rosenthal Sachs Schapiro Schwartz Weinstein Weiss }
 	}
+}
 
-}	
+pan_gothic = {
+	leader = european
+	
+	visigothic = { 
+		color = {142 78 38}
+		first_names = { Achila Agila Ardo Alaric Athanagild Braulio Bulgar Chindasuinth Chintila Egica Ervig Euric Gundemar Hermenegild
+		Ildefonsus Isidore Iudila Julian Leander Leovigild Liuva Reccared Reccesuinth Roderic Sisbert Sisebut Sisenand Suinthila Suniefred 
+		Theoderic Theudisclus Thorismund Tulga Wamba Witteric Wittiza }
+		
+		last_names = { Balt hrudberga Thedela Blitekin Lieuuara Alpaida Thidela Euerloga Adallinda Heilswinda Reingaud Clotrada Erkenburoc 
+		Leuekin Radburg Thiutuuara Chunsina Rosamund Erpsuid Rinilda Meinsent Aregund Gundradis }
+	}
+
+	hispanogothic = { 
+		color = {196 120 72}
+		first_names = { Achila Agila Ardo Alaric Athanagild Braulio Bulgar Chindasuinth Chintila Egica Ervig Euric Gundemar Hermenegild
+		Ildefonsus Isidore Iudila Julian Leander Leovigild Liuva Reccared Reccesuinth Roderic Sisbert Sisebut Sisenand Suinthila Suniefred 
+		Theoderic Theudisclus Thorismund Tulga Wamba Witteric Wittiza }
+		
+		last_names = { Balt hrudberga Thedela Blitekin Lieuuara Alpaida Thidela Euerloga Adallinda Heilswinda Reingaud Clotrada Erkenburoc 
+		Leuekin Radburg Thiutuuara Chunsina Rosamund Erpsuid Rinilda Meinsent Aregund Gundradis }
+	}
+	
+	ostrogothic = { 
+		color = {144 118 101}
+		first_names = { Achila Agila Ardo Alaric Athanagild Braulio Bulgar Chindasuinth Chintila Egica Ervig Euric Gundemar Hermenegild
+		Ildefonsus Isidore Iudila Julian Leander Leovigild Liuva Reccared Reccesuinth Roderic Sisbert Sisebut Sisenand Suinthila Suniefred 
+		Theoderic Theudisclus Thorismund Tulga Wamba Witteric Wittiza }
+		
+		last_names = { Balt hrudberga Thedela Blitekin Lieuuara Alpaida Thidela Euerloga Adallinda Heilswinda Reingaud Clotrada Erkenburoc 
+		Leuekin Radburg Thiutuuara Chunsina Rosamund Erpsuid Rinilda Meinsent Aregund Gundradis }
+	}
+	
+	thracogothic = { 
+		color = {100 91 85}
+		first_names = { Achila Agila Ardo Alaric Athanagild Braulio Bulgar Chindasuinth Chintila Egica Ervig Euric Gundemar Hermenegild
+		Ildefonsus Isidore Iudila Julian Leander Leovigild Liuva Reccared Reccesuinth Roderic Sisbert Sisebut Sisenand Suinthila Suniefred 
+		Theoderic Theudisclus Thorismund Tulga Wamba Witteric Wittiza }
+		
+		last_names = { Balt hrudberga Thedela Blitekin Lieuuara Alpaida Thidela Euerloga Adallinda Heilswinda Reingaud Clotrada Erkenburoc 
+		Leuekin Radburg Thiutuuara Chunsina Rosamund Erpsuid Rinilda Meinsent Aregund Gundradis }
+	}
+	
+	gothic = { 
+		color = {83 75 70}
+		first_names = { Achila Agila Ardo Alaric Athanagild Braulio Bulgar Chindasuinth Chintila Egica Ervig Euric Gundemar Hermenegild
+		Ildefonsus Isidore Iudila Julian Leander Leovigild Liuva Reccared Reccesuinth Roderic Sisbert Sisebut Sisenand Suinthila Suniefred 
+		Theoderic Theudisclus Thorismund Tulga Wamba Witteric Wittiza }
+		
+		last_names = { Balt hrudberga Thedela Blitekin Lieuuara Alpaida Thidela Euerloga Adallinda Heilswinda Reingaud Clotrada Erkenburoc 
+		Leuekin Radburg Thiutuuara Chunsina Rosamund Erpsuid Rinilda Meinsent Aregund Gundradis }
+	}
+}
 
 germanic = {
 	leader = european
 	
 	vandal = {	
 		color = {171 68 0}
-		first_names = {  Wisimar Valentinian Huenric Alexandros Basil Constantine Christpohus Diocletian 
+		first_names = { Wisimar Valentinian Huenric Alexandros Basil Constantine Christpohus Diocletian 
 		Konrad Leonhard Leopold Ludwig Lukas Manfred Maximilian Michael Nikolaus Otto
 		Pascal Paul Peter Reinhard Rudolf Ruprecht Stefan Theodor Wilhelm Wolfgang }
 		
@@ -503,36 +564,6 @@ germanic = {
 		}
 	}
 	
-	visigoth = { 
-		color = {68 3 138}
-		first_names = { Achila Agila Ardo Alaric Athanagild Braulio Bulgar Chindasuinth Chintila Egica Ervig Euric Gundemar Hermenegild
-		Ildefonsus Isidore Iudila Julian Leander Leovigild Liuva Reccared Reccesuinth Roderic Sisbert Sisebut Sisenand Suinthila Suniefred 
-		Theoderic Theudisclus Thorismund Tulga Wamba Witteric Wittiza }
-		
-		last_names = { Balt hrudberga Thedela Blitekin Lieuuara Alpaida Thidela Euerloga Adallinda Heilswinda Reingaud Clotrada Erkenburoc 
-		Leuekin Radburg Thiutuuara Chunsina Rosamund Erpsuid Rinilda Meinsent Aregund Gundradis }
-	}
-
-	ostrogoth = { 
-		color = {115 3 252}
-		first_names = { Achila Agila Ardo Alaric Athanagild Braulio Bulgar Chindasuinth Chintila Egica Ervig Euric Gundemar Hermenegild
-		Ildefonsus Isidore Iudila Julian Leander Leovigild Liuva Reccared Reccesuinth Roderic Sisbert Sisebut Sisenand Suinthila Suniefred 
-		Theoderic Theudisclus Thorismund Tulga Wamba Witteric Wittiza }
-		
-		last_names = { Balt hrudberga Thedela Blitekin Lieuuara Alpaida Thidela Euerloga Adallinda Heilswinda Reingaud Clotrada Erkenburoc 
-		Leuekin Radburg Thiutuuara Chunsina Rosamund Erpsuid Rinilda Meinsent Aregund Gundradis }
-	}
-	
-	goth = { 
-		color = {100 91 85}
-		first_names = { Achila Agila Ardo Alaric Athanagild Braulio Bulgar Chindasuinth Chintila Egica Ervig Euric Gundemar Hermenegild
-		Ildefonsus Isidore Iudila Julian Leander Leovigild Liuva Reccared Reccesuinth Roderic Sisbert Sisebut Sisenand Suinthila Suniefred 
-		Theoderic Theudisclus Thorismund Tulga Wamba Witteric Wittiza }
-		
-		last_names = { Balt hrudberga Thedela Blitekin Lieuuara Alpaida Thidela Euerloga Adallinda Heilswinda Reingaud Clotrada Erkenburoc 
-		Leuekin Radburg Thiutuuara Chunsina Rosamund Erpsuid Rinilda Meinsent Aregund Gundradis }
-	}
-	
 	swiss = { 
 		color = {180 40 40}
 		first_names = { Adolf Alexander Eduard Ernst Franz Hans Johann Josef Konstantin Martin
@@ -545,7 +576,7 @@ germanic = {
 	}
 	
 	suebi = {
-		color = {74 0 63}
+		color = {138 168 195}
 		first_names = { Alexander Rhys Gareth Seimon Lloyd Llewelyn Mervyn Huw Hywel Iwan Morys Owain Bryn }
 
 		last_names = { Ifans Glyn Lloyd Alwyn "ap Meryk" Lewis Glyndwr Maelor Iwrch Mawr Dda Elwyn }
@@ -734,13 +765,16 @@ pan_vasconian = {
 	leader = european
 	unit = EuropeanGC
 	vasconian = {
-		color = {191 162 94}
-		first_names = { Achila Agila Ardo Alaric Athanagild Braulio Bulgar Chindasuinth Chintila Egica Ervig Euric Gundemar Hermenegild
-		Ildefonsus Isidore Iudila Julian Leander Leovigild Liuva Reccared Reccesuinth Roderic Sisbert Sisebut Sisenand Suinthila Suniefred 
-		Theoderic Theudisclus Thorismund Tulga Wamba Witteric Wittiza }
-		
-		last_names = { Balt hrudberga Thedela Blitekin Lieuuara Alpaida Thidela Euerloga Adallinda Heilswinda Reingaud Clotrada Erkenburoc 
-		Leuekin Radburg Thiutuuara Chunsina Rosamund Erpsuid Rinilda Meinsent Aregund Gundradis }
+		color = {80 139 44}
+        first_names = { Agustín Aitor Alberto Ander Andoni Andrés Ángel Antonio Arturo Carlos
+        Ceferino Cosme Cristobal Damián Endika "Francisco Javier" Ignacio Imanol Iñaki Jesús
+        Jon "José Antonio" "José María" Joseba Josu Juan Julen Koldobika Luis Manuel
+        Marino Miguel Paulino Pedro Rafael Ramiro Ramón Sabino Tomás Vicente }
+
+        last_names = { Aguirre Ajuriaguerra Aldecoa Arana Aranzadi Arizmendiarrieta Armendáriz Aznar Balenciaga Berasategui
+        Bilbao Campión Churruca "de Amésquita" "de Azpilicueta" "de Erauso" "de Rentería" "de Ubisztongo" Echagüe Echave
+        Echegaray Echevarría Elorza Gaztañeta Ibarrola Ibárruri Irujo Lazcano Mendizabal Moneo
+        Nárdiz Olano Olave Oyarzábal Rotaeche Uzcudun Zamárraga Zárate Zavala Zumalacárregui }
 	}
 	union = BSQ
 }

@@ -1,5 +1,6 @@
-owner = SPQ
-controller = SPQ
+owner = GLC
+controller = GLC
+add_core = GLC
 add_core = SPQ
 trade_goods = wool
 life_rating = 35
