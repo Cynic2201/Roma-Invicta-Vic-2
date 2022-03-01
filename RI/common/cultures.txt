@@ -8,11 +8,25 @@ roman = {
 		color = {194 2 8}
 		first_names = { Appius Aulus Caeso Decimus Gaius Gnaeus Lucius Mamercus Manius Marcus Numerius
 		Publius Quintus Servius Sextus Spurius Titus and Tiberius Ancus Attius Decius Herius Marius Mettius
-		Minatus Minius Nerius Novius Numa Numerius Ovius Paccius Pompi Salvius Seppius Statius Taurus Trebius Vibius
-		Vettius Marcus Ceaserian Juaelo Jesus Ladius }
+		Minatus Miniu"de Cornouaille" Karter Gallo Kergoulay Bellec "le Goff" Treguier Riou Morvan Peron Jezeguel Salaun "le Bihan" Nerius Novius Numa Numerius Ovius Paccius Pompi Salvius Seppius Statius Taurus Trebius Vibius
+		Vettius Marcus Ceaserian Juaelo Jesus Ladius 
+		
+		Alessandro Alfonso Ambrogio Amedeo Andrea Angelo Antonio Benito Camillo Carlo
+        Cesare Costanzo Davide Enrico Ettore Fabrizio Faustino Federico Felice Ferdinando
+        Fiorenzo Francesco Gaetano Gennaro Girolamo Giulio Giuseppe Guglielmo Innocenzo Leopoldo
+        Luigi Marco Massimo Matteo Nicola Oreste Paolo Pasquale Pietro Prospero
+        Raffaele Roberto Ruggiero Silvio Simone Tancredi Ugo Umberto Vincenzo Vittorio
+		}
 		
 		last_names = { Benedictus Antony Aurelius Appius Aulus Caeso Decimus Gaius Gnaeus Lucius Mamercus Manius Marcus
-		Numerius Publius Quintus Servius Sextus Spurius Titus Tiberius }
+		Numerius Publius Quintus Servius Sextus Spurius Titus Tiberius 
+		
+		Acton Albricci Badoglio Baldissera Baratieri Bava-Beccaris Cadorna Cagni Canevaro Capello
+        Caviglia Ceccherini Cialdini Cusani d'Absburgo-Toscana d'Austria-Este Dezza "di Borbone di Parma" "di Robilant" "di Savoia"
+        "di Savoia-Aosta" Emo Fanti Fara Filomarino Garibaldi Giardino Govone "La Màrmora" Mambretti
+        Menabrea Orengo "Pacoret de Saint Bon" Pallavicino Pecori-Giraldi "Pellion di Persano" Pelloux Perruchetti Pianelli Porro
+        Presbitero Ramorino Ricotti-Magnani Sacchi Saletta Sanna Solari "Thaon di Revel" Vaccari Zupelli
+		}
 	}
 
 	hispanic = {
@@ -20,14 +34,108 @@ roman = {
 		first_names = { Appius Aulus Caeso Decimus Gaius Gnaeus Lucius Mamercus Manius Marcus Numerius
 		Publius Quintus Servius Sextus Spurius Titus and Tiberius Ancus Attius Decius Herius Marius Mettius
 		Minatus Minius Nerius Novius Numa Numerius Ovius Paccius Pompi Salvius Seppius Statius Taurus Trebius Vibius
-		Vettius Marcus Ceaserian Juaelo Jesus Ladius }
+		Vettius Marcus Ceaserian Juaelo Jesus Ladius
+		
+		Agustín Alberto Alejandro Alfonso Álvaro Antonio "Antonio María" Arsenio Augusto Baldomero
+        Baltasar Benito Bernardino Bernardo Calixto Carlos Celestino Claudio Cristobal Dámaso
+        Diego Dionisio Eduardo Emilio Estanislao Federico Felipe Félix Fernando Francisco
+        "Francisco Javier" Gabino Gabriel Gaspar Genaro Gonzalo Ignacio Isidro Jacobo Jaime
+        Joaquín José "José Antonio" "José Manuel" "José María" Juan "Juan Bautista" Julio Leopoldo Lorenzo
+        Luis Manuel Marcelo Mariano Mateo Melchor Miguel Nicolás Pablo Pascual
+        Pedro Rafael Raimundo Ramón Ricardo Santiago Sebastián Segismundo Valeriano Vicente
+		}
 		
 		last_names = { Benedictus Antony Aurelius Appius Aulus Caeso Decimus Gaius Gnaeus Lucius Mamercus Manius Marcus
-		Numerius Publius Quintus Servius Sextus Spurius Titus Tiberius }
+		Numerius Publius Quintus Servius Sextus Spurius Titus Tiberius 
+		
+		Acuña Aguirre Alcalá-Zamora Allendesalazar Alonso Álvarez "Álvarez de Toledo" Aranda Argüelles-Meres Asensio
+        Aznar Barradas Bugallal Cabrera "Cagigal de la Vega" Cano Cervera "de Albornoz" "de Borbón"
+        "de Carvajal" "de la Fuente" "de Orleans" Díaz Espartero Fernández "Fernández de Córdoba" "Fitz-James Stuart" Franco
+        García "García de la Noceda" González Heredia Hernández Herrera Hevia "Hidalgo de Cisneros" Linares López
+        Maroto Márquez Martínez-Campos Maura Menéndez Miaja Millán-Astray Mina Mola Muñoz
+        Narváez O'Donnell Ortega Pavía Pérez "Primo de Rivera" "Queipo de Llano" Rodríguez Rojo Ruiz
+        Sanjurjo Serrano Silvestre Topete Valdés Varela Villapol Villar Weyler Yagüe }
 	}
 
 	asturian = {
 		color = {198 118 118}
+		first_names = { Appius Aulus Caeso Decimus Gaius Gnaeus Lucius Mamercus Manius Marcus Numerius Publius Quintus Servius Sextus Spurius Titus and Tiberius 
+		Ancus Attius Decius Herius Marius Mettius Adbitus Rittuvvecc Areobindus Versicnos Carominius Cambo Atrectus Sagillus Remicus Dubnotalus Ambimogidus Cambo 
+		Eppo Ulcagni Reticus Carino Andreine Audoenus Nantonos Comnertus Dubnovellaun Metilius Samus Virotutus Corbagni Camulixus Agedillus Reginus Ollocnus Tanco 
+		Vocarantus Conbertius Ebredus Catamanus Tascus Carathounus Dalagni Adebugius Virici Samius		
+		
+		Agustín Alberto Alejandro Alfonso Álvaro Antonio "Antonio María" Arsenio Augusto Baldomero
+        Baltasar Benito Bernardino Bernardo Calixto Carlos Celestino Claudio Cristobal Dámaso
+        Diego Dionisio Eduardo Emilio Estanislao Federico Felipe Félix Fernando Francisco
+        "Francisco Javier" Gabino Gabriel Gaspar Genaro Gonzalo Ignacio Isidro Jacobo Jaime
+        Joaquín José "José Antonio" "José Manuel" "José María" Juan "Juan Bautista" Julio Leopoldo Lorenzo
+        Luis Manuel Marcelo Mariano Mateo Melchor Miguel Nicolás Pablo Pascual
+        Pedro Rafael Raimundo Ramón Ricardo Santiago Sebastián Segismundo Valeriano Vicente
+		}
+
+		last_names = { Gnata Trocina Carosa Matidia Samuda Caturigia Troucissa Litania Boudinna Caratila Matucia Valeia Victisarana Caruca Comatia Tritia Camoulatia 
+		Aleasiumara Ritulla Camulata Derceia Matugena Aleasiumara Origena Samia Venna Bitudaga Andarta Olugnia Deuognata Sumenu Vlattu Mottu Sumaria Verbronara Contessia 
+		Viccus Indercilea Cincissa Tritia 
+		
+		Acuña Aguirre Alcalá-Zamora Allendesalazar Alonso Álvarez "Álvarez de Toledo" Aranda Argüelles-Meres Asensio
+        Aznar Barradas Bugallal Cabrera "Cagigal de la Vega" Cano Cervera "de Albornoz" "de Borbón"
+        "de Carvajal" "de la Fuente" "de Orleans" Díaz Espartero Fernández "Fernández de Córdoba" "Fitz-James Stuart" Franco
+        García "García de la Noceda" González Heredia Hernández Herrera Hevia "Hidalgo de Cisneros" Linares López
+        Maroto Márquez Martínez-Campos Maura Menéndez Miaja Millán-Astray Mina Mola Muñoz
+        Narváez O'Donnell Ortega Pavía Pérez "Primo de Rivera" "Queipo de Llano" Rodríguez Rojo Ruiz
+	    Sanjurjo Serrano Silvestre Topete Valdés Varela Villapol Villar Weyler Yagüe }
+	}
+	
+	narbonnese = {
+		color = {217 62	62}
+		first_names = { Appius Aulus Caeso Decimus Gaius Gnaeus Lucius Mamercus Manius Marcus Numerius Publius Quintus Servius Sextus Spurius Titus and Tiberius 
+		Ancus Attius Decius Herius Marius Mettius Adbitus Rittuvvecc Areobindus Versicnos Carominius Cambo Atrectus Sagillus Remicus Dubnotalus Ambimogidus Cambo 
+		Eppo Ulcagni Reticus Carino Andreine Audoenus Nantonos Comnertus Dubnovellaun Metilius Samus Virotutus Corbagni Camulixus Agedillus Reginus Ollocnus Tanco 
+		Vocarantus Conbertius Ebredus Catamanus Tascus Carathounus Dalagni Adebugius Virici Samius		
+		
+		Alban Andieu Alòi Beròt Carles Estève Fidèl Frederic Girard Jan Jacin Laurenç Martin Nicolau Privat Roman Vincenç
+		}
+
+		last_names = { Gnata Trocina Carosa Matidia Samuda Caturigia Troucissa Litania Boudinna Caratila Matucia Valeia Victisarana Caruca Comatia Tritia Camoulatia 
+		Aleasiumara Ritulla Camulata Derceia Matugena Aleasiumara Origena Samia Venna Bitudaga Andarta Olugnia Deuognata Sumenu Vlattu Mottu Sumaria Verbronara Contessia 
+		Viccus Indercilea Cincissa Tritia 
+		
+		Amiel Benet Dardier Delpuech Ladivèze Gilbert Mistral Lacroux Laffont Maury Miquel Montagut Poujade Pujol Vidal Ros Tisseyre }
+	}
+	
+	germani = {
+		color = {142 60	60}
+		first_names = { Appius Aulus Caeso Decimus Gaius Gnaeus Lucius Mamercus Manius Marcus Numerius Publius Quintus Servius Sextus Spurius Titus and Tiberius 
+		Ancus Attius Decius Herius Marius Mettius Adbitus Rittuvvecc Areobindus Versicnos Carominius Cambo Atrectus Sagillus Remicus Dubnotalus Ambimogidus Cambo 
+		Eppo Ulcagni Reticus Carino Andreine Audoenus Nantonos Comnertus Dubnovellaun Metilius Samus Virotutus Corbagni Camulixus Agedillus Reginus Ollocnus Tanco 
+		Vocarantus Conbertius Ebredus Catamanus Tascus Carathounus Dalagni Adebugius Virici Samius		
+		}
+
+		last_names = { Gnata Trocina Carosa Matidia Samuda Caturigia Troucissa Litania Boudinna Caratila Matucia Valeia Victisarana Caruca Comatia Tritia Camoulatia 
+		Aleasiumara Ritulla Camulata Derceia Matugena Aleasiumara Origena Samia Venna Bitudaga Andarta Olugnia Deuognata Sumenu Vlattu Mottu Sumaria Verbronara Contessia 
+		Viccus Indercilea Cincissa Tritia }
+	}
+
+	armorican = {
+		color = {205 111 111}
+		first_names = { Appius Aulus Caeso Decimus Gaius Gnaeus Lucius Mamercus Manius Marcus Numerius Publius Quintus Servius Sextus Spurius Titus and Tiberius 
+		Ancus Attius Decius Herius Marius Mettius Adbitus Rittuvvecc Areobindus Versicnos Carominius Cambo Atrectus Sagillus Remicus Dubnotalus Ambimogidus Cambo 
+		Eppo Ulcagni Reticus Carino Andreine Audoenus Nantonos Comnertus Dubnovellaun Metilius Samus Virotutus Corbagni Camulixus Agedillus Reginus Ollocnus Tanco 
+		Vocarantus Conbertius Ebredus Catamanus Tascus Carathounus Dalagni Adebugius Virici Samius		
+		
+		Yann Yannic Pierre Jakez Elouan Frañsez Jaoua Paol Segal Alain Henri Hoël Michel Théodore
+		}
+
+		last_names = { Gnata Trocina Carosa Matidia Samuda Caturigia Troucissa Litania Boudinna Caratila Matucia Valeia Victisarana Caruca Comatia Tritia Camoulatia 
+		Aleasiumara Ritulla Camulata Derceia Matugena Aleasiumara Origena Samia Venna Bitudaga Andarta Olugnia Deuognata Sumenu Vlattu Mottu Sumaria Verbronara Contessia 
+		Viccus Indercilea Cincissa Tritia 
+		
+		"de Cornouaille" Karter Gallo Kergoulay Bellec "le Goff" Treguier Riou Morvan Peron Jezeguel Salaun "le Bihan"
+		}
+	}
+	
+	aquitanian = {
+		color = {198 90 90}
 		first_names = { Appius Aulus Caeso Decimus Gaius Gnaeus Lucius Mamercus Manius Marcus Numerius Publius Quintus Servius Sextus Spurius Titus and Tiberius 
 		Ancus Attius Decius Herius Marius Mettius Adbitus Rittuvvecc Areobindus Versicnos Carominius Cambo Atrectus Sagillus Remicus Dubnotalus Ambimogidus Cambo 
 		Eppo Ulcagni Reticus Carino Andreine Audoenus Nantonos Comnertus Dubnovellaun Metilius Samus Virotutus Corbagni Camulixus Agedillus Reginus Ollocnus Tanco 
@@ -39,19 +147,6 @@ roman = {
 		Viccus Indercilea Cincissa Tritia }
 	}
 	
-	narbonnese = {
-		color = {217 62	62}
-		first_names = { Appius Aulus Caeso Decimus Gaius Gnaeus Lucius Mamercus Manius Marcus Numerius Publius Quintus Servius Sextus Spurius Titus and Tiberius 
-		Ancus Attius Decius Herius Marius Mettius Adbitus Rittuvvecc Areobindus Versicnos Carominius Cambo Atrectus Sagillus Remicus Dubnotalus Ambimogidus Cambo 
-		Eppo Ulcagni Reticus Carino Andreine Audoenus Nantonos Comnertus Dubnovellaun Metilius Samus Virotutus Corbagni Camulixus Agedillus Reginus Ollocnus Tanco 
-		Vocarantus Conbertius Ebredus Catamanus Tascus Carathounus Dalagni Adebugius Virici Samius		
-		}
-
-		last_names = { Gnata Trocina Carosa Matidia Samuda Caturigia Troucissa Litania Boudinna Caratila Matucia Valeia Victisarana Caruca Comatia Tritia Camoulatia 
-		Aleasiumara Ritulla Camulata Derceia Matugena Aleasiumara Origena Samia Venna Bitudaga Andarta Olugnia Deuognata Sumenu Vlattu Mottu Sumaria Verbronara Contessia 
-		Viccus Indercilea Cincissa Tritia }
-	}
-
 	african = {
 		color = {193 45 45}
 		first_names = { Wisimar Valentinian Huenric Alexandros Basil Constantine Christpohus Diocletian }
@@ -421,10 +516,21 @@ pan_gothic = {
 		color = {142 78 38}
 		first_names = { Achila Agila Ardo Alaric Athanagild Braulio Bulgar Chindasuinth Chintila Egica Ervig Euric Gundemar Hermenegild
 		Ildefonsus Isidore Iudila Julian Leander Leovigild Liuva Reccared Reccesuinth Roderic Sisbert Sisebut Sisenand Suinthila Suniefred 
-		Theoderic Theudisclus Thorismund Tulga Wamba Witteric Wittiza }
+		Theoderic Theudisclus Thorismund Tulga Wamba Witteric Wittiza 
 		
+		Appius Aulus Caeso Decimus Gaius Gnaeus Lucius Mamercus Manius Marcus Numerius Publius Quintus Servius Sextus Spurius Titus and Tiberius 
+		Ancus Attius Decius Herius Marius Mettius Adbitus Rittuvvecc Areobindus Versicnos Carominius Cambo Atrectus Sagillus Remicus Dubnotalus Ambimogidus Cambo 
+		Eppo Ulcagni Reticus Carino Andreine Audoenus Nantonos Comnertus Dubnovellaun Metilius Samus Virotutus Corbagni Camulixus Agedillus Reginus Ollocnus Tanco 
+		Vocarantus Conbertius Ebredus Catamanus Tascus Carathounus Dalagni Adebugius Virici Samius 
+		}
+
 		last_names = { Balt hrudberga Thedela Blitekin Lieuuara Alpaida Thidela Euerloga Adallinda Heilswinda Reingaud Clotrada Erkenburoc 
-		Leuekin Radburg Thiutuuara Chunsina Rosamund Erpsuid Rinilda Meinsent Aregund Gundradis }
+		Leuekin Radburg Thiutuuara Chunsina Rosamund Erpsuid Rinilda Meinsent Aregund Gundradis 
+		
+		Gnata Trocina Carosa Matidia Samuda Caturigia Troucissa Litania Boudinna Caratila Matucia Valeia Victisarana Caruca Comatia Tritia Camoulatia 
+		Aleasiumara Ritulla Camulata Derceia Matugena Aleasiumara Origena Samia Venna Bitudaga Andarta Olugnia Deuognata Sumenu Vlattu Mottu Sumaria Verbronara Contessia 
+		Viccus Indercilea Cincissa Tritia
+		}
 	}
 
 	hispanogothic = { 
@@ -500,7 +606,7 @@ germanic = {
 		"von Wrangel" "von Zieten" "zur Lippe" "von Roon" }
 	}	
     
-	bavarian = {
+	upper_german = {
   	      color = {3 173 252} 
 	first_names = { Adolf Albrecht Alexander Alfons Alois Anton Arthur Bernhard Christian
   	      Edmund Eduard Engelbert Ernst Erwin Ferdinand Franz Friedrich Gebhard Gerhard Gottfried
@@ -509,7 +615,7 @@ germanic = {
   	      Michael Otto Reinhold Rudolf Stefan Theodor Viktor Walter Werner Wilhelm }
 
    	     last_names = { Beck-Rzikowsky Blos Dankl Eisner Geiss Goering Hainisch Haus Held Hellpach
-    	     Hoffmann Hummel Köhler Mergenthaler Miklas Remmele Schmitt Schobber Seitz Steeb
+		 Hoffmann Hummel Köhler Mergenthaler Miklas Remmele Schmitt Schobber Seitz Steeb
    	     Stolzer Trunk "von Baden" "von Benedek" "von Böhm-Ermolli" "von Brudermann" "von Clam-Gallas" "von der Tann" "von Dietrich" "von Gablenz"
    	     "von Grünne" "von Habsburg" "von Hartmann" "von Haynau" "von Hess" "von Hohenhausen" "d'Aspre von Hoobreuk" "von Hortstein" "von Hötzendorf" "von Kirbach"
    	     "von Kobratin" "von Schönburg" "von Tegetthoff" "von Uchatius" "von Wittelsbach" "von Württemberg" "von Zahringen" Wagner Wittmann "zu Hohenlohe" }
@@ -530,28 +636,8 @@ germanic = {
    	     "von Kobratin" "von Schönburg" "von Tegetthoff" "von Uchatius" "von Wittelsbach" "von Württemberg" "von Zahringen" Wagner Wittmann "zu Hohenlohe" }
     }
 	
-	burgundian = { 
-		color = {190 90 20}
-		first_names = { Albert Alexandre Alexis Alphonse André Antoine Auguste Barthélémy Baudouin Blaise Camille Clément Charles Constant 
-		Damien David Désiré Didier Edmond Édouard Emmanuel Émile Etienne Eugène Félix Fernand Feullien Florent François Frédéric Georges 
-		Gérard Gilles Guillaume Gustave Henri Hercule Hubert Ignace Isidore Jacques Jean Jean-Baptiste Jean-François Jean-Louis 
-		Jean-Jacques Joseph Jules Lambert Laurent Léon Léonard Léopold Louis Lucien Mathieu Maxime Maximilien Nicolas Olivier 
-		Pascal Patrice Paul Philippe Philippe-Joseph Pierre Pierre-Guillaume Sébastien Sylvain Théophile Victor Vincent Werner }
-		
-		last_names = { Allard Barbanson Barthélémy Baugniet Beaucarne Berger Berthels Beyts Biver Blargnies Brialmont Bredart Cauvin Collet 
-		Cols Claus Clerix Coquilhat d'Arenberg d'Huart d'Omalius d'Oreye d'Oultremont David Davignon "de Baillet" "de Beaufort" 
-		"de Behr" "de Bocarmé" "de Bousies" "de Brouckère" "de Broqueville" "de Burlet" "de Celles" "de Chasteler" "de Coppin de Falaen"
-		"de Croÿ" "de Decker" "de Dixmude" "de Gerlache" "de Grez" "de Hemptinne" "de Labbeville" "de Lannoy" "de Ligne" "de Leuze" "de Melin" 
-		"de Mérode" "de Pelichy" "de Quarre" "de Riquet" "de Robaulx" "de Rouille" "de Sauvage" "de Sécus" "de Selys Longchamps" 
-		"de Stassart" "de Stockem" "de Theux de Meylandt" "de Trazegnies" "de Trooz" "de Viron" "de Waha" Defacqz Deguise Delacroix 
-		"Desmanet de Biesme" Destriveaux Dethier Devaux Deville Dewandre Dhanis Dreze "du Bois" "du Bus" "du Pont" "du Val de Beaulieu" Dumont
-		Fallon Fendius Figeys Fleury-Dubay Fleussu Forgeur Frison Fuchs Gendebien Goffint Henry "Huysman d'Annecroix" Jacques Joos Jottrand 
-		Lahure Lardinois "le Cocq" "le Hon" Lebeau Leclercq Lefebvre Leman Malou Marcq Marlet Masbourg Nagelmackers Nalinne Nothomb 
-		Orban Pétillon Picquet Pirmez Pirson Raikem Roeser Rogier Rouen Rouppe Seron Thonus Thorn "van Snick" Wahis Wangermée Wyvekens Zoude }
-	}
-	
 	frankish = {
-		color = {255 208 0}
+		color = {192 155 10}
 		first_names = { Egide Dado Baldrick Norbert Willibald Britius Orderic Imnachar Erchinoald Emmon Bernhard Eberulf Sigismund Dreux Hartgard Abbo Erard Engilbert Laudus
 		Sicleardus Helinand Liudger Cyricus Arnold Godomar Bernhard Gerold Magnachar Leutfrid Gaujoinus Electus Wandrille Werinbert Gaudulfus Ouen Arnoul Theodemir Ebregisel 
 		Magneric Eberhard Waleran Childeric Guntramn Nevelung Eracle Hildeboldus Chararic Chlodowig Ragnfred Audoen Humbert Chararic Monulph Sigeric Cyricus Gozbert Childebrand
@@ -564,52 +650,11 @@ germanic = {
 		}
 	}
 	
-	swiss = { 
-		color = {180 40 40}
-		first_names = { Adolf Alexander Eduard Ernst Franz Hans Johann Josef Konstantin Martin
-		Melchior Robert Rudolf Ulrich Wilhelm Augusto Enrico Flavio Giuseppe Vincenzo
-		Antoine Charles Emmanuel Guillaume Gustave Henri Hugo Louis Marc Paul }
-		
-		last_names = { Brenner Deucher Funk Haab Herzog Knüsel Munzinger Näff Schneider Siegwart-Müller
-		"von Donatz" "von Salis-Soglio" "von Steiger" "von Tavel" Wille Celio Cotti Fogliardi Motta Zeni
-		Ador Calonder Chaudet Comtesse "de Prangins" Dufour Fornerod Guisan Ruchet Ruchonnet }
-	}
-	
 	suebi = {
 		color = {138 168 195}
 		first_names = { Alexander Rhys Gareth Seimon Lloyd Llewelyn Mervyn Huw Hywel Iwan Morys Owain Bryn }
 
 		last_names = { Ifans Glyn Lloyd Alwyn "ap Meryk" Lewis Glyndwr Maelor Iwrch Mawr Dda Elwyn }
-	}
-	
-	anglish = {
-		color = {239 96 88}
-		first_names = { Albert Alexander Alfred Archibald Arthur Augustus Benjamin Bernard Charles Colbert
-		Colin Cyril David Donald Douglas Edmund Edwar Fairfax Ferdinand Francis
-		Frederick Geoffrey George Graham Henrey Herbert Horatio Hubert Hugh Ian
-		James Jeremy John Joseph Leopold Lester Louis Martin Nigel Oswald
-		Percy Reginald Richard Robert Russell Stanley Thomas Wallace William Winston Zachary }
-		
-		last_names = { Allenby Battemberg Beatty Beresford Brown Buller Butler Campbell Cardigan Churchill
-		Cochrane Cockburn "de Robeck" Dundas Fisher French Gough Grant Grenfell Haig
-		Hamilton Hardinge Havelock Hope Jellicoe Kitchener Lyons Madden Milne Montgomery
-		Moresby Mundy Napier Odoni "of Hannover" "of Saxe-Coburg-Gotha" Plummer Ragland Roberts Seaton Seymour
-		Smith Smith-Dorrien Stewart Thesiger Tyron Tyrwhitt Williams Windsor Wolseley Wood }
-	}
-	
-	west_saxon = {
-		color = {215 128 45}
-		first_names = { Albert Alexander Alfred Archibald Arthur Augustus Benjamin Bernard Charles Colbert
-		Colin Cyril David Donald Douglas Edmund Edwar Fairfax Ferdinand Francis
-		Frederick Geoffrey George Graham Henrey Herbert Horatio Hubert Hugh Ian
-		James Jeremy John Joseph Leopold Lester Louis Martin Nigel Oswald
-		Percy Reginald Richard Robert Russell Stanley Thomas Wallace William Winston Zachary }
-		
-		last_names = { Allenby Battemberg Beatty Beresford Brown Buller Butler Campbell Cardigan Churchill
-		Cochrane Cockburn "de Robeck" Dundas Fisher French Gough Grant Grenfell Haig
-		Hamilton Hardinge Havelock Hope Jellicoe Kitchener Lyons Madden Milne Montgomery
-		Moresby Mundy Napier Odoni "of Hannover" "of Saxe-Coburg-Gotha" Plummer Ragland Roberts Seaton Seymour
-		Smith Smith-Dorrien Stewart Thesiger Tyron Tyrwhitt Williams Windsor Wolseley Wood }
 	}
 	union = GER
 }
@@ -745,7 +790,7 @@ celtic = {
 		last_names = { Smith Brown Wilson Robertson Thomson Campbell Stewart Anderson Scott Murray MacDonald Reid Taylor Clark Ross Young Mitchell Watson Paterson Morrison Sanders	}
 	}
 	
-	welsh = { 
+	briton = { 
 		color = {000 171 057}
 		first_names = { Alwyn Alastair Alban Alpin Caradog Angus Aulay Blane Boyd Calum Cynog Coll Derek Donald Derwyn Dougal Douglas Duff Duncan Ewan Farquar Fingal Finlay Gavin Gillian Gillis Gordon Greer Hamish Ian Ivar Kenneth Kentigern Kirk Kyle Lachlan Lorne Malcolm Mirren Mungo Neil Nevin Ranald Rory Ross Sholto Somerled Tavish Torquil Wallace}
 		primary = WHA

@@ -1,7 +1,6 @@
-owner = GAL
-controller = GAL
-add_core = GAL
-add_core = BRT
+owner = SPQ
+controller = SPQ
+add_core = SPQ
 trade_goods = grain
 
 life_rating = 31
